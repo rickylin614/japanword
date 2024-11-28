@@ -60,25 +60,21 @@
         <div id="question">?</div>
         <div class="input-area">
             <div class="input-field">
-                <input type="text" id="answer" placeholder="輸入羅馬音"><br/>
-            </div>
+                <input type="text" id="answer" placeholder="輸入羅馬音">
                 <button id="submit">回答</button>
-            
+            </div>
         </div>
     </div>
 
-    <!-- 右上角 平假名表 -->
-    <div class="container">
-        <div>
-            <h3>平假名</h3>
-            <div class="table" id="hiragana-table"></div>
-        </div>
+    <!-- 假名表容器 -->
+    <div class="container" id="hiragana-container" draggable="true">
+        <h3 class="draggable">平假名</h3>
+        <div class="table" id="hiragana-table"></div>
+    </div>
 
-        <!-- 右下角 片假名表 -->
-        <div>
-            <h3>片假名</h3>
-            <div class="table" id="katakana-table"></div>
-        </div>
+    <div class="container" id="katakana-container" draggable="true">
+        <h3 class="draggable">片假名</h3>
+        <div class="table" id="katakana-table"></div>
     </div>
 
     <script>
