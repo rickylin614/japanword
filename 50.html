@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日文50音打字練習機</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .container {
+            width: 45%;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+        .table {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .item {
+            text-align: center;
+            padding: 5px;
+        }
+        .input-area {
+            margin-top: 20px;
+        }
+        #question {
+            font-size: 2rem;
+            margin: 10px 0;
+        }
+        .input-field {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .draggable {
+            cursor: move;
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- 左邊功能區域 -->
+    <div class="container">
+        <div>
+            <label for="type-select">選擇題目：</label>
+            <select id="type-select">
+                <option value="hiragana">平假名</option>
+                <option value="katakana">片假名</option>
+            </select>
+        </div>
+        <div id="question">?</div>
+        <div class="input-area">
+            <div class="input-field">
+                <input type="text" id="answer" placeholder="輸入羅馬音"><br/>
+            </div>
+                <button id="submit">回答</button>
+            
+        </div>
+    </div>
+
+    <!-- 右上角 平假名表 -->
+    <div class="container">
+        <div>
+            <h3>平假名</h3>
+            <div class="table" id="hiragana-table"></div>
+        </div>
+
+        <!-- 右下角 片假名表 -->
+        <div>
+            <h3>片假名</h3>
+            <div class="table" id="katakana-table"></div>
+        </div>
+    </div>
+
+    <script>
+        const hiragana = [
+            { char: 'あ', roman: 'a' }, { char: 'い', roman: 'i' }, { char: 'う', roman: 'u' }, { char: 'え', roman: 'e' }, { char: 'お', roman: 'o' },
+            { char: 'か', roman: 'ka' }, { char: 'き', roman: 'ki' }, { char: 'く', roman: 'ku' }, { char: 'け', roman: 'ke' }, { char: 'こ', roman: 'ko' },
+            { char: 'さ', roman: 'sa' }, { char: 'し', roman: 'shi' }, { char: 'す', roman: 'su' }, { char: 'せ', roman: 'se' }, { char: 'そ', roman: 'so' },
+            { char: 'た', roman: 'ta' }, { char: 'ち', roman: 'chi' }, { char: 'つ', roman: 'tsu' }, { char: 'て', roman: 'te' }, { char: 'と', roman: 'to' },
+            { char: 'な', roman: 'na' }, { char: 'に', roman: 'ni' }, { char: 'ぬ', roman: 'nu' }, { char: 'ね', roman: 'ne' }, { char: 'の', roman: 'no' },
+            { char: 'は', roman: 'ha' }, { char: 'ひ', roman: 'hi' }, { char: 'ふ', roman: 'fu' }, { char: 'へ', roman: 'he' }, { char: 'ほ', roman: 'ho' },
+            { char: 'ま', roman: 'ma' }, { char: 'み', roman: 'mi' }, { char: 'む', roman: 'mu' }, { char: 'め', roman: 'me' }, { char: 'も', roman: 'mo' },
+            { char: 'や', roman: 'ya' }, { char: 'ゆ', roman: 'yu' }, { char: 'よ', roman: 'yo' },
+            { char: 'ら', roman: 'ra' }, { char: 'り', roman: 'ri' }, { char: 'る', roman: 'ru' }, { char: 'れ', roman: 're' }, { char: 'ろ', roman: 'ro' },
+            { char: 'わ', roman: 'wa' }, { char: 'を', roman: 'wo' }, { char: 'ん', roman: 'n' }
+        ];
+
+        const katakana = [
+            { char: 'ア', roman: 'a' }, { char: 'イ', roman: 'i' }, { char: 'ウ', roman: 'u' }, { char: 'エ', roman: 'e' }, { char: 'オ', roman: 'o' },
+            { char: 'カ', roman: 'ka' }, { char: 'キ', roman: 'ki' }, { char: 'ク', roman: 'ku' }, { char: 'ケ', roman: 'ke' }, { char: 'コ', roman: 'ko' },
+            { char: 'サ', roman: 'sa' }, { char: 'シ', roman: 'shi' }, { char: 'ス', roman: 'su' }, { char: 'セ', roman: 'se' }, { char: 'ソ', roman: 'so' },
+            { char: 'タ', roman: 'ta' }, { char: 'チ', roman: 'chi' }, { char: 'ツ', roman: 'tsu' }, { char: 'テ', roman: 'te' }, { char: 'ト', roman: 'to' },
+            { char: 'ナ', roman: 'na' }, { char: 'ニ', roman: 'ni' }, { char: 'ヌ', roman: 'nu' }, { char: 'ネ', roman: 'ne' }, { char: 'ノ', roman: 'no' },
+            { char: 'ハ', roman: 'ha' }, { char: 'ヒ', roman: 'hi' }, { char: 'フ', roman: 'fu' }, { char: 'ヘ', roman: 'he' }, { char: 'ホ', roman: 'ho' },
+            { char: 'マ', roman: 'ma' }, { char: 'ミ', roman: 'mi' }, { char: 'ム', roman: 'mu' }, { char: 'メ', roman: 'me' }, { char: 'モ', roman: 'mo' },
+            { char: 'ヤ', roman: 'ya' }, { char: 'ユ', roman: 'yu' }, { char: 'ヨ', roman: 'yo' },
+            { char: 'ラ', roman: 'ra' }, { char: 'リ', roman: 'ri' }, { char: 'ル', roman: 'ru' }, { char: 'レ', roman: 're' }, { char: 'ロ', roman: 'ro' },
+            { char: 'ワ', roman: 'wa' }, { char: 'ヲ', roman: 'wo' }, { char: 'ン', roman: 'n' }
+        ];
+
+
+        // 渲染假名表
+        const renderTable = (id, data) => {
+            const table = document.getElementById(id);
+            data.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'item';
+                div.innerHTML = `<div>${item.roman}</div><div>${item.char}</div>`;
+                table.appendChild(div);
+            });
+        };
+
+        renderTable('hiragana-table', hiragana);
+        renderTable('katakana-table', katakana);
+
+        // 題目邏輯
+        let currentQuestion = null;
+        const typeSelect = document.getElementById('type-select');
+        const questionElement = document.getElementById('question');
+        const answerInput = document.getElementById('answer');
+        const submitButton = document.getElementById('submit');
+
+        const generateQuestion = () => {
+            const type = typeSelect.value;
+            const list = type === 'hiragana' ? hiragana : katakana;
+            currentQuestion = list[Math.floor(Math.random() * list.length)];
+            questionElement.textContent = currentQuestion.char;
+            answerInput.value = '';
+            answerInput.focus();
+        };
+
+        submitButton.addEventListener('click', () => {
+            if (answerInput.value.trim().toLowerCase() === currentQuestion.roman) {
+                alert('正確!');
+            } else {
+                alert(`錯誤! 正確答案是: ${currentQuestion.roman}`);
+            }
+            generateQuestion();
+        });
+
+        answerInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                submitButton.click();
+            }
+        });
+
+        // 初始化
+        generateQuestion();
+    </script>
+</body>
+</html>
