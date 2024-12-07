@@ -323,7 +323,7 @@ function loadQuestion() {
 // 檢查使用者的答案
 function checkAnswer() {
     const userAnswer = document.getElementById('answer').value.trim();
-    if (userAnswer === currentQuestion.answer || userAnswer === currentQuestion.verbHrakana) {
+    if (userAnswer === currentQuestion.answer || userAnswer === currentQuestion.show) {
         document.getElementById('feedback').textContent = '正確！';
         document.getElementById('feedback').className = 'correct';
         lastCorrect = `${currentQuestion.question} 答案: ${currentQuestion.answer}`;
