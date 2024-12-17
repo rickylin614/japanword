@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生活日文單字</title>
+<style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f0f8ff;
+    }
+    .container {
+        max-width: 500px;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .question-area, .result-area {
+        margin: 20px 0;
+    }
+    .correct { color: green; }
+    .incorrect { color: red; }
+    input[type="text"] {
+        width: 80%;
+        padding: 8px;
+        margin-top: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    button {
+        margin-top: 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: #fff;
+        background-color: #4CAF50;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>日文動詞測驗</h1>
+    <h6>v20241207</h6>
+    <!-- 題目類型選擇 -->
+    <div>
+        <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 -> 日文</label><br/>
+        <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 日文 -> 平假名/英文</label><br/>
+    </div>
+    <div class="question-area">
+        <h3 id="question">題目載入中...</h3>
+        <input type="text" id="answer" placeholder="請輸入答案" onkeypress="handleKeyPress(event)" >
+        <button onclick="checkAnswer()">提交</button>
+    </div>
+    <div class="result-area">
+        <p id="feedback"></p>
+        <p><strong>上一次正確的題目和答案:</strong> <span id="last-correct"></span></p>
+    </div>
+</div>
+
+<script>
+// 日文	平假名(日文是片假名的話為原文)	中文意思
+let file = `唐揚げ,からあげ,炸雞塊
+牛丼弁当,ぎゅうどんべんとう,牛肉飯便當
+電子レンジ,でんしレンジ,電子レンジ
+温める,あたためる,加熱
+コンビニ,コンビニ,便利商店
+お釣り,おつり,零錢 (找錢)
+コース,コース,课程 (course)
+無料,むりょう,免费
+準備,じゅんび,準備
+同時に,どうじに,同時
+派遣,はけん,派遣
+割引,わりびき,折扣
+浴衣,ゆかた,浴衣
+翻訳する,ほんやくする,翻译
+予定,よてい,预定
+助け,たすけて,幫助
+手伝い,てつだい,幫忙
+コインロッカー,コインロッカー,置物柜
+ホーム,ホーム,月台
+払い戻し,はらいもどし,退票
+かかり,かかり,成本 / 花費
+美容医療,びよういりょう,醫療美容
+クリニック,クリニック,診所
+診療所,しんりょうじょ,診所
+やけど,やけど,燒傷
+メンズ,male,男士
+レーザ,laser,雷射
+気軽に,きがるに,隨意
+ハサミ,ハサミ,剪刀
+爪切り,つめきり,指甲刀
+包丁,ほうちょう,菜刀
+汁物,しるもの,湯
+スープ,soup,湯
+重要,じゅうよう,重要
+価格,かかく,價格
+高価,こうか,高價
+肌,はだ,皮膚
+約,やく,大約
+不在,ふざい,缺席
+予算,よさん,預算
+週末,しゅうまつ,周末
+休日,きゅうじつ,放假日
+予約,よやく,預約
+薬局,やっきょく,藥局
+言い訳,いいわけ,藉口
+引き出し,ひきだし,抽屜
+注文,ちゅうもん,訂單
+腕時計,うでどけい,手錶
+運動,うんどう,運動
+レポート,report,報告
+小銭,こぜに,零錢
+真似,まね,模仿
+引っ越しします,ひっこしします,搬家
+会員,かいいん,會員
+会議,かいぎ,會議
+対策,たいさく,対策
+居酒屋,いざかや,居酒屋
+相手,あいて,對象
+ポジション,ポジション,位置
+迷宮,めいきゅう,迷宮
+茶葉,ちゃば,茶葉
+水平,すいへい,水平
+垂直,すいちょく,垂直
+科学,かがく,科學
+詐欺,さぎ,詐騙
+複雑,ふくざつ,複雜
+設定,せってい,設定
+向かい,むかい,對面的
+家賃,やちん,租、租金
+パフォーマンス,performance,表現
+食事,しょくじ,吃飯
+チップ,チップ,小費
+卒業,そつぎょう,畢業
+アクセサリー,accessories,飾品
+農業,のうぎょう,農業
+家畜,かちく,家畜
+土地,とち,土地
+生活,せいかつ,生活
+大事,だいじ,重要的(寶物)
+お葬式,おそうしき,葬禮
+従業員,じゅうぎょういん,員工。（正式與非正式）
+非正規雇用,ひせいきこよう,非正規雇用
+変更,へんこう,變更
+愚鈍,ぐどん,愚蠢、愚笨
+ガラス,glass,玻璃
+鏡,かがみ,鏡子
+窓,まど,窗戶
+商店街,しょうてんがい,"商店街
+"
+解凍,かいとう,解凍
+回答,かいとう,回答
+現役,げんえき,現役
+代表,だいひょう,代表
+散歩,さんぽ,散步
+有名,ゆうめい,有名
+配信者,はいしんしゃ,實況主
+古着,ふるぎ,舊衣服
+うがい,うがい,漱口
+不足,ふそく,短缺、不夠
+通勤,つうきん,通勤
+体温,たいおん,體溫
+相談,そうだん,諮詢
+違法な,いほうな,非法、違法
+ヘルメット,helmet,安全帽 / 頭盔
+コンテキスト,context,情境、前後關係
+役に立つ,やくにたつ,有用
+不合格,ふごうかく,不合格
+エイズ,ADIS,愛滋病
+トラブル,trouble,麻煩
+リポスト,repost,轉發
+コンパニオン,companion,伴侶
+置物,おきもの,裝飾品
+情報,じょうほう,情報
+探索,たんさく,探索、尋找
+手柄,てがら,功勞、手腕
+記憶,きおく,記憶
+退屈,たいくつ,無聊
+同級生,どうきゅうせい,同級生、同學
+偏差値,へんさち,偏差值
+物価,ぶっか,物價
+授業,じゅぎょう,授課
+ばかばかしい,ばかばかしい,荒唐、愚蠢
+保育士,ほいくし,保母
+お祭り,おまつり,祭典
+電卓,でんたく,計算機
+苦手,にがて,不擅長、不善於
+就職,しゅうしょく,就業、就職
+パクチー,ぱくちー,香菜
+北海道,ほっかいどう,北海道
+お祝い,おいわい,祝福；慶典
+ダイエット,だいえっと,減肥
+ドライヤー,どらいやー,吹風機
+資源倉庫,しげんそうこ,資源倉庫
+ドラゴンフルーツ,どらごんふるーつ,火龍果
+マンゴー,まんごー,芒果
+松屋,まつや,松屋（日本餐飲連鎖店）
+ドン・キホーテ,どん・きほーて,唐吉訶德（日本連鎖店）
+妬ましい,うらやましい,忌妒
+恋しい,こいしい,想念
+貯金,ちょきん,存錢
+設立,せつりつ,成立
+設置,せっち,安裝
+倒産しました,とうさん,破產 倒閉
+物語,ものがたり,故事
+お通じ,おつうじ,大號的禮貌
+乗り換え,のりかえ,轉車
+乗り換え１本,乗り換え１本,轉車一次
+ライチ,らいち,荔枝
+タイヤ,tire,輪胎
+オリコス,original cosplay,原創扮演
+役所,やくしょ,
+売上,うりあげ,銷售額
+マクドナルド,McDonald's,麥當勞
+ポテトチップス,Potato Chips,洋芋片
+パクチー,パクチー,香菜
+高血圧,こうけつあつ,高血壓
+コレステロール,Cholesterol,膽固醇
+塩分,えんぶん,鹽分
+インフルエンサー,Influencer,網紅
+インタビュ,Interview,面試
+チャンネル,Channel,頻道
+グローバル,global,全球的
+ヨーロピア,europe,歐洲
+憧れ,あこがれ,憧憬
+響き,ひびき,聲音
+豊かな,ゆたかな,豐富的
+イントネーション  ,Intonation,語調
+サメ,Shark,鯊魚
+あご,あご,下巴
+ほお,ほお,臉頰
+ひげ,ひげ,鬍鬚
+目のくぼみ,めのくぼみ,眼窩
+眉,まゆ,眉
+まぶた,まぶた,眼皮
+シュール,Surreal,超現實
+プライベート,private,私人的
+ヤギ,,山羊
+固定,こてい,固定
+真似,まね,模仿
+養成所,ようせいじょ,培訓機構
+水族館,すいぞくかん,水族館
+スルー,through,不理會/忽略
+習得,しゅうとく,學會
+独学,どくがく,自學
+英訳,えいやく,英文翻譯
+中訳,ちゅうやく,中文翻譯
+中薬,ちゅうやく,中藥
+字幕,じまく,字幕
+語彙力,ごいりょく,詞彙力
+読書,どくしょ,讀書
+伸ばす,のばす,擴展、延長、伸長
+繋げる,つなげる,連結
+学ぶ,まなぶ,學習
+勉強する,べんきゅうする,準備課業/考試
+習う,ならう,請教學習
+クリエイター,creator,創造者
+フレーズ,Phrases,短語
+解散,かいさん,解散
+しゃぶしゃぶ,しゃぶしゃぶ,涮涮鍋
+海鮮鍋,かいせんなべ,海鮮鍋
+検索する,けんさくする,搜尋
+おごる,おごる,請客
+混乱する,こんらんする,混亂 (記憶錯亂 / 會場混亂)
+比べる,くらべる,比較
+葬式,そうしき,葬禮
+組織,そしき,組織
+手続き,てつづき,手續
+ギャップ,gap,落差
+キャップ,cap,帽子
+ネイティブ,native,本國的
+脳,のう,腦子
+暗記,あんき,背、記住
+薄い,うすい,薄的
+殘る,のこる,殘留
+シンプル,simple,簡單
+範例,はんれい,範例
+参考,さんこう,参考
+例えば,たとえば,舉例來說
+伴う,ともなう,陪伴
+重なる,かさなる,重疊
+少なめ,すくなめ,
+`
+
+let words = [];  // 存儲從CSV載入的單字資料
+let currentQuestion = {};
+let lastCorrect = '';
+
+window.onload = function() { 
+    // 在這裡寫你的初始化代碼 console.log('頁面已加載');
+    parseCSV();
+    loadQuestion();
+};
+
+// 解析CSV檔案內容
+function parseCSV() {
+    console.log('parse csv start');
+    const lines = file.split('\n');
+    lines.forEach(line => {
+        const [jp, hiragana, cn] = line.split(',');  // 假設 CSV 具有五列
+        if (jp && hiragana && cn) {
+            words.push({ jp , hiragana , cn});
+        }
+    });
+}
+
+// 處理Enter鍵按下事件，模擬提交按鈕點擊
+function handleKeyPress(event) {
+    if (event.key === "Enter") {
+        checkAnswer();
+    }
+}
+
+// 隨機載入測驗題目
+function loadQuestion() {
+    const questionType = parseInt(document.querySelector('input[name="questionType"]:checked').value, 10);
+    const randomWord = words[Math.floor(Math.random() * words.length)];
+
+
+    switch(questionType) {
+        case 1: // 中文回答日文
+            currentQuestion = { type: 'chinese', question: `中文: ${randomWord.cn}`, answer: randomWord.jp, show: randomWord.hiragana};
+            break;
+        case 2: // 日文回答平假名
+            currentQuestion = { type: 'masu', question: `日文: ${randomWord.jp}`, answer: randomWord.hiragana, show:' '};
+            break;
+    }
+    document.getElementById('question').textContent = currentQuestion.question;
+    document.getElementById('answer').value = '';
+    document.getElementById('answer').focus();
+}
+
+// 檢查使用者的答案
+function checkAnswer() {
+    const userAnswer = document.getElementById('answer').value.trim();
+    if (userAnswer === currentQuestion.answer || userAnswer === currentQuestion.show) {
+        document.getElementById('feedback').textContent = '正確！';
+        document.getElementById('feedback').className = 'correct';
+        lastCorrect = `${currentQuestion.question} 答案: ${currentQuestion.answer}`;
+        document.getElementById('last-correct').textContent = lastCorrect;
+        loadQuestion(); 
+    } else {
+        document.getElementById('feedback').textContent = `錯誤！正確答案是：${currentQuestion.answer} ${currentQuestion.show}`;
+        document.getElementById('feedback').className = 'incorrect';
+        document.getElementById('answer').value = '';
+        document.getElementById('answer').focus();
+    }
+
+}
+</script>
+
+</body>
+</html>
