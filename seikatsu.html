@@ -15,15 +15,23 @@
         background-color: #f0f8ff;
     }
     .container {
-        max-width: 500px;
-        padding: 20px;
-        background-color: #ffffff;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        border-radius: 10px;
-        text-align: center;
+        width: 600px; /* 固定寬度 */
+        height: 400px; /* 固定高度 */
+        border: 5px solid #646464; /* 加上邊框方便查看 */
+        background-color: #fff;
+        padding: 10px; /* 內邊距 */
+        box-sizing: border-box; /* 包含內邊距在寬高內 */
+        overflow: auto; /* 滑動條出現以防內容超出 */
+        display: flex; /* 使用彈性盒模型 */
+        flex-direction: column; /* 元素從上到下排列 */
+        flex-wrap: wrap; /* 超出時自動換行 */
+        gap: 10px; /* 元素之間的間距 */
     }
     .question-area, .result-area {
-        margin: 20px 0;
+        flex: 1; /* 讓區域自適應高度 */
+    }
+    .question-area input {
+        width: 100%; /* 輸入框寬度適應父容器 */
     }
     .correct { color: green; }
     .incorrect { color: red; }
@@ -64,7 +72,8 @@
     </div>
     <div class="result-area">
         <p id="feedback"></p>
-        <p><strong>上一次正確的題目和答案:</strong> <span id="last-correct"></span></p>
+        <p><strong>上一次正確的題目和答案:</strong></p>
+        <p><span id="last-correct"></span></p>
     </div>
 </div>
 
@@ -538,7 +547,7 @@ let file = `唐揚げ,からあげ,炸雞塊
 焼酎,しょうちゅう,燒酒
 カクテル,cocktail,雞尾酒
 テーマ,theme,主題
-こだわり,こだわり,承諾
+こだわり,こだわり,堅持
 味噌汁,みそしる,味噌湯
 お正月,おしょうがつ,正月
 お返し,おかえし,回禮
@@ -631,6 +640,7 @@ function checkAnswer() {
         document.getElementById('feedback').className = 'incorrect';
         document.getElementById('answer').value = '';
         document.getElementById('answer').focus();
+        speakText();
     }
 
 }

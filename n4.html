@@ -15,15 +15,23 @@
         background-color: #f0f8ff;
     }
     .container {
-        max-width: 500px;
-        padding: 20px;
-        background-color: #ffffff;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        border-radius: 10px;
-        text-align: center;
+        width: 600px; /* 固定寬度 */
+        height: 400px; /* 固定高度 */
+        border: 5px solid #646464; /* 加上邊框方便查看 */
+        background-color: #fff;
+        padding: 10px; /* 內邊距 */
+        box-sizing: border-box; /* 包含內邊距在寬高內 */
+        overflow: auto; /* 滑動條出現以防內容超出 */
+        display: flex; /* 使用彈性盒模型 */
+        flex-direction: column; /* 元素從上到下排列 */
+        flex-wrap: wrap; /* 超出時自動換行 */
+        gap: 10px; /* 元素之間的間距 */
     }
     .question-area, .result-area {
-        margin: 20px 0;
+        flex: 1; /* 讓區域自適應高度 */
+    }
+    .question-area input {
+        width: 100%; /* 輸入框寬度適應父容器 */
     }
     .correct { color: green; }
     .incorrect { color: red; }
@@ -48,26 +56,28 @@
 </head>
 <body>
 
-<div class="container">
-    <h1>日文動詞測驗</h1>
-    <h6>v20241207</h6>
-    <!-- 題目類型選擇 -->
-    <div>
-        <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 -> 原型</label><br/>
-        <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 原型 -> ます型</label><br/>
-        <label><input type="radio" name="questionType" value="3" onchange="loadQuestion()"> 原型 -> て型</label><br/>
-        <label><input type="radio" name="questionType" value="4" onchange="loadQuestion()"> 原型 -> ない型</label><br/>
+    <div class="container">
+        <h1>日文動詞測驗</h1>
+        <h6>v20241207</h6>
+        <!-- 題目類型選擇 -->
+        <div>
+            <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 -> 原型</label><br/>
+            <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 原型 -> ます型</label><br/>
+            <label><input type="radio" name="questionType" value="3" onchange="loadQuestion()"> 原型 -> て型</label><br/>
+            <label><input type="radio" name="questionType" value="4" onchange="loadQuestion()"> 原型 -> ない型</label><br/>
+        </div>
+        <div class="question-area">
+            <h3 id="question">題目載入中...</h3>
+            <input type="text" id="answer" placeholder="請輸入答案" onkeypress="handleKeyPress(event)" >
+            <button onclick="checkAnswer()">提交</button>
+            <button onclick="speakText()">發音</button>
+        </div>
+        <div class="result-area">
+            <p id="feedback"></p>
+            <p><strong>上一次正確的題目和答案:</strong> </p>
+            <p><span id="last-correct"></span></p>
+        </div>
     </div>
-    <div class="question-area">
-        <h3 id="question">題目載入中...</h3>
-        <input type="text" id="answer" placeholder="請輸入答案" onkeypress="handleKeyPress(event)" >
-        <button onclick="checkAnswer()">提交</button>
-    </div>
-    <div class="result-area">
-        <p id="feedback"></p>
-        <p><strong>上一次正確的題目和答案:</strong> <span id="last-correct"></span></p>
-    </div>
-</div>
 
 <script>
 // 動詞,ます形,ない型,て形 (音便),中文,た形,ます形發音,たい形,命令形,發音
@@ -80,9 +90,7 @@ let file = `やる,やります,やらない,やって,做/給/送,やった,や
 払う,払います,払わない,払って,支付,払った,はらいます,払いたい,払え,はらう
 貰う,貰います,貰わない,貰って,領/得到,貰った,もらいます,貰いたい,貰え,もらう
 拾う,拾います,拾わない,拾って,撿/拾,拾った,ひろいます,拾いたい,拾え,ひろう
-申す,申します,申さない,申して,說/告訴,申した,もうします,申したい,申せ,もうす
 探す,探します,探さない,探して,尋找,探した,さがします,探したい,探せ,さがす
-致す,致します,致さない,致して,致/做(謙遜語),致した,いたします,致したい,致せ,いたす
 写す,写します,写さない,写して,抄寫/拍照,写した,うつします,写したい,写せ,うつす
 移す,移します,移さない,移して,移動,移した,うつします,移したい,移せ,うつす
 打つ,打ちます,打たない,打って,打,打った,うちます,打ちたい,打て,うつ
@@ -93,16 +101,12 @@ let file = `やる,やります,やらない,やって,做/給/送,やった,や
 送る,送ります,送らない,送って,寄送、送行,,おくります,送りたい,送れ,おくる
 飾る,飾ります,飾らない,飾って,裝飾,,かざります,飾りたい,飾れ,かざる
 祈る,祈ります,祈らない,祈って,祈禱,,いのります,祈りたい,祈れ,いのる
-伺う,伺います,伺わない,伺って,詢問、拜訪(謙遜語),,うかがいます,伺いたい,伺え,うかがう
 行う,行います,行わない,行って,進行/舉辦,,おこないます,行いたい,行え,おこなう
-頂く,頂きます,頂かない,頂いて,領收、接受(謙遜語),,いただきます,頂きたい,頂け,いただく
-仰る,仰ります,仰らない,仰って,謙遜地說/說,,おっしゃります,仰りたい,仰れ,おっしゃる
 起こす,起こします,起こさない,起こして,叫醒/興起,,おこします,起こしたい,起こせ,おこす
 下さる,下さいます,下さらない,下さいて,給,,くださいます,下さいたい,下さいなさい,くださる
 手伝う,手伝います,手伝わない,手伝って,幫助,,てつだいます,手伝いたい,手伝え,てつだう
 引っ越す,引っ越します,引っ越さない,引っ越して,搬遷,,ひっこします,引っ越したい,引っ越せ,ひっこす
 思い出す,思い出します,思い出さない,思い出して,回憶,,おもいだします,思い出したい,思い出せ,おもいだす
-召し上がる,召し上がります,召し上がらない,召し上がって,用餐,,めしあがります,召し上がりたい,召し上がれ,めしあがる
 世話する,世話します,世話しない,世話して,照顧,,せわします,世話したい,世話せ,せわする
 利用する,利用します,利用しない,利用して,利用,,りようします,利用したい,利用せ,りようする
 講義する,講義します,講義しない,講義して,講課,,こうぎします,講義したい,講義せ,こうぎする
@@ -139,7 +143,7 @@ let file = `やる,やります,やらない,やって,做/給/送,やった,や
 招待する,招待します,招待しない,招待して,邀請,,しょうたいします,招待したい,招待せ,しょうたいする
 注射する,注射します,注射しない,注射して,打針,,ちゅうしゃします,注射したい,注射せ,ちゅうしゃする
 復習する,復習します,復習しない,復習して,復習,,ふくしゅうします,復習したい,復習せ,ふくしゅうする
-やめる,やめます,やめない,やめて,放棄,,やめます,やめたい,やめろ,やめる
+やめる,やめます,やめない,やめて,放棄、停止、辭職,,やめます,やめたい,やめろ,やめる
 くれる,くれます,くれない,くれて,給,,くれます,くれたい,くれ,くれる
 植える,植えます,植えない,植えて,栽種,,うえます,植えたい,植えろ,うえる
 掛ける,掛けます,掛けない,掛けて,掛,,かけます,掛けたい,掛けろ,かける
@@ -169,8 +173,6 @@ let file = `やる,やります,やらない,やって,做/給/送,やった,や
 間違える,間違えます,間違えない,間違えて,弄錯,,まちがえます,間違えたい,間違えろ,まちがえる
 取り替える,取り替えます,取り替えない,取り替えて,更換,,とりかえます,取り替えたい,取り替えろ,とりかえる
 乗り換える,乗り換えます,乗り換えない,乗り換えて,轉乘,,のりかえます,乗り換えたい,乗り換えろ,のりかえる
-申し上げる,申し上げます,申し上げない,申し上げて,問候、告訴(謙遜),,もうしあげます,申し上げたい,申し上げろ,もうしあげる
-差し上げる,差し上げます,差し上げない,差し上げて,給予,,さしあげます,差し上げたい,差し上げろ,さしあげる
 やむ,やみます,やまない,やんで,結束/停止(五段自動詞),,やみます,やみたい,やめ,やむ
 おる,おります,おりない,おって,在/有(謙遜),,おります,おりたい,おれ,おる
 合う,合います,あわない,あって,適合/會和/一致,,あいます,あいたい,あえ,あう
@@ -215,7 +217,6 @@ let file = `やる,やります,やらない,やって,做/給/送,やった,や
 泊まる,泊まります,とまらない,とまって,停泊/留宿,,とまります,とまりたい,とまれ,とまる
 頑張る,頑張ります,がんばらない,がんばって,加油/努力,,がんばります,がんばりたい,がんばれ,がんばる
 間に合う,間に合います,まにあわない,まにあって,來得及/趕上,,まにあいます,まにあいたい,まにあえ,まにあう
-いらっしゃる,いらっしゃいます,いらっしゃらない,いらっしゃって,有/在/來/去的敬語,,いらっしゃいます,いらっしゃいたい,いらっしゃれ,いらっしゃる
 似る,似ます,にない,にて,像/相似,,にます,にたい,にれ,にる
 下りる,下ります,おりない,おりて,降落/下(車)/退出,,おります,おりたい,おれ,おりる
 出来る,出来ます,できない,できて,辦得到/做完/完成,,できます,できたい,できれ,できる
@@ -282,7 +283,7 @@ function parseCSV() {
     console.log('parse csv start');
     const lines = file.split('\n');
     lines.forEach(line => {
-        const [verb, masuForm, teForm, naiForm, chinese , b, c, d, e, verbHrakana] = line.split(',');  // 假設 CSV 具有五列
+        const [verb, masuForm,naiForm ,teForm , chinese , b, c, d, e, verbHrakana] = line.split(',');  // 假設 CSV 具有五列
         if (chinese && verb && masuForm && teForm && naiForm && verbHrakana) {
             words.push({ chinese, verb, masuForm, teForm, naiForm, verbHrakana});
         }
@@ -306,18 +307,37 @@ function loadQuestion() {
             currentQuestion = { type: 'chinese', question: `中文: ${randomWord.chinese}`, answer: randomWord.verb, show: randomWord.verbHrakana};
             break;
         case 2:
-            currentQuestion = { type: 'masu', question: `原型: ${randomWord.verb} (請回答ます型)`, answer: randomWord.masuForm, show:' '};
+            currentQuestion = { type: 'masu', question: `${randomWord.verb}`, answer: randomWord.masuForm, show:' '};
             break;
         case 3:
-            currentQuestion = { type: 'te', question: `原型: ${randomWord.verb} (請回答て型)`, answer: randomWord.teForm , show:' '};
+            currentQuestion = { type: 'te', question: `${randomWord.verb}`, answer: randomWord.teForm , show:' '};
             break;
         case 4:
-            currentQuestion = { type: 'nai', question: `原型: ${randomWord.verb} (請回答ない型)`, answer: randomWord.naiForm ,show:' '};
+            currentQuestion = { type: 'nai', question: `${randomWord.verb}`, answer: randomWord.naiForm ,show:' '};
             break;
     }
     document.getElementById('question').textContent = currentQuestion.question;
     document.getElementById('answer').value = '';
     document.getElementById('answer').focus();
+}
+
+function speakText() {
+    const questionType = parseInt(document.querySelector('input[name="questionType"]:checked').value, 10);
+    var text, utterance;
+    switch(questionType) {
+        case 1:
+            text = currentQuestion.answer;
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ja-JP';
+            window.speechSynthesis.speak(utterance);
+            break;
+        default:
+            text = currentQuestion.question;
+            utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ja-JP';
+            window.speechSynthesis.speak(utterance);
+            break;
+    }
 }
 
 // 檢查使用者的答案
