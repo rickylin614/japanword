@@ -107,3 +107,30 @@ PowerShell 執行 `$env:HOST='0.0.0.0'` 後再執行 `node serve.cjs`，手機�
 - 使用裝置的 speechSynthesis 日文語音，優先選取 ja 語音。重複點擊會取消上一段再播放。播放失敗顯示提示；需裝置具備日文語音。
 
 新增瀏覽器測試以模擬語音 API 驗證各題型的按鈕實際送出日文朗讀、按播放不作答、作答後仍可播放；不代表已人工聆聽各裝置音色。詞彙總量及各分類數量由資料動態計算。
+
+## N2 詞彙與新版動詞介面（2026-10-02）
+
+主頁現在包含 N2 詞彙專區，以及全部既有 N3／N4／N5 動詞與文法入口。既有三個動詞頁改用 learning.css，共用新版配色、卡片、導覽、按鈕、深淺主題及手機版面；CSV 與 quiz.js 的題型、答案判定不變。
+
+N2 僅收 Open Anki JLPT N2 詞表標為 N2 且可對應 JMdict 的詞彙，沒有混入其他等級補量。本次原始 1,906 列，合併 53 列，排除 61 列，收錄 1,792 個唯一 JMdict 詞條：名詞 811、動詞 544、い形容詞 55、な形容詞 90、其餘詞性 292。因採 N2 單級來源，未達最初部分數量目標，如實呈現。來源分級不是官方清單；亦不把與舊有自編 N3／N4 詞彙重疊的條目當成跨級全新單字宣稱。
+
+- `n2-nouns.html`、`n2-verbs.html`、`n2-i_adjectives.html`、`n2-na_adjectives.html`、`n2-others.html`。
+- N2 動詞頁目前練原形讀音與詞義；原有 N3～N5 動詞變化測驗保留。
+- 所有 N2 詞都有繁體中文、假名、詞性、來源列號與 JMdict ID；卡片可展開來源。多詞性只計一次，異寫合併。同音不同詞條、同字不同讀音有各自詞條證據。
+- `sources.html` 提供來源、授權、方法、釋義修正、合併及排除清單。`sources/LICENSE-DATA.md` 詳列歸屬；N2 衍生資料含翻譯採 CC BY-SA 4.0。
+- 每頁顯示 60 詞，搜尋涵蓋整份分類；練習可選 20、50 或全部符合詞彙。收藏、朗讀及原有進度鍵維持相容。
+- `n2-data.js` 必須與所有新版 HTML 一起部署；它在 vocabulary-data.js 之後、learning.js 之前載入。
+
+### 重建及來源更新
+
+`powershell -File fetch-n2-sources.ps1` 下載固定來源版本；加 `-LatestDictionary` 改查最新 JMdict。`node build-n2.cjs` 產生核對報告，人工檢查來源或詞條變動、更新 `sources/n2-zh.json` 後，再執行 `node build-n2.cjs --publish`、`node create-sources.cjs`、`node test-n2.cjs`。未有中文的新增詞條會中止發佈，不使用空白或自動亂補。
+
+本次翻譯初稿序號檔 zh-*.txt 與 compile-n2-translations.cjs 只對應本次固定的排序，不能對新版詞條重新套用；後續請維護以 JMdict ID 為鍵的 n2-zh.json。資料版本 SHA-256、下載位置、排除理由及手動同音判定保存在 sources，方便追查。已服務中的部署應至少每月檢查字典更新；這裡提供更新程序，沒有自動變更題庫的排程。
+
+### 驗證
+
+`node test.js`：既有動詞全題型、CSV、答案別名、IME 防誤送與載入失敗。
+
+`node test-n2.cjs`：1,792 詞唯一 ID／詞形讀音組合、N2 原始列號、中文完整性、字典詞形／讀音／詞性／義項與數量守恆；離線使用附帶字典證據子集。
+
+設定 PLAYWRIGHT_PATH 指向 Playwright 模組，BROWSER_CHANNEL=chrome 後執行 `node test-learning.cjs`：Chrome 的 18 頁在 360、390、768、1440px 寬度檢查，加上 N2 分頁、來源、收藏、假名與詞義測驗、播放不誤作答、既有動詞主題，以及文法續答／錯題複習。此為真實 Chrome 搭配視窗尺寸模擬，不代表實體手機或日文語音音質已測。

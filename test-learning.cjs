@@ -38,7 +38,7 @@ async function main() {
   await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
   let browser;
   try {
-    browser=await chromium.launch({headless:true,channel:process.env.BROWSER_CHANNEL || 'msedge'});
+    browser=await chromium.launch({headless:true,channel:process.env.BROWSER_CHANNEL || 'chrome'});
     const page=await browser.newPage();const errors=[];
     await page.addInitScript(()=>{
       window.spoken=[];
@@ -48,7 +48,7 @@ async function main() {
     page.on('pageerror',e=>errors.push(e.message));
     const base=`http://127.0.0.1:${server.address().port}`;
     const go=file=>page.goto(`${base}/${file}`);
-    const pages=['layout.html','index.html','grammar.html',...['n3','n4'].flatMap(l=>['nouns','adjectives','others'].map(c=>`${l}-${c}.html`)),...['n3.html','n4.html','n5.html']];
+    const pages=['layout.html','index.html','grammar.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','adjectives','others'].map(c=>`${l}-${c}.html`)),...['n3.html','n4.html','n5.html']];
     for(const width of [360,390,768,1440]) {
       await page.setViewportSize({width,height:900});
       for(const file of pages) {
@@ -57,10 +57,14 @@ async function main() {
         assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${file}: overflow at ${width}`);
         if(width===360 && file==='layout.html') await page.screenshot({path:path.join(root,'mobile-preview.png'),fullPage:true});
         if(width===1440 && file==='layout.html') await page.screenshot({path:path.join(root,'desktop-preview.png'),fullPage:true});
+        if(width===390 && file==='n3.html') await page.screenshot({path:path.join(root,'verbs-mobile-preview.png'),fullPage:true});
+        if(width===1440 && file==='n3.html') await page.screenshot({path:path.join(root,'verbs-desktop-preview.png'),fullPage:true});
+        if(width===390 && file==='n2-i_adjectives.html') await page.screenshot({path:path.join(root,'n2-mobile-preview.png'),fullPage:false});
       }
     }
     await go('layout.html');
-    assert.match(await page.locator('.stats').innerText(),/700/);
+    assert.match(await page.locator('.stats').innerText(),/2492/);
+    for(const level of ['n3','n4','n5'])assert.equal(await page.locator(`.card a[href="${level}.html"]`).count(),1);
     const links=await page.locator('a[href]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')).filter(h=>!h.startsWith('#')));
     for(const link of links){const res=await page.request.get(`${base}/${link}`);assert.ok(res.ok(),link);}
     await page.locator('#theme').click();await page.reload();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
@@ -101,13 +105,38 @@ async function main() {
     }
     for(const l of ['n3','n4','n5']){
       await go(`${l}.html`);await page.waitForFunction(()=>document.getElementById('status').textContent.includes('已載入'));
+      assert.equal(await page.locator('link[href="learning.css"]').count(),1);
+      assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
+      await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'light');
+      await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
       await page.locator('button[onclick="speakText()"]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
       await page.locator('button[onclick="checkAnswer()"]').click();await page.getByRole('button',{name:'🔊 聽答案發音',exact:true}).click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+    }
+    for(const category of ['nouns','verbs','i_adjectives','na_adjectives','others']){
+      await go(`n2-${category}.html`);
+      const count=await page.evaluate(c=>window.JP_VOCABULARY.n2[c].length,category);
+      assert.equal(await page.locator('.word-card').count(),Math.min(60,count));
+      const first=await page.locator('.word-card h2').first().innerText();
+      if(count>60){await page.locator('#word-next-page').click();assert.notEqual(await page.locator('.word-card h2').first().innerText(),first);await page.locator('#word-prev-page').click();}
+      await page.locator('[data-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('.word-card summary').first().click();assert.match(await page.locator('.word-card details').first().innerText(),/JMdict/);
+      await page.locator('.favorite').first().click();await page.reload();await page.selectOption('#scope','favorites');assert.equal(await page.locator('.word-card').count(),1);
+      for(const mode of ['reading','meaning']){
+        await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();
+        const word=await page.locator('#word-practice h2').innerText();const item=await page.evaluate(({category,word})=>window.JP_VOCABULARY.n2[category].find(w=>w.word===word),{category,word});
+        await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),item.reading);
+        assert.equal(await page.locator('#word-feedback').innerText(),'');
+        if(mode==='reading'){await page.fill('#reading-answer',item.reading);await page.locator('button[type=submit]').click();}
+        else await page.getByRole('button',{name:item.meaning,exact:true}).click();
+        assert.match(await page.locator('#word-feedback').innerText(),/答對/);
+        await page.locator('#word-next').click();assert.match(await page.locator('#word-practice').innerText(),/答對 1 \/ 1/);await page.locator('#word-close').click();
+      }
+      await page.selectOption('#scope','all');await page.locator('#word-start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 20/);
     }
     const blocked=await browser.newContext();await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked');}});});
     const blockedPage=await blocked.newPage();await blockedPage.goto(`${base}/layout.html`);assert.match(await blockedPage.locator('#storage-note').innerText(),/未開放儲存/);await blocked.close();
     assert.deepEqual(errors,[]);
-    console.log('Browser checks passed: 12 pages x 4 viewport widths; navigation, theme, search, favorites, kana/meaning quiz, all levels, score, resume, wrong-answer retry, unseen pool, storage failure.');
+    console.log('Chrome checks passed: 18 pages x 4 viewport widths; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
   } finally {if(browser)await browser.close();await new Promise(resolve=>server.close(resolve));}
 }
 main().catch(error=>{console.error(error);process.exitCode=1;});

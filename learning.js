@@ -1,9 +1,10 @@
 (function () {
   'use strict';
   const $ = id => document.getElementById(id);
-  const labels = { nouns: '名詞', adjectives: '形容詞', others: '其餘詞性' };
+  const labels = { nouns: '名詞', verbs: '動詞', adjectives: '形容詞', i_adjectives: 'い形容詞', na_adjectives: 'な形容詞', others: '其餘詞性' };
+  const categoriesFor = level => Object.keys(window.JP_VOCABULARY[level] || {});
   const page = document.body.dataset.page || 'home';
-  const level = ['n3','n4','n5'].includes(document.body.dataset.level) ? document.body.dataset.level : 'n3';
+  const level = ['n2','n3','n4','n5'].includes(document.body.dataset.level) ? document.body.dataset.level : 'n3';
   const category = document.body.dataset.category;
   const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   let persistent = true;
@@ -29,7 +30,7 @@
     window.speechSynthesis.cancel(); window.speechSynthesis.speak(utterance);
   }
   const allGrammar = Object.values(window.JP_GRAMMAR).flat();
-  document.body.innerHTML = `<a class="skip" href="#main">跳到主要內容</a><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N3 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html" ${page==='home'?'aria-current="page"':''}>學習總覽</a><a href="n3-nouns.html" ${page==='vocabulary'?'aria-current="page"':''}>詞彙練習</a><a href="grammar.html" ${page==='grammar'?'aria-current="page"':''}>文法題庫</a><button id="theme" aria-label="切換深淺主題">切換主題</button></nav></div></header><p id="audio-note" class="audio-note" role="status"></p><main id="main" class="page"></main><footer class="footer">每天一點，讓日文成為日常。<br>原創學習教材；分級為練習安排，非官方 JLPT 試題。<p id="storage-note" role="status"></p></footer>`;
+  document.body.innerHTML = `<a class="skip" href="#main">跳到主要內容</a><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html" ${page==='home'?'aria-current="page"':''}>學習總覽</a><a href="n3-nouns.html" ${page==='vocabulary'?'aria-current="page"':''}>詞彙練習</a><a href="grammar.html" ${page==='grammar'?'aria-current="page"':''}>文法題庫</a><button id="theme" aria-label="切換深淺主題">切換主題</button></nav></div></header><p id="audio-note" class="audio-note" role="status"></p><main id="main" class="page"></main><footer class="footer">每天一點，讓日文成為日常。<br>學習教材；分級為學習參考，非官方 JLPT 試題。<a href="sources.html">N2 題庫來源與核對紀錄</a><p id="storage-note" role="status"></p></footer>`;
   $('theme').onclick = () => {
     const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
     document.documentElement.dataset.theme = theme;
@@ -42,18 +43,26 @@
   }
   function home() {
     const total = stats(allGrammar);
-    $('main').innerHTML = `<section class="hero"><div><p class="eyebrow">YOUR DAILY JAPANESE PRACTICE</p><h1>一步一步，把日文練熟。</h1><p class="subtitle">從詞彙到句型，依照自己的步調練習。選擇等級開始，或回到錯題，把不熟悉的地方再練一次。</p><div class="stats"><div class="stat"><strong>315</strong><span>文法情境題</span></div><div class="stat"><strong>${Object.values(window.JP_VOCABULARY).flatMap(categories=>Object.values(categories)).reduce((total,bank)=>total+bank.length,0)}</strong><span>分類詞彙條目</span></div><div class="stat"><strong>${total.done}</strong><span>已練文法題</span></div><div class="stat"><strong>${total.wrong}</strong><span>待複習錯題</span></div></div></div><div class="hero-mark" lang="ja" aria-hidden="true">学</div></section><div class="section-head"><h2>選擇學習等級</h2><span class="muted">基礎 → 進階</span></div><div class="grid">${['n5','n4','n3'].map(l=>`<section class="card"><span class="tag">${l==='n5'?'建立基礎':l==='n4'?'累積實力':'活用表達'}</span><h2>${l.toUpperCase()}</h2><p class="muted">${l==='n5'?'助詞、基本句型與日常表達':l==='n4'?'經驗、計畫、建議與複句':'語意辨析、推論與進階句型'}</p><div class="links"><a class="button primary" href="grammar.html?level=${l}">文法練習 · ${window.JP_GRAMMAR[l].length} 題</a><a class="button" href="${l}.html">動詞變化與情境測驗</a>${l!=='n5'?Object.entries(labels).map(([c,t])=>`<a class="button" href="${l}-${c}.html">${t} · ${window.JP_VOCABULARY[l][c].length} 詞</a>`).join(''): '<p class="muted">N5 先從既有動詞與基礎文法開始。</p>'}</div></section>`).join('')}</div><section class="panel" style="margin-top:24px"><h2>練習方式</h2><p>詞彙頁可搜尋、收藏、練讀音或中文。文法以 10 題、20 題或全題練習；答題後顯示解析，錯題可另外重練。</p><p class="muted">完成狀態、收藏與未完成的文法練習保存在此瀏覽器；切換頁面後仍可繼續。文法統計以每題最近一次作答為準。</p></section>`;
+    $('main').innerHTML = `<section class="hero"><div><p class="eyebrow">YOUR DAILY JAPANESE PRACTICE</p><h1>一步一步，把日文練熟。</h1><p class="subtitle">從詞彙到句型，依照自己的步調練習。選擇等級開始，或回到錯題，把不熟悉的地方再練一次。</p><div class="stats"><div class="stat"><strong>315</strong><span>文法情境題</span></div><div class="stat"><strong>${Object.values(window.JP_VOCABULARY).flatMap(categories=>Object.values(categories)).reduce((total,bank)=>total+bank.length,0)}</strong><span>分類詞彙條目</span></div><div class="stat"><strong>${total.done}</strong><span>已練文法題</span></div><div class="stat"><strong>${total.wrong}</strong><span>待複習錯題</span></div></div></div><div class="hero-mark" lang="ja" aria-hidden="true">学</div></section><div class="section-head"><h2>選擇學習等級</h2><span class="muted">基礎 → 進階</span></div><div class="grid">${['n5','n4','n3','n2'].map(l=>`<section class="card"><span class="tag">${l==='n5'?'建立基礎':l==='n4'?'累積實力':l==='n3'?'活用表達':'N2 詞彙專區'}</span><h2>${l.toUpperCase()}</h2><p class="muted">${l==='n5'?'助詞、基本句型與日常表達':l==='n4'?'經驗、計畫、建議與複句':l==='n3'?'語意辨析、推論與進階句型':'公開 N2 詞表 × JMdict；逐筆核對、異寫合併'}</p><div class="links">${l!=='n2'?`<a class="button primary" href="grammar.html?level=${l}">文法練習 · ${window.JP_GRAMMAR[l].length} 題</a><a class="button" href="${l}.html">動詞變化與情境測驗</a>`:'<a class="button primary" href="sources.html">查看來源與實際詞量</a>'}${l!=='n5'?categoriesFor(l).map(c=>{const t=labels[c];return `<a class="button" href="${l}-${c}.html">${t} · ${window.JP_VOCABULARY[l][c].length} 詞</a>`;}).join(''): '<p class="muted">N5 先從既有動詞與基礎文法開始。</p>'}</div></section>`).join('')}</div><section class="panel" style="margin-top:24px"><h2>練習方式</h2><p>詞彙頁可搜尋、收藏、練讀音或中文。文法以 10 題、20 題或全題練習；答題後顯示解析，錯題可另外重練。</p><p class="muted">完成狀態、收藏與未完成的文法練習保存在此瀏覽器；切換頁面後仍可繼續。文法統計以每題最近一次作答為準。</p></section>`;
   }
   function vocabulary() {
     const bank = window.JP_VOCABULARY[level]?.[category] || [];
-    $('main').innerHTML = `<p class="eyebrow">VOCABULARY / ${level.toUpperCase()}</p><h1>${level.toUpperCase()} ${labels[category]}</h1><p class="subtitle">共 ${bank.length} 詞 · 看讀音、記意思，建立自己的收藏清單。其餘詞性收錄副詞、接續詞與常用表現；N4 包含基礎複習，N3 包含進階與易混淆詞。</p><nav class="inline-nav" aria-label="詞彙分類">${['n3','n4'].flatMap(l=>Object.entries(labels).map(([c,t])=>`<a href="${l}-${c}.html" ${l===level&&c===category?'aria-current="page"':''}>${l.toUpperCase()} ${t}</a>`)).join('')}</nav><div class="toolbar"><label class="grow">搜尋詞彙<input id="search" type="search" placeholder="日文、假名、中文或詞性"></label><label>顯示範圍<select id="scope"><option value="all">全部詞彙</option><option value="favorites">只看收藏</option></select></label><label>練習題型<select id="word-mode"><option value="reading">漢字 → 假名</option><option value="meaning">日文 → 中文</option></select></label><button id="word-start" class="primary">練習目前詞彙</button></div><p id="word-count" role="status"></p><div id="word-list" class="word-grid"></div><section id="word-practice" class="panel practice" hidden></section>`;
-    let filtered = [], session = null;
+    $('main').innerHTML = `<p class="eyebrow">VOCABULARY / ${level.toUpperCase()}</p><h1>${level.toUpperCase()} ${labels[category]}</h1><p class="subtitle">共 ${bank.length} 詞 · 看讀音、記意思，建立自己的收藏清單。${level==='n2'?'僅收來源標為 N2 且能與 JMdict 精確配對的詞彙；一詞只計一次，數量依查核結果呈現。':'其餘詞性收錄副詞、接續詞與常用表現；N4 包含基礎複習，N3 包含進階與易混淆詞。'}</p><nav class="toolbar vocabulary-navigation" aria-label="詞彙分類"><label>切換等級<select id="vocabulary-level">${['n2','n3','n4'].map(l=>`<option value="${l}" ${l===level?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">切換詞性<select id="vocabulary-category">${categoriesFor(level).map(c=>`<option value="${c}" ${c===category?'selected':''}>${labels[c]} · ${window.JP_VOCABULARY[level][c].length} 詞</option>`).join('')}</select></label></nav><div class="toolbar"><label class="grow">搜尋詞彙<input id="search" type="search" placeholder="日文、假名、中文或詞性"></label><label>顯示範圍<select id="scope"><option value="all">全部詞彙</option><option value="favorites">只看收藏</option></select></label><label>練習題型<select id="word-mode"><option value="reading">漢字 → 假名</option><option value="meaning">日文 → 中文</option></select></label><label>每輪題數<select id="word-size"><option value="20">20 題</option><option value="50">50 題</option><option value="all">全部符合詞彙</option></select></label><button id="word-start" class="primary">練習目前詞彙</button></div><p id="word-count" role="status"></p><div id="word-list" class="word-grid"></div><div id="word-pagination" class="actions"></div><section id="word-practice" class="panel practice" hidden></section>`;
+    $('vocabulary-level').onchange=event=>{const next=event.target.value;const nextCategory=categoriesFor(next).includes(category)?category:'nouns';location.href=next+'-'+nextCategory+'.html';};
+    $('vocabulary-category').onchange=event=>{location.href=level+'-'+event.target.value+'.html';};
+    let filtered = [], session = null, pageIndex = 0;
+    const pageSize = 60;
     function draw() {
       const term = $('search').value.normalize('NFKC').trim().toLowerCase();
       filtered = bank.filter(w => ($('scope').value !== 'favorites' || state.favorites.includes(w.id)) && [w.word,w.reading,w.meaning,w.pos].some(t=>t.normalize('NFKC').toLowerCase().includes(term)));
-      $('word-count').textContent = `顯示 ${filtered.length} / ${bank.length} 詞`;
+      const pages = Math.max(1,Math.ceil(filtered.length/pageSize));
+      pageIndex=Math.min(pageIndex,pages-1);
+      $('word-count').textContent = `符合 ${filtered.length} / ${bank.length} 詞 · 第 ${pageIndex+1} / ${pages} 頁`;
+      $('word-pagination').innerHTML = `<button id="word-prev-page" ${pageIndex===0?'disabled':''}>上一頁</button><button id="word-next-page" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>`;
+      $('word-prev-page').onclick=()=>{pageIndex--;draw();$('word-count').scrollIntoView({block:'start'});};
+      $('word-next-page').onclick=()=>{pageIndex++;draw();$('word-count').scrollIntoView({block:'start'});};
       $('word-start').disabled = !filtered.length;
-      $('word-list').innerHTML = filtered.length ? filtered.map(w=>`<article class="word-card"><span class="tag">${w.pos}</span><h2 lang="ja">${w.word}</h2><p class="muted" lang="ja">${w.reading}</p><p>${w.meaning}</p><div class="word-actions"><button class="favorite" data-favorite="${w.id}" aria-pressed="${state.favorites.includes(w.id)}">${state.favorites.includes(w.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${w.word}</span></button><button data-speak="${w.id}" aria-label="朗讀 ${w.word}">朗讀</button></div></article>`).join('') : '<p class="empty">沒有符合條件的詞彙，試試其他搜尋字或切回全部。</p>';
+      $('word-list').innerHTML = filtered.length ? filtered.slice(pageIndex*pageSize,(pageIndex+1)*pageSize).map(w=>`<article class="word-card"><span class="tag">${w.pos}</span><h2 lang="ja">${w.word}</h2><p class="muted" lang="ja">${w.reading}</p><p>${esc(w.meaning)}</p>${w.jmdictId?`<details><summary>詞性與來源核對</summary><p>JMdict #${w.jmdictId} · ${esc(w.posCodes.join(' / '))}</p><p>詞表原始英文（若有混義，以本頁校訂中文為準）：${esc(w.sourceEnglish)}</p><a href="https://github.com/jamsinclair/open-anki-jlpt-decks/blob/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n2.csv#L${w.sourceLines[0]}" target="_blank" rel="noopener">N2 原始詞表</a> · <a href="https://jisho.org/search/${encodeURIComponent(w.word)}" target="_blank" rel="noopener">查字典</a>${w.aliases.length?`<p>合併異寫：${esc(w.aliases.map(a=>a.word).join('、'))}</p>`:''}</details>`:''}<div class="word-actions"><button class="favorite" data-favorite="${w.id}" aria-pressed="${state.favorites.includes(w.id)}">${state.favorites.includes(w.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${w.word}</span></button><button data-speak="${w.id}" aria-label="朗讀 ${w.word}">朗讀</button></div></article>`).join('') : '<p class="empty">沒有符合條件的詞彙，試試其他搜尋字或切回全部。</p>';
     }
     $('word-list').onclick = event => {
       const button = event.target.closest('button'); if (!button) return;
@@ -62,17 +71,21 @@
       if (button.dataset.speak) speak(word.reading);
       else { state.favorites = state.favorites.includes(id) ? state.favorites.filter(x=>x!==id) : [...state.favorites,id]; save(); draw(); const replacement = document.querySelector(`[data-favorite="${id}"]`); if (replacement) replacement.focus(); }
     };
-    function stop() { session = null; $('word-practice').hidden = true; $('word-list').hidden = false; $('word-start').focus(); }
-    $('search').oninput = () => { if (session) stop(); draw(); };
-    $('scope').onchange = () => { if (session) stop(); draw(); };
+    function stop() { session = null; $('word-practice').hidden = true; $('word-list').hidden = false; $('word-pagination').hidden = false; $('word-start').focus(); }
+    $('search').oninput = () => { if (session) stop(); pageIndex=0; draw(); };
+    $('scope').onchange = () => { if (session) stop(); pageIndex=0; draw(); };
     $('word-mode').onchange = () => { if (session) stop(); };
-    $('word-start').onclick = () => { session = { items: shuffle(filtered), index:0, correct:0, mode:$('word-mode').value }; $('word-list').hidden = true; $('word-practice').hidden = false; wordQuestion(); };
+    $('word-start').onclick = () => { session = { items: shuffle(filtered).slice(0,$('word-size').value==='all'?filtered.length:Number($('word-size').value)), index:0, correct:0, mode:$('word-mode').value }; $('word-list').hidden = true; $('word-pagination').hidden = true; $('word-practice').hidden = false; wordQuestion(); };
     function wordQuestion() {
       const panel = $('word-practice');
       if (session.index === session.items.length) { panel.innerHTML = `<h2>詞彙練習完成</h2><p>答對 ${session.correct} / ${session.items.length} 題。</p><button id="word-close">返回詞彙清單</button>`; $('word-close').onclick = stop; $('word-close').focus(); return; }
       const word = session.items[session.index];
       const meaning = session.mode === 'meaning';
-      const options = shuffle([word.meaning,...shuffle([...new Set(bank.filter(w=>w.meaning!==word.meaning).map(w=>w.meaning))]).slice(0,3)]);
+      const atoms = text => text.replace(/（[^）]*）/g,'').split(/[；;、]/).map(s=>s.trim()).filter(Boolean);
+      const correctAtoms = new Set(atoms(word.meaning));
+      const correctGlosses = new Set((word.english || []).map(s=>s.toLowerCase().trim()));
+      const distractors = bank.filter(w=>w.meaning!==word.meaning && !atoms(w.meaning).some(s=>correctAtoms.has(s)) && !(w.english||[]).some(s=>correctGlosses.has(s.toLowerCase().trim())));
+      const options = shuffle([word.meaning,...shuffle([...new Set(distractors.map(w=>w.meaning))]).slice(0,3)]);
       panel.innerHTML = `<div class="quiz-top"><span class="tag">${session.index+1} / ${session.items.length}</span><button id="word-close">返回清單</button></div><h2 class="question" lang="ja">${word.word}</h2><button id="word-prompt-speech" type="button">🔊 聽單字發音</button><p>${meaning?'選出正確中文意思。':'請輸入假名讀音（平假名或片假名皆可）。'}</p>${meaning?`<div class="options">${options.map((x,i)=>`<button class="option" data-meaning="${i}">${x}</button>`).join('')}</div>`:'<form id="reading-form"><label for="reading-answer">假名讀音</label><input id="reading-answer" type="text" autocomplete="off"><div class="actions"><button class="primary" type="submit">提交答案</button><button id="reveal" type="button">看答案</button></div></form>'}<div id="word-feedback" role="status"></div><button id="word-next" hidden class="primary" style="margin-top:16px">下一題</button>`;
       let answered = false;
       function answer(correct, revealed) {

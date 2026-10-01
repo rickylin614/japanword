@@ -1,0 +1,813 @@
+{
+  "retrievedAt": "2026-10-01T16:24:57.101Z",
+  "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n2.csv",
+  "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
+  "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
+  "jmdictTag": "3.6.2+20260928191014",
+  "sourceRows": 1906,
+  "accepted": 1792,
+  "counts": {
+    "nouns": 811,
+    "verbs": 544,
+    "i_adjectives": 55,
+    "na_adjectives": 90,
+    "others": 292
+  },
+  "excluded": [
+    {
+      "line": 2,
+      "word": "(まる) ごと",
+      "reading": "(まる) ごと",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 3,
+      "word": "(かさを~) さす",
+      "reading": "(かさを~) さす",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 4,
+      "word": "(日本) 式",
+      "reading": "(にほん) しき",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 6,
+      "word": "いち (にほんいち)",
+      "reading": "いち (にほんいち)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 8,
+      "word": "おしまい (おわり)",
+      "reading": "おしまい (おわり)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 13,
+      "word": "歌",
+      "reading": "か",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 14,
+      "word": "画",
+      "reading": "が",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 17,
+      "word": "がち",
+      "reading": "がち",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1197950",
+        "2016470",
+        "2653620"
+      ]
+    },
+    {
+      "line": 28,
+      "word": "行",
+      "reading": "ぎょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 30,
+      "word": "きる",
+      "reading": "きる",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1304400",
+        "1384830",
+        "1423000",
+        "1564590",
+        "2107690",
+        "2107700",
+        "2222200"
+      ]
+    },
+    {
+      "line": 40,
+      "word": "国",
+      "reading": "こく",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 47,
+      "word": "時間目",
+      "reading": "じかんめ",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 49,
+      "word": "日",
+      "reading": "じつ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 53,
+      "word": "手",
+      "reading": "しゅ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 60,
+      "word": "商",
+      "reading": "しょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 68,
+      "word": "席",
+      "reading": "せき",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 72,
+      "word": "沿い",
+      "reading": "そい",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 79,
+      "word": "兆",
+      "reading": "ちょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 80,
+      "word": "長",
+      "reading": "ちょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 81,
+      "word": "帳",
+      "reading": "ちょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 84,
+      "word": "遣い",
+      "reading": "づかい",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 86,
+      "word": "続く",
+      "reading": "つづく",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 93,
+      "word": "道",
+      "reading": "どう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 95,
+      "word": "ところ",
+      "reading": "ところ",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1343100",
+        "2264910"
+      ]
+    },
+    {
+      "line": 99,
+      "word": "発",
+      "reading": "はつ",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1477120",
+        "2833340"
+      ]
+    },
+    {
+      "line": 109,
+      "word": "ぽい",
+      "reading": "ぽい",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "2083720",
+        "2647840",
+        "2844633"
+      ]
+    },
+    {
+      "line": 110,
+      "word": "ほう (ひかく)",
+      "reading": "ほう (ひかく)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 114,
+      "word": "もち",
+      "reading": "もち",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1535790",
+        "1575340",
+        "1612060",
+        "2202320",
+        "2224840",
+        "2577400"
+      ]
+    },
+    {
+      "line": 118,
+      "word": "流",
+      "reading": "りゅう",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1552090",
+        "2844102"
+      ]
+    },
+    {
+      "line": 133,
+      "word": "明くる",
+      "reading": "あくる",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 192,
+      "word": "一段と",
+      "reading": "いちだんと",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 199,
+      "word": "行っていらっしゃい",
+      "reading": "いっていらっしゃい",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 293,
+      "word": "お元気で",
+      "reading": "おげんきで",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 304,
+      "word": "お世話になりました",
+      "reading": "おせわになりました",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 320,
+      "word": "お待ちください",
+      "reading": "おまちください",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 432,
+      "word": "かび",
+      "reading": "かび",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1195610",
+        "1575380",
+        "2597790"
+      ]
+    },
+    {
+      "line": 508,
+      "word": "共産",
+      "reading": "きょうさん",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 522,
+      "word": "空",
+      "reading": "くう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 646,
+      "word": "こうよう もみじ",
+      "reading": "こうよう もみじ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 752,
+      "word": "しいんと",
+      "reading": "しいんと",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 757,
+      "word": "しかく しかくい",
+      "reading": "しかく しかくい",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 793,
+      "word": "しつれいしました (かん)",
+      "reading": "しつれいしました (かん)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 812,
+      "word": "しめた (かん)",
+      "reading": "しめた (かん)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 838,
+      "word": "じゅうたん",
+      "reading": "じゅうたん",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1595370",
+        "2560420"
+      ]
+    },
+    {
+      "line": 865,
+      "word": "初",
+      "reading": "しょ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 919,
+      "word": "しわ",
+      "reading": "しわ",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1569740",
+        "2866239"
+      ]
+    },
+    {
+      "line": 1081,
+      "word": "それはいけませんね (かん)",
+      "reading": "それはいけませんね (かん)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1090,
+      "word": "だいいち (とりわけ)",
+      "reading": "だいいち (とりわけ)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1148,
+      "word": "田ぼ",
+      "reading": "たんぼ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1175,
+      "word": "長",
+      "reading": "ちょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 1285,
+      "word": "どういたしまして (かん)",
+      "reading": "どういたしまして (かん)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1349,
+      "word": "傾らか",
+      "reading": "なだらか",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1412,
+      "word": "はい (かん)",
+      "reading": "はい (かん)",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1442,
+      "word": "×",
+      "reading": "ばつ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1452,
+      "word": "話中",
+      "reading": "はなしちゅう",
+      "reason": "沒有支援的明確詞性",
+      "parts": [
+        "adj-no"
+      ]
+    },
+    {
+      "line": 1567,
+      "word": "蒸す",
+      "reading": "ふす",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1628,
+      "word": "防",
+      "reading": "ぼう",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1662,
+      "word": "ほんの",
+      "reading": "ほんの",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 1730,
+      "word": "民主",
+      "reading": "みんしゅ",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 1804,
+      "word": "やたらに",
+      "reading": "やたらに",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1898,
+      "word": "我",
+      "reading": "わが",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    }
+  ],
+  "merged": [
+    {
+      "line": 57,
+      "word": "所",
+      "into": "所",
+      "jmdictId": "2273780"
+    },
+    {
+      "line": 157,
+      "word": "あみもの",
+      "into": "編み物",
+      "jmdictId": "1586670"
+    },
+    {
+      "line": 210,
+      "word": "炒る",
+      "into": "煎る",
+      "jmdictId": "1391500"
+    },
+    {
+      "line": 242,
+      "word": "売り上げ",
+      "into": "売上",
+      "jmdictId": "1588500"
+    },
+    {
+      "line": 246,
+      "word": "売れ行き",
+      "into": "売行き",
+      "jmdictId": "1588590"
+    },
+    {
+      "line": 298,
+      "word": "叔父",
+      "into": "伯父",
+      "jmdictId": "1607070"
+    },
+    {
+      "line": 301,
+      "word": "小父さん",
+      "into": "伯父さん",
+      "jmdictId": "2261490"
+    },
+    {
+      "line": 302,
+      "word": "叔父さん",
+      "into": "伯父さん",
+      "jmdictId": "2261490"
+    },
+    {
+      "line": 315,
+      "word": "叔母",
+      "into": "伯母",
+      "jmdictId": "1607100"
+    },
+    {
+      "line": 327,
+      "word": "思いっきり",
+      "into": "思いっ切り",
+      "jmdictId": "1309310"
+    },
+    {
+      "line": 343,
+      "word": "外",
+      "into": "外",
+      "jmdictId": "2227930"
+    },
+    {
+      "line": 385,
+      "word": "かけざん",
+      "into": "掛け算",
+      "jmdictId": "1590080"
+    },
+    {
+      "line": 399,
+      "word": "かしょ",
+      "into": "箇所",
+      "jmdictId": "1590250"
+    },
+    {
+      "line": 487,
+      "word": "規準",
+      "into": "基準",
+      "jmdictId": "1591210"
+    },
+    {
+      "line": 493,
+      "word": "切っ掛け",
+      "into": "きっかけ",
+      "jmdictId": "1591290"
+    },
+    {
+      "line": 585,
+      "word": "下品",
+      "into": "下品",
+      "jmdictId": "1186230"
+    },
+    {
+      "line": 632,
+      "word": "交代",
+      "into": "交替",
+      "jmdictId": "1592990"
+    },
+    {
+      "line": 661,
+      "word": "腰掛",
+      "into": "腰掛け",
+      "jmdictId": "1288370"
+    },
+    {
+      "line": 780,
+      "word": "室",
+      "into": "室",
+      "jmdictId": "1320300"
+    },
+    {
+      "line": 803,
+      "word": "萎む",
+      "into": "しぼむ",
+      "jmdictId": "1427460"
+    },
+    {
+      "line": 810,
+      "word": "締め切り",
+      "into": "締切",
+      "jmdictId": "1594590"
+    },
+    {
+      "line": 867,
+      "word": "女",
+      "into": "女",
+      "jmdictId": "1344940"
+    },
+    {
+      "line": 868,
+      "word": "省",
+      "into": "省",
+      "jmdictId": "2081540"
+    },
+    {
+      "line": 1027,
+      "word": "前",
+      "into": "前",
+      "jmdictId": "1392570"
+    },
+    {
+      "line": 1073,
+      "word": "率直",
+      "into": "卒直",
+      "jmdictId": "1596570"
+    },
+    {
+      "line": 1223,
+      "word": "躓く",
+      "into": "つまずく",
+      "jmdictId": "1573400"
+    },
+    {
+      "line": 1245,
+      "word": "出入り口",
+      "into": "出入口",
+      "jmdictId": "1598540"
+    },
+    {
+      "line": 1250,
+      "word": "適確",
+      "into": "的確",
+      "jmdictId": "1437290"
+    },
+    {
+      "line": 1254,
+      "word": "手ごろ",
+      "into": "手頃",
+      "jmdictId": "1327660"
+    },
+    {
+      "line": 1354,
+      "word": "何しろ",
+      "into": "なにしろ",
+      "jmdictId": "1188330"
+    },
+    {
+      "line": 1358,
+      "word": "生意気",
+      "into": "生意気",
+      "jmdictId": "1378790"
+    },
+    {
+      "line": 1365,
+      "word": "何とも",
+      "into": "なんとも",
+      "jmdictId": "1188690"
+    },
+    {
+      "line": 1393,
+      "word": "寝巻",
+      "into": "寝間着",
+      "jmdictId": "1360040"
+    },
+    {
+      "line": 1407,
+      "word": "乗り換え",
+      "into": "乗換",
+      "jmdictId": "1600460"
+    },
+    {
+      "line": 1420,
+      "word": "剥がす",
+      "into": "剥す",
+      "jmdictId": "1600670"
+    },
+    {
+      "line": 1432,
+      "word": "初めに",
+      "into": "始めに",
+      "jmdictId": "1307520"
+    },
+    {
+      "line": 1439,
+      "word": "果たして",
+      "into": "果して",
+      "jmdictId": "1600780"
+    },
+    {
+      "line": 1450,
+      "word": "話し合い",
+      "into": "話合い",
+      "jmdictId": "1600910"
+    },
+    {
+      "line": 1491,
+      "word": "引き分け",
+      "into": "引分け",
+      "jmdictId": "1169120"
+    },
+    {
+      "line": 1493,
+      "word": "日差し",
+      "into": "陽射",
+      "jmdictId": "1601830"
+    },
+    {
+      "line": 1518,
+      "word": "日にち",
+      "into": "日日",
+      "jmdictId": "1611370"
+    },
+    {
+      "line": 1527,
+      "word": "百科事典",
+      "into": "ひゃっかじてん",
+      "jmdictId": "1602190"
+    },
+    {
+      "line": 1570,
+      "word": "付属",
+      "into": "附属",
+      "jmdictId": "1602700"
+    },
+    {
+      "line": 1592,
+      "word": "古里",
+      "into": "故郷",
+      "jmdictId": "1603050"
+    },
+    {
+      "line": 1647,
+      "word": "朗らか",
+      "into": "朗らか",
+      "jmdictId": "1560710"
+    },
+    {
+      "line": 1679,
+      "word": "跨ぐ",
+      "into": "またぐ",
+      "jmdictId": "1267830"
+    },
+    {
+      "line": 1694,
+      "word": "間もなく",
+      "into": "間も無く",
+      "jmdictId": "1215290"
+    },
+    {
+      "line": 1709,
+      "word": "惨め",
+      "into": "みじめ",
+      "jmdictId": "1303280"
+    },
+    {
+      "line": 1740,
+      "word": "名",
+      "into": "名",
+      "jmdictId": "2153790"
+    },
+    {
+      "line": 1775,
+      "word": "凭れる",
+      "into": "もたれる",
+      "jmdictId": "1564380"
+    },
+    {
+      "line": 1792,
+      "word": "喧しい",
+      "into": "やかましい",
+      "jmdictId": "1211380"
+    },
+    {
+      "line": 1795,
+      "word": "やかん",
+      "into": "やかん",
+      "jmdictId": "1605370"
+    },
+    {
+      "line": 1827,
+      "word": "湯飲",
+      "into": "湯飲み",
+      "jmdictId": "1612130"
+    }
+  ],
+  "sha256": {
+    "jlpt": "2d0f1ddd6222881cd9fc2ca701db74300af99b3f1f84d5ac3c18411c20f0c055",
+    "dictionary": "5f54504a62a7f45741e1bf6fd28f6e1e5add6405f2829748cc004a802839a3aa"
+  }
+}

@@ -1,96 +1,17 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>N4 日文測驗</title>
-<style>
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background-color: #f0f8ff;
-    }
-    .container {
-        width: 600px;
-        height: 800px;
-        border: 5px solid #646464;
-        background-color: #fff;
-        padding: 10px;
-        box-sizing: border-box;
-        overflow: auto;
-        display: flex;
-        flex-direction: column; /* 元素從上到下排列 */
-        gap: 10px;
-    }
-    .question-area input {
-        width: 100%; /* 輸入框寬度適應父容器 */
-    }
-    .correct { color: green; }
-    .incorrect { color: red; }
-    input[type="text"] {
-        width: 80%;
-        padding: 8px;
-        margin-top: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-    }
-    button {
-        margin-top: 10px;
-        padding: 10px 20px;
-        font-size: 16px;
-        color: #fff;
-        background-color: #4CAF50;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-    #explanation { white-space: pre-wrap; line-height: 1.7; text-align: left; }
-    #status { font-size: 0.9rem; }
-    button:disabled, input:disabled { opacity: 0.5; cursor: wait; }
-    body { min-height: 100vh; height: auto; }
-    .container { height: auto; margin: 20px auto; max-width: 100%; }
-    input[type="text"] { box-sizing: border-box; }
-</style>
-</head>
-<body data-level="n4">
-
-    <div class="container">
-        <h1>N4 日文測驗</h1>
-        <h6>v20241207</h6>
-        <!-- 題目類型選擇 -->
-        <div>
-            <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 -> 原型</label><br/>
-            <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 原型 -> ます型</label><br/>
-            <label><input type="radio" name="questionType" value="3" onchange="loadQuestion()"> 原型 -> て型</label><br/>
-            <label><input type="radio" name="questionType" value="4" onchange="loadQuestion()"> 原型 -> ない型</label><br/>
-        <label><input type="radio" name="questionType" value="5" onchange="loadQuestion()"> 原形 → た形</label><br/>
-        <label><input type="radio" name="questionType" value="6" onchange="loadQuestion()"> 漢字 → 假名讀音</label><br/>
-        <label><input type="radio" name="questionType" value="7" onchange="loadQuestion()"> 變形 → 原形</label><br/>
-        <label><input type="radio" name="questionType" value="8" onchange="loadQuestion()"> 混合題型（含進階題）</label><br/>
-        <label><input type="radio" name="questionType" value="9" onchange="loadQuestion()"> 情境對話</label><br/>
-        </div>
-        <div class="question-area">
-            <p id="status" role="status">題庫載入中…</p>
-        <h3 id="question">題目載入中...</h3>
-            <input type="text" id="answer" placeholder="輸入答案；留空按 Enter 看答案" onkeydown="handleKeyPress(event)" >
-            <button onclick="checkAnswer()">提交</button>
-        <button class="primary-btn" onclick="loadQuestion()">下一題</button>
-            <button onclick="speakText()">發音</button>
-        </div>
-        <div class="result-area">
-            <p id="feedback" aria-live="polite"></p>
-        <p id="explanation" aria-live="polite"></p>
-            <p><strong>上一次正確的題目和答案:</strong> </p>
-            <p><span id="last-correct"></span></p>
-        </div>
-    </div>
-
-<script src="quiz.js"></script>
-
-<script src="legacy-navigation.js"></script>
-</body>
-</html>
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>N4 動詞測驗｜日語練習室</title><link rel="stylesheet" href="learning.css"></head>
+<body data-level="n4"><a class="skip" href="#main">跳到主要內容</a>
+<main id="main" class="page"><div class="container practice"><p class="eyebrow">VERB PRACTICE / N4</p><h1>N4 動詞測驗</h1><p class="subtitle">練習讀音、動詞變化與情境辨析。輸入答案後按 Enter；留空可看答案。</p>
+<fieldset class="panel legacy-modes"><legend>選擇題型</legend><div class="options-area"><label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 → 原形</label>
+<label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 原形 → ます形</label>
+<label><input type="radio" name="questionType" value="3" onchange="loadQuestion()"> 原形 → て形</label>
+<label><input type="radio" name="questionType" value="4" onchange="loadQuestion()"> 原形 → ない形</label>
+<label><input type="radio" name="questionType" value="5" onchange="loadQuestion()"> 原形 → た形</label>
+<label><input type="radio" name="questionType" value="6" onchange="loadQuestion()"> 漢字 → 假名讀音</label>
+<label><input type="radio" name="questionType" value="7" onchange="loadQuestion()"> 變形 → 原形</label>
+<label><input type="radio" name="questionType" value="8" onchange="loadQuestion()"> 混合題形（含進階題）</label>
+<label><input type="radio" name="questionType" value="9" onchange="loadQuestion()"> 情境對話</label></div></fieldset>
+<section class="question-area panel"><p id="status" class="muted" role="status">題庫載入中…</p><h2 id="question" class="question" lang="ja">題目載入中...</h2><label for="answer">你的答案</label><input type="text" id="answer" placeholder="輸入答案；留空按 Enter 看答案" onkeydown="handleKeyPress(event)" autocomplete="off"><div class="actions"><button class="primary primary-btn" onclick="checkAnswer()">提交</button><button onclick="loadQuestion()">下一題</button><button onclick="speakText()">🔊 發音</button></div></section>
+<section class="result-area panel"><p id="feedback" aria-live="polite"></p><p id="explanation" aria-live="polite"></p><div class="last-correct-box"><strong>上一次正確的題目和答案</strong><p id="last-correct">尚無記錄</p></div></section></div></main>
+<footer class="footer">每天一點，讓日文成為日常。<br><a href="layout.html">學習總覽</a> · <a href="sources.html">N2 題庫來源</a></footer>
+<script src="quiz.js"></script><script src="legacy-navigation.js"></script></body></html>
