@@ -1,0 +1,113 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const vm = require('node:vm');
+const http = require('node:http');
+const root = __dirname;
+const context = {window:{}};
+vm.createContext(context);
+for(const file of ['grammar-data.js','vocabulary-data.js']) vm.runInContext(fs.readFileSync(path.join(root,file),'utf8'),context);
+const {JP_GRAMMAR:grammar,JP_VOCABULARY:vocabulary} = context.window;
+const ids=new Set();
+for(const [level,bank] of Object.entries(grammar)) {
+  assert.ok(bank.length>100);
+  assert.equal(new Set(bank.map(q=>q.sentence)).size,bank.length);
+  for(const q of bank) {
+    assert.ok(!ids.has(q.id));ids.add(q.id);
+    assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);
+    assert.equal(q.options.filter(x=>x===q.answer).length,1);
+    assert.equal(q.sentence.split('【　】').length,2);
+    assert.ok(q.explanation && q.hint);
+  }
+  console.log(`${level}: ${bank.length} unique grammar contexts / ${new Set(bank.map(q=>q.pattern)).size} patterns`);
+}
+for(const [level,categories] of Object.entries(vocabulary)) for(const [category,bank] of Object.entries(categories)) {
+  assert.equal(bank.length,category==='nouns'?150:100);assert.equal(new Set(bank.map(w=>w.word)).size,bank.length);
+  assert.equal(new Set(bank.map(w=>w.reading+'|'+w.meaning)).size,bank.length);
+  for(const word of bank) {assert.ok(word.id&&word.word&&word.reading&&word.meaning&&word.pos);assert.match(word.reading,/^[ぁ-ゖー]+$/u);assert.ok(!ids.has(word.id));ids.add(word.id);}
+  console.log(`${level} ${category}: ${bank.length} vocabulary entries`);
+}
+if (!process.env.PLAYWRIGHT_PATH) {console.log('Data checks passed. Set PLAYWRIGHT_PATH for browser checks.');process.exit(0);}
+const {chromium}=require(process.env.PLAYWRIGHT_PATH);
+async function main() {
+  const server=http.createServer((req,res)=>{
+    const file=path.join(root,decodeURIComponent(new URL(req.url,'http://localhost').pathname));
+    if(!file.startsWith(root+path.sep)){res.writeHead(403).end();return;}
+    fs.readFile(file,(error,data)=>{if(error){res.writeHead(404).end();return;}res.setHeader('Content-Type',file.endsWith('.html')?'text/html; charset=utf-8':file.endsWith('.css')?'text/css':file.endsWith('.js')?'text/javascript':'text/plain; charset=utf-8');res.end(data);});
+  });
+  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+  let browser;
+  try {
+    browser=await chromium.launch({headless:true,channel:process.env.BROWSER_CHANNEL || 'msedge'});
+    const page=await browser.newPage();const errors=[];
+    await page.addInitScript(()=>{
+      window.spoken=[];
+      window.SpeechSynthesisUtterance=class {constructor(text){this.text=text;}};
+      Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[{lang:'ja-JP',name:'Test Japanese'}],cancel(){},speak(utterance){window.spoken.push({text:utterance.text,lang:utterance.lang});}}});
+    });
+    page.on('pageerror',e=>errors.push(e.message));
+    const base=`http://127.0.0.1:${server.address().port}`;
+    const go=file=>page.goto(`${base}/${file}`);
+    const pages=['layout.html','index.html','grammar.html',...['n3','n4'].flatMap(l=>['nouns','adjectives','others'].map(c=>`${l}-${c}.html`)),...['n3.html','n4.html','n5.html']];
+    for(const width of [360,390,768,1440]) {
+      await page.setViewportSize({width,height:900});
+      for(const file of pages) {
+        await go(file);
+        await page.waitForFunction(()=>!document.body.textContent.includes('載入中'));
+        assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${file}: overflow at ${width}`);
+        if(width===360 && file==='layout.html') await page.screenshot({path:path.join(root,'mobile-preview.png'),fullPage:true});
+        if(width===1440 && file==='layout.html') await page.screenshot({path:path.join(root,'desktop-preview.png'),fullPage:true});
+      }
+    }
+    await go('layout.html');
+    assert.match(await page.locator('.stats').innerText(),/700/);
+    const links=await page.locator('a[href]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')).filter(h=>!h.startsWith('#')));
+    for(const link of links){const res=await page.request.get(`${base}/${link}`);assert.ok(res.ok(),link);}
+    await page.locator('#theme').click();await page.reload();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
+    await go('n3-nouns.html');await page.locator('.favorite').first().click();await page.reload();await page.selectOption('#scope','favorites');assert.equal(await page.locator('.word-card').count(),1);
+    await page.fill('#search','不存在的詞彙');assert.ok(await page.locator('#word-start').isDisabled());
+    await page.fill('#search','');await page.selectOption('#scope','all');await page.fill('#search','えいきょう');assert.equal(await page.locator('.word-card').count(),1);
+    await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),'えいきょう');assert.equal(await page.locator('#word-feedback').innerText(),'');await page.fill('#reading-answer','エイキョウ');await page.locator('button[type=submit]').click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);await page.locator('#word-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');await page.locator('#word-next').click();assert.match(await page.locator('#word-practice').innerText(),/答對 1 \/ 1/);
+    await page.locator('#word-close').click();await page.selectOption('#word-mode','meaning');await page.locator('#word-start').click();await page.getByRole('button',{name:'影響',exact:true}).click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);
+    for(const level of ['n5','n4','n3']) {
+      await go(`grammar.html?level=${level}`);await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
+      await page.selectOption('#grammar-scope','all');await page.locator('#start').click();
+      await page.locator('#question-speech').click();assert.match(await page.evaluate(()=>spoken.at(-1).text),/空欄/);
+      for(let i=0;i<4;i++){await page.locator('[data-listen]').nth(i).click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');}
+      assert.equal(await page.locator('#feedback').innerText(),'');assert.ok(await page.locator('.option').first().isEnabled());
+      assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+      await page.locator('#reveal').click();assert.match(await page.locator('#feedback').innerText(),/已加入待複習/);
+      await page.locator('#speech').click();assert.ok(!(await page.evaluate(()=>spoken.at(-1).text)).includes('空欄'));
+      assert.ok(await page.locator('[data-listen]').first().isEnabled());
+      assert.ok(await page.locator('.option').first().isDisabled());
+      await page.locator('#exit').click();await page.reload();await page.locator('#resume').click();assert.match(await page.locator('.quiz-top').innerText(),/2 \/ 10/);
+      for(let i=1;i<10;i++) {
+        const sentence=await page.locator('#sentence').innerText();const q=grammar[level].find(q=>q.sentence===sentence);assert.ok(q);
+        await page.locator('.option').filter({hasText:q.answer}).last().click();
+        assert.match(await page.locator('#feedback').innerText(),/答對了/);
+        await page.locator('#next').click();
+      }
+      assert.match(await page.locator('.summary-number').innerText(),/9 \/ 10/);
+      await page.locator('[data-review-speech]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('#retry').click();const sentence=await page.locator('#sentence').innerText();const q=grammar[level].find(q=>q.sentence===sentence);
+      await page.locator('.option').filter({hasText:q.answer}).last().click();await page.locator('#next').click();assert.equal(await page.locator('.summary-number').innerText(),'1 / 1');
+      await page.locator('#again').click();await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
+      await page.selectOption('#grammar-scope','new');await page.selectOption('#size','105');await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 95/);
+    }
+    await page.setViewportSize({width:360,height:800});await page.screenshot({path:path.join(root,'grammar-mobile-preview.png'),fullPage:true});
+    for(const l of ['n3','n4'])for(const category of ['nouns','adjectives','others'])for(const mode of ['reading','meaning']){
+      await go(`${l}-${category}.html`);await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');assert.equal(await page.locator('#word-feedback').innerText(),'');
+      assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+    }
+    for(const l of ['n3','n4','n5']){
+      await go(`${l}.html`);await page.waitForFunction(()=>document.getElementById('status').textContent.includes('已載入'));
+      await page.locator('button[onclick="speakText()"]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('button[onclick="checkAnswer()"]').click();await page.getByRole('button',{name:'🔊 聽答案發音',exact:true}).click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+    }
+    const blocked=await browser.newContext();await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked');}});});
+    const blockedPage=await blocked.newPage();await blockedPage.goto(`${base}/layout.html`);assert.match(await blockedPage.locator('#storage-note').innerText(),/未開放儲存/);await blocked.close();
+    assert.deepEqual(errors,[]);
+    console.log('Browser checks passed: 12 pages x 4 viewport widths; navigation, theme, search, favorites, kana/meaning quiz, all levels, score, resume, wrong-answer retry, unseen pool, storage failure.');
+  } finally {if(browser)await browser.close();await new Promise(resolve=>server.close(resolve));}
+}
+main().catch(error=>{console.error(error);process.exitCode=1;});
