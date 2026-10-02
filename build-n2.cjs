@@ -29,7 +29,7 @@ for(const row of rows){
   if(affix&&parts.length)category='others';
   else if(parts.includes('adj-i')||parts.includes('adj-ix'))category='i_adjectives';
   else if(parts.includes('adj-na'))category='na_adjectives';
-  else if(parts.some(p=>/^v/.test(p)&&!['vs','vs-s'].includes(p)))category='verbs';
+  else if(parts.some(p=>/^(?:v[1-9]|vk$|vz$|vs-i$|vs-c$|v-unspec$)/.test(p)))category='verbs';
   else if(parts.some(p=>['adv','adv-to','conj','int','exp','prt','pref','suf','ctr','pn','adj-pn','n-adv','n-suf','n-pref'].includes(p)))category='others';
   else if(parts.some(p=>p==='n'||p==='vs'||p==='vs-s'||p==='n-t'))category='nouns';
   if(!category){excluded.push({line:row.line,word,reading,reason:'沒有支援的明確詞性',parts});continue;}
