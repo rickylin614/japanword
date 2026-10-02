@@ -1,0 +1,133 @@
+{
+  "retrievedAt": "2026-10-01T20:15:46.089Z",
+  "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n4.csv",
+  "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
+  "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
+  "jmdictTag": "3.6.2+20260928191014",
+  "sourceRows": 668,
+  "accepted": 652,
+  "counts": {
+    "nouns": 303,
+    "verbs": 159,
+    "i_adjectives": 23,
+    "na_adjectives": 41,
+    "others": 126
+  },
+  "excluded": [
+    {
+      "line": 3,
+      "word": "区",
+      "reading": "く",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 20,
+      "word": "月",
+      "reading": "つき",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 89,
+      "word": "学部",
+      "reading": "がくぶ",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 153,
+      "word": "いくら~ても",
+      "reading": "いくら~ても",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 156,
+      "word": "けんかする",
+      "reading": "けんかする",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 247,
+      "word": "けがする",
+      "reading": "けがする",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 250,
+      "word": "ばかり",
+      "reading": "ばかり",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 316,
+      "word": "チェックする",
+      "reading": "チェックする",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 393,
+      "word": "びっくりする",
+      "reading": "びっくりする",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 442,
+      "word": "まま",
+      "reading": "まま",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 445,
+      "word": "(に) よると",
+      "reading": "(に) よると",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 589,
+      "word": "(に) ついて",
+      "reading": "(に) ついて",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 626,
+      "word": "町",
+      "reading": "ちょう",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    }
+  ],
+  "merged": [
+    {
+      "line": 373,
+      "word": "伺う",
+      "into": "うかがう",
+      "jmdictId": "1305700"
+    },
+    {
+      "line": 420,
+      "word": "始める",
+      "into": "始める",
+      "jmdictId": "1307550"
+    },
+    {
+      "line": 554,
+      "word": "続ける",
+      "into": "続ける",
+      "jmdictId": "1405800"
+    }
+  ],
+  "sha256": {
+    "jlpt": "0e835f40a8d2a1f191d7aa499076002756fa099b95634758376f43c73793e9f6",
+    "dictionary": "5f54504a62a7f45741e1bf6fd28f6e1e5add6405f2829748cc004a802839a3aa"
+  }
+}

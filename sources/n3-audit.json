@@ -1,0 +1,341 @@
+{
+  "retrievedAt": "2026-10-01T20:15:43.938Z",
+  "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n3.csv",
+  "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
+  "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
+  "jmdictTag": "3.6.2+20260928191014",
+  "sourceRows": 2140,
+  "accepted": 2091,
+  "counts": {
+    "nouns": 1167,
+    "verbs": 368,
+    "i_adjectives": 30,
+    "na_adjectives": 165,
+    "others": 361
+  },
+  "excluded": [
+    {
+      "line": 804,
+      "word": "グランド",
+      "reading": "グランド",
+      "reason": "沒有支援的明確詞性",
+      "parts": [
+        "adj-f"
+      ]
+    },
+    {
+      "line": 1155,
+      "word": "よろしく",
+      "reading": "よろしく",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1224890",
+        "2835139",
+        "2846370"
+      ]
+    },
+    {
+      "line": 2081,
+      "word": "と",
+      "reading": "と",
+      "reason": "同寫法及讀音對應多個字典詞條，需人工判別",
+      "matches": [
+        "1008490",
+        "1203250",
+        "1266970",
+        "1366420",
+        "1444420",
+        "1444530",
+        "1579840",
+        "1621470",
+        "1956720",
+        "2832539",
+        "2842571",
+        "2843466",
+        "2872968"
+      ]
+    }
+  ],
+  "merged": [
+    {
+      "line": 249,
+      "word": "清む",
+      "into": "澄む",
+      "jmdictId": "1373680"
+    },
+    {
+      "line": 323,
+      "word": "温まる",
+      "into": "暖まる",
+      "jmdictId": "1586430"
+    },
+    {
+      "line": 325,
+      "word": "温める",
+      "into": "暖める",
+      "jmdictId": "1586440"
+    },
+    {
+      "line": 344,
+      "word": "現す",
+      "into": "表す",
+      "jmdictId": "1263490"
+    },
+    {
+      "line": 367,
+      "word": "行き",
+      "into": "行き",
+      "jmdictId": "1578790"
+    },
+    {
+      "line": 508,
+      "word": "納める",
+      "into": "収める",
+      "jmdictId": "1589090"
+    },
+    {
+      "line": 539,
+      "word": "降ろす",
+      "into": "下す",
+      "jmdictId": "1589580"
+    },
+    {
+      "line": 568,
+      "word": "替える",
+      "into": "代える",
+      "jmdictId": "1589780"
+    },
+    {
+      "line": 569,
+      "word": "換える",
+      "into": "代える",
+      "jmdictId": "1589780"
+    },
+    {
+      "line": 581,
+      "word": "描く",
+      "into": "描く",
+      "jmdictId": "1583460"
+    },
+    {
+      "line": 617,
+      "word": "硬い",
+      "into": "堅い",
+      "jmdictId": "1257110"
+    },
+    {
+      "line": 695,
+      "word": "器械",
+      "into": "機械",
+      "jmdictId": "1220810"
+    },
+    {
+      "line": 907,
+      "word": "超える",
+      "into": "越える",
+      "jmdictId": "1593070"
+    },
+    {
+      "line": 928,
+      "word": "超す",
+      "into": "越す",
+      "jmdictId": "1175300"
+    },
+    {
+      "line": 1006,
+      "word": "円",
+      "into": "丸",
+      "jmdictId": "1216250"
+    },
+    {
+      "line": 1069,
+      "word": "文字",
+      "into": "文字",
+      "jmdictId": "1505390"
+    },
+    {
+      "line": 1077,
+      "word": "基",
+      "into": "元",
+      "jmdictId": "1260670"
+    },
+    {
+      "line": 1078,
+      "word": "素",
+      "into": "元",
+      "jmdictId": "1260670"
+    },
+    {
+      "line": 1335,
+      "word": "具える",
+      "into": "備える",
+      "jmdictId": "1244960"
+    },
+    {
+      "line": 1403,
+      "word": "只",
+      "into": "ただ",
+      "jmdictId": "1538900"
+    },
+    {
+      "line": 1404,
+      "word": "唯",
+      "into": "ただ",
+      "jmdictId": "1538900"
+    },
+    {
+      "line": 1428,
+      "word": "球",
+      "into": "玉",
+      "jmdictId": "1240530"
+    },
+    {
+      "line": 1429,
+      "word": "弾",
+      "into": "玉",
+      "jmdictId": "1240530"
+    },
+    {
+      "line": 1516,
+      "word": "着ける",
+      "into": "付ける",
+      "jmdictId": "1495770"
+    },
+    {
+      "line": 1522,
+      "word": "務め",
+      "into": "勤め",
+      "jmdictId": "1240810"
+    },
+    {
+      "line": 1539,
+      "word": "出合い",
+      "into": "出会い",
+      "jmdictId": "1338400"
+    },
+    {
+      "line": 1651,
+      "word": "中味",
+      "into": "中身",
+      "jmdictId": "1599430"
+    },
+    {
+      "line": 1688,
+      "word": "日本",
+      "into": "日本",
+      "jmdictId": "1582710"
+    },
+    {
+      "line": 1705,
+      "word": "年月",
+      "into": "年月",
+      "jmdictId": "1582870"
+    },
+    {
+      "line": 1720,
+      "word": "載せる",
+      "into": "乗せる",
+      "jmdictId": "1600270"
+    },
+    {
+      "line": 1728,
+      "word": "延ばす",
+      "into": "伸ばす",
+      "jmdictId": "1600290"
+    },
+    {
+      "line": 1730,
+      "word": "延びる",
+      "into": "伸びる",
+      "jmdictId": "1358870"
+    },
+    {
+      "line": 1733,
+      "word": "昇る",
+      "into": "上る",
+      "jmdictId": "1352570"
+    },
+    {
+      "line": 1740,
+      "word": "梅雨",
+      "into": "梅雨",
+      "jmdictId": "1582960"
+    },
+    {
+      "line": 1752,
+      "word": "量る",
+      "into": "計る",
+      "jmdictId": "1600650"
+    },
+    {
+      "line": 1753,
+      "word": "測る",
+      "into": "計る",
+      "jmdictId": "1600650"
+    },
+    {
+      "line": 1792,
+      "word": "羽根",
+      "into": "羽",
+      "jmdictId": "1171680"
+    },
+    {
+      "line": 1857,
+      "word": "無",
+      "into": "不",
+      "jmdictId": "2423740"
+    },
+    {
+      "line": 1899,
+      "word": "殖やす",
+      "into": "増やす",
+      "jmdictId": "1602880"
+    },
+    {
+      "line": 1954,
+      "word": "頬",
+      "into": "頬",
+      "jmdictId": "1584160"
+    },
+    {
+      "line": 1958,
+      "word": "濠",
+      "into": "堀",
+      "jmdictId": "1522060"
+    },
+    {
+      "line": 1979,
+      "word": "交ざる",
+      "into": "混ざる",
+      "jmdictId": "1603920"
+    },
+    {
+      "line": 1981,
+      "word": "交じる",
+      "into": "混じる",
+      "jmdictId": "1603930"
+    },
+    {
+      "line": 1987,
+      "word": "交ぜる",
+      "into": "混ぜる",
+      "jmdictId": "1290310"
+    },
+    {
+      "line": 2094,
+      "word": "馴らす",
+      "into": "慣らす",
+      "jmdictId": "1212650"
+    },
+    {
+      "line": 2118,
+      "word": "保障",
+      "into": "保証",
+      "jmdictId": "1603500"
+    }
+  ],
+  "sha256": {
+    "jlpt": "ba071571d344e60b0e1fd11cd2e98a6aaa04515361653ca45147129460531297",
+    "dictionary": "5f54504a62a7f45741e1bf6fd28f6e1e5add6405f2829748cc004a802839a3aa"
+  }
+}

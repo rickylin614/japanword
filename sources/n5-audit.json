@@ -1,0 +1,153 @@
+{
+  "retrievedAt": "2026-10-02T04:53:53.945Z",
+  "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n5.csv",
+  "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
+  "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
+  "jmdictTag": "3.6.2+20260928191014",
+  "sourceRows": 718,
+  "accepted": 698,
+  "counts": {
+    "nouns": 293,
+    "verbs": 109,
+    "i_adjectives": 60,
+    "na_adjectives": 30,
+    "others": 206
+  },
+  "excluded": [
+    {
+      "line": 95,
+      "word": "円",
+      "reading": "えん",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 267,
+      "word": "コピーする",
+      "reading": "コピーする",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 296,
+      "word": "時間",
+      "reading": "じかん",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 317,
+      "word": "週間",
+      "reading": "しゅうかん",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 381,
+      "word": "だけ",
+      "reading": "だけ",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 455,
+      "word": "時",
+      "reading": "とき",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 487,
+      "word": "など",
+      "reading": "など",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 591,
+      "word": "分",
+      "reading": "ふん",
+      "reason": "沒有支援的明確詞性",
+      "parts": []
+    },
+    {
+      "line": 698,
+      "word": "ラジオカセ",
+      "reading": "ラジオカセ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    }
+  ],
+  "merged": [
+    {
+      "line": 27,
+      "word": "あっち",
+      "into": "あちら",
+      "jmdictId": "1483185"
+    },
+    {
+      "line": 42,
+      "word": "有る",
+      "into": "在る",
+      "jmdictId": "1296400"
+    },
+    {
+      "line": 160,
+      "word": "かける",
+      "into": "掛ける",
+      "jmdictId": "1207610"
+    },
+    {
+      "line": 217,
+      "word": "九",
+      "into": "九",
+      "jmdictId": "1578150"
+    },
+    {
+      "line": 260,
+      "word": "こっち",
+      "into": "こちら",
+      "jmdictId": "1004500"
+    },
+    {
+      "line": 364,
+      "word": "そっち",
+      "into": "そちら",
+      "jmdictId": "1006780"
+    },
+    {
+      "line": 452,
+      "word": "十",
+      "into": "十",
+      "jmdictId": "1579840"
+    },
+    {
+      "line": 463,
+      "word": "どっち",
+      "into": "どちら",
+      "jmdictId": "1189360"
+    },
+    {
+      "line": 545,
+      "word": "速い",
+      "into": "早い",
+      "jmdictId": "1404975"
+    },
+    {
+      "line": 612,
+      "word": "本",
+      "into": "本",
+      "jmdictId": "1522150"
+    },
+    {
+      "line": 623,
+      "word": "前",
+      "into": "前",
+      "jmdictId": "1392580"
+    }
+  ],
+  "sha256": {
+    "jlpt": "f89abc86b391c4f2b551bbf8910b0de6cd600973b3a9f8d98347513921929ebe",
+    "dictionary": "5f54504a62a7f45741e1bf6fd28f6e1e5add6405f2829748cc004a802839a3aa"
+  }
+}

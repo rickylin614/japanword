@@ -1,6 +1,6 @@
-# N2 vocabulary data attribution and licence
+# N2–N5 vocabulary data attribution and licence
 
-The N2 dataset is a derived vocabulary study resource, not an official JLPT examination or syllabus.
+The N2–N5 datasets are derived vocabulary study resources, not an official JLPT examination or syllabus.
 
 ## JMdict
 
@@ -12,7 +12,7 @@ Japanese lexical forms, readings, part-of-speech codes and English dictionary gl
 - Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 - JSON conversion: https://github.com/scriptin/jmdict-simplified
 
-The N2 derived data (`n2-data.js`, matching evidence, and Chinese translations of the vocabulary glosses) is distributed under CC BY-SA 4.0. The application code is separate. No endorsement by the original authors is implied. The modifications consist of filtering by the named N2 list, selecting matching senses, classifying each entry once, merging aliases, and adding Traditional Chinese translations and provenance metadata. The Chinese translations are project-authored translations, not a separately certified Chinese dictionary.
+The N2–N5 derived data (`n2-data.js`, `n3-data.js`, `n4-data.js`, `n5-data.js`, matching evidence, and Chinese translations of the vocabulary glosses) is distributed under CC BY-SA 4.0. The application code is separate. No endorsement by the original authors is implied. The modifications consist of filtering by the named level lists, selecting matching senses, classifying each entry once, merging aliases, and adding Traditional Chinese translations and provenance metadata. The Chinese translations are project-authored translations, not a separately certified Chinese dictionary.
 
 ## JLPT level list
 
@@ -27,8 +27,8 @@ The GitHub project identifies its code licence as MIT; the source data attributi
 
 JLPT does not publish a current complete vocabulary list: https://www.jlpt.jp/tw/reference/pdf/guidebook_s_e.pdf (FAQ Q7). Level labels here are solely the referenced study-list labels.
 
-See `download.json` for exact versions and `n2-audit.json` for SHA-256, merged rows and exclusions. Each accepted entry carries the original CSV row number(s), JMdict sequence number, matching sense index(es), and dictionary POS codes. `n2-overrides.json` records manual disambiguations. No approximate string matching is used.
+See `download.json` for exact versions and `n2-audit.json`, `n3-audit.json`, `n4-audit.json`, `n5-audit.json` for SHA-256, merged rows and exclusions. Each accepted entry carries the original CSV row number(s), JMdict sequence number, matching sense index(es), and dictionary POS codes. `n2-overrides.json`, `n3-overrides.json`, `n4-overrides.json`, `n5-overrides.json` records manual disambiguations. No approximate string matching is used.
 
 For dictionary updates run `powershell -File fetch-n2-sources.ps1 -LatestDictionary`, rebuild and review the audit, add or amend reviewed glosses keyed by JMdict ID, then publish and retest. Check the upstream dictionary at least monthly for an actively served deployment, following the EDRDG licence statement. The level-list revision is intentionally pinned because row-based overrides must be reviewed before changing it.
 
-The complete dictionary ZIP/JSON is a build dependency; it is not necessary to serve it with the web application. The checked subset is retained in `n2-dictionary-evidence.json` for offline validation.
+The complete dictionary ZIP/JSON is a build dependency; it is not necessary to serve it with the web application. The checked subset is retained in `n2-dictionary-evidence.json`, `n3-dictionary-evidence.json`, `n4-dictionary-evidence.json`, `n5-dictionary-evidence.json` for offline validation.
