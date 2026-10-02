@@ -32,7 +32,7 @@
     window.speechSynthesis.cancel(); window.speechSynthesis.speak(utterance);
   }
   const allGrammar = Object.values(window.JP_GRAMMAR).flat();
-  document.body.innerHTML = `<a class="skip" href="#main">跳到主要內容</a><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html" ${page==='home'?'aria-current="page"':''}>學習總覽</a><a href="n3-nouns.html" ${page==='vocabulary'?'aria-current="page"':''}>詞彙練習</a><a href="grammar.html" ${page==='grammar'?'aria-current="page"':''}>文法題庫</a><button id="theme" aria-label="切換深淺主題">切換主題</button></nav></div></header><p id="audio-note" class="audio-note" role="status"></p><main id="main" class="page"></main><footer class="footer">每天一點，讓日文成為日常。<br>學習教材；分級為學習參考，非官方 JLPT 試題。<a href="sources.html">N2～N5 題庫來源與核對紀錄</a><p id="storage-note" role="status"></p></footer>`;
+  document.body.innerHTML = `<a class="skip" href="#main">跳到主要內容</a><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html" ${page==='home'?'aria-current="page"':''}>學習總覽</a><a href="n3-nouns.html" ${page==='vocabulary'?'aria-current="page"':''}>詞彙練習</a><a href="grammar.html" ${page==='grammar'?'aria-current="page"':''}>文法題庫</a><a href="grammar-overview.html" ${page==='grammar-overview'?'aria-current="page"':''}>文法彙整</a><button id="theme" aria-label="切換深淺主題">切換主題</button></nav></div></header><p id="audio-note" class="audio-note" role="status"></p><main id="main" class="page"></main><footer class="footer">每天一點，讓日文成為日常。<br>學習教材；分級為學習參考，非官方 JLPT 試題。<a href="sources.html">N2～N5 題庫來源與核對紀錄</a><p id="storage-note" role="status"></p></footer>`;
   $('theme').onclick = () => {
     const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
     document.documentElement.dataset.theme = theme;
@@ -45,7 +45,7 @@
   }
   function home() {
     const total = stats(allGrammar);
-    $('main').innerHTML = `<section class="hero"><div><p class="eyebrow">YOUR DAILY JAPANESE PRACTICE</p><h1>一步一步，把日文練熟。</h1><p class="subtitle">從詞彙到句型，依照自己的步調練習。選擇等級開始，或回到錯題，把不熟悉的地方再練一次。</p><div class="stats"><div class="stat"><strong>315</strong><span>文法情境題</span></div><div class="stat"><strong>${Object.values(window.JP_VOCABULARY).flatMap(categories=>Object.values(categories)).reduce((total,bank)=>total+bank.length,0)}</strong><span>分類詞彙條目</span></div><div class="stat"><strong>${total.done}</strong><span>已練文法題</span></div><div class="stat"><strong>${total.wrong}</strong><span>待複習錯題</span></div></div></div><div class="hero-mark" lang="ja" aria-hidden="true">学</div></section><div class="section-head"><h2>選擇學習等級</h2><span class="muted">基礎 → 進階</span></div><div class="grid">${['n5','n4','n3','n2'].map(l=>`<section class="card"><span class="tag">${l==='n5'?'建立基礎':l==='n4'?'累積實力':l==='n3'?'活用表達':'N2 詞彙專區'}</span><h2>${l.toUpperCase()}</h2><p class="muted">${l==='n5'?'助詞、基本句型與日常表達':l==='n4'?'經驗、計畫、建議與複句':l==='n3'?'語意辨析、推論與進階句型':'公開 N2 詞表 × JMdict；逐筆核對、異寫合併'}</p><div class="links">${l!=='n2'?`<a class="button primary" href="grammar.html?level=${l}">文法練習 · ${window.JP_GRAMMAR[l].length} 題</a><a class="button" href="${l}.html">動詞變化與情境測驗</a>`:'<a class="button primary" href="sources.html">查看來源與實際詞量</a>'}${categoriesFor(l).map(c=>{const t=labels[c];return `<a class="button" href="${l}-${c}.html">${t} · ${window.JP_VOCABULARY[l][c].length} 詞</a>`;}).join('')}</div></section>`).join('')}</div><section class="panel" style="margin-top:24px"><h2>練習方式</h2><p>詞彙頁可搜尋、收藏、練讀音或中文。文法以 10 題、20 題或全題練習；答題後顯示解析，錯題可另外重練。</p><p class="muted">完成狀態、收藏與未完成的文法練習保存在此瀏覽器；切換頁面後仍可繼續。文法統計以每題最近一次作答為準。</p></section>`;
+    $('main').innerHTML = `<section class="hero"><div><p class="eyebrow">YOUR DAILY JAPANESE PRACTICE</p><h1>一步一步，把日文練熟。</h1><p class="subtitle">從詞彙到句型，依照自己的步調練習。選擇等級開始，或回到錯題，把不熟悉的地方再練一次。</p><div class="stats"><div class="stat"><strong>${allGrammar.length}</strong><span>文法情境題</span></div><div class="stat"><strong>${Object.values(window.JP_VOCABULARY).flatMap(categories=>Object.values(categories)).reduce((total,bank)=>total+bank.length,0)}</strong><span>分類詞彙條目</span></div><div class="stat"><strong>${total.done}</strong><span>已練文法題</span></div><div class="stat"><strong>${total.wrong}</strong><span>待複習錯題</span></div></div></div><div class="hero-mark" lang="ja" aria-hidden="true">学</div></section><div class="section-head"><h2>選擇學習等級</h2><span class="muted">基礎 → 進階</span></div><div class="grid">${['n5','n4','n3','n2'].map(l=>`<section class="card"><span class="tag">${l==='n5'?'建立基礎':l==='n4'?'累積實力':l==='n3'?'活用表達':'N2 詞彙專區'}</span><h2>${l.toUpperCase()}</h2><p class="muted">${l==='n5'?'助詞、基本句型與日常表達':l==='n4'?'經驗、計畫、建議與複句':l==='n3'?'語意辨析、推論與進階句型':'公開 N2 詞表 × JMdict；逐筆核對、異寫合併'}</p><div class="links">${l!=='n2'?`<a class="button primary" href="grammar.html?level=${l}">文法練習 · ${window.JP_GRAMMAR[l].length} 題</a><a class="button" href="grammar-overview.html?level=${l}">文法彙整 · 句型與例句</a><a class="button" href="${l}.html">動詞變化與情境測驗</a>`:'<a class="button primary" href="sources.html">查看來源與實際詞量</a>'}${categoriesFor(l).map(c=>{const t=labels[c];return `<a class="button" href="${l}-${c}.html">${t} · ${window.JP_VOCABULARY[l][c].length} 詞</a>`;}).join('')}</div></section>`).join('')}</div><section class="panel" style="margin-top:24px"><h2>練習方式</h2><p>詞彙頁可搜尋、收藏、練讀音或中文。文法以 10 題、20 題或全題練習；答題後顯示解析，錯題可另外重練。</p><p class="muted">完成狀態、收藏與未完成的文法練習保存在此瀏覽器；切換頁面後仍可繼續。文法統計以每題最近一次作答為準。</p></section>`;
   }
   function vocabulary() {
     const bank = category === 'adjectives' ? ['i_adjectives','na_adjectives'].flatMap(c=>window.JP_VOCABULARY[level]?.[c] || []) : window.JP_VOCABULARY[level]?.[category] || [];
@@ -122,22 +122,27 @@
   function grammar() {
     const param = new URLSearchParams(location.search).get('level');
     let currentLevel = ['n3','n4','n5'].includes(param) ? param : 'n5';
+    const guides = window.JP_GRAMMAR_GUIDE;
+    let selectedPattern = new URLSearchParams(location.search).get('pattern') || '';
+    if (!guides.some(g=>g.id===selectedPattern && g.level===currentLevel)) selectedPattern='';
     let session = null;
+    function updateURL() { try { history.replaceState(null,'','?'+new URLSearchParams({level:currentLevel,...(selectedPattern?{pattern:selectedPattern}:{})})); } catch {} }
     function menu() {
       session = null;
-      const bank = window.JP_GRAMMAR[currentLevel], progress = stats(bank);
+      const fullBank = window.JP_GRAMMAR[currentLevel], bank = fullBank.filter(q=>!selectedPattern || q.grammarId===selectedPattern), progress = stats(bank);
       const saved = state.sessions[currentLevel];
-      const canResume = saved && Array.isArray(saved.ids) && saved.ids.length && saved.ids.every(id=>bank.some(q=>q.id===id)) && Number.isInteger(saved.index) && saved.index>=0 && saved.index<saved.ids.length && Array.isArray(saved.results) && saved.results.length===saved.index;
-      $('main').innerHTML = `<div class="practice"><p class="eyebrow">GRAMMAR PRACTICE</p><h1>文法練習題庫</h1><p class="subtitle">每級 105 道不同情境，包含選項、句型提示與解析。請依提示選擇最符合語意的答案。</p><section class="panel"><div class="toolbar"><label>學習等級<select id="grammar-level">${['n5','n4','n3'].map(l=>`<option value="${l}" ${l===currentLevel?'selected':''}>${l.toUpperCase()} · 105 題</option>`).join('')}</select></label><label>每輪題數<select id="size"><option value="10">10 題</option><option value="20">20 題</option><option value="105">全部 105 題</option></select></label><label>出題範圍<select id="grammar-scope"><option value="all">全部題目</option><option value="new">尚未練習</option><option value="wrong">錯題重練（${progress.wrong} 題）</option></select></label></div><div class="stats"><div class="stat"><strong>${progress.done} / 105</strong><span>已練題數</span></div><div class="stat"><strong>${progress.correct}</strong><span>最近一次答對</span></div><div class="stat"><strong>${progress.wrong}</strong><span>待複習</span></div></div><div class="actions"><button id="start" class="primary">開始練習</button>${canResume?`<button id="resume">繼續上次 · 已完成 ${saved.index} / ${saved.ids.length} 題</button>`:''}</div><p id="empty-pool" role="status"></p><p class="muted">開始新的一輪會取代此等級尚未完成的練習；累積答題紀錄保留。</p></section><div class="section-head"><h2>這個等級練什麼？</h2></div><p class="muted">${[...new Set(bank.map(q=>q.hint))].map(esc).join(' · ')}</p></div>`;
-      $('grammar-level').onchange = event => { currentLevel = event.target.value; try { history.replaceState(null,'',`?level=${currentLevel}`); } catch {} menu(); };
+      const canResume = saved && Array.isArray(saved.ids) && saved.ids.length && saved.ids.every(id=>fullBank.some(q=>q.id===id)) && Number.isInteger(saved.index) && saved.index>=0 && saved.index<saved.ids.length && Array.isArray(saved.results) && saved.results.length===saved.index;
+      $('main').innerHTML = `<div class="practice"><p class="eyebrow">GRAMMAR PRACTICE</p><h1>文法練習題庫</h1><p class="subtitle">每級 500 道不同情境，包含選項、句型提示與解析。請依提示選擇最符合語意的答案。</p><section class="panel"><div class="toolbar"><label>學習等級<select id="grammar-level">${['n5','n4','n3'].map(l=>`<option value="${l}" ${l===currentLevel?'selected':''}>${l.toUpperCase()} · ${window.JP_GRAMMAR[l].length} 題</option>`).join('')}</select></label><label class="grow">句型範圍<select id="grammar-pattern"><option value="">全部用法</option>${guides.filter(g=>g.level===currentLevel).map(g=>`<option value="${g.id}" ${g.id===selectedPattern?'selected':''}>${esc(g.title)} · ${g.questionIds.length} 題</option>`).join('')}</select></label><label>每輪題數<select id="size"><option value="10">10 題</option><option value="20">20 題</option><option value="500">全部符合題目（${bank.length} 題）</option></select></label><label>出題範圍<select id="grammar-scope"><option value="all">全部題目</option><option value="new">尚未練習</option><option value="wrong">錯題重練（${progress.wrong} 題）</option></select></label></div><div class="stats"><div class="stat"><strong>${progress.done} / ${bank.length}</strong><span>已練題數</span></div><div class="stat"><strong>${progress.correct}</strong><span>最近一次答對</span></div><div class="stat"><strong>${progress.wrong}</strong><span>待複習</span></div></div><div class="actions"><button id="start" class="primary">開始練習</button>${canResume?`<button id="resume">繼續上次 · 已完成 ${saved.index} / ${saved.ids.length} 題</button>`:''}</div><p id="empty-pool" role="status"></p><p class="muted">開始新的一輪會取代此等級尚未完成的練習；累積答題紀錄保留。</p></section><div class="section-head"><h2>本次範圍練什麼？</h2><a href="grammar-overview.html?level=${currentLevel}">查看文法彙整</a></div><p class="muted">${[...new Set(bank.map(q=>q.hint))].map(esc).join(' · ')}</p></div>`;
+      $('grammar-level').onchange = event => { currentLevel = event.target.value; selectedPattern=''; updateURL(); menu(); };
+      $('grammar-pattern').onchange = event => { selectedPattern=event.target.value; updateURL(); menu(); };
       $('start').onclick = () => {
         const scope = $('grammar-scope').value;
         const pool = bank.filter(q=>scope==='all'||(scope==='new'?!state.answers[q.id]:state.answers[q.id]&&!state.answers[q.id].correct));
-        if (!pool.length) { $('empty-pool').textContent = scope==='wrong'?'目前沒有錯題，可以選擇全部題目繼續練習。':'這個等級已全部練過，可選擇全部題目再次練習。'; return; }
-        session = { ids:shuffle(pool).slice(0,Number($('size').value)).map(q=>q.id), index:0, results:[] };
+        if (!pool.length) { $('empty-pool').textContent = scope==='wrong'?'目前沒有錯題，可以選擇全部題目繼續練習。':'目前範圍已全部練過，可選擇全部題目再次練習。'; return; }
+        session = { ids:shuffle(pool).slice(0,Number($('size').value)).map(q=>q.id), index:0, results:[], grammarId:selectedPattern };
         state.sessions[currentLevel] = session; save(); question();
       };
-      if (canResume) $('resume').onclick = () => { session = saved; question(); };
+      if (canResume) $('resume').onclick = () => { session = saved; selectedPattern=saved.grammarId || ''; updateURL(); question(); };
     }
     function question() {
       if (session.index >= session.ids.length) { summary(); return; }
@@ -183,6 +188,27 @@
     }
     menu();
   }
-  if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
+  function grammarOverview() {
+    const guide=window.JP_GRAMMAR_GUIDE, params=new URLSearchParams(location.search);
+    let selected=['n5','n4','n3'].includes(params.get('level'))?params.get('level'):'all';
+    let currentPage=1; const pageSize=12;
+    $('main').innerHTML=`<p class="eyebrow">GRAMMAR REFERENCE / N5 – N3</p><h1>文法彙整</h1><p class="subtitle">從接續到語意，一起掌握句型。每級 500 題，共 183 個用法單元；同一句型的不同用法分開整理。例句可朗讀，也可直接練習該單元。</p><div class="toolbar"><label>等級<select id="guide-level"><option value="all">全部等級</option>${['n5','n4','n3'].map(l=>`<option value="${l}" ${l===selected?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">搜尋文法<input type="search" id="guide-search" placeholder="句型、接續、中文說明或日文例句"></label></div><p id="guide-count" role="status"></p><div id="guide-list" class="guide-grid"></div><div id="guide-pagination" class="actions"></div><section class="panel guide-references"><h2>延伸學習</h2><p>文法題目與中文解析由本專案編寫，分級是學習安排，非官方試題；JMdict 的核對範圍為詞彙，並非文法認證。</p><p>可搭配國際交流基金的 <a href="https://www.irodori.jpf.go.jp/starter/pdf.html">いろどり 入門</a>、<a href="https://www.irodori.jpf.go.jp/elementary01/pdf.html">初級 1</a>、<a href="https://www.irodori.jpf.go.jp/elementary02/pdf.html">初級 2</a>，以及「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html">そうだ／ようだ／らしい</a>」與「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201310.html">よう與ために</a>」的用法說明。這些是延伸參考，並非本題庫逐題的外部審定。</p></section>`;
+    function draw() {
+      const query=normalizeReading($('guide-search').value);
+      const filtered=guide.filter(g=>(selected==='all'||g.level===selected)&&normalizeReading([g.title,g.pattern,g.connection,g.explanation,...g.examples].join(' ')).includes(query));
+      const pages=Math.max(1,Math.ceil(filtered.length/pageSize)); currentPage=Math.min(currentPage,pages);
+      $('guide-count').textContent=`找到 ${filtered.length} 個用法單元 · 第 ${currentPage} / ${pages} 頁`;
+      $('guide-list').innerHTML=filtered.length?filtered.slice((currentPage-1)*pageSize,currentPage*pageSize).map(g=>{
+        const example=(sentence,i)=>`<div class="guide-example"><p lang="ja">${esc(sentence)}</p><button data-guide-speak="${g.id}" data-example="${i}" aria-label="朗讀例句 ${i+1}">🔊 朗讀</button></div>`;
+        return `<article class="panel guide-card"><span class="tag">${g.level.toUpperCase()} · ${g.questionIds.length} 題</span><h2>${esc(g.title)}</h2><p class="guide-pattern" lang="ja">${esc(g.pattern)}</p><h3>接續</h3><p>${esc(g.connection)}</p><h3>用法</h3><p>${esc(g.explanation)}</p><h3>例句</h3>${g.examples.slice(0,2).map(example).join('')}<details><summary>查看其餘 ${g.examples.length-2} 個例句</summary>${g.examples.slice(2).map((s,i)=>example(s,i+2)).join('')}</details><a class="button primary" href="grammar.html?level=${g.level}&amp;pattern=${g.id}">練習這個用法 · ${g.questionIds.length} 題</a></article>`;
+      }).join(''):'<p class="panel">沒有符合的文法，請嘗試其他關鍵字或等級。</p>';
+      $('guide-pagination').innerHTML=`<button id="guide-prev" ${currentPage===1?'disabled':''}>上一頁</button><span>${currentPage} / ${pages}</span><button id="guide-next" ${currentPage===pages?'disabled':''}>下一頁</button>`;
+      for(const [id,step] of [['guide-prev',-1],['guide-next',1]]) $(id).onclick=()=>{currentPage+=step;draw();$('guide-count').scrollIntoView({block:'start'});$(id).focus();};
+    }
+    $('guide-list').onclick=e=>{const b=e.target.closest('[data-guide-speak]');if(!b)return;const g=guide.find(g=>g.id===b.dataset.guideSpeak);if(g)speak(g.examples[Number(b.dataset.example)]);};
+    $('guide-search').oninput=()=>{currentPage=1;draw();};
+    $('guide-level').onchange=e=>{selected=e.target.value;currentPage=1;try{history.replaceState(null,'',selected==='all'?'grammar-overview.html':'?level='+selected);}catch{}draw();};
+    draw();
+  }
+  if(page==='grammar-overview') grammarOverview(); else if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
 })();
-

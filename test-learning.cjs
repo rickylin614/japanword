@@ -10,7 +10,7 @@ for(const file of ['grammar-data.js','vocabulary-data.js','n2-data.js','n3-data.
 const {JP_GRAMMAR:grammar,JP_VOCABULARY:vocabulary} = context.window;
 const ids=new Set();
 for(const [level,bank] of Object.entries(grammar)) {
-  assert.ok(bank.length>100);
+  assert.equal(bank.length,500);
   assert.equal(new Set(bank.map(q=>q.sentence)).size,bank.length);
   for(const q of bank) {
     assert.ok(!ids.has(q.id));ids.add(q.id);
@@ -48,7 +48,7 @@ async function main() {
     page.on('pageerror',e=>errors.push(e.message));
     const base=`http://127.0.0.1:${server.address().port}`;
     const go=file=>page.goto(`${base}/${file}`);
-    const pages=['layout.html','index.html','grammar.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
+    const pages=['layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
     for(const width of [360,390,768,1440]) {
       await page.setViewportSize({width,height:900});
       for(const file of pages) {
@@ -88,18 +88,38 @@ async function main() {
       await page.locator('#exit').click();await page.reload();await page.locator('#resume').click();assert.match(await page.locator('.quiz-top').innerText(),/2 \/ 10/);
       for(let i=1;i<10;i++) {
         const sentence=await page.locator('#sentence').innerText();const q=grammar[level].find(q=>q.sentence===sentence);assert.ok(q);
-        await page.locator('.option').filter({hasText:q.answer}).last().click();
+        await page.locator('[data-choice]').nth(await page.locator('[data-choice]').evaluateAll((buttons,a)=>buttons.findIndex(b=>b.textContent.replace(/^\d+/, '')===a),q.answer)).click();
         assert.match(await page.locator('#feedback').innerText(),/答對了/);
         await page.locator('#next').click();
       }
       assert.match(await page.locator('.summary-number').innerText(),/9 \/ 10/);
       await page.locator('[data-review-speech]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
       await page.locator('#retry').click();const sentence=await page.locator('#sentence').innerText();const q=grammar[level].find(q=>q.sentence===sentence);
-      await page.locator('.option').filter({hasText:q.answer}).last().click();await page.locator('#next').click();assert.equal(await page.locator('.summary-number').innerText(),'1 / 1');
+      await page.locator('[data-choice]').nth(await page.locator('[data-choice]').evaluateAll((buttons,a)=>buttons.findIndex(b=>b.textContent.replace(/^\d+/, '')===a),q.answer)).click();await page.locator('#next').click();assert.equal(await page.locator('.summary-number').innerText(),'1 / 1');
       await page.locator('#again').click();await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
-      await page.selectOption('#grammar-scope','new');await page.selectOption('#size','105');await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 95/);
+      await page.selectOption('#grammar-scope','new');await page.selectOption('#size','500');await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 490/);
     }
     await page.setViewportSize({width:360,height:800});await page.screenshot({path:path.join(root,'grammar-mobile-preview.png'),fullPage:true});
+
+    // Guide filtering, pagination, pronunciation, and pattern-specific round trips.
+    await go('grammar-overview.html');
+    assert.match(await page.locator('#guide-count').innerText(),/183/);
+    assert.equal(await page.locator('.guide-card').count(),12);
+    const firstTitle=await page.locator('.guide-card h2').first().innerText();
+    await page.locator('#guide-next').click();assert.notEqual(await page.locator('.guide-card h2').first().innerText(),firstTitle);
+    await page.locator('#guide-prev').click();assert.equal(await page.locator('.guide-card h2').first().innerText(),firstTitle);
+    await page.selectOption('#guide-level','n3');assert.match(await page.locator('#guide-count').innerText(),/61/);
+    await page.locator('#guide-search').fill('xyz-nonexistent');assert.equal(await page.locator('.guide-card').count(),0);assert.ok(await page.locator('#guide-next').isDisabled());
+    await page.locator('#guide-search').fill('確信的推測');assert.equal(await page.locator('.guide-card').count(),1);
+    const speech=await page.locator('.guide-example p').first().innerText();await page.locator('[data-guide-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),speech);
+    await page.locator('summary').click();assert.ok(await page.locator('[data-guide-speak]').last().isVisible());
+    for(const width of [360,390,768,1440]){await page.setViewportSize({width,height:900});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:path.join(root,'grammar-guide-'+width+'.png'),fullPage:true});}
+    await page.locator('.guide-card a').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');
+    await page.selectOption('#size','500');await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 10/);
+    let savedRound=await page.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions.n3);assert.equal(savedRound.ids.length,10);assert.ok(savedRound.ids.every(id=>grammar.n3.find(q=>q.id===id).grammarId==='n3-extra-01'));
+    await page.reload();await page.locator('#resume').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 10/);
+    await page.locator('#exit').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');
+    for(const l of ['n5','n4','n3']){await go('grammar.html?level='+l+'&pattern=invalid');assert.equal(await page.locator('#grammar-pattern').inputValue(),'');await page.selectOption('#size','500');await page.locator('#start').click();const ids=await page.evaluate(l=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions[l].ids,l);assert.equal(ids.length,500);assert.equal(new Set(ids).size,500);assert.ok(ids.includes(l+'-g-500'));}
     for(const l of ['n3','n4'])for(const category of ['nouns','adjectives','others'])for(const mode of ['reading','meaning']){
       await go(`${l}-${category}.html`);await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');assert.equal(await page.locator('#word-feedback').innerText(),'');
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
@@ -155,7 +175,7 @@ async function main() {
     const blocked=await browser.newContext();await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked');}});});
     const blockedPage=await blocked.newPage();await blockedPage.goto(`${base}/layout.html`);assert.match(await blockedPage.locator('#storage-note').innerText(),/未開放儲存/);await blocked.close();
     assert.deepEqual(errors,[]);
-    console.log('Chrome checks passed: 29 pages x 4 viewport widths; N2/N3/N4/N5 source links, search, favorites migration, 20 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
+    console.log('Chrome checks passed: 30 pages x 4 viewport widths; N2/N3/N4/N5 source links, search, favorites migration, 20 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
   } finally {if(browser)await browser.close();await new Promise(resolve=>server.close(resolve));}
 }
 main().catch(error=>{console.error(error);process.exitCode=1;});

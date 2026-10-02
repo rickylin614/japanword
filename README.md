@@ -1,6 +1,6 @@
 # 日語練習室
 
-以 `layout.html` 為入口，純 HTML / JavaScript / CSV。保留 N3、N4、N5 既有動詞變化與情境測驗；N3～N5 文法各 105 題。N2～N5 詞彙依公開分級詞表與 JMdict 交叉核對。
+以 `layout.html` 為入口，純 HTML / JavaScript / CSV。保留 N3、N4、N5 既有動詞變化與情境測驗；N3～N5 文法各 500 題。N2～N5 詞彙依公開分級詞表與 JMdict 交叉核對。
 
 ## 啟動
 
@@ -73,3 +73,16 @@ node test-learning.cjs
 - `test-learning.cjs`：文法及資料檢查；指定 `PLAYWRIGHT_PATH` 為 Playwright 模組路徑，`BROWSER_CHANNEL=chrome`（預設 Chrome），再執行可跑完整瀏覽器測試。
 
 Chrome 測試涵蓋 29 頁 × 360、390、768、1440px，20 個分類的兩種詞彙測驗、分頁、來源連結、搜尋、收藏持久化／遷移、播放不誤作答、既有動詞主題與音訊、文法續答／計分／錯題及儲存失敗。使用真正 Chrome 調整 viewport；並非實體手機測試。語音以 mock 驗證日文文字、lang 及按鈕流程，沒有宣稱已逐詞聆聽音色。
+
+## 文法 500 題與彙整
+
+N5、N4、N3 各 500 題，共 1,500 個不同題幹；每級 61 個用法單元。相同句型的不同用法分開整理，不宣稱有 183 種不同文法。
+
+- grammar-overview.html：等級篩選、搜尋、每頁 12 個單元、接續、中文說明、完整例句與日文朗讀。
+- 每個單元可直接進入指定用法測驗，支援全部／未練／錯題、10／20／全部符合題目。
+- 原有 315 題內容和 ID 保留，新增題號為各級 106～500；localStorage 格式相容，旧練習可續答。
+- grammar-source/legacy-grammar.js 保存原始 105 題／級；n5.txt、n4.txt、n3.txt 各提供 395 個新增情境。每組以標題、答案、干擾選項、接續、解析及各自撰寫的句子組成。
+- 執行 node build-grammar.cjs 可重建 grammar-data.js；執行 node build-pages.cjs 可重建頁面。建置會阻止題數錯誤、重複題幹、缺空格與重複選項。
+- 文法為專案編寫教材，分級為學習安排。彙整頁連結國際交流基金的延伸教材；不將文法標示為經 JMdict 核對或外部逐題審定。
+
+驗證：node test-grammar.cjs、node test.js、node test-verified.cjs、node test-n2.cjs、node test-learning.cjs。瀏覽器測試使用已安裝 Chrome（BROWSER_CHANNEL=chrome）與 PLAYWRIGHT_PATH 指定的 Playwright，涵蓋 30 個頁面 × 4 種寬度、搜尋／分頁／音訊呼叫、句型限定與每級全部 500 題、續答、錯題及既有詞彙／動詞功能。語音測試驗證呼叫與日文參數；實際發聲取決於裝置日文語音。
