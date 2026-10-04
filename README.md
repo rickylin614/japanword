@@ -1,6 +1,6 @@
 # 日語練習室
 
-以 `layout.html` 為入口，純 HTML / JavaScript / CSV。保留 N3、N4、N5 既有動詞變化與情境測驗；N3～N5 文法各 500 題。N2～N5 詞彙依公開分級詞表與 JMdict 交叉核對。
+以 `layout.html` 為入口，純 HTML / JavaScript / CSV。保留 N3、N4、N5 既有動詞變化與情境測驗；N2～N5 文法各 500 題。N2～N5 詞彙依公開分級詞表與 JMdict 交叉核對。
 
 ## 啟動
 
@@ -86,3 +86,11 @@ N5、N4、N3 各 500 題，共 1,500 個不同題幹；每級 61 個用法單元
 - 文法為專案編寫教材，分級為學習安排。彙整頁連結國際交流基金的延伸教材；不將文法標示為經 JMdict 核對或外部逐題審定。
 
 驗證：node test-grammar.cjs、node test.js、node test-verified.cjs、node test-n2.cjs、node test-learning.cjs。瀏覽器測試使用已安裝 Chrome（BROWSER_CHANNEL=chrome）與 PLAYWRIGHT_PATH 指定的 Playwright，涵蓋 30 個頁面 × 4 種寬度、搜尋／分頁／音訊呼叫、句型限定與每級全部 500 題、續答、錯題及既有詞彙／動詞功能。語音測試驗證呼叫與日文參數；實際發聲取決於裝置日文語音。
+
+## N2 文法與共用導覽
+
+N2 新增 500 題、50 個用法單元；N2～N5 共 2,000 題、233 個用法單元。N2 的編寫來源在 grammar-source/n2.txt，與其他等級一起用 build-grammar.cjs 重建。題幹不重複，並保留原有 N3～N5 題目與紀錄。
+
+共用學習資源區提供來源與實際詞量，四張等級卡都有文法測驗和彙整入口。shared-shell.js／shared-shell.css 提供固定頂部導覽、等級／詞彙分類樹狀選單、Escape 關閉、點擊外部關閉、手機選單內捲動與頁尾 TOP。原有動詞頁及來源頁也使用共用導覽；50 音與其他舊頁附加 TOP。build-pages.cjs 和 create-all-sources.cjs 會自動呼叫 build-shell.cjs，重建後仍保留共用元件。
+
+N2 文法為專案原創情境題，中文用法說明與分級供學習參考，不宣稱官方試題或 JMdict 文法認證。彙整頁提供國際交流基金的逆接與形式名詞說明作延伸閱讀。

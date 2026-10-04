@@ -53,6 +53,7 @@ async function main() {
       await page.setViewportSize({width,height:900});
       for(const file of pages) {
         await go(file);
+        assert.equal(await page.locator('#back-to-top').count(),1);
         await page.waitForFunction(()=>!document.body.textContent.includes('載入中'));
         assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${file}: overflow at ${width}`);
         if(width===360 && file==='layout.html') await page.screenshot({path:path.join(root,'mobile-preview.png'),fullPage:true});
@@ -62,6 +63,27 @@ async function main() {
         if(width===390 && file==='n2-i_adjectives.html') await page.screenshot({path:path.join(root,'n2-mobile-preview.png'),fullPage:false});
       }
     }
+    // Frozen header, nested keyboard navigation, shared sources and top button.
+    for(const width of [360,390,768,1440]){
+      await page.setViewportSize({width,height:850});await go('layout.html');
+      assert.equal(await page.locator('.card a[href="sources.html"]').count(),0);
+      assert.equal(await page.locator('.card a[href="grammar.html?level=n2"]').count(),1);
+      await page.evaluate(()=>scrollTo(0,600));
+      assert.ok(Math.abs(await page.locator('.site-header').evaluate(e=>e.getBoundingClientRect().top))<1);
+      await page.locator('#study-menu > summary').click();
+      await page.locator('.level-branch > summary').filter({hasText:'N2'}).click();
+      await page.locator('.level-branch').last().getByText('詞彙分類',{exact:true}).click();
+      assert.ok(await page.locator('.study-tree a[href="n2-nouns.html"]').isVisible());
+      assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+      await page.screenshot({path:path.join(root,'tree-menu-'+width+'.png'),fullPage:false});
+      await page.keyboard.press('Escape');assert.equal(await page.locator('#study-menu').getAttribute('open'),null);
+      await page.locator('#back-to-top').click();await page.waitForFunction(()=>scrollY===0);
+    }
+    await go('grammar-overview.html?level=n2');assert.match(await page.locator('#guide-count').innerText(),/50/);
+    await page.locator('#guide-search').fill('持續變化之中');await page.locator('.guide-card a').click();
+    assert.equal(await page.locator('#grammar-level').inputValue(),'n2');
+    await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/N2/);
+    await page.evaluate(()=>localStorage.removeItem('jp-learning-v1'));
     await go('layout.html');
     assert.match(await page.locator('.stats').innerText(),/5233/);
     for(const level of ['n3','n4','n5'])assert.equal(await page.locator(`.card a[href="${level}.html"]`).count(),1);
@@ -74,7 +96,7 @@ async function main() {
     await page.fill('#search','');await page.selectOption('#scope','all');await page.fill('#search','えいきょう');assert.equal(await page.locator('.word-card').count(),1);
     await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),'えいきょう');assert.equal(await page.locator('#word-feedback').innerText(),'');await page.fill('#reading-answer','エイキョウ');await page.locator('button[type=submit]').click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);await page.locator('#word-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');await page.locator('#word-next').click();assert.match(await page.locator('#word-practice').innerText(),/答對 1 \/ 1/);
     await page.locator('#word-close').click();await page.selectOption('#word-mode','meaning');await page.locator('#word-start').click();await page.getByRole('button',{name:'影響',exact:true}).click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);
-    for(const level of ['n5','n4','n3']) {
+    for(const level of ['n5','n4','n3','n2']) {
       await go(`grammar.html?level=${level}`);await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
       await page.selectOption('#grammar-scope','all');await page.locator('#start').click();
       await page.locator('#question-speech').click();assert.match(await page.evaluate(()=>spoken.at(-1).text),/空欄/);
@@ -103,7 +125,7 @@ async function main() {
 
     // Guide filtering, pagination, pronunciation, and pattern-specific round trips.
     await go('grammar-overview.html');
-    assert.match(await page.locator('#guide-count').innerText(),/183/);
+    assert.match(await page.locator('#guide-count').innerText(),/233/);
     assert.equal(await page.locator('.guide-card').count(),12);
     const firstTitle=await page.locator('.guide-card h2').first().innerText();
     await page.locator('#guide-next').click();assert.notEqual(await page.locator('.guide-card h2').first().innerText(),firstTitle);
@@ -112,14 +134,14 @@ async function main() {
     await page.locator('#guide-search').fill('xyz-nonexistent');assert.equal(await page.locator('.guide-card').count(),0);assert.ok(await page.locator('#guide-next').isDisabled());
     await page.locator('#guide-search').fill('確信的推測');assert.equal(await page.locator('.guide-card').count(),1);
     const speech=await page.locator('.guide-example p').first().innerText();await page.locator('[data-guide-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),speech);
-    await page.locator('summary').click();assert.ok(await page.locator('[data-guide-speak]').last().isVisible());
+    await page.locator('.guide-card summary').click();assert.ok(await page.locator('[data-guide-speak]').last().isVisible());
     for(const width of [360,390,768,1440]){await page.setViewportSize({width,height:900});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:path.join(root,'grammar-guide-'+width+'.png'),fullPage:true});}
     await page.locator('.guide-card a').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');
     await page.selectOption('#size','500');await page.locator('#start').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 10/);
     let savedRound=await page.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions.n3);assert.equal(savedRound.ids.length,10);assert.ok(savedRound.ids.every(id=>grammar.n3.find(q=>q.id===id).grammarId==='n3-extra-01'));
     await page.reload();await page.locator('#resume').click();assert.match(await page.locator('.quiz-top').innerText(),/1 \/ 10/);
     await page.locator('#exit').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');
-    for(const l of ['n5','n4','n3']){await go('grammar.html?level='+l+'&pattern=invalid');assert.equal(await page.locator('#grammar-pattern').inputValue(),'');await page.selectOption('#size','500');await page.locator('#start').click();const ids=await page.evaluate(l=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions[l].ids,l);assert.equal(ids.length,500);assert.equal(new Set(ids).size,500);assert.ok(ids.includes(l+'-g-500'));}
+    for(const l of ['n5','n4','n3','n2']){await go('grammar.html?level='+l+'&pattern=invalid');assert.equal(await page.locator('#grammar-pattern').inputValue(),'');await page.selectOption('#size','500');await page.locator('#start').click();const ids=await page.evaluate(l=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions[l].ids,l);assert.equal(ids.length,500);assert.equal(new Set(ids).size,500);assert.ok(ids.includes(l+'-g-500'));}
     for(const l of ['n3','n4'])for(const category of ['nouns','adjectives','others'])for(const mode of ['reading','meaning']){
       await go(`${l}-${category}.html`);await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');assert.equal(await page.locator('#word-feedback').innerText(),'');
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));

@@ -2,11 +2,11 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('nod
 const load=file=>{const c={window:{}};vm.runInNewContext(fs.readFileSync(path.join(__dirname,file),'utf8'),c);return JSON.parse(JSON.stringify(c.window));};
 const {JP_GRAMMAR:banks,JP_GRAMMAR_GUIDE:guide}=load('grammar-data.js'), legacy=load('grammar-source/legacy-grammar.js').JP_GRAMMAR;
 const ids=new Set(),sentences=new Set(),members=new Set();
-assert.equal(guide.length,183);
-assert.equal(new Set(guide.map(g=>g.id)).size,183);
+assert.equal(guide.length,233);
+assert.equal(new Set(guide.map(g=>g.id)).size,233);
 for(const [level,bank] of Object.entries(banks)){
-  assert.equal(bank.length,500);assert.equal(guide.filter(g=>g.level===level).length,61);
-  for(let i=0;i<105;i++){const {grammarId,...q}=bank[i];assert.deepEqual(q,legacy[level][i],`${level} legacy ${i}`);}
+  assert.equal(bank.length,500);assert.equal(guide.filter(g=>g.level===level).length,level==='n2'?50:61);
+  for(let i=0;i<(level==='n2'?0:105);i++){const {grammarId,...q}=bank[i];assert.deepEqual(q,legacy[level][i],`${level} legacy ${i}`);}
   for(const [i,q] of bank.entries()){
     assert.equal(q.id,`${level}-g-${i+1}`);assert.ok(!ids.has(q.id));ids.add(q.id);
     assert.ok(!sentences.has(q.sentence));sentences.add(q.sentence);
@@ -21,5 +21,5 @@ for(const g of guide){
   assert.equal(g.examples.length,g.questionIds.length);
   g.questionIds.forEach((id,i)=>{assert.ok(!members.has(id));members.add(id);const q=banks[g.level].find(q=>q.id===id);assert.ok(q);assert.equal(q.grammarId,g.id);assert.equal(q.sentence.replace('【　】',q.answer),g.examples[i]);});
 }
-assert.equal(members.size,1500);
-console.log('PASS: 1500 unique questions, 183 linked usage units, options/blanks/conjugation regressions, all 315 original questions unchanged.');
+assert.equal(members.size,2000);
+console.log('PASS: 2000 unique questions, 233 linked usage units, options/blanks/conjugation regressions, all 315 original questions unchanged.');

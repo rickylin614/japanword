@@ -21,3 +21,5 @@ for(const [category,label] of Object.entries({nouns:"名詞",verbs:"動詞",i_ad
 for(const [category,label] of Object.entries({nouns:'名詞',verbs:'動詞',i_adjectives:'い形容詞',na_adjectives:'な形容詞',others:'其餘詞性'})) page('n5-'+category+'.html','N5 '+label,'data-page="vocabulary" data-level="n5" data-category="'+category+'"');
 
 page('grammar-overview.html','文法彙整','data-page="grammar-overview"');
+
+require('./build-shell.cjs')();
