@@ -64,11 +64,15 @@ async function main() {
         assert.equal(elements.answer.disabled, false, elements.question.textContent);
         const questions = vm.runInContext('questions', context);
         const words = vm.runInContext('words', context);
-        assert.ok(words.length > 100);
+        const published={window:{JP_VOCABULARY:{}}};vm.runInNewContext(read(level+'-data.js'),published);
+        const bank=published.window.JP_VOCABULARY[level].verbs;
+        assert.deepEqual(Array.from(words,w=>w.id),Array.from(bank,w=>w.id));
+        for(let i=0;i<words.length;i++){assert.equal(words[i].verb,bank[i].word);assert.equal(words[i].chinese,bank[i].meaning);assert.equal(words[i].pron,bank[i].reading);}
         assert.ok(!words.some(word => /動詞原形|^動詞$/.test(word.verb)));
         assert.equal(new Set(questions.map(question => question.id)).size, questions.length);
         for (const question of questions) {
             assert.ok(question.prompt && question.explanation && question.answers.every(Boolean));
+            if(question.type==='6')assert.ok(!question.prompt.includes(question.answers[0]),question.id+' must not reveal reading');
         }
         assert.equal(questions.filter(question => Number(question.type) >= 9).length, level === 'n3' ? 16 : 12);
         for (const type of types) {
@@ -112,7 +116,7 @@ async function main() {
             context.checkAnswer();
             assert.match(elements.feedback.textContent, /^答案：/);
         }
-        for (const question of questions.filter(question => Number(question.type) >= 9)) {
+        for (const question of questions) {
             for (const answer of question.answers) {
                 context.testQuestion = question;
                 vm.runInContext('currentQuestion = testQuestion; answered = false;', context);
@@ -133,7 +137,7 @@ async function main() {
         assert.throws(() => context.parseCSV('id,prompt\nx,"unfinished'));
         assert.throws(() => context.parseCSV('id,prompt\nx'));
         assert.equal(context.answerVariants('来ない（こない）').join('|'), '来ない|こない');
-        if (level === 'n4') assert.equal(words.find(word => word.verb === '受ける').ta, '受けた');
+        if (level === 'n4') assert.equal(context.answerVariants(words.find(word => word.verb === '受ける').ta)[0], '受けた');
         console.log(`${level}: ${words.length} words; ${questions.length} questions; ${types.length} modes passed`);
         for (const failure of [`${level}.csv`, `${level}_questions.csv`, 'network', 'empty']) {
             const failed = await createQuiz(level, failure);

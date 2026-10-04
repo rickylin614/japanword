@@ -48,7 +48,7 @@ async function main() {
     page.on('pageerror',e=>errors.push(e.message));
     const base=`http://127.0.0.1:${server.address().port}`;
     const go=file=>page.goto(`${base}/${file}`);
-    const pages=['layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
+    const pages=['50.html','n87.html','layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
     for(const width of [360,390,768,1440]) {
       await page.setViewportSize({width,height:900});
       for(const file of pages) {
@@ -56,6 +56,8 @@ async function main() {
         assert.equal(await page.locator('#back-to-top').count(),1);
         await page.waitForFunction(()=>!document.body.textContent.includes('載入中'));
         assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${file}: overflow at ${width}`);
+        if(['layout.html','n3.html','grammar.html','grammar-overview.html','sources.html','n3-verbs.html','50.html','n87.html'].includes(file))await page.screenshot({path:path.join(root,'review-'+file.replace('.html','')+'-'+width+'.png'),fullPage:false});
+        if(width===1440 && file==='layout.html'){const rows=await page.locator('.card a[href$="-nouns.html"]').evaluateAll(nodes=>nodes.map(n=>n.getBoundingClientRect().top));assert.ok(Math.max(...rows)-Math.min(...rows)<1,'Level card categories must align');}
         if(width===360 && file==='layout.html') await page.screenshot({path:path.join(root,'mobile-preview.png'),fullPage:true});
         if(width===1440 && file==='layout.html') await page.screenshot({path:path.join(root,'desktop-preview.png'),fullPage:true});
         if(width===390 && file==='n3.html') await page.screenshot({path:path.join(root,'verbs-mobile-preview.png'),fullPage:true});
@@ -149,6 +151,7 @@ async function main() {
     for(const l of ['n3','n4','n5']){
       await go(`${l}.html`);await page.waitForFunction(()=>document.getElementById('status').textContent.includes('已載入'));
       assert.equal(await page.locator('link[href="learning.css"]').count(),1);
+      assert.match(await page.locator('#status').innerText(),new RegExp(String(vocabulary[l].verbs.length)+' 個分類動詞'));
       assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
       await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'light');
       await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
@@ -197,7 +200,7 @@ async function main() {
     const blocked=await browser.newContext();await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked');}});});
     const blockedPage=await blocked.newPage();await blockedPage.goto(`${base}/layout.html`);assert.match(await blockedPage.locator('#storage-note').innerText(),/未開放儲存/);await blocked.close();
     assert.deepEqual(errors,[]);
-    console.log('Chrome checks passed: 30 pages x 4 viewport widths; N2/N3/N4/N5 source links, search, favorites migration, 20 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
+    console.log('Chrome checks passed: 32 pages x 4 viewport widths; N2/N3/N4/N5 source links, search, favorites migration, 20 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
   } finally {if(browser)await browser.close();await new Promise(resolve=>server.close(resolve));}
 }
 main().catch(error=>{console.error(error);process.exitCode=1;});

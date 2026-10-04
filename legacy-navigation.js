@@ -5,7 +5,7 @@
   header.innerHTML=`<div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html">學習總覽</a><a href="n2-nouns.html">N2 詞彙</a><a href="grammar.html?level=${current}">文法題庫</a><button id="legacy-theme" aria-label="切換深淺主題">切換主題</button></nav></div>`;
   document.body.prepend(header);
   const nav=document.createElement('nav');nav.className='inline-nav';nav.setAttribute('aria-label','動詞等級與分類');
-  nav.innerHTML=`${['n5','n4','n3'].map(l=>`<a href="${l}.html" ${l===current?'aria-current="page"':''}>${l.toUpperCase()} 動詞</a>`).join('')}<a href="n2-verbs.html">N2 動詞詞彙</a>${current!=='n5'?`<a href="${current}-nouns.html">${current.toUpperCase()} 名詞</a><a href="${current}-adjectives.html">形容詞</a><a href="${current}-others.html">其餘詞性</a>`:''}`;
+  nav.innerHTML=`${['n5','n4','n3'].map(l=>`<a href="${l}.html" ${l===current?'aria-current="page"':''}>${l.toUpperCase()} 動詞測驗</a>`).join('')}<a href="${current}-verbs.html">查看本級動詞列表</a><a href="grammar.html?level=${current}">本級文法練習</a>`;
   document.querySelector('.legacy-modes').before(nav);
   const syncTheme=()=>{document.documentElement.dataset.theme=document.body.dataset.theme==='dark'?'dark':'light';};
   document.getElementById('legacy-theme').onclick=()=>{toggleTheme();syncTheme();};

@@ -1,53 +1,12 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>日文50音打字練習機</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            padding: 20px;
-        }
-        .container {
-            width: 45%;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            padding: 10px;
-            background-color: #f9f9f9;
-        }
-        .table {
-            display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 10px;
-            margin-bottom: 20px;
-        }
-        .item {
-            text-align: center;
-            padding: 5px;
-        }
-        .input-area {
-            margin-top: 20px;
-        }
-        #question {
-            font-size: 2rem;
-            margin: 10px 0;
-        }
-        .input-field {
-            display: flex;
-            gap: 10px;
-            align-items: center;
-        }
-        .draggable {
-            cursor: move;
-            user-select: none;
-        }
-    </style>
-<link rel="stylesheet" href="shared-shell.css"></head>
-<body>
+
+<link rel="stylesheet" href="shared-shell.css"><link rel="stylesheet" href="learning.css"><link rel="stylesheet" href="interface.css"></head>
+<body data-supplement="kana"><main id="main" class="page "><p class="eyebrow">KANA PRACTICE</p><h1>五十音練習</h1><p class="subtitle">辨認平假名與片假名，搭配對照表練習羅馬音輸入。</p><div class="supplement-grid">
     <!-- 左邊功能區域 -->
     <div class="container">
         <div>
@@ -67,15 +26,15 @@
     </div>
 
     <!-- 假名表容器 -->
-    <div class="container" id="hiragana-container" draggable="true">
+    <div class="container" id="hiragana-container" draggable="false">
         <h3 class="draggable">平假名</h3>
         <div class="table" id="hiragana-table"></div>
     </div>
 
-    <div class="container" id="katakana-container" draggable="true">
+    <div class="container" id="katakana-container" draggable="false">
         <h3 class="draggable">片假名</h3>
         <div class="table" id="katakana-table"></div>
-    </div>
+    </div></div></main><footer class="footer">日語練習室 · 每天一點，持續進步。</footer>
 
     <script>
         const hiragana = [

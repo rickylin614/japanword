@@ -1,64 +1,19 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>生活日文單字</title>
-<style>
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background-color: #f0f8ff;
-    }
-    .container {
-        width: 600px;
-        height: 800px;
-        border: 5px solid #646464;
-        background-color: #fff;
-        padding: 10px;
-        box-sizing: border-box;
-        overflow: auto;
-        display: flex;
-        flex-direction: column; /* 元素從上到下排列 */
-        gap: 10px;
-    }
-    .question-area input {
-        width: 100%; /* 輸入框寬度適應父容器 */
-    }
-    .correct { color: green; }
-    .incorrect { color: red; }
-    input[type="text"] {
-        width: 80%;
-        padding: 8px;
-        margin-top: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-    }
-    button {
-        margin-top: 10px;
-        padding: 10px 20px;
-        font-size: 16px;
-        color: #fff;
-        background-color: #4CAF50;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-</style>
-<link rel="stylesheet" href="shared-shell.css"></head>
-<body>
+
+<link rel="stylesheet" href="shared-shell.css"><link rel="stylesheet" href="learning.css"><link rel="stylesheet" href="interface.css"></head>
+<body data-supplement="words"><main id="main" class="page supplement-words"><p class="eyebrow">DAILY VOCABULARY</p><h1>生活單字練習</h1><p class="subtitle">透過中文與日文互譯，複習日常生活常用詞彙。</p>
 
 <div class="container">
-    <h1>日文生活單詞</h1>
-    <h6>version: v20250101</h6>
+
     <!-- 題目類型選擇 -->
-    <div>
-        <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 -> 日文</label><br/>
-        <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 日文 -> 平假名/英文</label><br/>
+    <div class="supplement-modes">
+        <label><input type="radio" name="questionType" value="1" checked onchange="loadQuestion()"> 中文 → 日文</label><br/>
+        <label><input type="radio" name="questionType" value="2" onchange="loadQuestion()"> 日文 → 讀音</label><br/>
     </div>
     <div class="question-area">
         <h3 id="question">題目載入中...</h3>
@@ -72,7 +27,7 @@
         <p><strong>上一次正確的題目和答案:</strong></p>
         <p><span id="last-correct"></span></p>
     </div>
-</div>
+</div></main><footer class="footer">日語練習室 · 每天一點，持續進步。</footer>
 
 <script>
 // 日文,平假名(日文是片假名的話為原文),中文意思

@@ -27,7 +27,7 @@ N5 原始 718 列，合併 11 列、排除 9 列；N3 原始 2140 列，合併 4
 - 搜尋整個分類的日文、平／片假名、中文、詞性及合併異寫，60 詞分頁；可只看收藏。
 - 假名輸入／中文選擇兩種測驗，選 20、50 或全部符合詞彙。題目前與答案後可點擊聽發音；列表也可朗讀。
 - N3／N4 舊 `-adjectives.html` 網址保留合併瀏覽，不重複計入首頁數量。
-- `n3.html`、`n4.html`、`n5.html` 保留既有動詞測驗與原 CSV；三頁共用 `learning.css`，含手機排版、深淺主題及答案發音。新版詞彙的動詞頁是原形讀音／詞義測驗。
+- `n3.html`、`n4.html`、`n5.html` 與同級分類動詞一對一同步，CSV 由 `build-verbs.cjs` 產生；三頁共用 `learning.css` 與 `interface.css`，含手機排版、深淺主題及答案發音。新版詞彙的動詞頁是原形讀音／詞義測驗。
 - 文法支援 10／20／全題、錯題重練、未練題目及續答。題幹空格朗讀為「空欄」，選項播放不會作答。
 - localStorage `jp-learning-v1` 保留文法答案與進度。330 個舊詞可按同級詞形／讀音遷移收藏；370 個未匹配詞保留在「保留的舊版收藏」，只有以前已收藏才顯示，不混入查核題庫，可朗讀／移除。
 - 發音使用裝置 `speechSynthesis` 日文語音；失敗顯示提示，實際聲音取決於裝置。儲存受阻仍可使用本次練習。
@@ -50,6 +50,7 @@ node build-verified.cjs n2 --publish
 node build-verified.cjs n3 --publish
 node build-verified.cjs n4 --publish
 node build-verified.cjs n5 --publish
+node build-verbs.cjs
 node build-pages.cjs
 node create-sources.cjs
 ```
@@ -94,3 +95,11 @@ N2 新增 500 題、50 個用法單元；N2～N5 共 2,000 題、233 個用法�
 共用學習資源區提供來源與實際詞量，四張等級卡都有文法測驗和彙整入口。shared-shell.js／shared-shell.css 提供固定頂部導覽、等級／詞彙分類樹狀選單、Escape 關閉、點擊外部關閉、手機選單內捲動與頁尾 TOP。原有動詞頁及來源頁也使用共用導覽；50 音與其他舊頁附加 TOP。build-pages.cjs 和 create-all-sources.cjs 會自動呼叫 build-shell.cjs，重建後仍保留共用元件。
 
 N2 文法為專案原創情境題，中文用法說明與分級供學習參考，不宣稱官方試題或 JMdict 文法認證。彙整頁提供國際交流基金的逆接與形式名詞說明作延伸閱讀。
+
+## 動詞對齊與介面規範
+
+N3／N4／N5 的動詞變化測驗分別為 368／159／109 詞，來源是分類頁同一份 n3-data.js／n4-data.js／n5-data.js 的 verbs 陣列，沿用 JMdict ID、詞形、读音和中文。build-verbs.cjs 依 POS 活用規則產生根目錄 CSV，sources/verb-conjugation-audit.json 保存每個詞的漢字與假名活用。不可手改生成 CSV；發布 N3～N5 詞表會自動重建。情境辨析 CSV 保留為額外複習題，不加入動詞詞量。
+
+特別處理行く、来る、する、ある、問う、得る（うる）、敬語五段與送假名省略字形。四種變化皆接受漢字／假名；題目顯示讀音以區分同形詞。test.js 對實際載入 CSV 和分類 ID／中文／讀音逐一核對，並遍歷所有可接受答案；test-verbs.cjs 測試具體不規則活用與 636 詞覆蓋。
+
+interface.css 統一定義字體、標題、間距、卡片、表單、日文文字與手機排版。首頁等級說明統一為學習目標，來源說明集中在共用資源與可展開說明。五十音、生活單字舊頁也套用共用導覽與頁面規範。瀏覽器回歸涵蓋全部 32 個 HTML 頁面與 360／390／768／1440 像素。

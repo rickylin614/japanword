@@ -54,7 +54,9 @@ function answerVariants(value) {
 function readWords(csv) {
     return parseCSV(csv).map((row, index) => {
         const word = {
-            id: `${level}-word-${index}`,
+            id: row.id || `${level}-word-${index}`,
+            aliases: (row['異寫'] || '').split('|').filter(Boolean),
+            conjugation: row['活用類別'] || '',
             verb: row['動詞'] || row['動詞原形'],
             chinese: row['中文'],
             pron: row['發音'] || row['原形發音'],
@@ -73,13 +75,13 @@ function readWords(csv) {
 
 function wordQuestion(word, type, field, label) {
     const answers = type === '1'
-        ? [...answerVariants(word.verb), word.pron]
+        ? [...answerVariants(word.verb), word.pron, ...(word.aliases || [])]
         : answerVariants(word[field]);
     return {
         id: `${word.id}-${type}`, type,
-        prompt: type === '1' ? `中文：${word.chinese}（請回答原形）` : `${word.verb}（${label}）`,
+        prompt: type === '1' ? `中文：${word.chinese}（請回答原形）` : `${word.verb}${type==='6'?'':`（${word.pron}）`} · ${label}`,
         answers, explanation: `原形：${word.verb}（${word.pron}）；中文：${word.chinese}`,
-        speech: word.verb
+        speech: word.pron
     };
 }
 
@@ -98,9 +100,9 @@ function buildQuestions(vocabulary, exercises) {
             result.push({
                 id: `${word.id}-7-${field}`, type: '7',
                 prompt: `${answerVariants(word[field])[0]}（${label} → 請回答原形）`,
-                answers: [...answerVariants(word.verb), word.pron],
+                answers: [...answerVariants(word.verb), word.pron, ...(word.aliases || [])],
                 explanation: `${word.verb}（${word.pron}）的${label}是「${answerVariants(word[field])[0]}」。中文：${word.chinese}`,
-                speech: answerVariants(word[field])[0]
+                speech: answerVariants(word[field]).at(-1)
             });
         }
     }
@@ -136,7 +138,7 @@ async function initializeQuiz() {
         if (!words.length) throw new Error('動詞題庫沒有資料');
         questions = buildQuestions(words, exercises);
         setControlsDisabled(false);
-        document.getElementById('status').textContent = `已載入 ${words.length} 個動詞、${questions.filter(question => Number(question.type) >= 9).length} 道進階題`;
+        document.getElementById('status').textContent = `已載入 ${words.length} 個分類動詞、${questions.filter(question => Number(question.type) >= 9).length} 道情境題`;
         loadQuestion();
     } catch (error) {
         document.getElementById('question').textContent = `資料載入失敗：${error.message}`;

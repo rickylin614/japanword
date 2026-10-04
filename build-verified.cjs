@@ -54,3 +54,5 @@ if(process.argv.includes('--publish')){
   for(const item of accepted){const meaning=translations[item.jmdictId];if(!meaning||!/[\u3400-\u9fff]/.test(meaning))throw Error('Missing Chinese: '+item.word);banks[item.category].push({...item,meaning});}
   fs.writeFileSync(path.join(root,level+'-data.js'),'/* JMdict-derived data: CC BY-SA 4.0. See sources.html. Chinese glosses translated for this project. */\nwindow.JP_VOCABULARY.'+level+' = '+JSON.stringify(banks)+';\n');
 }
+
+if(process.argv.includes('--publish') && ['n3','n4','n5'].includes(level)) require('./build-verbs.cjs').build();
