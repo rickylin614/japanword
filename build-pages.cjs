@@ -4,7 +4,21 @@ const root = __dirname;
 function page(file, title, data) {
   fs.writeFileSync(path.join(root,file), `<!DOCTYPE html>
 <html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="N2、N3、N4、N5 日語詞彙與文法練習，附繁體中文解析與錯題複習。"><title>${title}｜日語練習室</title><link rel="stylesheet" href="learning.css"><script defer src="grammar-data.js"></script><script defer src="vocabulary-data.js"></script><script defer src="n2-data.js"></script><script defer src="n3-data.js"></script><script defer src="n4-data.js"></script><script defer src="n5-data.js"></script><script defer src="learning.js"></script></head><body ${data}><main><h1>${title}</h1><p>載入練習內容中…</p><noscript>請啟用 JavaScript 使用互動練習。</noscript></main></body></html>\n`);
+  const vocabularyLevel = data.includes('data-page="vocabulary"') && data.match(/data-level="(n[2345])"/)?.[1];
+  const examplesFile = vocabularyLevel && vocabularyLevel + '-examples.js';
+  if (examplesFile && fs.existsSync(path.join(root, examplesFile))) {
+    const target = path.join(root, file);
+    fs.writeFileSync(target, fs.readFileSync(target, 'utf8').replace('<script defer src="learning.js">', `<script defer src="${examplesFile}"></script><script defer src="learning.js">`));
+  }
 }
+// Conversation data is loaded before the shared page renderer only where needed.
+function conversationPage(file, title, category) {
+  page(file, title, `data-page="conversation" data-category="${category}"`);
+  const target = path.join(root, file);
+  fs.writeFileSync(target, fs.readFileSync(target, 'utf8').replace('<script defer src="learning.js">', '<script defer src="conversation-data.js"></script><script defer src="learning.js">'));
+}
+conversationPage('aizuchi.html', '相づち・常用回應 100 句', 'aizuchi');
+conversationPage('gitaigo.html', '擬態語・常用詞彙與例句 100 組', 'gitaigo');
 page('index.html','學習總覽','data-page="home"');
 page('layout.html','學習總覽','data-page="home"');
 page('grammar.html','文法練習題庫','data-page="grammar"');

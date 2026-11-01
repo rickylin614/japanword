@@ -166,8 +166,7 @@ async function main() {
       const first=await page.locator('.word-card h2').first().innerText();
       if(count>60){await page.locator('#word-next-page').click();assert.notEqual(await page.locator('.word-card h2').first().innerText(),first);await page.locator('#word-prev-page').click();}
       await page.locator('[data-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
-      await page.locator('.word-card summary').first().click();assert.match(await page.locator('.word-card details').first().innerText(),/JMdict/);
-      const sourceHref=await page.locator('.word-card details a').first().getAttribute('href');assert.ok(sourceHref.includes('/'+level+'.csv#L'));
+      assert.equal(await page.locator('.word-card > details:not(.word-examples)').count(),0);
       await page.fill('#search',first);assert.ok(await page.locator('.word-card').count()>0);await page.fill('#search','');
       await page.locator('.favorite').first().click();await page.reload();await page.selectOption('#scope','favorites');assert.equal(await page.locator('.word-card').count(),1);
       for(const mode of ['reading','meaning']){

@@ -5,6 +5,14 @@ const examples=[
  ['来る','vk',['来ます','来て','来ない','来た']],
  ['くる','vk',['きます','きて','こない','きた']],
  ['する','vs-i',['します','して','しない','した']],
+ ['する','v5r',['すります','すって','すらない','すった']],
+ ['愛する','vs-s',['愛します','愛して','愛さない','愛した']],
+ ['あいする','vs-s',['あいします','あいして','あいさない','あいした']],
+ ['接する','vs-s',['接します','接して','接しない','接した']],
+ ['関する','vs-s',['関します','関して','関しない','関した']],
+ ['属する','vs-s',['属します','属して','属さない','属した']],
+ ['応ずる','vz',['応じます','応じて','応じない','応じた']],
+ ['おうずる','vz',['おうじます','おうじて','おうじない','おうじた']],
  ['在る','v5r-i',['在ります','在って','ない','在った']],
  ['問う','v5u-s',['問います','問うて','問わない','問うた']],
  ['うる','v2a-s',['えます','えて','えない','えた']],
@@ -17,11 +25,11 @@ const examples=[
 ];
 for(const [w,p,expected] of examples)assert.deepEqual(forms(w,p),expected,w);
 const context={window:{JP_VOCABULARY:{}}};const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'sources/verb-conjugation-audit.json')));
-for(const [level,count] of Object.entries({n3:368,n4:159,n5:109})){
+for(const [level,count] of Object.entries({n3:374,n4:159,n5:109})){
  vm.runInNewContext(fs.readFileSync(path.join(__dirname,level+'-data.js'),'utf8'),context);
  const bank=context.window.JP_VOCABULARY[level].verbs;assert.equal(audit[level].length,count);
  assert.equal(new Set(audit[level].map(w=>w.id)).size,count);
  assert.deepEqual(audit[level].map(w=>w.id),Array.from(bank,w=>w.id));
  for(const w of audit[level]){const source=bank.find(b=>b.id===w.id);assert.equal(w.word,source.word);assert.equal(w.reading,source.reading);for(const f of Object.values(w.forms)){assert.ok(f.written);assert.match(f.reading,/^[ぁ-ゖー]+$/);}}
 }
-console.log('PASS: 636 verbs match category IDs exactly; godan, ichidan, irregular, honorific and kana inflections verified.');
+console.log('PASS: 642 verbs match category IDs exactly; godan, ichidan, special suru, irregular, honorific and kana inflections verified.');

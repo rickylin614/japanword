@@ -1,6 +1,30 @@
 {
   "n3": [
     {
+      "id": "n3-jmdict-1150450",
+      "word": "愛する",
+      "reading": "あいする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "愛します",
+          "reading": "あいします"
+        },
+        "te": {
+          "written": "愛して",
+          "reading": "あいして"
+        },
+        "nai": {
+          "written": "愛さない",
+          "reading": "あいさない"
+        },
+        "ta": {
+          "written": "愛した",
+          "reading": "あいした"
+        }
+      }
+    },
+    {
       "id": "n3-jmdict-1198180",
       "word": "遭う",
       "reading": "あう",
@@ -2353,6 +2377,30 @@
       }
     },
     {
+      "id": "n3-jmdict-1215790",
+      "word": "関する",
+      "reading": "かんする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "関します",
+          "reading": "かんします"
+        },
+        "te": {
+          "written": "関して",
+          "reading": "かんして"
+        },
+        "nai": {
+          "written": "関しない",
+          "reading": "かんしない"
+        },
+        "ta": {
+          "written": "関した",
+          "reading": "かんした"
+        }
+      }
+    },
+    {
       "id": "n3-jmdict-1591100",
       "word": "効く",
       "reading": "きく",
@@ -4249,6 +4297,30 @@
       }
     },
     {
+      "id": "n3-jmdict-1610160",
+      "word": "対する",
+      "reading": "たいする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "対します",
+          "reading": "たいします"
+        },
+        "te": {
+          "written": "対して",
+          "reading": "たいして"
+        },
+        "nai": {
+          "written": "対しない",
+          "reading": "たいしない"
+        },
+        "ta": {
+          "written": "対した",
+          "reading": "たいした"
+        }
+      }
+    },
+    {
       "id": "n3-jmdict-1445770",
       "word": "倒す",
       "reading": "たおす",
@@ -4629,6 +4701,30 @@
         "ta": {
           "written": "断った",
           "reading": "たった"
+        }
+      }
+    },
+    {
+      "id": "n3-jmdict-1416230",
+      "word": "達する",
+      "reading": "たっする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "達します",
+          "reading": "たっします"
+        },
+        "te": {
+          "written": "達して",
+          "reading": "たっして"
+        },
+        "nai": {
+          "written": "達しない",
+          "reading": "たっしない"
+        },
+        "ta": {
+          "written": "達した",
+          "reading": "たっした"
         }
       }
     },
@@ -5373,6 +5469,30 @@
         "ta": {
           "written": "出会った",
           "reading": "であった"
+        }
+      }
+    },
+    {
+      "id": "n3-jmdict-1437340",
+      "word": "適する",
+      "reading": "てきする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "適します",
+          "reading": "てきします"
+        },
+        "te": {
+          "written": "適して",
+          "reading": "てきして"
+        },
+        "nai": {
+          "written": "適しない",
+          "reading": "てきしない"
+        },
+        "ta": {
+          "written": "適した",
+          "reading": "てきした"
         }
       }
     },
@@ -6765,6 +6885,30 @@
         "ta": {
           "written": "外れた",
           "reading": "はずれた"
+        }
+      }
+    },
+    {
+      "id": "n3-jmdict-1478080",
+      "word": "罰する",
+      "reading": "ばっする",
+      "posCode": "vs-s",
+      "forms": {
+        "masu": {
+          "written": "罰します",
+          "reading": "ばっします"
+        },
+        "te": {
+          "written": "罰して",
+          "reading": "ばっして"
+        },
+        "nai": {
+          "written": "罰しない",
+          "reading": "ばっしない"
+        },
+        "ta": {
+          "written": "罰した",
+          "reading": "ばっした"
         }
       }
     },

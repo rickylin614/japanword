@@ -1,0 +1,3798 @@
+{
+  "date": "2026-11-01",
+  "method": "Full source/ID/POS/coverage checks; editorial review of glosses, morphology, homographs and Japanese–Chinese pairs; automated browser verification is separate from linguistic review.",
+  "levels": {
+    "n4": {
+      "total": 652,
+      "glossChanges": 5,
+      "categoryChanges": 0,
+      "exampleChanges": 38,
+      "changes": [
+        {
+          "word": "アルコール",
+          "id": "n4-jmdict-1019280",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ペールエールはアルコール含有量の少ないビールだ。",
+            "translation": "淡啤酒是一種酒精含量低的啤酒。",
+            "surface": "アルコール"
+          },
+          "exampleAfter": {
+            "sentence": "この飲み物には、アルコールが入っていません。",
+            "translation": "這種飲料不含酒精。",
+            "surface": "アルコール"
+          }
+        },
+        {
+          "word": "踊り",
+          "id": "n4-jmdict-1546880",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "机の上でなされる踊りについての本が一冊ある。",
+            "translation": "桌子上有一本關於舞蹈的書。",
+            "surface": "踊り"
+          },
+          "exampleAfter": {
+            "sentence": "祭りで、町の人たちの踊りを見ました。",
+            "translation": "我在祭典上看了鎮民的舞蹈。",
+            "surface": "踊り"
+          }
+        },
+        {
+          "word": "お土産",
+          "id": "n4-jmdict-1002500",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女へのお土産には何が一番いいと思う？",
+            "translation": "你覺得她最想要什麼紀念品？",
+            "surface": "お土産"
+          },
+          "exampleAfter": {
+            "sentence": "彼女へのお土産には何が一番いいと思う？",
+            "translation": "你覺得送她什麼伴手禮最合適？",
+            "surface": "お土産"
+          }
+        },
+        {
+          "word": "終わり",
+          "id": "n4-jmdict-1589590",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "今月の終わりまで待ってください。",
+            "translation": "本月結束之前請等待。",
+            "surface": "終わり"
+          },
+          "exampleAfter": {
+            "sentence": "今月の終わりまで待ってください。",
+            "translation": "請等到這個月底。",
+            "surface": "終わり"
+          }
+        },
+        {
+          "word": "帰り",
+          "id": "n4-jmdict-1221250",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "帰りの切符は買ったの？",
+            "translation": "你買回程機票了嗎？",
+            "surface": "帰り"
+          },
+          "exampleAfter": {
+            "sentence": "帰りの切符は買ったの？",
+            "translation": "你買回程票了嗎？",
+            "surface": "帰り"
+          }
+        },
+        {
+          "word": "ガラス",
+          "id": "n4-jmdict-1040380",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車の前面ガラスは砕けて粉々になった。",
+            "translation": "車頭的擋風玻璃被砸至粉碎。",
+            "surface": "ガラス"
+          },
+          "exampleAfter": {
+            "sentence": "車の前面ガラスは砕けて粉々になった。",
+            "translation": "汽車的擋風玻璃碎成了碎片。",
+            "surface": "ガラス"
+          }
+        },
+        {
+          "word": "機会",
+          "id": "n4-jmdict-1220800",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女に会える機会を逃してしまって残念だ。",
+            "translation": "我很後悔當時沒有把握機會認識她。",
+            "surface": "機会"
+          },
+          "exampleAfter": {
+            "sentence": "彼女に会える機会を逃してしまって残念だ。",
+            "translation": "錯過了能見到她的機會，真遺憾。",
+            "surface": "機会"
+          }
+        },
+        {
+          "word": "規則",
+          "id": "n4-jmdict-1223021",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ドライバーは交通規則を知っているべきだ。",
+            "translation": "駕駛者應該注意交通規則。",
+            "surface": "規則"
+          },
+          "exampleAfter": {
+            "sentence": "ドライバーは交通規則を知っているべきだ。",
+            "translation": "駕駛應該熟悉交通規則。",
+            "surface": "規則"
+          }
+        },
+        {
+          "word": "空港",
+          "id": "n4-jmdict-1245570",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "どこの空港でもお知らせは英語でされます。",
+            "translation": "不管哪國的機場諮詢臺都是英文的。",
+            "surface": "空港"
+          },
+          "exampleAfter": {
+            "sentence": "どこの空港でもお知らせは英語でされます。",
+            "translation": "每個機場都會用英語發布通知。",
+            "surface": "空港"
+          }
+        },
+        {
+          "word": "交通",
+          "id": "n4-jmdict-1272280",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ドライバーは交通規則を知っているべきだ。",
+            "translation": "駕駛者應該注意交通規則。",
+            "surface": "交通"
+          },
+          "exampleAfter": {
+            "sentence": "ドライバーは交通規則を知っているべきだ。",
+            "translation": "駕駛應該熟悉交通規則。",
+            "surface": "交通"
+          }
+        },
+        {
+          "word": "ご主人",
+          "id": "n4-jmdict-1270390",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "您的丈夫"
+          },
+          "after": {
+            "meaning": "（別人的）丈夫（敬稱）"
+          }
+        },
+        {
+          "word": "社長",
+          "id": "n4-jmdict-1322920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は彼に社長との会見を忘れないようにと注意した。",
+            "translation": "我提醒他要去會見總裁。",
+            "surface": "社長"
+          },
+          "exampleAfter": {
+            "sentence": "私は彼に社長との会見を忘れないようにと注意した。",
+            "translation": "我提醒他別忘了與社長的會面。",
+            "surface": "社長"
+          }
+        },
+        {
+          "word": "説明",
+          "id": "n4-jmdict-1386460",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼はどのようにその事故が起こったか説明した。",
+            "translation": "他說明瞭那場意外究竟發生了什麼事。",
+            "surface": "説明"
+          },
+          "exampleAfter": {
+            "sentence": "彼はどのようにその事故が起こったか説明した。",
+            "translation": "他說明了那起事故是如何發生的。",
+            "surface": "説明"
+          }
+        },
+        {
+          "word": "相談",
+          "id": "n4-jmdict-1401210",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は今後の就職先を決めかねているので、弟にそれについて相談した。",
+            "translation": "我找不到今後的崗位，所以去找弟弟商量商量。",
+            "surface": "相談"
+          },
+          "exampleAfter": {
+            "sentence": "私は今後の就職先を決めかねているので、弟にそれについて相談した。",
+            "translation": "我難以決定今後要到哪裡工作，因此找弟弟商量。",
+            "surface": "相談"
+          }
+        },
+        {
+          "word": "中学校",
+          "id": "n4-jmdict-1423650",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "小学校を卒業して中学校に入学することが「大人への第一歩」と見なす考え方も存在します。",
+            "translation": "有些人認為從小學升到中學是踏入成年的第一步。",
+            "surface": "中学校"
+          },
+          "exampleAfter": {
+            "sentence": "四月から近くの中学校に通います。",
+            "translation": "我從四月起要去附近的國中上學。",
+            "surface": "中学校"
+          }
+        },
+        {
+          "word": "木綿",
+          "id": "n4-jmdict-1534870",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼らの主たる輸出品は織物であり、特に絹と木綿である。",
+            "translation": "他們主要輸出的產品是紡織品，尤其以絲綢和綿為主。",
+            "surface": "木綿"
+          },
+          "exampleAfter": {
+            "sentence": "彼らの主たる輸出品は織物であり、特に絹と木綿である。",
+            "translation": "他們的主要出口產品是紡織品，尤其是絲綢和棉布。",
+            "surface": "木綿"
+          }
+        },
+        {
+          "word": "理由",
+          "id": "n4-jmdict-1550140",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女は理由を簡単に述べた。",
+            "translation": "她簡單低說明瞭理由。",
+            "surface": "理由"
+          },
+          "exampleAfter": {
+            "sentence": "彼女は理由を簡単に述べた。",
+            "translation": "她簡短地說明了理由。",
+            "surface": "理由"
+          }
+        },
+        {
+          "word": "レジ",
+          "id": "n4-jmdict-1145130",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "会計はお帰りのレジでおねがいします。",
+            "translation": "在出口處的收銀臺付款。",
+            "surface": "レジ"
+          },
+          "exampleAfter": {
+            "sentence": "お支払いは、出口のレジでお願いします。",
+            "translation": "請到出口的收銀台付款。",
+            "surface": "レジ"
+          }
+        },
+        {
+          "word": "ワープロ",
+          "id": "n4-jmdict-1148520",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "コンピューターに比べて、ワープロは一つの目的にしか使えない。",
+            "translation": "文書處理軟體和電腦不同的是，它只有一個用途。",
+            "surface": "ワープロ"
+          },
+          "exampleAfter": {
+            "sentence": "コンピューターに比べて、ワープロは一つの目的にしか使えない。",
+            "translation": "相較於電腦，文書處理機只能用於單一用途。",
+            "surface": "ワープロ"
+          }
+        },
+        {
+          "word": "あげる",
+          "id": "n4-jmdict-1352320",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "大家さんは家賃をあげたいそうだ。",
+            "translation": "東家說要提高租金。",
+            "surface": "あげ"
+          },
+          "exampleAfter": {
+            "sentence": "大家さんは家賃をあげたいそうだ。",
+            "translation": "聽說房東想提高房租。",
+            "surface": "あげ"
+          }
+        },
+        {
+          "word": "祈る",
+          "id": "n4-jmdict-1222770",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "お祈りしましょう。",
+            "translation": "讓我們開始祈禱吧。",
+            "surface": "祈り"
+          },
+          "exampleAfter": {
+            "sentence": "家族の健康を祈っています。",
+            "translation": "我祈願家人健康。",
+            "surface": "祈っています"
+          }
+        },
+        {
+          "word": "うかがう",
+          "id": "n4-jmdict-1305700",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "問候"
+          },
+          "after": {
+            "meaning": "拜訪；請教；聽聞（謙讓語）"
+          }
+        },
+        {
+          "word": "打つ",
+          "id": "n4-jmdict-1408810",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "気晴らしと言えば碁を打つことぐらいだ。",
+            "translation": "要說舒壓的話我也就是打打圍棋了。",
+            "surface": "打つ"
+          },
+          "exampleAfter": {
+            "sentence": "気晴らしと言えば碁を打つことぐらいだ。",
+            "translation": "說到消遣，我大概就只有下下圍棋。",
+            "surface": "打つ"
+          }
+        },
+        {
+          "word": "折れる",
+          "id": "n4-jmdict-1385920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "このスズメの羽、折れちゃってるよ。",
+            "translation": "這隻麻雀的翅膀（是）被折斷了（的狀態）。",
+            "surface": "折れ"
+          },
+          "exampleAfter": {
+            "sentence": "このスズメの羽、折れちゃってるよ。",
+            "translation": "這隻麻雀的翅膀斷了。",
+            "surface": "折れ"
+          }
+        },
+        {
+          "word": "頑張る",
+          "id": "n4-jmdict-1217700",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "もう一頑張りすれば、あなたは出世するでしょう。",
+            "translation": "再努力一下，你的人生會成功的。",
+            "surface": "頑張り"
+          },
+          "exampleAfter": {
+            "sentence": "試験に合格できるように、頑張ります。",
+            "translation": "我會為了考試合格而努力。",
+            "surface": "頑張ります"
+          }
+        },
+        {
+          "word": "過ぎる",
+          "id": "n4-jmdict-1195970",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "過於……（接尾語）"
+          },
+          "after": {
+            "meaning": "經過；超過；過於（接續用法）"
+          },
+          "exampleBefore": {
+            "sentence": "たぶん私たちって楽観的過ぎたね。",
+            "translation": "也許我們過於樂觀了。",
+            "surface": "過ぎ"
+          },
+          "exampleAfter": {
+            "sentence": "約束の時間を十分過ぎました。",
+            "translation": "約定時間已經過了十分鐘。",
+            "surface": "過ぎました"
+          }
+        },
+        {
+          "word": "届ける",
+          "id": "n4-jmdict-1457210",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "君に届けてほしいメッセージがあるんだ。",
+            "translation": "有想要傳達給你的訊息。",
+            "surface": "届け"
+          },
+          "exampleAfter": {
+            "sentence": "この書類を先生に届けてください。",
+            "translation": "請把這份文件送給老師。",
+            "surface": "届けて"
+          }
+        },
+        {
+          "word": "慣れる",
+          "id": "n4-jmdict-1212670",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私の弟はすぐに東京の独り暮らしに慣れた。",
+            "translation": "我弟弟馬上就要習慣住在東京了。",
+            "surface": "慣れ"
+          },
+          "exampleAfter": {
+            "sentence": "私の弟はすぐに東京の独り暮らしに慣れた。",
+            "translation": "我弟弟很快就習慣了在東京獨自生活。",
+            "surface": "慣れ"
+          }
+        },
+        {
+          "word": "増える",
+          "id": "n4-jmdict-1602440",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車的增加，空氣也跟著變糟。",
+            "surface": "増え"
+          },
+          "exampleAfter": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車增加，空氣污染也變得更嚴重。",
+            "surface": "増え"
+          }
+        },
+        {
+          "word": "太る",
+          "id": "n4-jmdict-1408220",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "肥胖"
+          },
+          "after": {
+            "meaning": "變胖；增重"
+          },
+          "exampleBefore": {
+            "sentence": "私は太っている。",
+            "translation": "我肥胖。",
+            "surface": "太っ"
+          },
+          "exampleAfter": {
+            "sentence": "最近、少し太りました。",
+            "translation": "我最近胖了一點。",
+            "surface": "太りました"
+          }
+        },
+        {
+          "word": "見つかる",
+          "id": "n4-jmdict-1604550",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は盗みをしているところを見つかった。",
+            "translation": "他在行竊的時後被發現。",
+            "surface": "見つかっ"
+          },
+          "exampleAfter": {
+            "sentence": "なくした鍵が、かばんの中で見つかりました。",
+            "translation": "遺失的鑰匙在包包裡找到了。",
+            "surface": "見つかりました"
+          }
+        },
+        {
+          "word": "向かう",
+          "id": "n4-jmdict-1604800",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "標語は「未来へ！！夢に向かってさあ走ろう！！」である。",
+            "translation": "標語是「前往未來！前往夢境吧！」",
+            "surface": "向かっ"
+          },
+          "exampleAfter": {
+            "sentence": "今、駅に向かっています。",
+            "translation": "我現在正前往車站。",
+            "surface": "向かっています"
+          }
+        },
+        {
+          "word": "割れる",
+          "id": "n4-jmdict-1208020",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車のフロントガラスが粉々に割れたの。",
+            "translation": "車頭的擋風玻璃被砸至粉碎。",
+            "surface": "割れ"
+          },
+          "exampleAfter": {
+            "sentence": "車のフロントガラスが粉々に割れたの。",
+            "translation": "汽車的擋風玻璃碎成了碎片。",
+            "surface": "割れ"
+          }
+        },
+        {
+          "word": "オーバー",
+          "id": "n4-jmdict-1032390",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "とても寒かったが、少年はオーバーを着ていなかった。",
+            "translation": "儘管天氣很冷，孩子卻沒有大衣穿。",
+            "surface": "オーバー"
+          },
+          "exampleAfter": {
+            "sentence": "とても寒かったが、少年はオーバーを着ていなかった。",
+            "translation": "雖然很冷，那個男孩卻沒有穿大衣。",
+            "surface": "オーバー"
+          }
+        },
+        {
+          "word": "自由",
+          "id": "n4-jmdict-1318720",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "自由の女神の右腕の長さは12.8mである。",
+            "translation": "自由女神像的右手臂有12.8米長。",
+            "surface": "自由"
+          },
+          "exampleAfter": {
+            "sentence": "休日は、自由に時間を使えます。",
+            "translation": "假日可以自由安排時間。",
+            "surface": "自由"
+          }
+        },
+        {
+          "word": "以内",
+          "id": "n4-jmdict-1155180",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "世界の人口はどんどん増えているので、４０年以内に今の倍になってしまうだろう。",
+            "translation": "世界的人口漸漸地增長，也許四十年以內會達到現在的一倍。",
+            "surface": "以内"
+          },
+          "exampleAfter": {
+            "sentence": "三日以内に、お返事します。",
+            "translation": "我會在三天內回覆。",
+            "surface": "以内"
+          }
+        },
+        {
+          "word": "是非",
+          "id": "n4-jmdict-1374530",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "自分の子供たちには是非とも優しくしなさい。",
+            "translation": "要對自己的小孩好一點！",
+            "surface": "是非"
+          },
+          "exampleAfter": {
+            "sentence": "是非、遊びに来てください。",
+            "translation": "請務必來玩。",
+            "surface": "是非"
+          }
+        },
+        {
+          "word": "それほど",
+          "id": "n4-jmdict-1007060",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私はクラシックをよく聴くが、古典派の作品はそれほど好きではない。",
+            "translation": "我雖然常常聽聽古典音樂，但是卻沒那麼像喜歡古典音樂般那樣喜歡古典派的作品。",
+            "surface": "それほど"
+          },
+          "exampleAfter": {
+            "sentence": "今日は、それほど寒くありません。",
+            "translation": "今天沒有那麼冷。",
+            "surface": "それほど"
+          }
+        },
+        {
+          "word": "そんな",
+          "id": "n4-jmdict-1007130",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "本当の科学者ならそんなふうには考えないだろう。",
+            "translation": "一個正確的科學家不會那樣想。",
+            "surface": "そんな"
+          },
+          "exampleAfter": {
+            "sentence": "本当の科学者ならそんなふうには考えないだろう。",
+            "translation": "真正的科學家應該不會那樣思考。",
+            "surface": "そんな"
+          }
+        },
+        {
+          "word": "できるだけ",
+          "id": "n4-jmdict-1340460",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "できるだけ、こまめに来るようにしますね。",
+            "translation": "我會來盡可能常來。",
+            "surface": "できるだけ"
+          },
+          "exampleAfter": {
+            "sentence": "できるだけ、こまめに来るようにしますね。",
+            "translation": "我會盡可能常來。",
+            "surface": "できるだけ"
+          }
+        },
+        {
+          "word": "程",
+          "id": "n4-jmdict-1436510",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "程度"
+          },
+          "after": {
+            "meaning": "程度；大約"
+          }
+        }
+      ]
+    },
+    "n3": {
+      "total": 2091,
+      "glossChanges": 6,
+      "categoryChanges": 6,
+      "exampleChanges": 99,
+      "changes": [
+        {
+          "word": "従兄弟",
+          "id": "n3-jmdict-1335290",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "従兄弟が３人います。",
+            "translation": "我有三個堂兄。",
+            "surface": "従兄弟"
+          },
+          "exampleAfter": {
+            "sentence": "従兄弟が３人います。",
+            "translation": "我有三個堂表兄弟。",
+            "surface": "従兄弟"
+          }
+        },
+        {
+          "word": "違反",
+          "id": "n3-jmdict-1158950",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "相次ぐ不祥事にも関わらず、警察はオメオメ違反切符を切っている。",
+            "translation": "與自身相次發生的醜聞毫無關係，警方無恥地不斷髮出違規的罰票。",
+            "surface": "違反"
+          },
+          "exampleAfter": {
+            "sentence": "交通規則に違反して、注意されました。",
+            "translation": "我違反交通規則，受到了提醒。",
+            "surface": "違反"
+          }
+        },
+        {
+          "word": "汚染",
+          "id": "n3-jmdict-1179040",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車的增加，空氣也跟著變糟。",
+            "surface": "汚染"
+          },
+          "exampleAfter": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車增加，空氣污染也變得更嚴重。",
+            "surface": "汚染"
+          }
+        },
+        {
+          "word": "観客",
+          "id": "n3-jmdict-1214810",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "全部観客が立ち上がって拍手し始めた。",
+            "translation": "所有的觀眾都站起來鼓掌。",
+            "surface": "観客"
+          },
+          "exampleAfter": {
+            "sentence": "観客全員が立ち上がって、拍手しました。",
+            "translation": "全體觀眾都站起來鼓掌。",
+            "surface": "観客"
+          }
+        },
+        {
+          "word": "気味",
+          "id": "n3-jmdict-1222640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "風邪気味だったので、家族と指宿には行けなかった。",
+            "translation": "我有點感冒，沒能和家人一起去指宿。",
+            "surface": "気味"
+          },
+          "exampleAfter": {
+            "sentence": "暗い廊下から音がして、気味が悪いです。",
+            "translation": "黑暗走廊傳來聲音，讓人覺得毛骨悚然。",
+            "surface": "気味"
+          }
+        },
+        {
+          "word": "金融",
+          "id": "n3-jmdict-1243290",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "工業よりも金融に関心のある学生のほうが多い。",
+            "translation": "大多數學生關心金融多過於關心工業。",
+            "surface": "金融"
+          },
+          "exampleAfter": {
+            "sentence": "大学で金融の仕組みを学んでいます。",
+            "translation": "我在大學學習金融機制。",
+            "surface": "金融"
+          }
+        },
+        {
+          "word": "クリーム",
+          "id": "n3-jmdict-1044480",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "奶油；乳霜"
+          },
+          "after": {
+            "meaning": "鮮奶油；乳霜"
+          },
+          "exampleBefore": {
+            "sentence": "クリームを使い切ってしまった。",
+            "translation": "我們沒奶油了。",
+            "surface": "クリーム"
+          },
+          "exampleAfter": {
+            "sentence": "ケーキに生クリームを添えました。",
+            "translation": "我在蛋糕旁配上了鮮奶油。",
+            "surface": "クリーム"
+          }
+        },
+        {
+          "word": "刑事",
+          "id": "n3-jmdict-1249660",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "男は刑事に銃を向けた。",
+            "translation": "男子把槍指向了偵探。",
+            "surface": "刑事"
+          },
+          "exampleAfter": {
+            "sentence": "男は刑事に銃を向けた。",
+            "translation": "那個男人把槍口對準了刑警。",
+            "surface": "刑事"
+          }
+        },
+        {
+          "word": "恋人",
+          "id": "n3-jmdict-1558920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "恋人を3Dから2Dにのりかえて交際費を節約。",
+            "translation": "把戀人從3D換成2D可以有效地降低交際所需的費用。",
+            "surface": "恋人"
+          },
+          "exampleAfter": {
+            "sentence": "休日に、恋人と映画を見ました。",
+            "translation": "我假日和戀人看了電影。",
+            "surface": "恋人"
+          }
+        },
+        {
+          "word": "後者",
+          "id": "n3-jmdict-1269720",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は能楽が歌舞伎より好きだが、それは前者が後者よりも優雅に思えるからである。",
+            "translation": "比起歌舞伎，我更喜歡能樂表演，因為我覺得後者比前者優雅。",
+            "surface": "後者"
+          },
+          "exampleAfter": {
+            "sentence": "私は能楽が歌舞伎より好きだが、それは前者が後者よりも優雅に思えるからである。",
+            "translation": "比起歌舞伎，我更喜歡能樂，因為我覺得前者比後者更優雅。",
+            "surface": "後者"
+          }
+        },
+        {
+          "word": "裁判",
+          "id": "n3-jmdict-1296120",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "事件を審議したのはどの裁判官ですか。",
+            "translation": "哪一位法官審理此案？",
+            "surface": "裁判"
+          },
+          "exampleAfter": {
+            "sentence": "裁判は来月始まります。",
+            "translation": "審判下個月開始。",
+            "surface": "裁判"
+          }
+        },
+        {
+          "word": "砂漠",
+          "id": "n3-jmdict-1593800",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "地球の表面の３分の１は砂漠である。",
+            "translation": "地球表面的三分之一是沙漠。",
+            "surface": "砂漠"
+          },
+          "exampleAfter": {
+            "sentence": "砂漠を旅するには、十分な水が必要です。",
+            "translation": "到沙漠旅行需要充足的水。",
+            "surface": "砂漠"
+          }
+        },
+        {
+          "word": "酸化",
+          "id": "n3-jmdict-1304290",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "樹木は酸素を排出し、二酸化炭素を吸収する。",
+            "translation": "樹木排出氧氣，吸收二氧化碳。",
+            "surface": "酸化"
+          },
+          "exampleAfter": {
+            "sentence": "鉄は酸化すると、さびます。",
+            "translation": "鐵氧化後會生鏽。",
+            "surface": "酸化"
+          }
+        },
+        {
+          "word": "参考",
+          "id": "n3-jmdict-1302280",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "イギリスにいる間、私はよくそのガイドブックを参考にした。",
+            "translation": "在英國的時候，我經常看參考書。",
+            "surface": "参考"
+          },
+          "exampleAfter": {
+            "sentence": "イギリスにいる間、私はよくそのガイドブックを参考にした。",
+            "translation": "在英國期間，我經常參考那本旅遊指南。",
+            "surface": "参考"
+          }
+        },
+        {
+          "word": "ジェット機",
+          "id": "n3-jmdict-1064250",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ジェット機は東京に着陸した。",
+            "translation": "這架客機降落在東京了。",
+            "surface": "ジェット機"
+          },
+          "exampleAfter": {
+            "sentence": "ジェット機は東京に着陸した。",
+            "translation": "噴射機在東京降落了。",
+            "surface": "ジェット機"
+          }
+        },
+        {
+          "word": "四季",
+          "id": "n3-jmdict-1307130",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本には四季があります。",
+            "translation": "我們在日本里有四個季節。",
+            "surface": "四季"
+          },
+          "exampleAfter": {
+            "sentence": "日本には四季があります。",
+            "translation": "日本有四季。",
+            "surface": "四季"
+          }
+        },
+        {
+          "word": "自殺",
+          "id": "n3-jmdict-1317770",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "運命に甘んじるくらいなら自殺したほうがいい。",
+            "translation": "與其向命運妥協，我寧可自殺。",
+            "surface": "自殺"
+          },
+          "exampleAfter": {
+            "sentence": "自殺を防ぐ活動について、授業で話し合いました。",
+            "translation": "我們在課堂討論了預防自殺的活動。",
+            "surface": "自殺"
+          }
+        },
+        {
+          "word": "湿気",
+          "id": "n3-jmdict-1320410",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "濕氣（しっき）"
+          },
+          "after": {
+            "meaning": "濕氣（しっけ）"
+          }
+        },
+        {
+          "word": "実現",
+          "id": "n3-jmdict-1321020",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "これらの計画のうちどれも実現しそうにもない。",
+            "translation": "這些計劃從來就沒有被實現，甚至接近實現過。",
+            "surface": "実現"
+          },
+          "exampleAfter": {
+            "sentence": "これらの計画のうちどれも実現しそうにもない。",
+            "translation": "這些計畫似乎沒有一個能實現。",
+            "surface": "実現"
+          }
+        },
+        {
+          "word": "支配",
+          "id": "n3-jmdict-1310270",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女のフェチが緊縛と支配でしょう。",
+            "translation": "我想她想要的是束縛與支配。",
+            "surface": "支配"
+          },
+          "exampleAfter": {
+            "sentence": "この地域は、長く外国の支配を受けました。",
+            "translation": "這個地區長期受到外國統治。",
+            "surface": "支配"
+          }
+        },
+        {
+          "word": "修飾",
+          "id": "n3-jmdict-1332070",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "名詞を修飾するもの（形容詞、または形容詞相当語句）。",
+            "translation": "修飾名詞的東西（形容詞，或形容詞相等語）。",
+            "surface": "修飾"
+          },
+          "exampleAfter": {
+            "sentence": "形容詞は、名詞を修飾します。",
+            "translation": "形容詞用來修飾名詞。",
+            "surface": "修飾"
+          }
+        },
+        {
+          "word": "集団",
+          "id": "n3-jmdict-1333730",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ある日のこと、警察が娼婦の集団を手入れした。少女もその集団の一員だった。",
+            "translation": "有一天，警方突擊搜捕了一個娼妓集團，而她正是被捕的人的其中一個。",
+            "surface": "集団"
+          },
+          "exampleAfter": {
+            "sentence": "子供たちは集団で行動しています。",
+            "translation": "孩子們正在集體行動。",
+            "surface": "集団"
+          }
+        },
+        {
+          "word": "正体",
+          "id": "n3-jmdict-1377530",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "真面目；真相"
+          },
+          "after": {
+            "meaning": "真實身分；真面貌"
+          },
+          "exampleBefore": {
+            "sentence": "彼は正体を見破られないように仮面をつけていた。",
+            "translation": "他戴著面具以至於沒有人認出他。",
+            "surface": "正体"
+          },
+          "exampleAfter": {
+            "sentence": "彼は正体を見破られないように仮面をつけていた。",
+            "translation": "他戴著面具，以免真實身分被識破。",
+            "surface": "正体"
+          }
+        },
+        {
+          "word": "食品",
+          "id": "n3-jmdict-1358600",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "暑い季節は、生鮮食品はとても腐りやすい。",
+            "translation": "在炎熱的季節時，有些食品很容易變壞。",
+            "surface": "食品"
+          },
+          "exampleAfter": {
+            "sentence": "暑い季節は、生鮮食品はとても腐りやすい。",
+            "translation": "天氣炎熱時，生鮮食品很容易腐壞。",
+            "surface": "食品"
+          }
+        },
+        {
+          "word": "知らせ",
+          "id": "n3-jmdict-1420400",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "もし気がかわったら、知らせてください。",
+            "translation": "如果你要改變主意，通知我。",
+            "surface": "知らせ"
+          },
+          "exampleAfter": {
+            "sentence": "友人から、うれしい知らせが届きました。",
+            "translation": "朋友捎來了好消息。",
+            "surface": "知らせ"
+          }
+        },
+        {
+          "word": "人類",
+          "id": "n3-jmdict-1369530",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "核兵器は人類の絶滅をもたらすかもしれない。",
+            "translation": "核子武器會為人類帶來滅絕。",
+            "surface": "人類"
+          },
+          "exampleAfter": {
+            "sentence": "核兵器は人類の絶滅をもたらすかもしれない。",
+            "translation": "核武器可能導致人類滅絕。",
+            "surface": "人類"
+          }
+        },
+        {
+          "word": "スケジュール",
+          "id": "n3-jmdict-1068870",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "スケジュールに関しては、後でお知らせします。",
+            "translation": "關於時間，我晚點通知您。",
+            "surface": "スケジュール"
+          },
+          "exampleAfter": {
+            "sentence": "スケジュールに関しては、後でお知らせします。",
+            "translation": "關於行程安排，我稍後會通知您。",
+            "surface": "スケジュール"
+          }
+        },
+        {
+          "word": "絶滅",
+          "id": "n3-jmdict-1386990",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "核兵器は人類の絶滅をもたらすかもしれない。",
+            "translation": "核子武器會為人類帶來滅絕。",
+            "surface": "絶滅"
+          },
+          "exampleAfter": {
+            "sentence": "核兵器は人類の絶滅をもたらすかもしれない。",
+            "translation": "核武器可能導致人類滅絕。",
+            "surface": "絶滅"
+          }
+        },
+        {
+          "word": "洗剤",
+          "id": "n3-jmdict-1390950",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "誤って洗剤を飲んでしまいました。",
+            "translation": "他誤吞了洗衣粉。",
+            "surface": "洗剤"
+          },
+          "exampleAfter": {
+            "sentence": "誤って洗剤を飲んでしまいました。",
+            "translation": "我不小心誤喝了清潔劑。",
+            "surface": "洗剤"
+          }
+        },
+        {
+          "word": "前者",
+          "id": "n3-jmdict-1393090",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は能楽が歌舞伎より好きだが、それは前者が後者よりも優雅に思えるからである。",
+            "translation": "比起歌舞伎，我更喜歡能樂表演，因為我覺得後者比前者優雅。",
+            "surface": "前者"
+          },
+          "exampleAfter": {
+            "sentence": "私は能楽が歌舞伎より好きだが、それは前者が後者よりも優雅に思えるからである。",
+            "translation": "比起歌舞伎，我更喜歡能樂，因為我覺得前者比後者更優雅。",
+            "surface": "前者"
+          }
+        },
+        {
+          "word": "相続",
+          "id": "n3-jmdict-1401090",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は父親の大きな土地を相続した。",
+            "translation": "他繼承了他爸爸的龐大遺產。",
+            "surface": "相続"
+          },
+          "exampleAfter": {
+            "sentence": "彼は父親の大きな土地を相続した。",
+            "translation": "他繼承了父親的一大片土地。",
+            "surface": "相続"
+          }
+        },
+        {
+          "word": "体重",
+          "id": "n3-jmdict-1409540",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "氷は非常に薄いので君の体重を支えきれないだろう。",
+            "translation": "冰面非常薄，不足以支援你的體重。",
+            "surface": "体重"
+          },
+          "exampleAfter": {
+            "sentence": "氷は非常に薄いので君の体重を支えきれないだろう。",
+            "translation": "冰很薄，恐怕承受不了你的體重。",
+            "surface": "体重"
+          }
+        },
+        {
+          "word": "地球",
+          "id": "n3-jmdict-1420970",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "地球は水があるという点でほかの惑星と違う。",
+            "translation": "地球有水這一點與其他行星不同。",
+            "surface": "地球"
+          },
+          "exampleAfter": {
+            "sentence": "宇宙から見た地球の写真を見ました。",
+            "translation": "我看了從太空拍攝的地球照片。",
+            "surface": "地球"
+          }
+        },
+        {
+          "word": "チャンス",
+          "id": "n3-jmdict-1078040",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女に会えるチャンスを逃して残念だ。",
+            "translation": "我很後悔當時沒有把握機會認識她。",
+            "surface": "チャンス"
+          },
+          "exampleAfter": {
+            "sentence": "彼女に会えるチャンスを逃して残念だ。",
+            "translation": "錯過了能見到她的機會，真遺憾。",
+            "surface": "チャンス"
+          }
+        },
+        {
+          "word": "中古",
+          "id": "n3-jmdict-1424150",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私の中古車は１００ドルで売れた。",
+            "translation": "我能以100美元的價格賣了二手車。",
+            "surface": "中古"
+          },
+          "exampleAfter": {
+            "sentence": "私の中古車は１００ドルで売れた。",
+            "translation": "我的二手車賣了一百美元。",
+            "surface": "中古"
+          }
+        },
+        {
+          "word": "通貨",
+          "id": "n3-jmdict-1433050",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "国際通貨基金は同国に対する新たな借款も認めませんでした。",
+            "translation": "國際貨幣基金組織不考慮再借款給該國。",
+            "surface": "通貨"
+          },
+          "exampleAfter": {
+            "sentence": "国際通貨基金は同国に対する新たな借款も認めませんでした。",
+            "translation": "國際貨幣基金組織也沒有批准對該國的新貸款。",
+            "surface": "通貨"
+          }
+        },
+        {
+          "word": "定期",
+          "id": "n3-jmdict-1435490",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女は定期的に私をたずねてきたものだった。",
+            "translation": "她以前定期來看我。",
+            "surface": "定期"
+          },
+          "exampleAfter": {
+            "sentence": "通学のために、一か月の定期を買いました。",
+            "translation": "為了通學，我買了一個月的定期票。",
+            "surface": "定期"
+          }
+        },
+        {
+          "word": "デモ",
+          "id": "n3-jmdict-1084000",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "但是（口語）"
+          },
+          "after": {
+            "meaning": "示威；示範展示"
+          },
+          "exampleBefore": {
+            "sentence": "彼には欠点があるが、それでも彼が好きだ。",
+            "translation": "他有他的缺點，但是我愛他。",
+            "surface": "でも"
+          },
+          "exampleAfter": {
+            "sentence": "広場で、平和を求めるデモが行われました。",
+            "translation": "廣場上舉行了要求和平的示威活動。",
+            "surface": "デモ"
+          }
+        },
+        {
+          "word": "伝統",
+          "id": "n3-jmdict-1442260",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "名古屋大学には女生徒が法を犯す伝統がある。",
+            "translation": "名古屋大學有女生犯法的傳統。",
+            "surface": "伝統"
+          },
+          "exampleAfter": {
+            "sentence": "この町では、祭りの伝統を大切にしています。",
+            "translation": "這個城鎮珍視祭典傳統。",
+            "surface": "伝統"
+          }
+        },
+        {
+          "word": "同時",
+          "id": "n3-jmdict-1452500",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "世界同時株安の底はみえてこない。",
+            "translation": "全世界股票的同時下跌是沒有底線的。",
+            "surface": "同時"
+          },
+          "exampleAfter": {
+            "sentence": "世界同時株安の底はみえてこない。",
+            "translation": "全球股市同步下跌，還看不到谷底。",
+            "surface": "同時"
+          }
+        },
+        {
+          "word": "図書",
+          "id": "n3-jmdict-1370410",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "全学生はみんな図書館に入ることができる。",
+            "translation": "所以學生都可以進圖書館的。",
+            "surface": "図書"
+          },
+          "exampleAfter": {
+            "sentence": "全学生はみんな図書館に入ることができる。",
+            "translation": "所有學生都可以進入圖書館。",
+            "surface": "図書"
+          }
+        },
+        {
+          "word": "トップ",
+          "id": "n3-jmdict-1085030",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "トムは他の連中よりはるかにすぐれてトップだ。",
+            "translation": "湯姆比其他人都優秀能幹。",
+            "surface": "トップ"
+          },
+          "exampleAfter": {
+            "sentence": "試験でクラスのトップになりました。",
+            "translation": "我考了全班第一名。",
+            "surface": "トップ"
+          }
+        },
+        {
+          "word": "トレーニング",
+          "id": "n3-jmdict-1087100",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "息子はトイレトレーニング中です。",
+            "translation": "我兒子正在鍛鍊上廁所。",
+            "surface": "トレーニング"
+          },
+          "exampleAfter": {
+            "sentence": "息子はトイレトレーニング中です。",
+            "translation": "我兒子正在學習自己上廁所。",
+            "surface": "トレーニング"
+          }
+        },
+        {
+          "word": "拍手",
+          "id": "n3-jmdict-1474820",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "全部観客が立ち上がって拍手し始めた。",
+            "translation": "所有的觀眾都站起來鼓掌。",
+            "surface": "拍手"
+          },
+          "exampleAfter": {
+            "sentence": "観客全員が立ち上がって、拍手しました。",
+            "translation": "全體觀眾都站起來鼓掌。",
+            "surface": "拍手"
+          }
+        },
+        {
+          "word": "発行",
+          "id": "n3-jmdict-1477390",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "新しい切手が来週発行される。",
+            "translation": "新郵票將於下個月發行。",
+            "surface": "発行"
+          },
+          "exampleAfter": {
+            "sentence": "新しい切手が来週発行される。",
+            "translation": "新郵票將於下週發行。",
+            "surface": "発行"
+          }
+        },
+        {
+          "word": "雰囲気",
+          "id": "n3-jmdict-1505070",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "このワンピースは、君の雰囲気にぴったりだね。",
+            "translation": "這條裙子很適合你的氣氛",
+            "surface": "雰囲気"
+          },
+          "exampleAfter": {
+            "sentence": "このワンピースは、君の雰囲気にぴったりだね。",
+            "translation": "這件洋裝很適合你的氣質。",
+            "surface": "雰囲気"
+          }
+        },
+        {
+          "word": "土産",
+          "id": "n3-jmdict-1445360",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女へのお土産には何が一番いいと思う？",
+            "translation": "你覺得她最想要什麼紀念品？",
+            "surface": "土産"
+          },
+          "exampleAfter": {
+            "sentence": "彼女へのお土産には何が一番いいと思う？",
+            "translation": "你覺得送她什麼伴手禮最合適？",
+            "surface": "土産"
+          }
+        },
+        {
+          "word": "無料",
+          "id": "n3-jmdict-1531040",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "登録用紙は無料で入手できます。",
+            "translation": "我可以免費獲取一份登錄檔格。",
+            "surface": "無料"
+          },
+          "exampleAfter": {
+            "sentence": "この資料は無料で入手できます。",
+            "translation": "這份資料可以免費取得。",
+            "surface": "無料"
+          }
+        },
+        {
+          "word": "名詞",
+          "id": "n3-jmdict-1531570",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "名詞を修飾するもの（形容詞、または形容詞相当語句）。",
+            "translation": "修飾名詞的東西（形容詞，或形容詞相等語）。",
+            "surface": "名詞"
+          },
+          "exampleAfter": {
+            "sentence": "形容詞は、名詞を修飾します。",
+            "translation": "形容詞用來修飾名詞。",
+            "surface": "名詞"
+          }
+        },
+        {
+          "word": "メッセージ",
+          "id": "n3-jmdict-1133570",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "君に届けてほしいメッセージがあるんだ。",
+            "translation": "有想要傳達給你的訊息。",
+            "surface": "メッセージ"
+          },
+          "exampleAfter": {
+            "sentence": "君に届けてほしいメッセージがあるんだ。",
+            "translation": "有個訊息想請你幫忙轉達。",
+            "surface": "メッセージ"
+          }
+        },
+        {
+          "word": "留学",
+          "id": "n3-jmdict-1552740",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は両親と留学のことを相談した。",
+            "translation": "我跟父母講了留學的事情。",
+            "surface": "留学"
+          },
+          "exampleAfter": {
+            "sentence": "私は両親と留学のことを相談した。",
+            "translation": "我和父母商量了留學的事。",
+            "surface": "留学"
+          }
+        },
+        {
+          "word": "料金",
+          "id": "n3-jmdict-1554280",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "南部の州へ冬期に旅行すると、今旅行するよりも料金が高くなります。",
+            "translation": "冬季前往南部省份的旅遊費用比現在的費用要高。",
+            "surface": "料金"
+          },
+          "exampleAfter": {
+            "sentence": "南部の州へ冬期に旅行すると、今旅行するよりも料金が高くなります。",
+            "translation": "冬季到南部各州旅行，費用會比現在去更高。",
+            "surface": "料金"
+          }
+        },
+        {
+          "word": "悪口",
+          "id": "n3-jmdict-1575730",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女が他人の悪口を言うのを聞いたことがない。",
+            "translation": "我從沒聽過她說別人壞話。",
+            "surface": "悪口"
+          },
+          "exampleAfter": {
+            "sentence": "人のわるくちを言ってはいけません。",
+            "translation": "不可以說別人的壞話。",
+            "surface": "わるくち"
+          }
+        },
+        {
+          "word": "愛する",
+          "id": "n3-jmdict-1150450",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "預かる",
+          "id": "n3-jmdict-1544970",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "チェックインまで荷物を預かってもらえますか。",
+            "translation": "我來登記之前你可以先幫我看管行李嗎？",
+            "surface": "預かっ"
+          },
+          "exampleAfter": {
+            "sentence": "チェックインまで荷物を預かってもらえますか。",
+            "translation": "可以在我辦理入住之前，先幫我保管行李嗎？",
+            "surface": "預かっ"
+          }
+        },
+        {
+          "word": "暖める",
+          "id": "n3-jmdict-1586440",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は火に当たって体を暖めた。",
+            "translation": "靠近火光後身體感到很溫暖。",
+            "surface": "暖め"
+          },
+          "exampleAfter": {
+            "sentence": "私は火に当たって体を暖めた。",
+            "translation": "我靠著火取暖，暖了暖身子。",
+            "surface": "暖め"
+          }
+        },
+        {
+          "word": "埋める",
+          "id": "n3-jmdict-1524500",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "空所を埋めろ。",
+            "translation": "把白的填滿。",
+            "surface": "埋めろ"
+          },
+          "exampleAfter": {
+            "sentence": "空所を埋めろ。",
+            "translation": "把空格填滿。",
+            "surface": "埋めろ"
+          }
+        },
+        {
+          "word": "起こる",
+          "id": "n3-jmdict-1223680",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼はどのようにその事故が起こったか説明した。",
+            "translation": "他說明瞭那場意外究竟發生了什麼事。",
+            "surface": "起こっ"
+          },
+          "exampleAfter": {
+            "sentence": "彼はどのようにその事故が起こったか説明した。",
+            "translation": "他說明了那起事故是如何發生的。",
+            "surface": "起こっ"
+          }
+        },
+        {
+          "word": "反る",
+          "id": "n3-jmdict-1512150",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "返回；翻轉"
+          },
+          "after": {
+            "meaning": "翻轉；返回（讀かえる，同「返る」）"
+          },
+          "exampleBefore": {
+            "sentence": "傘が反る（かえる）ほど強い風でした。",
+            "translation": "風強得把傘都吹翻了。",
+            "surface": "反る"
+          },
+          "exampleAfter": {
+            "sentence": "強い風で、傘が裏にかえってしまいました。",
+            "translation": "強風把傘吹翻了。",
+            "surface": "かえって"
+          }
+        },
+        {
+          "word": "関する",
+          "id": "n3-jmdict-1215790",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "切れる",
+          "id": "n3-jmdict-1384860",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "こんな大容量のハードディスク、使い切れない。",
+            "translation": "這麼大的硬碟很難被用完。",
+            "surface": "切れ"
+          },
+          "exampleAfter": {
+            "sentence": "古いひもが、途中で切れました。",
+            "translation": "舊繩子中途斷了。",
+            "surface": "切れました"
+          }
+        },
+        {
+          "word": "殺す",
+          "id": "n3-jmdict-1299030",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "動物を殺すのはまっぴらだ。",
+            "translation": "我怕殺害動物。",
+            "surface": "殺す"
+          },
+          "exampleAfter": {
+            "sentence": "動物を殺すのはまっぴらだ。",
+            "translation": "我絕不願意殺害動物。",
+            "surface": "殺す"
+          }
+        },
+        {
+          "word": "支える",
+          "id": "n3-jmdict-1310090",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本は大都市の勤勉なサラリーマンによって支えられている経済だ。",
+            "translation": "日本是由大都市的勤勉上班族支撐的經濟體。",
+            "surface": "支え"
+          },
+          "exampleAfter": {
+            "sentence": "家族の励ましが、私を支えています。",
+            "translation": "家人的鼓勵支持著我。",
+            "surface": "支えています"
+          }
+        },
+        {
+          "word": "注す",
+          "id": "n3-jmdict-1609820",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "目が乾いたので、目薬を注してください。",
+            "translation": "眼睛乾了，請點眼藥水。",
+            "surface": "注して"
+          },
+          "exampleAfter": {
+            "sentence": "目が乾くので、目薬を注します。",
+            "translation": "因為眼睛乾，我要點眼藥水。",
+            "surface": "注します"
+          }
+        },
+        {
+          "word": "すれ違う",
+          "id": "n3-jmdict-1595920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女は通りですれ違う時に私に微笑みかけた。",
+            "translation": "她在大街上看見我的時候衝我笑了笑。",
+            "surface": "すれ違う"
+          },
+          "exampleAfter": {
+            "sentence": "彼女は通りですれ違う時に私に微笑みかけた。",
+            "translation": "她在街上與我擦身而過時，對我微微一笑。",
+            "surface": "すれ違う"
+          }
+        },
+        {
+          "word": "対する",
+          "id": "n3-jmdict-1610160",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "立ち上がる",
+          "id": "n3-jmdict-1551370",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "全部観客が立ち上がって拍手し始めた。",
+            "translation": "所有的觀眾都站起來鼓掌。",
+            "surface": "立ち上がっ"
+          },
+          "exampleAfter": {
+            "sentence": "観客が一斉に立ち上がって、拍手しました。",
+            "translation": "觀眾一齊站起來鼓掌。",
+            "surface": "立ち上がって"
+          }
+        },
+        {
+          "word": "達する",
+          "id": "n3-jmdict-1416230",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "次ぐ",
+          "id": "n3-jmdict-1316400",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "チューリッヒはロンドンに次ぐ世界第二位の金市場である。",
+            "translation": "蘇黎世是僅次於倫敦的世界第二大黃金市場。",
+            "surface": "次ぐ"
+          },
+          "exampleAfter": {
+            "sentence": "この町は、県内で人口が県庁所在地に次ぐ第二位です。",
+            "translation": "這個城鎮的人口在縣內排名第二，僅次於縣政府所在地。",
+            "surface": "次ぐ"
+          }
+        },
+        {
+          "word": "適する",
+          "id": "n3-jmdict-1437340",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "説く",
+          "id": "n3-jmdict-1386420",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼を説いてその計画をやめさせようとしたが無駄だった。",
+            "translation": "我努力勸他遠離那個計劃，但是他不聽。",
+            "surface": "説い"
+          },
+          "exampleAfter": {
+            "sentence": "彼を説いてその計画をやめさせようとしたが無駄だった。",
+            "translation": "我試圖說服他放棄那個計畫，卻沒有成功。",
+            "surface": "説い"
+          }
+        },
+        {
+          "word": "届く",
+          "id": "n3-jmdict-1457200",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は自分の辞書をすぐ手の届くところに置いておきたい。",
+            "translation": "我把自己的字典放在了能立即夠到的地方。",
+            "surface": "届く"
+          },
+          "exampleAfter": {
+            "sentence": "私は自分の辞書をすぐ手の届くところに置いておきたい。",
+            "translation": "我想把自己的字典放在伸手就拿得到的地方。",
+            "surface": "届く"
+          }
+        },
+        {
+          "word": "取り上げる",
+          "id": "n3-jmdict-1326800",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女はガラスの花瓶を取り上げた。",
+            "translation": "她拿了其中一個玻璃花瓶。",
+            "surface": "取り上げ"
+          },
+          "exampleAfter": {
+            "sentence": "彼女はガラスの花瓶を取り上げた。",
+            "translation": "她拿起了那個玻璃花瓶。",
+            "surface": "取り上げ"
+          }
+        },
+        {
+          "word": "似合う",
+          "id": "n3-jmdict-1314680",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女はスタイルがいいから、何を着てもよく似合う。",
+            "translation": "她很會打扮，所以不管穿上什麼都合適。",
+            "surface": "似合う"
+          },
+          "exampleAfter": {
+            "sentence": "彼女はスタイルがいいから、何を着てもよく似合う。",
+            "translation": "她身材很好，所以穿什麼都很合適。",
+            "surface": "似合う"
+          }
+        },
+        {
+          "word": "外す",
+          "id": "n3-jmdict-1203270",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "妊婦妻がいるのに結婚指輪外して合コンに参加してもいいですか？",
+            "translation": "當我有一個懷孕的妻子，而我取下我的結婚戒指去約會派對，這樣合適嗎？",
+            "surface": "外し"
+          },
+          "exampleAfter": {
+            "sentence": "部屋に入る前に、帽子を外してください。",
+            "translation": "進房間前，請把帽子摘下。",
+            "surface": "外して"
+          }
+        },
+        {
+          "word": "罰する",
+          "id": "n3-jmdict-1478080",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "まとまる",
+          "id": "n3-jmdict-1611640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "３時間議論したが、我々は話がまとまらなかった。",
+            "translation": "我們討論了三個小時，但卻一點進展也沒有。",
+            "surface": "まとまら"
+          },
+          "exampleAfter": {
+            "sentence": "３時間議論したが、我々は話がまとまらなかった。",
+            "translation": "我們討論了三個小時，卻沒能達成一致。",
+            "surface": "まとまら"
+          }
+        },
+        {
+          "word": "割る",
+          "id": "n3-jmdict-1208000",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は窓を割ったことを否定している。",
+            "translation": "他否認打破了視窗。",
+            "surface": "割っ"
+          },
+          "exampleAfter": {
+            "sentence": "彼は窓を割ったことを否定している。",
+            "translation": "他否認自己打破了窗戶。",
+            "surface": "割っ"
+          }
+        },
+        {
+          "word": "濃い",
+          "id": "n3-jmdict-1469890",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "この農場の卵の色が濃く、黄身が特に美味しい。",
+            "translation": "這家農場的草雞蛋顏色偏深，蛋黃特別鮮美。",
+            "surface": "濃く"
+          },
+          "exampleAfter": {
+            "sentence": "この農場の卵の色が濃く、黄身が特に美味しい。",
+            "translation": "這家農場的雞蛋顏色較深，蛋黃特別好吃。",
+            "surface": "濃く"
+          }
+        },
+        {
+          "word": "激しい",
+          "id": "n3-jmdict-1600720",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "無色の緑の概念が激しく眠る。",
+            "translation": "無色的綠色觀念激烈地沉睡著。",
+            "surface": "激しく"
+          },
+          "exampleAfter": {
+            "sentence": "夜中に激しい雨が降りました。",
+            "translation": "半夜下了大雨。",
+            "surface": "激しい"
+          }
+        },
+        {
+          "word": "安定",
+          "id": "n3-jmdict-1154120",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "経済の安定はすべての政府の目指すところだ。",
+            "translation": "經濟繁榮穩定，是每個政府都想達到的目標。",
+            "surface": "安定"
+          },
+          "exampleAfter": {
+            "sentence": "経済の安定はすべての政府の目指すところだ。",
+            "translation": "穩定經濟是所有政府追求的目標。",
+            "surface": "安定"
+          }
+        },
+        {
+          "word": "可能",
+          "id": "n3-jmdict-1191060",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は徒歩でそこへ行くのは不可能だとわかった。",
+            "translation": "他發現根本不可能徒步走到那裡。",
+            "surface": "可能"
+          },
+          "exampleAfter": {
+            "sentence": "この図書館では、本の予約が可能です。",
+            "translation": "這家圖書館可以預約書籍。",
+            "surface": "可能"
+          }
+        },
+        {
+          "word": "乾燥",
+          "id": "n3-jmdict-1209920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "当地は夏はひどく湿気が多いが、逆に冬は乾燥する。",
+            "translation": "這裡的夏天很潮溼，另外，冬天很乾燥。",
+            "surface": "乾燥"
+          },
+          "exampleAfter": {
+            "sentence": "当地は夏はひどく湿気が多いが、逆に冬は乾燥する。",
+            "translation": "這裡夏天非常潮濕，相反地，冬天很乾燥。",
+            "surface": "乾燥"
+          }
+        },
+        {
+          "word": "機嫌",
+          "id": "n3-jmdict-1220930",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "いつも不機嫌なのです。",
+            "translation": "我心情一直不太好。",
+            "surface": "機嫌"
+          },
+          "exampleAfter": {
+            "sentence": "今日は、弟の機嫌がいいです。",
+            "translation": "今天弟弟心情很好。",
+            "surface": "機嫌"
+          }
+        },
+        {
+          "word": "気の毒",
+          "id": "n3-jmdict-1221770",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "お姉さんのことはたいへんお気の毒に思います。",
+            "translation": "我對你姐姐感到非常抱歉。",
+            "surface": "気の毒"
+          },
+          "exampleAfter": {
+            "sentence": "財布をなくしたそうで、お気の毒です。",
+            "translation": "聽說你丟了錢包，真替你難過。",
+            "surface": "気の毒"
+          }
+        },
+        {
+          "word": "幸運",
+          "id": "n3-jmdict-1592930",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は幸運のことに信じていない。",
+            "translation": "我不相信幸運。",
+            "surface": "幸運"
+          },
+          "exampleAfter": {
+            "sentence": "忘れた財布が戻ってきて、幸運でした。",
+            "translation": "忘帶走的錢包找回來了，真幸運。",
+            "surface": "幸運"
+          }
+        },
+        {
+          "word": "大気",
+          "id": "n3-jmdict-1413330",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車的增加，空氣也跟著變糟。",
+            "surface": "大気"
+          },
+          "exampleAfter": {
+            "sentence": "車が増えてくると、大気汚染もひどくなる。",
+            "translation": "隨著汽車增加，空氣污染也變得更嚴重。",
+            "surface": "大気"
+          }
+        },
+        {
+          "word": "単純",
+          "id": "n3-jmdict-1417550",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "数学は恋のようだ。単純だけど複雑にもなりうる。",
+            "translation": "數學就像愛情，一個簡單的意思，但可以變得很複雜。",
+            "surface": "単純"
+          },
+          "exampleAfter": {
+            "sentence": "数学は恋のようだ。単純だけど複雑にもなりうる。",
+            "translation": "數學就像愛情，雖然單純，也可能變得複雜。",
+            "surface": "単純"
+          }
+        },
+        {
+          "word": "当然",
+          "id": "n3-jmdict-1449190",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は彼がその試験に合格するのは当然だと思った。",
+            "translation": "我理所當然地覺得，他會透過考試。",
+            "surface": "当然"
+          },
+          "exampleAfter": {
+            "sentence": "私は彼がその試験に合格するのは当然だと思った。",
+            "translation": "我認為他通過那場考試是理所當然的。",
+            "surface": "当然"
+          }
+        },
+        {
+          "word": "秘密",
+          "id": "n3-jmdict-1484150",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼はその秘密を知っていると言われている。",
+            "translation": "他說他知道這個秘密。",
+            "surface": "秘密"
+          },
+          "exampleAfter": {
+            "sentence": "彼はその秘密を知っていると言われている。",
+            "translation": "據說他知道那個秘密。",
+            "surface": "秘密"
+          }
+        },
+        {
+          "word": "行き",
+          "id": "n3-jmdict-1578790",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "このバスはボストンに行きます。",
+            "translation": "這輛巴士開往波士頓。",
+            "surface": "行き"
+          },
+          "exampleAfter": {
+            "sentence": "この電車は京都行きです。",
+            "translation": "這班電車開往京都。",
+            "surface": "行き"
+          }
+        },
+        {
+          "word": "いわゆる",
+          "id": "n3-jmdict-1343150",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私はいわゆる人格者は好きではない。",
+            "translation": "我對那些所謂有個性的人沒甚麼好感。",
+            "surface": "いわゆる"
+          },
+          "exampleAfter": {
+            "sentence": "私はいわゆる人格者は好きではない。",
+            "translation": "我不喜歡那些所謂品德高尚的人。",
+            "surface": "いわゆる"
+          }
+        },
+        {
+          "word": "生まれ",
+          "id": "n3-jmdict-1609350",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私は１９７２年１０月１０日に生まれました。",
+            "translation": "我出生於1972年10月10日。",
+            "surface": "生まれ"
+          },
+          "exampleAfter": {
+            "sentence": "私は京都生まれです。",
+            "translation": "我出生於京都。",
+            "surface": "生まれ"
+          }
+        },
+        {
+          "word": "遅れ",
+          "id": "n3-jmdict-1422020",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "我々は時代に遅れないように新聞を読むべきだ。",
+            "translation": "我們應該讀報紙，不落後於時代。",
+            "surface": "遅れ"
+          },
+          "exampleAfter": {
+            "sentence": "電車の遅れで、会議に間に合いませんでした。",
+            "translation": "因為電車延誤，我沒趕上會議。",
+            "surface": "遅れ"
+          }
+        },
+        {
+          "word": "思わず",
+          "id": "n3-jmdict-1309460",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼の髪型を見て思わず吹き出してしまった。",
+            "translation": "我忍不住取笑他的髮型。",
+            "surface": "思わず"
+          },
+          "exampleAfter": {
+            "sentence": "彼の髪型を見て思わず吹き出してしまった。",
+            "translation": "看到他的髮型，我忍不住笑了出來。",
+            "surface": "思わず"
+          }
+        },
+        {
+          "word": "必ずしも",
+          "id": "n3-jmdict-1487410",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "微笑が必ずしも満足を表しているわけではない。",
+            "translation": "微笑並不一定表示高興。",
+            "surface": "必ずしも"
+          },
+          "exampleAfter": {
+            "sentence": "微笑が必ずしも満足を表しているわけではない。",
+            "translation": "微笑並不一定表示滿意。",
+            "surface": "必ずしも"
+          }
+        },
+        {
+          "word": "切れ",
+          "id": "n3-jmdict-1384840",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "……用盡；……售罄（接尾語）"
+          },
+          "after": {
+            "meaning": "片；切片；布料；鋒利程度"
+          },
+          "exampleBefore": {
+            "sentence": "この商品は品切れです。",
+            "translation": "這項商品售罄了。",
+            "surface": "切れ"
+          },
+          "exampleAfter": {
+            "sentence": "パンを二切れ食べました。",
+            "translation": "我吃了兩片麵包。",
+            "surface": "切れ"
+          }
+        },
+        {
+          "word": "暮らし",
+          "id": "n3-jmdict-1514930",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "両親は田舎で気楽に暮らしています。",
+            "translation": "我父母在鄉村過著無憂無慮的生活。",
+            "surface": "暮らし"
+          },
+          "exampleAfter": {
+            "sentence": "田舎での暮らしに、満足しています。",
+            "translation": "我很滿意在鄉下的生活。",
+            "surface": "暮らし"
+          }
+        },
+        {
+          "word": "暮れ",
+          "id": "n3-jmdict-1514950",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日が暮れてからは外出してはいけません。",
+            "translation": "天黑以後不要出門。",
+            "surface": "暮れ"
+          },
+          "exampleAfter": {
+            "sentence": "年の暮れには、家族で集まります。",
+            "translation": "年底時全家會聚在一起。",
+            "surface": "暮れ"
+          }
+        },
+        {
+          "word": "結局",
+          "id": "n3-jmdict-1254730",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "結局、私たちはそのボロボロなレストランにご飯を食べてしまいました。",
+            "translation": "結果，我們在那破破爛爛的餐館裡吃了飯。",
+            "surface": "結局"
+          },
+          "exampleAfter": {
+            "sentence": "結局、近くの店で昼食を食べました。",
+            "translation": "最後，我在附近的店吃了午餐。",
+            "surface": "結局"
+          }
+        },
+        {
+          "word": "今日",
+          "id": "n3-jmdict-1579110",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "この本、今日図書館に返さなければいけないんです。",
+            "translation": "我今天得把這本書還給圖書館。",
+            "surface": "今日"
+          },
+          "exampleAfter": {
+            "sentence": "こんにち、インターネットは生活に欠かせません。",
+            "translation": "現今，網際網路是生活中不可或缺的。",
+            "surface": "こんにち"
+          }
+        },
+        {
+          "word": "正午",
+          "id": "n3-jmdict-1377080",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ベルは正午に鳴る。",
+            "translation": "正午時分鐘聲響起。",
+            "surface": "正午"
+          },
+          "exampleAfter": {
+            "sentence": "ベルは正午に鳴る。",
+            "translation": "鈴聲會在正午響起。",
+            "surface": "正午"
+          }
+        },
+        {
+          "word": "そのうち",
+          "id": "n3-jmdict-1006930",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "月に旅行できる時がそのうちに来るだろう。",
+            "translation": "在不久的將來人類會可以去月球旅遊。",
+            "surface": "そのうち"
+          },
+          "exampleAfter": {
+            "sentence": "そのうち、また一緒に旅行しましょう。",
+            "translation": "過一陣子，再一起去旅行吧。",
+            "surface": "そのうち"
+          }
+        },
+        {
+          "word": "何でも",
+          "id": "n3-jmdict-1611030",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "お金があれば何でも買えるという考えは間違っている。",
+            "translation": "有錢能使鬼推磨的想法是錯誤的。",
+            "surface": "何でも"
+          },
+          "exampleAfter": {
+            "sentence": "お金があれば何でも買えるという考えは間違っている。",
+            "translation": "認為有錢就能買到任何東西的想法是錯的。",
+            "surface": "何でも"
+          }
+        },
+        {
+          "word": "明後日",
+          "id": "n3-jmdict-1584640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "明後日野球場に野球を見に行く予定だ。",
+            "translation": "我後天打算去棒球場看一場棒球比賽。",
+            "surface": "明後日"
+          },
+          "exampleAfter": {
+            "sentence": "書類は、みょうごにちまでに提出いたします。",
+            "translation": "我會在後天之前提交文件。",
+            "surface": "みょうごにち"
+          }
+        },
+        {
+          "word": "夜中",
+          "id": "n3-jmdict-1536930",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "夏休みの間、私は夜中に夕食を食べていた。",
+            "translation": "暑假裡，我半夜十二點才吃晚飯。",
+            "surface": "夜中"
+          },
+          "exampleAfter": {
+            "sentence": "夏休みの間、私は夜中に夕食を食べていた。",
+            "translation": "暑假期間，我都是半夜才吃晚餐。",
+            "surface": "夜中"
+          }
+        }
+      ]
+    },
+    "n2": {
+      "total": 1792,
+      "glossChanges": 2,
+      "categoryChanges": 3,
+      "exampleChanges": 69,
+      "changes": [
+        {
+          "word": "アンテナ",
+          "id": "n2-jmdict-1020410",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "テレビアンテナが昨夜のあらしでとれた。",
+            "translation": "昨晚的暴風雨弄壞了電視天線。",
+            "surface": "アンテナ"
+          },
+          "exampleAfter": {
+            "sentence": "テレビアンテナが昨夜のあらしでとれた。",
+            "translation": "電視天線被昨晚的暴風雨吹掉了。",
+            "surface": "アンテナ"
+          }
+        },
+        {
+          "word": "英文",
+          "id": "n2-jmdict-1174620",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "この内容を６０語の英文で要約しなさい。",
+            "translation": "請把內容濃縮至六十個英文字以內。",
+            "surface": "英文"
+          },
+          "exampleAfter": {
+            "sentence": "この内容を６０語の英文で要約しなさい。",
+            "translation": "請用六十個英文單字摘要這段內容。",
+            "surface": "英文"
+          }
+        },
+        {
+          "word": "応用",
+          "id": "n2-jmdict-1180060",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "この応用プログラムは、一万人以上の使用者が使用する機能を毎日引き付けている。",
+            "translation": "這個應用程式每日吸引超過一萬位使用者使用其功能。",
+            "surface": "応用"
+          },
+          "exampleAfter": {
+            "sentence": "授業で学んだ知識を、仕事に応用しました。",
+            "translation": "我把課堂學到的知識應用在工作上。",
+            "surface": "応用"
+          }
+        },
+        {
+          "word": "回数",
+          "id": "n2-jmdict-1199510",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "マフィンを受ける数は、IRCでしゃべる回数に反比例して変化する。",
+            "translation": "你能得到鬆餅數量將和你去IRC聊天的次數成反比。",
+            "surface": "回数"
+          },
+          "exampleAfter": {
+            "sentence": "練習の回数を増やしました。",
+            "translation": "我增加了練習次數。",
+            "surface": "回数"
+          }
+        },
+        {
+          "word": "回転",
+          "id": "n2-jmdict-1199640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "地球は約３６５日で太陽の周囲を１回転する。",
+            "translation": "地球大約每三百六十五天就會圍繞太陽旋轉一週。",
+            "surface": "回転"
+          },
+          "exampleAfter": {
+            "sentence": "地球は約３６５日で太陽の周囲を１回転する。",
+            "translation": "地球繞太陽公轉一圈約需三百六十五天。",
+            "surface": "回転"
+          }
+        },
+        {
+          "word": "課税",
+          "id": "n2-jmdict-1195790",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ビールは麦芽の含有量によって課税されるから、発泡酒の方が安いんだよ。",
+            "translation": "因為啤酒會根據麥芽含量去徵稅，所以發泡酒會比較便宜。",
+            "surface": "課税"
+          },
+          "exampleAfter": {
+            "sentence": "この商品は課税の対象です。",
+            "translation": "這項商品屬於課稅對象。",
+            "surface": "課税"
+          }
+        },
+        {
+          "word": "楽器",
+          "id": "n2-jmdict-1207340",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "マヨネーズって、楽器なのだろうか。",
+            "translation": "蛋黃醬是一種樂器嗎？",
+            "surface": "楽器"
+          },
+          "exampleAfter": {
+            "sentence": "学校で楽器の演奏を習っています。",
+            "translation": "我在學校學習演奏樂器。",
+            "surface": "楽器"
+          }
+        },
+        {
+          "word": "鑑賞",
+          "id": "n2-jmdict-1215200",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は文学を正しく鑑賞できるようになった。",
+            "translation": "他學習了文學鑑賞。",
+            "surface": "鑑賞"
+          },
+          "exampleAfter": {
+            "sentence": "美術館で絵を鑑賞しました。",
+            "translation": "我在美術館欣賞了畫作。",
+            "surface": "鑑賞"
+          }
+        },
+        {
+          "word": "着替え",
+          "id": "n2-jmdict-1423160",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "服を着替えに行ってくる。",
+            "translation": "我去換衣服。",
+            "surface": "着替え"
+          },
+          "exampleAfter": {
+            "sentence": "旅行に、三日分の着替えを持っていきます。",
+            "translation": "我旅行會帶三天份的換洗衣物。",
+            "surface": "着替え"
+          }
+        },
+        {
+          "word": "形容詞",
+          "id": "n2-jmdict-1250430",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "これらの形容詞は全部が積極的です。",
+            "translation": "這些形容詞都是積極的。",
+            "surface": "形容詞"
+          },
+          "exampleAfter": {
+            "sentence": "「美しい」は形容詞です。",
+            "translation": "「美麗的」是形容詞。",
+            "surface": "形容詞"
+          }
+        },
+        {
+          "word": "県庁",
+          "id": "n2-jmdict-1258880",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "神奈川県の県庁所在地は横浜市です。",
+            "translation": "神奈縣的縣政府所在地是橫濱市。",
+            "surface": "県庁"
+          },
+          "exampleAfter": {
+            "sentence": "神奈川県の県庁所在地は横浜市です。",
+            "translation": "神奈川縣的縣政府所在地是橫濱市。",
+            "surface": "県庁"
+          }
+        },
+        {
+          "word": "国立",
+          "id": "n2-jmdict-1287180",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "国立公園によって、シャワーや託児施設まで提供してくれるところもある。",
+            "translation": "有些國家公園設有淋浴間，甚至還會提供託兒服務。",
+            "surface": "国立"
+          },
+          "exampleAfter": {
+            "sentence": "国立大学で研究をしています。",
+            "translation": "我在國立大學做研究。",
+            "surface": "国立"
+          }
+        },
+        {
+          "word": "コンクール",
+          "id": "n2-jmdict-1051840",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "2005年のショパンコンクールの入賞者の6人中5人はアジア人であったことは審査に国籍がないことを広く知らしめた。",
+            "translation": "2005 年蕭邦大賽的 6 位獲獎者中有 5 位是亞洲人，這件事讓大眾知道評審並不以國籍為據。",
+            "surface": "コンクール"
+          },
+          "exampleAfter": {
+            "sentence": "ピアノのコンクールに出場しました。",
+            "translation": "我參加了鋼琴比賽。",
+            "surface": "コンクール"
+          }
+        },
+        {
+          "word": "時間割",
+          "id": "n2-jmdict-1315960",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私たちは時間割に従って勉強する。",
+            "translation": "我們按照預定計劃研讀。",
+            "surface": "時間割"
+          },
+          "exampleAfter": {
+            "sentence": "私たちは時間割に従って勉強する。",
+            "translation": "我們按照課表學習。",
+            "surface": "時間割"
+          }
+        },
+        {
+          "word": "四季",
+          "id": "n2-jmdict-1307130",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本には四季があります。",
+            "translation": "我們在日本里有四個季節。",
+            "surface": "四季"
+          },
+          "exampleAfter": {
+            "sentence": "日本には四季があります。",
+            "translation": "日本有四季。",
+            "surface": "四季"
+          }
+        },
+        {
+          "word": "湿気",
+          "id": "n2-jmdict-1320410",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "この部屋は湿気（しっき）が多いです。",
+            "translation": "這個房間濕氣重。",
+            "surface": "湿気"
+          },
+          "exampleAfter": {
+            "sentence": "しっきが多いので、窓を開けました。",
+            "translation": "因為濕氣重，我打開了窗戶。",
+            "surface": "しっき"
+          }
+        },
+        {
+          "word": "蒸発",
+          "id": "n2-jmdict-1356960",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "水分は温められると蒸発する。",
+            "translation": "當水被加熱時，水汽蒸發。",
+            "surface": "蒸発"
+          },
+          "exampleAfter": {
+            "sentence": "水分は温められると蒸発する。",
+            "translation": "水分受熱就會蒸發。",
+            "surface": "蒸発"
+          }
+        },
+        {
+          "word": "スタート",
+          "id": "n2-jmdict-1069370",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "いいスタートが切れれば、ほとんど勝ったようなものだよ。",
+            "translation": "有好的開始, 工作就完成了一半。",
+            "surface": "スタート"
+          },
+          "exampleAfter": {
+            "sentence": "いいスタートが切れれば、ほとんど勝ったようなものだよ。",
+            "translation": "如果能有好的開始，就幾乎等於贏了。",
+            "surface": "スタート"
+          }
+        },
+        {
+          "word": "整数",
+          "id": "n2-jmdict-1376190",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "2つの整数の商として表される数を有理数という。",
+            "translation": "有理數是能被寫成兩個整數的分數的數字的稱呼。",
+            "surface": "整数"
+          },
+          "exampleAfter": {
+            "sentence": "一と二は整数ですが、一・五は整数ではありません。",
+            "translation": "一和二是整數，但一點五不是整數。",
+            "surface": "整数"
+          }
+        },
+        {
+          "word": "性別",
+          "id": "n2-jmdict-1375520",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "第三の性別の出現は、法的および行政上の問題を増やし、不必要な負担を生んでいる。",
+            "translation": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。",
+            "surface": "性別"
+          },
+          "exampleAfter": {
+            "sentence": "申込書には性別を書く欄があります。",
+            "translation": "申請表上有填寫性別的欄位。",
+            "surface": "性別"
+          }
+        },
+        {
+          "word": "段階",
+          "id": "n2-jmdict-1419950",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ガンは第一段階で発見すれば容易に治療できる。",
+            "translation": "癌症如果在第一階段被發現的話是很容易治癒的。",
+            "surface": "段階"
+          },
+          "exampleAfter": {
+            "sentence": "計画は、次の段階に進みました。",
+            "translation": "計畫進入了下一個階段。",
+            "surface": "段階"
+          }
+        },
+        {
+          "word": "中旬",
+          "id": "n2-jmdict-1424490",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本の梅雨は6月初旬から7月中旬まで続く。",
+            "translation": "在日本，梅雨季節從六月初持續到七月中旬。",
+            "surface": "中旬"
+          },
+          "exampleAfter": {
+            "sentence": "来月の中旬に、引っ越す予定です。",
+            "translation": "我打算下個月中旬搬家。",
+            "surface": "中旬"
+          }
+        },
+        {
+          "word": "つうか",
+          "id": "n2-jmdict-1433050",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "国際通貨基金は同国に対する新たな借款も認めませんでした。",
+            "translation": "國際貨幣基金組織不考慮再借款給該國。",
+            "surface": "通貨"
+          },
+          "exampleAfter": {
+            "sentence": "国際通貨基金は同国に対する新たな借款も認めませんでした。",
+            "translation": "國際貨幣基金組織也沒有批准對該國的新貸款。",
+            "surface": "通貨"
+          }
+        },
+        {
+          "word": "天皇",
+          "id": "n2-jmdict-1582030",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "天皇誕生日が日曜日と重なった。",
+            "translation": "皇帝的生日在星期日。",
+            "surface": "天皇"
+          },
+          "exampleAfter": {
+            "sentence": "天皇誕生日が日曜日と重なった。",
+            "translation": "天皇誕生日適逢星期日。",
+            "surface": "天皇"
+          }
+        },
+        {
+          "word": "仲良し",
+          "id": "n2-jmdict-1426100",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼との子供のころから仲良しだ。",
+            "translation": "我和他從小就是好朋友了。",
+            "surface": "仲良し"
+          },
+          "exampleAfter": {
+            "sentence": "彼とは子供のころから仲良しです。",
+            "translation": "我和他從小就是好朋友。",
+            "surface": "仲良し"
+          }
+        },
+        {
+          "word": "バック",
+          "id": "n2-jmdict-1098760",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "戦車にはバックミラーがありません。",
+            "translation": "坦克是沒有後照鏡的。",
+            "surface": "バック"
+          },
+          "exampleAfter": {
+            "sentence": "駐車するために、車をゆっくりバックさせました。",
+            "translation": "為了停車，我讓車慢慢倒退。",
+            "surface": "バック"
+          }
+        },
+        {
+          "word": "ハンドル",
+          "id": "n2-jmdict-1096830",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本車は右ハンドルです。",
+            "translation": "日本車的方向盤在右邊。",
+            "surface": "ハンドル"
+          },
+          "exampleAfter": {
+            "sentence": "車のハンドルをしっかり握ってください。",
+            "translation": "請握好汽車方向盤。",
+            "surface": "ハンドル"
+          }
+        },
+        {
+          "word": "複数",
+          "id": "n2-jmdict-1501400",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "「louse」の複数形は「lice」です。",
+            "translation": "“蝨子”的複數形式是“蝨子們”",
+            "surface": "複数"
+          },
+          "exampleAfter": {
+            "sentence": "複数の案を比べて、決めましょう。",
+            "translation": "比較多個方案後再決定吧。",
+            "surface": "複数"
+          }
+        },
+        {
+          "word": "ミシン",
+          "id": "n2-jmdict-1130640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "以前、お婆ちゃんはミシンを使い過ぎました。",
+            "translation": "以前奶奶經常用縫紉機。",
+            "surface": "ミシン"
+          },
+          "exampleAfter": {
+            "sentence": "以前、お婆ちゃんはミシンを使い過ぎました。",
+            "translation": "以前，奶奶過度使用縫紉機。",
+            "surface": "ミシン"
+          }
+        },
+        {
+          "word": "矛盾",
+          "id": "n2-jmdict-1531090",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "最も賢い処世術は社会的因襲を軽蔑しながら、しかも社会的因襲と矛盾せぬ生活をすることである。",
+            "translation": "最光明的處世方法是既蔑視社會的因襲，又過著與社會的因襲不相矛盾的生活。",
+            "surface": "矛盾"
+          },
+          "exampleAfter": {
+            "sentence": "最も賢い処世術は社会的因襲を軽蔑しながら、しかも社会的因襲と矛盾せぬ生活をすることである。",
+            "translation": "最聰明的處世方式，是雖然輕視社會陋習，卻仍過著不與之矛盾的生活。",
+            "surface": "矛盾"
+          }
+        },
+        {
+          "word": "名詞",
+          "id": "n2-jmdict-1531570",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "名詞を修飾するもの（形容詞、または形容詞相当語句）。",
+            "translation": "修飾名詞的東西（形容詞，或形容詞相等語）。",
+            "surface": "名詞"
+          },
+          "exampleAfter": {
+            "sentence": "形容詞は、名詞を修飾します。",
+            "translation": "形容詞用來修飾名詞。",
+            "surface": "名詞"
+          }
+        },
+        {
+          "word": "幼児",
+          "id": "n2-jmdict-1545160",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "その若い女は腕に幼児を抱いていた。",
+            "translation": "那個年輕女人手抱著嬰兒。",
+            "surface": "幼児"
+          },
+          "exampleAfter": {
+            "sentence": "その若い女は腕に幼児を抱いていた。",
+            "translation": "那個年輕女子懷裡抱著幼兒。",
+            "surface": "幼児"
+          }
+        },
+        {
+          "word": "受け持つ",
+          "id": "n2-jmdict-1329640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "晩餐の料理とサービスは、大手四ホテルが輪番制で受け持っているが、メニューは常にフランス料理と決まっている。",
+            "translation": "晚餐的料理與服務都是由四間大飯店輪流提供，但選單一直都是法國料理。",
+            "surface": "受け持っ"
+          },
+          "exampleAfter": {
+            "sentence": "晩餐の料理とサービスは、大手四ホテルが輪番制で受け持っているが、メニューは常にフランス料理と決まっている。",
+            "translation": "晚宴的料理與服務由四家大飯店輪流負責，但菜色固定都是法式料理。",
+            "surface": "受け持っ"
+          }
+        },
+        {
+          "word": "埋める",
+          "id": "n2-jmdict-1524500",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "空所を埋めろ。",
+            "translation": "把白的填滿。",
+            "surface": "埋めろ"
+          },
+          "exampleAfter": {
+            "sentence": "空所を埋めろ。",
+            "translation": "把空格填滿。",
+            "surface": "埋めろ"
+          }
+        },
+        {
+          "word": "裏返す",
+          "id": "n2-jmdict-1550630",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ベストを裏返さなくちゃ。表裏逆ですよ。",
+            "translation": "你的背心前後反了，得翻過來。",
+            "surface": "裏返さ"
+          },
+          "exampleAfter": {
+            "sentence": "ベストを裏返さなくちゃ。表裏逆ですよ。",
+            "translation": "背心要翻面才行，你把正反面穿反了。",
+            "surface": "裏返さ"
+          }
+        },
+        {
+          "word": "占う",
+          "id": "n2-jmdict-1389430",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私はいま、人気の占い師に占ってもらっている。",
+            "translation": "我現在正在給熱門的算命師算命。",
+            "surface": "占っ"
+          },
+          "exampleAfter": {
+            "sentence": "私はいま、人気の占い師に占ってもらっている。",
+            "translation": "我現在正在請一位很受歡迎的占卜師幫我占卜。",
+            "surface": "占っ"
+          }
+        },
+        {
+          "word": "思い込む",
+          "id": "n2-jmdict-1309230",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女は彼が無罪だと思い込んでいる。",
+            "translation": "她假設他是無辜的。",
+            "surface": "思い込ん"
+          },
+          "exampleAfter": {
+            "sentence": "彼女は彼が無罪だと思い込んでいる。",
+            "translation": "她深信他是無辜的。",
+            "surface": "思い込ん"
+          }
+        },
+        {
+          "word": "崩す",
+          "id": "n2-jmdict-1516260",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "トムはバランスを崩して転んだ。",
+            "translation": "湯姆失去了平衡摔落下來。",
+            "surface": "崩し"
+          },
+          "exampleAfter": {
+            "sentence": "トムはバランスを崩して転んだ。",
+            "translation": "湯姆失去平衡，跌倒了。",
+            "surface": "崩し"
+          }
+        },
+        {
+          "word": "砕ける",
+          "id": "n2-jmdict-1295190",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "車の前面ガラスは砕けて粉々になった。",
+            "translation": "車頭的擋風玻璃被砸至粉碎。",
+            "surface": "砕け"
+          },
+          "exampleAfter": {
+            "sentence": "車の前面ガラスは砕けて粉々になった。",
+            "translation": "汽車的擋風玻璃碎成了碎片。",
+            "surface": "砕け"
+          }
+        },
+        {
+          "word": "捜す",
+          "id": "n2-jmdict-1593670",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼は逃げるためにありとあらゆる手段を捜した。",
+            "translation": "他尋找一切可能的逃生途徑。",
+            "surface": "捜し"
+          },
+          "exampleAfter": {
+            "sentence": "なくした財布を捜しています。",
+            "translation": "我正在找遺失的錢包。",
+            "surface": "捜しています"
+          }
+        },
+        {
+          "word": "する",
+          "id": "n2-jmdict-1298670",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "誤植はいくつかあるが、全体としてはいい本だ。",
+            "translation": "雖然有一些印刷錯誤, 但大致上說來, 這是一本好書。",
+            "surface": "し"
+          },
+          "exampleAfter": {
+            "sentence": "会議で配る資料を三十部刷りました。",
+            "translation": "我印了三十份要在會議上發的資料。",
+            "surface": "刷りました"
+          }
+        },
+        {
+          "word": "接する",
+          "id": "n2-jmdict-1385350",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "属する",
+          "id": "n2-jmdict-1405710",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "存ずる",
+          "id": "n2-jmdict-1983710",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ご存じのとおり、忍耐は成功への鍵なのです。",
+            "translation": "就像你們知道的那樣，毅力是成功的關鍵。",
+            "surface": "存じ"
+          },
+          "exampleAfter": {
+            "sentence": "お役に立てれば、幸いに存じます。",
+            "translation": "如果能幫上忙，我會感到很榮幸。",
+            "surface": "存じます"
+          }
+        },
+        {
+          "word": "突き当たる",
+          "id": "n2-jmdict-1456780",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "道の先に突き当たったら、右に曲がってください。",
+            "translation": "走到道路盡頭後，請右轉。",
+            "surface": "突き当たったら"
+          },
+          "exampleAfter": {
+            "sentence": "この道をまっすぐ行って、突き当たったら右に曲がってください。",
+            "translation": "請沿這條路直走，走到盡頭後右轉。",
+            "surface": "突き当たったら"
+          }
+        },
+        {
+          "word": "次ぐ",
+          "id": "n2-jmdict-1316400",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "チューリッヒはロンドンに次ぐ世界第二位の金市場である。",
+            "translation": "蘇黎世是僅次於倫敦的世界第二大黃金市場。",
+            "surface": "次ぐ"
+          },
+          "exampleAfter": {
+            "sentence": "この町は、県内で人口が県庁所在地に次ぐ第二位です。",
+            "translation": "這個城鎮的人口在縣內排名第二，僅次於縣政府所在地。",
+            "surface": "次ぐ"
+          }
+        },
+        {
+          "word": "つまずく",
+          "id": "n2-jmdict-1573400",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "家に入るとき、私はマットにつまずいた。",
+            "translation": "進家門後，我被墊子絆倒了。",
+            "surface": "つまずい"
+          },
+          "exampleAfter": {
+            "sentence": "家に入るとき、私はマットにつまずいた。",
+            "translation": "我進家門時被墊子絆倒了。",
+            "surface": "つまずい"
+          }
+        },
+        {
+          "word": "溶かす",
+          "id": "n2-jmdict-1546040",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ポップコーンに溶かしバターをかけてください。",
+            "translation": "將融化了的奶油倒入爆米花中。",
+            "surface": "溶かし"
+          },
+          "exampleAfter": {
+            "sentence": "ポップコーンに溶かしバターをかけてください。",
+            "translation": "請把融化的奶油淋在爆米花上。",
+            "surface": "溶かし"
+          }
+        },
+        {
+          "word": "熱する",
+          "id": "n2-jmdict-1467730",
+          "fields": [
+            "category",
+            "pos"
+          ],
+          "before": {
+            "category": "nouns",
+            "pos": "名詞"
+          },
+          "after": {
+            "category": "verbs",
+            "pos": "動詞"
+          }
+        },
+        {
+          "word": "話し掛ける",
+          "id": "n2-jmdict-1562300",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私の隣に座っていた人が話し掛けてきた。",
+            "translation": "坐在我旁邊的男人跟我說話了。",
+            "surface": "話し掛け"
+          },
+          "exampleAfter": {
+            "sentence": "私の隣に座っていた人が話し掛けてきた。",
+            "translation": "坐在我旁邊的人向我搭話。",
+            "surface": "話し掛け"
+          }
+        },
+        {
+          "word": "ふくめる",
+          "id": "n2-jmdict-1216890",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "因果を含めてあきらめさせた。",
+            "translation": "我說服他放棄了這個主意。",
+            "surface": "含め"
+          },
+          "exampleAfter": {
+            "sentence": "税を含めて、千円です。",
+            "translation": "含稅是一千日圓。",
+            "surface": "含めて"
+          }
+        },
+        {
+          "word": "干す",
+          "id": "n2-jmdict-1603510",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "蒲団を干して下さい。",
+            "translation": "請晾乾蒲團。",
+            "surface": "干し"
+          },
+          "exampleAfter": {
+            "sentence": "晴れた日に布団を干しました。",
+            "translation": "我在晴天曬了日式寢具。",
+            "surface": "干しました"
+          }
+        },
+        {
+          "word": "命ずる",
+          "id": "n2-jmdict-1531970",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "警官は彼らに止まるように命じた。",
+            "translation": "警察命令他們停手。",
+            "surface": "命じ"
+          },
+          "exampleAfter": {
+            "sentence": "警官は彼らに止まるように命じた。",
+            "translation": "警察命令他們停下來。",
+            "surface": "命じ"
+          }
+        },
+        {
+          "word": "目指す",
+          "id": "n2-jmdict-1535440",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "経済の安定はすべての政府の目指すところだ。",
+            "translation": "經濟繁榮穩定，是每個政府都想達到的目標。",
+            "surface": "目指す"
+          },
+          "exampleAfter": {
+            "sentence": "経済の安定はすべての政府の目指すところだ。",
+            "translation": "穩定經濟是所有政府追求的目標。",
+            "surface": "目指す"
+          }
+        },
+        {
+          "word": "物語る",
+          "id": "n2-jmdict-1502490",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "彼女の涙が、何があったのかを物語っていました。",
+            "translation": "她的眼淚已經告訴了發生了什麼。",
+            "surface": "物語っ"
+          },
+          "exampleAfter": {
+            "sentence": "彼女の涙が、何があったのかを物語っていました。",
+            "translation": "她的眼淚說明了發生過什麼事。",
+            "surface": "物語っ"
+          }
+        },
+        {
+          "word": "乾燥",
+          "id": "n2-jmdict-1209920",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "当地は夏はひどく湿気が多いが、逆に冬は乾燥する。",
+            "translation": "這裡的夏天很潮溼，另外，冬天很乾燥。",
+            "surface": "乾燥"
+          },
+          "exampleAfter": {
+            "sentence": "当地は夏はひどく湿気が多いが、逆に冬は乾燥する。",
+            "translation": "這裡夏天非常潮濕，相反地，冬天很乾燥。",
+            "surface": "乾燥"
+          }
+        },
+        {
+          "word": "水平",
+          "id": "n2-jmdict-1372040",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "水平線に漁船がいくつか見えます。",
+            "translation": "海平線上可以看見幾艘漁船。",
+            "surface": "水平"
+          },
+          "exampleAfter": {
+            "sentence": "棚が水平になるように取り付けてください。",
+            "translation": "請把架子安裝成水平。",
+            "surface": "水平"
+          }
+        },
+        {
+          "word": "フリー",
+          "id": "n2-jmdict-1111640",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "二人ともフリーだよ。",
+            "translation": "兩人都自由了。",
+            "surface": "フリー"
+          },
+          "exampleAfter": {
+            "sentence": "午後はフリーなので、いつでも会えます。",
+            "translation": "我下午有空，隨時可以見面。",
+            "surface": "フリー"
+          }
+        },
+        {
+          "word": "無限",
+          "id": "n2-jmdict-1529880",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "宇宙は少しも疑いようがなく、無限なのです。",
+            "translation": "宇宙毫無疑問是無限的。",
+            "surface": "無限"
+          },
+          "exampleAfter": {
+            "sentence": "子供たちの想像力は無限です。",
+            "translation": "孩子們的想像力無限。",
+            "surface": "無限"
+          }
+        },
+        {
+          "word": "幼稚",
+          "id": "n2-jmdict-1545250",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "小さいころは、自分が死ねば世界は消えると思っていた。幼稚な妄想！自分はいないのに世界が続くのは許せなかった。",
+            "translation": "小時候，她以為自己一死，世界就會消失。好幼稚的妄想！明明自己不在，卻無法容許世界繼續下去。",
+            "surface": "幼稚"
+          },
+          "exampleAfter": {
+            "sentence": "問題を人のせいにするのは、幼稚な態度です。",
+            "translation": "把問題歸咎於別人，是幼稚的態度。",
+            "surface": "幼稚"
+          }
+        },
+        {
+          "word": "いちいち",
+          "id": "n2-jmdict-1587320",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "私が今言ったことに、いちいち細かいケチをつけないでよ。",
+            "translation": "不用計較我剛剛的話。",
+            "surface": "いちいち"
+          },
+          "exampleAfter": {
+            "sentence": "私が今言ったことに、いちいち細かいケチをつけないでよ。",
+            "translation": "別對我剛才說的話逐一挑毛病。",
+            "surface": "いちいち"
+          }
+        },
+        {
+          "word": "御中",
+          "id": "n2-jmdict-1270530",
+          "fields": [
+            "meaning"
+          ],
+          "before": {
+            "meaning": "敬啟（用於機構收件人）"
+          },
+          "after": {
+            "meaning": "貴單位收（機構收件敬稱）"
+          }
+        },
+        {
+          "word": "構いません",
+          "id": "n2-jmdict-1279670",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "どっちでも構いません。",
+            "translation": "沒關係。",
+            "surface": "構いません"
+          },
+          "exampleAfter": {
+            "sentence": "どっちでも構いません。",
+            "translation": "哪一個都可以。",
+            "surface": "構いません"
+          }
+        },
+        {
+          "word": "乾杯",
+          "id": "n2-jmdict-1590950",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "ご健康を祝して乾杯。",
+            "translation": "乾杯！",
+            "surface": "乾杯"
+          },
+          "exampleAfter": {
+            "sentence": "ご健康を祝して乾杯。",
+            "translation": "為您的健康乾杯。",
+            "surface": "乾杯"
+          }
+        },
+        {
+          "word": "気味",
+          "id": "n2-jmdict-1790980",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "今日は少し疲れ気味です。",
+            "translation": "今天有點疲倦。",
+            "surface": "気味"
+          },
+          "exampleAfter": {
+            "sentence": "今日は少し風邪気味です。",
+            "translation": "今天有點感冒的樣子。",
+            "surface": "気味"
+          }
+        },
+        {
+          "word": "切れ",
+          "id": "n2-jmdict-2518850",
+          "fields": [
+            "id",
+            "jmdictId",
+            "reading",
+            "meaning"
+          ],
+          "before": {
+            "id": "n2-jmdict-1384840",
+            "jmdictId": "1384840",
+            "reading": "きれ",
+            "meaning": "……用盡；……售罄（接尾語）"
+          },
+          "after": {
+            "id": "n2-jmdict-2518850",
+            "jmdictId": "2518850",
+            "reading": "ぎれ",
+            "meaning": "……用盡；……售罄（接尾語，讀ぎれ）"
+          },
+          "exampleBefore": {
+            "sentence": "こんな大容量のハードディスク、使い切れない。",
+            "translation": "這麼大的硬碟很難被用完。",
+            "surface": "切れ"
+          },
+          "exampleAfter": {
+            "sentence": "この商品は品切れです。",
+            "translation": "這項商品售罄了。",
+            "surface": "切れ"
+          }
+        },
+        {
+          "word": "初旬",
+          "id": "n2-jmdict-1342820",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "日本の梅雨は6月初旬から7月中旬まで続く。",
+            "translation": "在日本，梅雨季節從六月初持續到七月中旬。",
+            "surface": "初旬"
+          },
+          "exampleAfter": {
+            "sentence": "来月の初旬に、旅行する予定です。",
+            "translation": "我打算下個月上旬旅行。",
+            "surface": "初旬"
+          }
+        },
+        {
+          "word": "深夜",
+          "id": "n2-jmdict-1362810",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "モスクワ地下鉄は、深夜１時まで運行しています。",
+            "translation": "莫斯科地鐵營運至深夜一點。",
+            "surface": "深夜"
+          },
+          "exampleAfter": {
+            "sentence": "深夜に大きな音がして、目が覚めました。",
+            "translation": "深夜傳來巨響，讓我醒了過來。",
+            "surface": "深夜"
+          }
+        },
+        {
+          "word": "そのため",
+          "id": "n2-jmdict-1006850",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "そのため、いつも清新な雰囲気に包まれますが、今回もその通りの充実した一日となりました。",
+            "translation": "因此，一直以來都被清新的氛圍包圍著，並且這次也如此度過了充實的一天。",
+            "surface": "そのため"
+          },
+          "exampleAfter": {
+            "sentence": "大雪で電車が止まりました。そのため、会社を休みました。",
+            "translation": "大雪造成電車停駛，因此我請假沒去公司。",
+            "surface": "そのため"
+          }
+        },
+        {
+          "word": "団",
+          "id": "n2-jmdict-1956650",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "旅行団がホテルに着きました。",
+            "translation": "旅行團抵達飯店。",
+            "surface": "団"
+          },
+          "exampleAfter": {
+            "sentence": "楽団の演奏を聞きました。",
+            "translation": "我聽了樂團演奏。",
+            "surface": "団"
+          }
+        },
+        {
+          "word": "当日",
+          "id": "n2-jmdict-1449210",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "当日雨天の場合は順延となります。",
+            "translation": "如果那天下雨，比賽會順延至下一個晴天。",
+            "surface": "当日"
+          },
+          "exampleAfter": {
+            "sentence": "当日雨天の場合は順延となります。",
+            "translation": "如果當天下雨，將順延舉行。",
+            "surface": "当日"
+          }
+        },
+        {
+          "word": "どっと",
+          "id": "n2-jmdict-1009210",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "群衆は公会堂からドッと出てきた。",
+            "translation": "群眾從觀眾席上湧了出來。",
+            "surface": "ドッと"
+          },
+          "exampleAfter": {
+            "sentence": "群衆は公会堂からドッと出てきた。",
+            "translation": "人群從公共會堂蜂擁而出。",
+            "surface": "ドッと"
+          }
+        },
+        {
+          "word": "なんとも",
+          "id": "n2-jmdict-1188690",
+          "fields": [],
+          "before": {},
+          "after": {},
+          "exampleBefore": {
+            "sentence": "今のところなんともいえない。",
+            "translation": "我目前什麼都不能說。",
+            "surface": "なんとも"
+          },
+          "exampleAfter": {
+            "sentence": "今のところなんともいえない。",
+            "translation": "目前還很難說。",
+            "surface": "なんとも"
+          }
+        }
+      ]
+    }
+  }
+}

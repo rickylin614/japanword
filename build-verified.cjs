@@ -4,8 +4,10 @@ const level=process.argv.find(a=>/^n[2345]$/.test(a))||'n2';
 const root=__dirname,read=p=>fs.readFileSync(path.join(root,p),'utf8');
 function csv(source){const rows=[];let row=[],field='',quoted=false;for(let i=0;i<source.length;i++){const c=source[i];if(c==='"'){if(quoted&&source[i+1]==='"'){field+='"';i++;}else quoted=!quoted;}else if(!quoted&&(c===','||c==='\n')){row.push(field.trim());field='';if(c==='\n'){if(row.some(Boolean))rows.push(row);row=[];}}else field+=c;}row.push(field.trim());if(row.some(Boolean))rows.push(row);const headers=rows.shift();return rows.map((r,i)=>Object.fromEntries([...headers.map((h,j)=>[h,r[j]]),['line',i+2]]));}
 const normalized=s=>s.normalize('NFKC').trim().replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-96));
-const dictionaryFile=fs.readdirSync(path.join(root,'sources/jmdict')).find(f=>f.endsWith('.json'));
-const dictionary=JSON.parse(read('sources/jmdict/'+dictionaryFile));
+const dictionaryDirectory=process.env.JMDICT_DIR||path.join(root,'sources/jmdict');
+const dictionaryFile=fs.readdirSync(dictionaryDirectory).find(f=>f.endsWith('.json'));
+const dictionarySource=fs.readFileSync(path.join(dictionaryDirectory,dictionaryFile),'utf8');
+const dictionary=JSON.parse(dictionarySource);
 const index=new Map();
 for(const word of dictionary.words) for(const kana of word.kana){
   const forms=[kana.text,...word.kanji.filter(k=>kana.appliesToKanji.includes('*')||kana.appliesToKanji.includes(k.text)).map(k=>k.text)];
@@ -31,7 +33,7 @@ for(const row of rows){
   if(affix&&parts.length)category='others';
   else if(parts.includes('adj-i')||parts.includes('adj-ix'))category='i_adjectives';
   else if(parts.includes('adj-na'))category='na_adjectives';
-  else if(parts.some(p=>/^(?:v[1-9]|vk$|vz$|vs-i$|vs-c$|v-unspec$)/.test(p)))category='verbs';
+  else if(parts.some(p=>/^(?:v[1-9]|vk$|vz$|vs-i$|vs-s$|vs-c$|v-unspec$)/.test(p)))category='verbs';
   else if(parts.some(p=>['adv','adv-to','conj','int','exp','prt','pref','suf','ctr','pn','adj-pn','n-adv','n-suf','n-pref',...(level==='n2'?[]:['num'])].includes(p)))category='others';
   else if(parts.some(p=>p==='n'||p==='vs'||p==='vs-s'||p==='n-t'))category='nouns';
   else if(level!=='n2'&&parts.includes('adj-no'))category='others';
@@ -43,7 +45,7 @@ for(const row of rows){
 accepted.sort((a,b)=>a.reading.localeCompare(b.reading,'ja'));
 const metadata=JSON.parse(read('sources/download.json'));
 metadata.jlptUrl=metadata.jlptUrl.replace('/n2.csv','/'+level+'.csv');
-const report={retrievedAt:new Date().toISOString(),...metadata,sourceRows:rows.length,accepted:accepted.length,counts:Object.fromEntries(Object.keys(labels).map(c=>[c,accepted.filter(w=>w.category===c).length])),excluded,merged,sha256:{jlpt:crypto.createHash('sha256').update(read('sources/'+level+'.csv')).digest('hex'),dictionary:crypto.createHash('sha256').update(read('sources/jmdict/'+dictionaryFile)).digest('hex')}};
+const report={retrievedAt:new Date().toISOString(),...metadata,sourceRows:rows.length,accepted:accepted.length,counts:Object.fromEntries(Object.keys(labels).map(c=>[c,accepted.filter(w=>w.category===c).length])),excluded,merged,sha256:{jlpt:crypto.createHash('sha256').update(read('sources/'+level+'.csv')).digest('hex'),dictionary:crypto.createHash('sha256').update(dictionarySource).digest('hex')}};
 fs.writeFileSync(path.join(root,'sources/'+level+'-audit.json'),JSON.stringify(report,null,2));
 fs.writeFileSync(path.join(root,'sources/'+level+'-verified.json'),JSON.stringify(accepted,null,2));
 fs.writeFileSync(path.join(root,'sources/'+level+'-dictionary-evidence.json'),JSON.stringify({version:dictionary.version,words:dictionary.words.filter(w=>seen.has(w.id))}));

@@ -1,5 +1,9 @@
 # N2–N5 vocabulary data attribution and licence
 
+## Example sentences
+
+The example banks are separate from the JMdict definitions. Project-authored additions are in `vocabulary-examples/n[2345].txt`. Selected Japanese and Chinese Tatoeba sentences retain their sentence IDs, contributors and licence metadata in `vocabulary-examples/n[234]-corpus.json` and the published example banks. Tatoeba text is used under [CC BY 2.0 France](https://creativecommons.org/licenses/by/2.0/fr/); Chinese is converted to Traditional Chinese. Each displayed external example links to both source sentences and credits their contributors. Pairs with a common translation pivot are labelled accordingly. See [example provenance](../vocabulary-examples/ATTRIBUTION.md) and [Tatoeba exports](https://tatoeba.org/en/downloads). No source audio is redistributed.
+
 The N2–N5 datasets are derived vocabulary study resources, not an official JLPT examination or syllabus.
 
 ## JMdict

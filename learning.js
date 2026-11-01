@@ -47,8 +47,53 @@
     const total = stats(allGrammar);
     $('main').innerHTML = `<section class="hero"><div><p class="eyebrow">YOUR DAILY JAPANESE PRACTICE</p><h1>一步一步，把日文練熟。</h1><p class="subtitle">從詞彙到句型，依照自己的步調練習。選擇等級開始，或回到錯題，把不熟悉的地方再練一次。</p><div class="stats"><div class="stat"><strong>${allGrammar.length}</strong><span>文法情境題</span></div><div class="stat"><strong>${Object.values(window.JP_VOCABULARY).flatMap(categories=>Object.values(categories)).reduce((total,bank)=>total+bank.length,0)}</strong><span>分類詞彙條目</span></div><div class="stat"><strong>${total.done}</strong><span>已練文法題</span></div><div class="stat"><strong>${total.wrong}</strong><span>待複習錯題</span></div></div></div><div class="hero-mark" lang="ja" aria-hidden="true">学</div></section><div class="section-head"><h2>選擇學習等級</h2><span class="muted">基礎 → 進階</span></div><div class="grid">${['n5','n4','n3','n2'].map(l=>`<section class="card"><span class="tag">${l==='n5'?'建立基礎':l==='n4'?'累積實力':l==='n3'?'活用表達':'精進表達'}</span><h2>${l.toUpperCase()}</h2><p class="muted">${l==='n5'?'掌握基礎詞彙、助詞與日常句型':l==='n4'?'累積常用詞彙、動詞變化與複句':l==='n3'?'活用詞彙辨析、推論與進階句型':'精進詞彙運用、論述與書面表達'}</p><div class="links">${`<a class="button primary" href="grammar.html?level=${l}">文法練習 · ${window.JP_GRAMMAR[l].length} 題</a><a class="button" href="grammar-overview.html?level=${l}">文法彙整 · 句型與例句</a>${l!=='n2'?`<a class="button" href="${l}.html">動詞變化與情境測驗</a>`:'<a class="button" href="n2-verbs.html">動詞讀音與詞義測驗</a>'}`}${categoriesFor(l).map(c=>{const t=labels[c];return `<a class="button" href="${l}-${c}.html">${t} · ${window.JP_VOCABULARY[l][c].length} 詞</a>`;}).join('')}</div></section>`).join('')}</div><section class="panel" style="margin-top:24px"><h2>共用學習資源</h2><p>查看 N2～N5 詞彙的來源、JMdict 核對紀錄及各級實際收錄數量。</p><a class="button" href="sources.html">查看來源與實際詞量</a><h2>練習方式</h2><p>詞彙頁可搜尋、收藏、練讀音或中文。文法以 10 題、20 題或全題練習；答題後顯示解析，錯題可另外重練。</p><p class="muted">完成狀態、收藏與未完成的文法練習保存在此瀏覽器；切換頁面後仍可繼續。文法統計以每題最近一次作答為準。</p></section>`;
   }
+  function conversation() {
+    const kind = document.body.dataset.category === 'gitaigo' ? 'gitaigo' : 'aizuchi';
+    const isAizuchi = kind === 'aizuchi';
+    const title = isAizuchi ? '相づち · 常用回應 100 句' : '擬態語 · 常用詞彙與例句 100 組';
+    const bank = window.JP_CONVERSATION[kind];
+    const tags = [...new Set(bank.map(w => w.tag))];
+    $('main').innerHTML = `<p class="eyebrow">DAILY CONVERSATION / ${kind.toUpperCase()}</p><h1>${title}</h1><p class="subtitle">${isAizuchi ? '從簡短接話到同理回應，練習自然地聽與回應。每句附讀音、繁體中文、禮貌程度與對話。' : '用日文描述心情、觸感與動作。每個詞附繁體中文、使用提示與一個完整例句。'}</p><nav class="inline-nav" aria-label="日常會話分類"><a href="aizuchi.html" ${isAizuchi ? 'aria-current="page"' : ''}>相づち · 100 句</a><a href="gitaigo.html" ${!isAizuchi ? 'aria-current="page"' : ''}>擬態語 · 100 組</a></nav><details class="source-note"><summary>排序方式、收錄範圍與參考資料</summary><p>依日常常見程度與學習實用性，由常用到情境限定估排。編號是本專案的學習順序，並非經語料庫統計的精確頻率榜；場合、年齡及人際關係都會影響實際使用頻率。</p><p>${isAizuchi ? '收錄短相づち及延伸接話、共鳴、追問與保留意見的回應，包含禮貌／隨意變體，並非 100 個獨立詞根。傾聽時的「はい」「うん」不一定表示同意。隨意語用於熟人；對長輩與工作場合優先選禮貌表達。' : '採廣義擬態表達，含擬情語、擬容語及部分常用樣態副詞。兼有擬音義的詞依本頁例句取狀態、感受或動作義；不以動物叫聲、純物音湊數。'}</p><p>中文說明、排序及例句為專案編寫；參考資料用於概念與延伸學習，未逐項外部審定。</p><ul><li><a href="https://www.hituzi.co.jp/hituzibooks/img/1147cyukyukarano_sample.pdf">ひつじ書房：日本語の会話の特徴（相づち與終助詞）</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/column/nihongo_1.html">國立國語研究所：擬音語・擬態語的分類</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/50_on.html">國立國語研究所：擬音語・擬態語索引</a></li><li><a href="https://www.hikidasu.jpf.go.jp/jp/corner/onomatopoeia/01/">國際交流基金：気持ちが伝わるオノマトペ</a></li></ul></details><div class="toolbar"><label class="grow">搜尋表達或例句<input id="expression-search" type="search" placeholder="日文、讀音、中文、例句或編號"></label><label>${isAizuchi ? '禮貌程度' : '表達類型'}<select id="expression-tag"><option value="all">全部</option>${tags.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')}</select></label><label>每頁顯示<select id="expression-size"><option value="20">20 筆</option><option value="50">50 筆</option><option value="100">全部 100 筆</option></select></label></div><p id="expression-count" role="status"></p><div id="expression-list" class="guide-grid"></div><nav id="expression-pagination" class="actions" aria-label="表達清單分頁"></nav>`;
+    let pageIndex = 0;
+    const normalize = text => String(text).normalize('NFKC').replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0)-0x60)).toLowerCase();
+    function draw() {
+      const term = normalize($('expression-search').value.trim());
+      const tag = $('expression-tag').value;
+      const filtered = bank.filter(w => (tag === 'all' || w.tag === tag) && [w.rank,w.word,w.reading,w.meaning,w.note,w.example,w.translation].some(v => normalize(v).includes(term)));
+      const size = Number($('expression-size').value);
+      const pages = Math.max(1, Math.ceil(filtered.length / size));
+      pageIndex = Math.min(pageIndex, pages-1);
+      $('expression-count').textContent = `符合 ${filtered.length} / ${bank.length} 筆 · 依常用順序 · 第 ${pageIndex+1} / ${pages} 頁（保留原編號）`;
+      $('expression-list').innerHTML = filtered.length ? filtered.slice(pageIndex*size, (pageIndex+1)*size).map(w => `<article class="panel guide-card expression-card"><span class="tag">#${String(w.rank).padStart(3,'0')} · ${esc(w.tag)}</span><h2 lang="ja">${esc(w.word)}</h2>${w.reading !== w.word ? `<p class="muted" lang="ja">${esc(w.reading)}</p>` : ''}<p><strong>${esc(w.meaning)}</strong></p><p class="muted">${esc(w.note)}</p><div class="guide-example"><p lang="ja">${esc(w.example)}</p><p>${esc(w.translation)}</p></div><div class="actions"><button data-expression="${w.id}" data-part="word" aria-label="朗讀表達 ${esc(w.word)}">朗讀表達</button><button data-expression="${w.id}" data-part="example" aria-label="朗讀例句 ${esc(w.word)}">${isAizuchi ? '朗讀對話' : '朗讀例句'}</button></div></article>`).join('') : '<p class="empty">沒有符合的內容，請更換關鍵字或選擇全部類型。</p>';
+      $('expression-pagination').innerHTML = `<button id="expression-prev" ${pageIndex===0?'disabled':''}>上一頁</button><span>${pageIndex+1} / ${pages}</span><button id="expression-next" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>`;
+      for (const [id, step] of [['expression-prev',-1],['expression-next',1]]) $(id).onclick = () => {pageIndex += step; draw(); $('expression-count').scrollIntoView({block:'start'}); $(id).focus();};
+    }
+    for (const id of ['expression-search','expression-tag','expression-size']) $(id).addEventListener(id==='expression-search'?'input':'change', () => {pageIndex=0; draw();});
+    $('expression-list').onclick = e => {
+      const b = e.target.closest('[data-expression]');
+      if (!b) return;
+      const w = bank.find(w => w.id === b.dataset.expression);
+      if (w) speak(b.dataset.part === 'word' ? w.reading : w.example.replace(/[AB]：/g,''));
+    };
+    draw();
+  }
   function vocabulary() {
     const bank = category === 'adjectives' ? ['i_adjectives','na_adjectives'].flatMap(c=>window.JP_VOCABULARY[level]?.[c] || []) : window.JP_VOCABULARY[level]?.[category] || [];
+    const examples = window.JP_VOCABULARY_EXAMPLES?.[level] || {};
+    function exampleMarkup(word) {
+      const example = examples[word.id];
+      if (!example) return '';
+      const variants=example.variants || [example];
+      return `<details class="word-examples"><summary>${example.variants?'例句與動詞變化 · 3 種用法':'例句'}<span class="example-toggle-hint example-toggle-open">點擊展開</span><span class="example-toggle-hint example-toggle-close">點擊收合</span></summary><div class="word-examples-content">${variants.map((item,index)=>singleExampleMarkup(word,item,index)).join('')}</div></details>`;
+    }
+    function singleExampleMarkup(word,example,index) {
+      const position = example.sentence.indexOf(example.surface);
+      const highlighted = position < 0 ? esc(example.sentence) : esc(example.sentence.slice(0,position)) + '<mark>' + esc(example.surface) + '</mark>' + esc(example.sentence.slice(position+example.surface.length));
+      const source = example.source;
+      const author = name => !name || name==='\\N' ? '未署名貢獻者' : esc(name);
+      const credit = source ? `<details class="example-source"><summary>例句來源 · Tatoeba</summary><p><a href="https://tatoeba.org/en/sentences/show/${source.jaId}" target="_blank" rel="noopener">日文 #${source.jaId}</a> · ${author(source.jaAuthor)}<br><a href="https://tatoeba.org/en/sentences/show/${source.zhId}" target="_blank" rel="noopener">中文 #${source.zhId}</a> · ${author(source.zhAuthor)}</p><p>中文已轉為繁體。${source.pivotId ? `本組經<a href="https://tatoeba.org/en/sentences/show/${source.pivotId}" target="_blank" rel="noopener">共通譯文</a>配對。` : '日中原句有直接翻譯連結。'} <a href="https://creativecommons.org/licenses/by/2.0/fr/" target="_blank" rel="noopener">CC BY 2.0 FR</a></p></details>` : '';
+      return `<section class="word-example" data-example-kind="${example.kind||'common'}" aria-label="${esc(word.word)}的${example.label||'例句'}"><h3>${example.label||'例句'}</h3>${example.form?`<p class="example-form" lang="ja">${esc(example.form)} <span class="muted">（${esc(example.reading)}）</span></p>`:''}<p lang="ja" class="example-sentence">${highlighted}</p><p class="muted example-translation">${esc(example.translation)}</p>${example.note?`<p class="muted example-note">${esc(example.note)}</p>`:''}<button data-example-speak="${word.id}" data-example-index="${index}" aria-label="朗讀 ${esc(word.word)}的${example.label||'例句'}">朗讀例句</button>${credit}</section>`;
+    }
     $('main').innerHTML = `<p class="eyebrow">VOCABULARY / ${level.toUpperCase()}</p><h1>${level.toUpperCase()} ${labels[category]}</h1><p class="subtitle">共 ${bank.length} 詞 · 練讀音、記詞義，透過搜尋與收藏安排自己的複習。</p><details class="source-note"><summary>收錄範圍與資料來源</summary><p>依公開分級詞表與 JMdict 核對，同級異寫合併；各級可能重疊，非官方考試清單。<a href="sources.html">查看來源與實際詞量</a></p>${category==='verbs'&&level!=='n2'?`<p>這 ${bank.length} 個動詞同步用於<a href="${level}.html">動詞變化與情境測驗</a>。</p>`:''}</details><nav class="toolbar vocabulary-navigation" aria-label="詞彙分類"><label>切換等級<select id="vocabulary-level">${['n2','n3','n4','n5'].map(l=>`<option value="${l}" ${l===level?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">切換詞性<select id="vocabulary-category">${(category==='adjectives'?['adjectives',...categoriesFor(level)]:categoriesFor(level)).map(c=>`<option value="${c}" ${c===category?'selected':''}>${labels[c]} · ${c==='adjectives'?bank.length:window.JP_VOCABULARY[level][c].length} 詞</option>`).join('')}</select></label></nav><div class="toolbar"><label class="grow">搜尋詞彙<input id="search" type="search" placeholder="日文、假名、中文或詞性"></label><label>顯示範圍<select id="scope"><option value="all">全部詞彙</option><option value="favorites">只看收藏</option></select></label><label>練習題型<select id="word-mode"><option value="reading">漢字 → 假名</option><option value="meaning">日文 → 中文</option></select></label><label>每輪題數<select id="word-size"><option value="20">20 題</option><option value="50">50 題</option><option value="all">全部符合詞彙</option></select></label><button id="word-start" class="primary">練習目前詞彙</button></div><p id="word-count" role="status"></p><div id="word-list" class="word-grid"></div><div id="word-pagination" class="actions"></div><section id="word-practice" class="panel practice" hidden></section><section id="retired-favorites" class="panel" hidden></section>`;
     $('vocabulary-level').onchange=event=>{const next=event.target.value;const nextCategory=categoriesFor(next).includes(category)?category:'nouns';location.href=next+'-'+nextCategory+'.html';};
     $('vocabulary-category').onchange=event=>{location.href=level+'-'+event.target.value+'.html';};
@@ -71,13 +116,21 @@
       $('word-prev-page').onclick=()=>{pageIndex--;draw();$('word-count').scrollIntoView({block:'start'});};
       $('word-next-page').onclick=()=>{pageIndex++;draw();$('word-count').scrollIntoView({block:'start'});};
       $('word-start').disabled = !filtered.length;
-      $('word-list').innerHTML = filtered.length ? filtered.slice(pageIndex*pageSize,(pageIndex+1)*pageSize).map(w=>`<article class="word-card"><span class="tag">${w.pos}</span><h2 lang="ja">${w.word}</h2><p class="muted" lang="ja">${w.reading}</p><p>${esc(w.meaning)}</p>${w.jmdictId?`<details><summary>詞性與來源核對</summary><p>JMdict #${w.jmdictId} · ${esc(w.posCodes.join(' / '))}</p><p>詞表原始英文（若有混義，以本頁校訂中文為準）：${esc(w.sourceEnglish)}</p><a href="https://github.com/jamsinclair/open-anki-jlpt-decks/blob/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/${w.sourceLevel.toLowerCase()}.csv#L${w.sourceLines[0]}" target="_blank" rel="noopener">${w.sourceLevel} 原始詞表</a> · <a href="https://jisho.org/search/${encodeURIComponent(w.word)}" target="_blank" rel="noopener">查字典</a>${w.sourceForm?`<p>來源原文：${esc(w.sourceForm.word)}（${esc(w.sourceForm.reading)}）</p>`:''}${w.aliases.length?`<p>合併異寫：${esc(w.aliases.map(a=>a.word).join('、'))}</p>`:''}</details>`:''}<div class="word-actions"><button class="favorite" data-favorite="${w.id}" aria-pressed="${state.favorites.includes(w.id)}">${state.favorites.includes(w.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${w.word}</span></button><button data-speak="${w.id}" aria-label="朗讀 ${w.word}">朗讀</button></div></article>`).join('') : '<p class="empty">沒有符合條件的詞彙，試試其他搜尋字或切回全部。</p>';
+      $('word-list').innerHTML = filtered.length ? filtered.slice(pageIndex*pageSize,(pageIndex+1)*pageSize).map(w=>`<article class="word-card"><span class="tag">${w.pos}</span><h2 lang="ja">${w.word}</h2><p class="muted" lang="ja">${w.reading}</p><p>${esc(w.meaning)}</p><div class="word-actions"><button class="favorite" data-favorite="${w.id}" aria-pressed="${state.favorites.includes(w.id)}">${state.favorites.includes(w.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${w.word}</span></button><button data-speak="${w.id}" aria-label="朗讀 ${w.word}">朗讀</button></div>${exampleMarkup(w)}</article>`).join('') : '<p class="empty">沒有符合條件的詞彙，試試其他搜尋字或切回全部。</p>';
+    }
+    const exampleCount = bank.filter(w=>examples[w.id]).length;
+    if (exampleCount) {
+      const note = document.createElement('p');
+      note.className = 'muted vocabulary-example-note';
+      note.textContent = `例句已收錄 ${exampleCount} / ${bank.length} 詞，預設收合，點擊即可展開中文翻譯與朗讀。${category==='verbs'?'每個動詞附原型、て形與常用用法三組例句。':''}外部例句可另外展開查看來源。`;
+      $('main').querySelector('.source-note').insertAdjacentElement('beforebegin',note);
     }
     $('word-list').onclick = event => {
       const button = event.target.closest('button'); if (!button) return;
-      const id = button.dataset.favorite || button.dataset.speak;
+      const id = button.dataset.favorite || button.dataset.speak || button.dataset.exampleSpeak;
       const word = bank.find(w=>w.id===id); if (!word) return;
-      if (button.dataset.speak) speak(word.reading);
+      if (button.dataset.exampleSpeak) { const base = examples[word.id]; const example=base?.variants?.[Number(button.dataset.exampleIndex)]||base; if (example) speak(example.sentence); }
+      else if (button.dataset.speak) speak(word.reading);
       else { state.favorites = state.favorites.includes(id) ? state.favorites.filter(x=>x!==id) : [...state.favorites,id]; save(); draw(); const replacement = document.querySelector(`[data-favorite="${id}"]`); if (replacement) replacement.focus(); }
     };
     function stop() { session = null; $('word-practice').hidden = true; $('word-list').hidden = false; $('word-pagination').hidden = false; $('word-start').focus(); }
@@ -210,5 +263,11 @@
     $('guide-level').onchange=e=>{selected=e.target.value;currentPage=1;try{history.replaceState(null,'',selected==='all'?'grammar-overview.html':'?level='+selected);}catch{}draw();};
     draw();
   }
-  if(page==='grammar-overview') grammarOverview(); else if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
+  if(page==='conversation') conversation(); else if(page==='grammar-overview') grammarOverview(); else if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
+  if(page==='home') {
+    const section = document.createElement('section');
+    section.className = 'conversation-home';
+    section.innerHTML = '<div class="section-head"><h2>日常會話分類</h2><span class="muted">由常用到情境表達</span></div><div class="guide-grid"><article class="panel"><span class="tag">傾聽與接話</span><h2>相づち · 常用回應 100 句</h2><p>うん、そうなんですね、なるほど…<br>附讀音、中文、禮貌程度與完整對話。</p><a class="button primary" href="aizuchi.html">學習相づち · 100 句</a></article><article class="panel"><span class="tag">心情、狀態與動作</span><h2>擬態語 · 常用詞彙與例句 100 組</h2><p>しっかり、わくわく、にこにこ…<br>用中文說明與例句掌握細微語感。</p><a class="button primary" href="gitaigo.html">學習擬態語 · 100 組</a></article></div><p class="muted">按日常常見程度與實用性估排；非語料庫精確頻率排名。每筆可朗讀。</p>';
+    $('main').querySelector('.grid').insertAdjacentElement('afterend', section);
+  }
 })();

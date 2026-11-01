@@ -11342,15 +11342,15 @@
     ]
   },
   {
-    "id": "n2-jmdict-1384840",
+    "id": "n2-jmdict-2518850",
     "word": "切れ",
-    "reading": "きれ",
+    "reading": "ぎれ",
     "category": "others",
     "pos": "副詞等其他詞彙",
     "posCodes": [
-      "ctr"
+      "n-suf"
     ],
-    "jmdictId": "1384840",
+    "jmdictId": "2518850",
     "aliases": [],
     "sourceLines": [
       31
@@ -11358,10 +11358,12 @@
     "sourceLevel": "N2",
     "sourceEnglish": "out of ~",
     "english": [
-      "counter for scraps, pieces, etc."
+      "completely using up ...",
+      "running out of ...",
+      "exhausting ..."
     ],
     "senseIndex": [
-      4
+      0
     ],
     "affix": "suffix",
     "sourceForm": {
@@ -25810,8 +25812,8 @@
     "id": "n2-jmdict-1385350",
     "word": "接する",
     "reading": "せっする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vi",
@@ -27303,8 +27305,8 @@
     "id": "n2-jmdict-1405710",
     "word": "属する",
     "reading": "ぞくする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vi"
@@ -36912,8 +36914,8 @@
     "id": "n2-jmdict-1467730",
     "word": "熱する",
     "reading": "ねっする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vt",

@@ -4,6 +4,17 @@ function forms(text,type){
   const stem=text.slice(0,-1);
   if(type==='vk')return text==='来る'?['来ます','来て','来ない','来た']:['きます','きて','こない','きた'];
   if(type==='vs-i')return ['します','して','しない','した'];
+  if(type==='vz'){
+    assert.ok(text.endsWith('ずる'),text);
+    return ['じます','じて','じない','じた'].map(s=>text.slice(0,-2)+s);
+  }
+  // Special suru compounds retain their prefix; 愛する normally uses 愛さない.
+  // See EDRDG wwwverbinf.html and NINJAL's 愛する entry.
+  if(type==='vs-s'){
+    assert.ok(text.endsWith('する'),text);
+    const base=text.slice(0,-2);
+    return [base+'します',base+'して',base+(['愛','あい','属','ぞく'].includes(base)?'さない':'しない'),base+'した'];
+  }
   if(type==='v2a-s')return text==='得る'?['得ます','得て','得ない','得た']:['えます','えて','えない','えた'];
   if(['v1','v1-s'].includes(type)){assert.ok(text.endsWith('る'),text);return ['ます','て','ない','た'].map(s=>stem+s);}
   const endings={う:['い','わ','って'],く:['き','か','いて'],ぐ:['ぎ','が','いで'],す:['し','さ','して'],つ:['ち','た','って'],ぬ:['に','な','んで'],ぶ:['び','ば','んで'],む:['み','ま','んで'],る:['り','ら','って']};

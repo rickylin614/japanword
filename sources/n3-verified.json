@@ -141,8 +141,8 @@
     "id": "n3-jmdict-1150450",
     "word": "愛する",
     "reading": "あいする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vt"
@@ -12891,8 +12891,8 @@
     "id": "n3-jmdict-1215790",
     "word": "関する",
     "reading": "かんする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s"
     ],
@@ -36234,8 +36234,8 @@
     "id": "n3-jmdict-1610160",
     "word": "対する",
     "reading": "たいする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s"
     ],
@@ -37685,8 +37685,8 @@
     "id": "n3-jmdict-1416230",
     "word": "達する",
     "reading": "たっする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vt"
@@ -42392,8 +42392,8 @@
     "id": "n3-jmdict-1437340",
     "word": "適する",
     "reading": "てきする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vi"
@@ -50236,8 +50236,8 @@
     "id": "n3-jmdict-1478080",
     "word": "罰する",
     "reading": "ばっする",
-    "category": "nouns",
-    "pos": "名詞",
+    "category": "verbs",
+    "pos": "動詞",
     "posCodes": [
       "vs-s",
       "vt"

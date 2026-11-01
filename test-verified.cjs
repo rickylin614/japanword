@@ -1,12 +1,13 @@
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
 const root=__dirname,read=p=>fs.readFileSync(path.join(root,p),'utf8'),ctx={window:{}};vm.createContext(ctx);
 for(const f of ['vocabulary-data.js','n2-data.js','n3-data.js','n4-data.js','n5-data.js'])vm.runInContext(read(f),ctx);
-const counts={n2:[1060,289,55,90,298],n3:[1167,368,30,165,361],n4:[303,159,23,41,126],n5:[293,109,60,30,206]};
+const counts={n2:[1057,292,55,90,298],n3:[1161,374,30,165,361],n4:[303,159,23,41,126],n5:[293,109,60,30,206]};
 const normalize=s=>s.normalize('NFKC').replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-96));
-const verb=p=>/^(?:v[1-9]|vk$|vz$|vs-i$|vs-c$|v-unspec$)/.test(p);
+const verb=p=>/^(?:v[1-9]|vk$|vz$|vs-i$|vs-s$|vs-c$|v-unspec$)/.test(p);
 const digest=s=>crypto.createHash('sha256').update(s).digest('hex');
 for(const level of ['n2','n3','n4','n5']){
  const bank=ctx.window.JP_VOCABULARY[level],all=Object.values(bank).flat(),r=JSON.parse(read('sources/'+level+'-audit.json'));
+ const glosses=JSON.parse(read('sources/'+level+'-zh.json'));
  assert.deepEqual(Object.values(bank).map(b=>b.length),counts[level]);
  for(const key of ['id','jmdictId'])assert.equal(new Set(all.map(w=>w[key])).size,all.length,level+' duplicate '+key);
  assert.equal(new Set(all.map(w=>normalize(w.word)+'|'+normalize(w.reading))).size,all.length);
@@ -17,6 +18,7 @@ for(const level of ['n2','n3','n4','n5']){
  const accounted=new Set();
  for(const w of all){
   assert.ok(w.meaning&&/[\u3400-\u9fff]/.test(w.meaning));assert.equal(w.sourceLevel,level.toUpperCase());assert.ok(bank[w.category].includes(w));
+  assert.equal(w.meaning,glosses[w.jmdictId],w.id+' differs from authoritative Chinese gloss');
   for(const line of w.sourceLines){assert.ok(!accounted.has(line));accounted.add(line);assert.match(lines[line-1],new RegExp('JLPT_(?:N)?'+level[1]+'(?:[,\\s]|$)'));}
   const e=dict.get(w.jmdictId);assert.ok(e,w.word);assert.ok([...e.kanji,...e.kana].some(k=>k.text.normalize('NFKC')===w.word));
   assert.ok(e.kana.some(k=>normalize(k.text)===normalize(w.reading)&&(k.appliesToKanji.includes('*')||k.appliesToKanji.includes(w.word)||k.text===w.word)));
@@ -36,6 +38,11 @@ for(const level of ['n2','n3','n4','n5']){
  console.log(level,all.length,'entries: source hashes, coverage, level, unique IDs, readings, senses and POS passed');
 }
 const old=JSON.parse(read('sources/legacy-vocabulary.json')),mapping=ctx.window.JP_VOCABULARY_MIGRATION,retired=ctx.window.JP_RETIRED_VOCABULARY;
+assert.equal(mapping['n2-jmdict-1384840'],'n2-jmdict-2518850');
+const n2Suffix=ctx.window.JP_VOCABULARY.n2.others.find(w=>w.word==='切れ');
+assert.equal(n2Suffix.reading,'ぎれ');assert.equal(n2Suffix.jmdictId,'2518850');assert.deepEqual(Array.from(n2Suffix.posCodes),['n-suf']);
+const n3Counter=ctx.window.JP_VOCABULARY.n3.others.find(w=>w.word==='切れ');
+assert.equal(n3Counter.reading,'きれ');assert.equal(n3Counter.jmdictId,'1384840');assert.match(n3Counter.meaning,/切片/);
 for(const [level,cats]of Object.entries(old))for(const w of Object.values(cats).flat()){
  const target=mapping[w.id];if(!target){assert.ok(retired.some(x=>x.id===w.id));continue;}
  const next=Object.values(ctx.window.JP_VOCABULARY[level]).flat().find(x=>x.id===target);assert.ok(next);

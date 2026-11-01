@@ -1,5 +1,5 @@
 {
-  "retrievedAt": "2026-10-01T20:15:43.938Z",
+  "retrievedAt": "2026-11-01T08:28:53.437Z",
   "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n3.csv",
   "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
   "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
@@ -7,8 +7,8 @@
   "sourceRows": 2140,
   "accepted": 2091,
   "counts": {
-    "nouns": 1167,
-    "verbs": 368,
+    "nouns": 1161,
+    "verbs": 374,
     "i_adjectives": 30,
     "na_adjectives": 165,
     "others": 361
