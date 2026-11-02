@@ -4,6 +4,11 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const http = require('node:http');
 const path = require('node:path');
+const {useAlternateModel}=require('../scripts/audio/aizuchi-model-routing.cjs');
+for(const expression of ['へえ','へぇ','へー','ええ、わかります','えー','ああ','あぁ','あー'])assert.equal(useAlternateModel({expression}),true,expression);
+assert.equal(useAlternateModel({expression:'なるほど'},'ええ、そのとおりです。'),true,'Route extended replies as a whole');
+assert.equal(useAlternateModel({expression:'そうですね'}),false);
+assert.equal(useAlternateModel({expression:'はい',context:'A：ああ。 B：はい。'}),false,'A scene must not select the B model');
 const context = {window:{}};
 vm.runInNewContext(fs.readFileSync(resolveFile('conversation-data.js'),'utf8'), context);
 for (const [kind, bank] of Object.entries(context.window.JP_CONVERSATION)) {
@@ -29,13 +34,17 @@ const plan=JSON.parse(fs.readFileSync(resolveFile('speech/aizuchi-plan.json'),'u
 const pitchCheck=JSON.parse(fs.readFileSync(resolveFile('speech/prosody-check.json'),'utf8'));
 const vowelCheck=JSON.parse(fs.readFileSync(resolveFile('speech/aizuchi-vowel-check.json'),'utf8'));
 assert.equal(vowelCheck.auditSha256,hash(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8').replace(/\r\n/g,'\n')));
-assert.deepEqual(vowelCheck.records.map(r=>r.rank),[6,10,28]);
+assert.deepEqual(vowelCheck.records.map(r=>r.rank),[6,10,28,96]);
 assert.equal(pitchCheck.auditSha256,hash(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(pitchCheck.checkedFiles,200);
-assert.ok(pitchCheck.checks.every(c=>c.segments.every(s=>s.passed)));
+assert.equal(pitchCheck.checkedSegments,0);assert.equal(pitchCheck.manualPitchProcessing,false);
+assert.ok(pitchCheck.checks.every(c=>c.passed&&c.renderingMode==='native'&&c.segments.length===0));
 assert.equal(audit.voices.a.name,'青山龍星');assert.equal(audit.voices.b.name,'四国めたん');
 assert.equal(audit.renderer.generatorSha256,hash(fs.readFileSync(resolveFile(audit.renderer.generatorSnapshot||'generate-aizuchi-voicevox.cjs'),'utf8').replace(/\r\n/g,'\n')));
-assert.equal(audit.renderer.shaperSha256,hash(fs.readFileSync(resolveFile(audit.renderer.shaperSnapshot||'shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n')));
+assert.equal(audit.renderer.routingSha256,hash(fs.readFileSync(path.join(PROJECT_ROOT,'scripts/audio/aizuchi-model-routing.cjs'),'utf8').replace(/\r\n/g,'\n')));
+assert.equal(audit.renderer.mode,'native-only');assert.equal(audit.renderer.manualPitchProcessing,false);
+assert.equal(audit.voices.alternate.provider,'AivisSpeech');assert.equal(audit.voices.alternate.name,'まお');
+assert.match(manifest.credit,/AivisSpeech:まお/);
 assert.equal(audit.sourcePlanSha256,hash(fs.readFileSync(resolveFile('speech/aizuchi-plan.json'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(plan.sources['speech/aizuchi-review.txt'],hash(fs.readFileSync(resolveFile('speech/aizuchi-review.txt'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(plan.sources['conversation-data.js'],hash(fs.readFileSync(resolveFile('conversation-data.js'),'utf8').replace(/\r\n/g,'\n')));
@@ -45,15 +54,21 @@ for(const [i,record] of audit.records.entries()){
   assert.equal(record.id,word.id);assert.equal(plan.entries[i].expression,word.word);
   assert.equal('A：'+record.dialogueInput.a+' B：'+record.dialogueInput.b,word.example);
   assert.equal(record.contour,plan.entries[i].contour);
-  if(record.contour.startsWith('自然')){
-    assert.equal(record.rendering.word.postSynthesisPitchShift,false);
-    assert.ok(record.rendering.word.mode.startsWith('native'));
-    assert.deepEqual(record.acoustic.word.segments,[]);
-    if(record.rank!==100)assert.equal(record.rendering.b.postSynthesisPitchShift,false);
+  assert.equal(record.contour,'自然回應');
+  for(const part of ['word','b']){
+    assert.equal(record.rendering[part].mode,'native');
+    assert.equal(record.rendering[part].postSynthesisPitchShift,false);
+    assert.equal(record.rendering[part].manualMoraPitch,false);
+    assert.equal(record.rendering[part].interrogativeUpspeak,false);
+    assert.deepEqual(record.acoustic[part].segments,[]);
   }
-  const renderer=record.renderer||audit.renderer;
-  assert.equal(renderer.generatorSha256,hash(fs.readFileSync(resolveFile(renderer.generatorSnapshot||'generate-aizuchi-voicevox.cjs'),'utf8').replace(/\r\n/g,'\n')));
-  assert.equal(renderer.shaperSha256,hash(fs.readFileSync(resolveFile(renderer.shaperSnapshot||'shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n')));
+  assert.equal(record.rendering.word.synthesisInput,record.wordInput);
+  const spokenText=s=>s.replace(/[。？?…、\s]/gu,'');
+  assert.equal(spokenText(record.rendering.b.synthesisInput),spokenText(record.dialogueInput.b));
+  const expectedProvider=useAlternateModel(plan.entries[i],record.dialogueInput.b)?'AivisSpeech':'VOICEVOX';
+  assert.equal(record.providers.b,expectedProvider);assert.equal(manifest.entries[word.id].provider,expectedProvider);
+  assert.equal(record.renderer.generatorSha256,audit.renderer.generatorSha256);
+  assert.equal(manifest.entries[word.id].contour,undefined);
   const checkedVowel=vowelCheck.records.find(r=>r.rank===record.rank);
   if(checkedVowel){assert.equal(checkedVowel.sha256,record.word.sha256);assert.ok(checkedVowel.passed&&checkedVowel.voicedFrames>=25&&checkedVowel.medianPeriodicity>checkedVowel.minimumPeriodicity);}
   for(const [kind,key] of [['word','word'],['dialogue','example']]){
@@ -63,20 +78,12 @@ for(const [i,record] of audit.records.entries()){
     assert.equal(bytes.toString('ascii',0,4),'RIFF');assert.equal(bytes.toString('ascii',8,12),'WAVE');
     assert.equal(hash(bytes),entry.sha256);assert.ok(entry.seconds>.15&&entry.seconds<30);assert.ok(entry.rms>50);
   }
-  for(const query of Object.values(record.queries)){
+  for(const [part,query] of Object.entries(record.queries)){
     assert.equal(query.outputSamplingRate,24000);
-    assert.ok(query.accent_phrases.flatMap(p=>p.moras).every(m=>Number.isFinite(m.pitch)&&m.pitch>=0&&m.vowel_length>0));
-  }
-  for(const measured of Object.values(record.acoustic))for(const segment of measured.segments){
-    assert.equal(segment.passed,true,word.word);assert.ok(segment.voicedFrames>=5);
-    const c=segment.contour;
-    if(c.includes('尾升')||c==='短升 ↗')assert.ok(segment.deltaSemitones>1.5,word.word);
-    else if(c.includes('平持')||c.includes('前降後平持'))assert.ok(Math.abs(segment.deltaSemitones)<1.5,word.word);
-    else if(c.includes('先升後降')||c.includes('輕升後收'))assert.ok(segment.peakHz>segment.startHz*1.02&&segment.peakHz>segment.endHz*1.08,word.word);
-    else assert.ok(segment.deltaSemitones< -1.5,word.word);
+    assert.ok(query.accent_phrases.flatMap(p=>p.moras).every(m=>Number.isFinite(m.pitch)&&m.pitch>=0&&m.vowel_length>=(part!=='a'&&record.providers.b==='AivisSpeech'?0:Number.MIN_VALUE)));
   }
 }
-console.log('VOICEVOX: 100 phrases/100 dialogues; native intonation, three vowel regressions, retained explicit contours, source snapshots and hashes passed.');
+console.log('VOICEVOX: 100 phrases/100 dialogues; native-only intonation, four alternate-model regressions, no manual contours, source snapshots and hashes passed.');
 if(!process.env.PLAYWRIGHT_PATH) { console.log('Set PLAYWRIGHT_PATH to include browser checks.'); process.exit(0); }
 const {chromium} = require(process.env.PLAYWRIGHT_PATH);
 (async()=>{
@@ -107,6 +114,7 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
     await page.goto(base+'aizuchi.html');
     const decoded=await page.evaluate(async files=>{const context=new AudioContext();try{for(const item of files){const response=await fetch(item.file);if(!response.ok)throw Error(item.file);const audio=await context.decodeAudioData(await response.arrayBuffer());if(audio.numberOfChannels!==1||Math.abs(audio.duration-item.seconds)>.02)throw Error('Invalid WAV '+item.file);}return files.length;}finally{await context.close();}},audit.records.flatMap(r=>[r.word,r.dialogue]));
     assert.equal(decoded,200);
+    assert.ok(!/[↗↘→]/u.test(await page.locator('.expression-prosody').allTextContents().then(t=>t.join(''))));
     console.log('Chrome decoded all 200 aizuchi WAV files.');
     for(const home of ['index.html','layout.html']){
       await page.goto(base+home);
@@ -146,6 +154,7 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
         assert.equal(recordings.at(-1).src,manifest.entries['aizuchi-1'].example);
         assert.equal(recordings.at(-2).paused,true);
         assert.match(await page.locator('.expression-audio-credit').textContent(),/VOICEVOX:四国めたん/);
+        assert.match(await page.locator('.expression-audio-credit').textContent(),/AivisSpeech:まお/);
         assert.equal(await page.locator('.expression-prosody').count(),100);
         const decoded=await page.evaluate(async()=>{
           const ctx=new AudioContext();let count=0;
@@ -156,6 +165,7 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
           }}finally{await ctx.close();}return count;
         });
         assert.equal(decoded,200);
+    assert.ok(!/[↗↘→]/u.test(await page.locator('.expression-prosody').allTextContents().then(t=>t.join(''))));
       }else{
         assert.equal(spoken.length,0);
         const recordings=await page.evaluate(()=>window.recordings);

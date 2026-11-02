@@ -1,36 +1,46 @@
 {
-  "auditSha256": "5f9b0f426c4f5f08ed3a65137ac96810738cf4b6fc1ab5eee4b78d2c398d2c0d",
+  "auditSha256": "d3e037f11f1bd05cc98884b7b8ce9c4770bb250bd2d84f735e9e6d38bb63d0eb",
   "method": "DIO + StoneMask voiced frames; median normalized autocorrelation in active 40ms windows",
   "limitation": "Checks signal periodicity and voicing, not subjective absence of noise or naturalness.",
   "records": [
     {
       "rank": 6,
       "file": "audio/aizuchi/006-word.wav",
-      "sha256": "0421f4344ecc004bec59fe28650cf753de194ea7c2e76a04a10c42aa903a5112",
+      "sha256": "4e9b44e878ef3353135bff8ad8f9b54a8306c37b312f23f9dfae50ded1ae62ae",
       "mode": "native",
-      "medianPeriodicity": 0.7365,
+      "medianPeriodicity": 0.894,
       "minimumPeriodicity": 0.65,
-      "voicedFrames": 59,
+      "voicedFrames": 65,
       "passed": true
     },
     {
       "rank": 10,
       "file": "audio/aizuchi/010-word.wav",
-      "sha256": "2a20974bc4756ed324d92f4104941b624f3251e85024bec3f28534297eb5646c",
-      "mode": "native-vowel-crop",
-      "medianPeriodicity": 0.6218,
-      "minimumPeriodicity": 0.55,
-      "voicedFrames": 41,
+      "sha256": "644df21d008844abc92f2b95a05e08e332380898122e0702d9a062e6d040f6ff",
+      "mode": "native",
+      "medianPeriodicity": 0.8715,
+      "minimumPeriodicity": 0.65,
+      "voicedFrames": 69,
       "passed": true
     },
     {
       "rank": 28,
       "file": "audio/aizuchi/028-word.wav",
-      "sha256": "f2d31c632caa3815a29ade55f07da13d32cb244f1ff8f46caf136529f2eb6c6e",
-      "mode": "native-vowel-crop",
-      "medianPeriodicity": 0.4199,
-      "minimumPeriodicity": 0.4,
-      "voicedFrames": 43,
+      "sha256": "6439833a89cbff8f6134403443af895021483a8473c285a099669c5a644c0fd7",
+      "mode": "native",
+      "medianPeriodicity": 0.8788,
+      "minimumPeriodicity": 0.65,
+      "voicedFrames": 62,
+      "passed": true
+    },
+    {
+      "rank": 96,
+      "file": "audio/aizuchi/096-word.wav",
+      "sha256": "2feb67cb41719e8550ae0cb1b73849450419b0b5809c29cec26f8b47bd174bf6",
+      "mode": "native",
+      "medianPeriodicity": 0.8715,
+      "minimumPeriodicity": 0.65,
+      "voicedFrames": 159,
       "passed": true
     }
   ]

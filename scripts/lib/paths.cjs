@@ -26,7 +26,7 @@ const scripts={
   "process_n3.py": "scripts/legacy/process_n3.py",
   "restyle-verbs.cjs": "scripts/build/restyle-verbs.cjs",
   "serve.cjs": "scripts/serve.cjs",
-  "shape-aizuchi-prosody.py": "scripts/audio/shape-aizuchi-prosody.py",
+  "shape-aizuchi-prosody.py": "data/speech/renderer-snapshots/shape-aizuchi-prosody.py",
   "test-conversation.cjs": "tests/test-conversation.cjs",
   "test-example-audio.cjs": "tests/test-example-audio.cjs",
   "test-favorites.cjs": "tests/test-favorites.cjs",

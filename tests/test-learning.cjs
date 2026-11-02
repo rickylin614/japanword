@@ -5,6 +5,8 @@ const path = require('node:path');
 const vm = require('node:vm');
 const http = require('node:http');
 const root=PROJECT_ROOT;
+assert.ok(!fs.existsSync(resolveFile('n87.html')),'Retired daily-vocabulary page must not be published');
+assert.ok(!fs.readFileSync(resolveFile('shared-shell.js'),'utf8').includes('n87.html'),'Retired page must not appear in navigation');
 const context = {window:{}};
 vm.createContext(context);
 for(const file of ['grammar-data.js','vocabulary-data.js','n1-data.js','n2-data.js','n3-data.js','n4-data.js','n5-data.js']) vm.runInContext(fs.readFileSync(resolveFile(file),'utf8'),context);
@@ -52,7 +54,7 @@ async function main() {
     const base=`http://127.0.0.1:${server.address().port}`;
     const go=file=>page.goto(`${base}/${file}`);
     const assertCurrentWordAudio=async level=>assert.equal(await page.evaluate(level=>{const text=document.querySelector('#word-practice h2').textContent;return Object.values(JP_VOCABULARY[level]).flat().some(w=>w.word===text&&played.at(-1)===JP_WORD_AUDIO.levels[level][w.id]);},level),true);
-    const pages=['50.html','n87.html','layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['n1','n2'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`${l}-${c}.html`)),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
+    const pages=['50.html','layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['n1','n2'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`${l}-${c}.html`)),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
     for(const width of [360,390,768,1440]) {
       await page.setViewportSize({width,height:900});
       for(const file of pages) {
@@ -60,7 +62,7 @@ async function main() {
         assert.equal(await page.locator('#back-to-top').count(),1);
         await page.waitForFunction(()=>!document.body.textContent.includes('載入中'));
         assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${file}: overflow at ${width}`);
-        if(['layout.html','n3.html','grammar.html','grammar-overview.html','sources.html','n3-verbs.html','50.html','n87.html'].includes(file))await page.screenshot({path:resolveFile('review-'+file.replace('.html','')+'-'+width+'.png'),fullPage:false});
+        if(['layout.html','n3.html','grammar.html','grammar-overview.html','sources.html','n3-verbs.html','50.html',].includes(file))await page.screenshot({path:resolveFile('review-'+file.replace('.html','')+'-'+width+'.png'),fullPage:false});
         if(width===1440 && file==='layout.html'){const rows=await page.locator('.card a[href$="-nouns.html"]').evaluateAll(nodes=>nodes.map(n=>n.getBoundingClientRect().top));assert.ok(Math.max(...rows)-Math.min(...rows)<1,'Level card categories must align');}
         if(width===360 && file==='layout.html') await page.screenshot({path:resolveFile('mobile-preview.png'),fullPage:true});
         if(width===1440 && file==='layout.html') await page.screenshot({path:resolveFile('desktop-preview.png'),fullPage:true});
@@ -206,7 +208,7 @@ async function main() {
     const blocked=await browser.newContext();await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked');}});});
     const blockedPage=await blocked.newPage();await blockedPage.goto(`${base}/layout.html`);assert.match(await blockedPage.locator('#storage-note').innerText(),/未開放儲存/);await blocked.close();
     assert.deepEqual(errors,[]);
-    console.log('Chrome checks passed: 37 pages x 4 viewport widths; N1/N2/N3/N4/N5 source links, search, favorites migration, 25 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
+    console.log('Chrome checks passed: '+pages.length+' pages x 4 viewport widths; N1/N2/N3/N4/N5 source links, search, favorites migration, 25 banks x 2 quiz modes; all existing verb links/themes; N2 sources, pagination, favorites, readings/meanings/audio; existing grammar score, resume, wrong-answer retry, unseen pool and storage failure.');
   } finally {if(browser)await browser.close();await new Promise(resolve=>server.close(resolve));}
 }
 main().catch(error=>{console.error(error);process.exitCode=1;});

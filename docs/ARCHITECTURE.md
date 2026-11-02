@@ -89,9 +89,9 @@ N1～N5 的詞彙分級出自固定版本 Open Anki JLPT Decks／Tanos；JMdict 
 
 ## 音訊
 
-引擎在專案外，網站使用預先生成音檔。四国めたん（ノーマル，speaker 2）、話速 1.05、停頓比例 0.85 是現有單字／例句設定。相づち另有 A／B 聲線與句尾音高處理，請讀 `data/speech/AIZUCHI-REVIEW.md`，不要套用一般例句設定覆寫它。
+引擎在專案外，網站使用預先生成音檔。四国めたん（ノーマル，speaker 2）、話速 1.05、停頓比例 0.85 是現有單字／例句設定。相づち另有 A／B 聲線及替代模型路由，請讀 `data/speech/AIZUCHI-REVIEW.md`，不要套用一般例句設定覆寫它。
 
-相づち標示「自然回應／自然驚訝」的條目已移除強制降調，直接使用原生語音；短母音修正及局部重建方式見 `data/speech/AIZUCHI-NATURAL-REVIEW.md`。修改相づち音檔後，執行 `verify-aizuchi-prosody.py` 與 `verify-aizuchi-vowels.py` 更新對應紀錄，再執行會話測試。
+相づち全部使用原生語調，已移除所有手動升降與母音加工；へえ／ええ／ああ及延伸回應使用 AivisSpeech まお，其餘使用 VOICEVOX。模型路由及局部重建方式見 `data/speech/AIZUCHI-NATURAL-REVIEW.md`。修改相づち音檔後，執行 `verify-aizuchi-prosody.py` 與 `verify-aizuchi-vowels.py` 更新對應紀錄，再執行會話測試。
 
 設定本機 `VOICEVOX_URL`、`VOICEVOX_PYTHON` 後：
 
@@ -108,3 +108,5 @@ npm run build:pages
 使用者要求驗證時，可以執行 `npm run test:data`；瀏覽器測試另設定 `PLAYWRIGHT_PATH` 為已安裝的 Playwright 模組後執行 `npm run test:browser`。截圖集中在 `artifacts/screenshots/`。必要建置所做的完整性條件檢查，不等同資料語意驗證、瀏覽器測試或逐句試聽。
 
 第一階段 `098d338f` 依指示先發布，未執行驗證。第二階段已複查 N1 翻譯、句型與語氣，修正教材及朗讀活用讀音，並執行全部資料、卡片互動與 MP3 解碼檢查；詳見 [N1 複查紀錄](N1-VALIDATION.md)。這不等同母語者逐句審定或逐句人工試聽。
+
+生活單字舊頁及內嵌 478 列專用詞表已移除，選單、專用樣式與相容入口清單同步清理。保留五十音及 N1～N5 教材；不要從歷史備份復原已下架的舊頁。

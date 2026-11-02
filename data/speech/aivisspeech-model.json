@@ -1,0 +1,22 @@
+{
+  "provider": "AivisSpeech",
+  "engineVersion": "1.2.0",
+  "name": "まお",
+  "modelUuid": "a59cb814-0083-4369-8542-f51a29e72af7",
+  "speakerUuid": "e756b8e4-b606-4e15-99b1-3f9c6a1b2317",
+  "architecture": "Style-Bert-VITS2 (JP-Extra)",
+  "format": "ONNX",
+  "version": "1.2.0",
+  "sha256": "f87ccea2e8e2de0e0bfe52e803945af903b4086bf25621a015111628f00e4119",
+  "license": "ACML 1.0",
+  "creators": [
+    "オズチャット -Oz Chat- <cs@tr1ppy.com> (https://0z.chat)",
+    "Trippy <cs@tr1ppy.com> (https://tr1ppy.com)",
+    "ねゆたろ (https://x.com/___neyu_zzz)"
+  ],
+  "credit": "AivisSpeech:まお",
+  "modelUrl": "https://hub.aivis-project.com/aivm-models/a59cb814-0083-4369-8542-f51a29e72af7",
+  "downloadUrl": "https://api.aivis-project.com/v1/aivm-models/a59cb814-0083-4369-8542-f51a29e72af7/download?model_type=AIVMX",
+  "engineUrl": "https://github.com/Aivis-Project/AivisSpeech-Engine/releases/tag/1.2.0",
+  "retrievedAt": "2026-11-03"
+}

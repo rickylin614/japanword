@@ -1,607 +1,707 @@
-/* Generated local VOICEVOX audio. See speech/voicevox-audit.json. */
+/* Native VOICEVOX / AivisSpeech recordings. See data/speech/voicevox-audit.json. */
 window.JP_AIZUCHI_AUDIO = {
-  "provider": "VOICEVOX",
-  "credit": "VOICEVOX:四国めたん／VOICEVOX:青山龍星",
+  "provider": "VOICEVOX + AivisSpeech",
+  "credit": "VOICEVOX:四国めたん／VOICEVOX:青山龍星／AivisSpeech:まお",
   "entries": {
     "aizuchi-1": {
-      "word": "audio/aizuchi/001-word.wav?v=1fbf8e6fc9f7",
-      "example": "audio/aizuchi/001-dialogue.wav?v=d51aee889f2c",
-      "contour": "自然回應",
-      "intent": "輕聲表示正在聽；不強調同意"
+      "word": "audio/aizuchi/001-word.wav?v=d01320891490",
+      "example": "audio/aizuchi/001-dialogue.wav?v=b999a3c8c2cd",
+      "intent": "輕聲表示正在聽；不強調同意",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-2": {
-      "word": "audio/aizuchi/002-word.wav?v=2c95c2fabcd0",
-      "example": "audio/aizuchi/002-dialogue.wav?v=131fa456b801",
-      "contour": "自然回應",
-      "intent": "禮貌接收指示，清楚而不僵硬"
+      "word": "audio/aizuchi/002-word.wav?v=57f7ae45f857",
+      "example": "audio/aizuchi/002-dialogue.wav?v=211352eddb7c",
+      "intent": "禮貌接收指示，清楚而不僵硬",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-3": {
-      "word": "audio/aizuchi/003-word.wav?v=20b542cb9ac9",
-      "example": "audio/aizuchi/003-dialogue.wav?v=eab263e77dc9",
-      "contour": "自然回應",
-      "intent": "得知搬家消息，溫和理解"
+      "word": "audio/aizuchi/003-word.wav?v=cfb44a2f2af0",
+      "example": "audio/aizuchi/003-dialogue.wav?v=64e5a4e4989a",
+      "intent": "得知搬家消息，溫和理解",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-4": {
-      "word": "audio/aizuchi/004-word.wav?v=7e672d832a14",
-      "example": "audio/aizuchi/004-dialogue.wav?v=21455b39f568",
-      "contour": "自然回應",
-      "intent": "認同天氣很熱，非猶豫思考"
+      "word": "audio/aizuchi/004-word.wav?v=a2198fd782f2",
+      "example": "audio/aizuchi/004-dialogue.wav?v=bfc27a36402c",
+      "intent": "認同天氣很熱，非猶豫思考",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-5": {
-      "word": "audio/aizuchi/005-word.wav?v=f769fc3ce44d",
-      "example": "audio/aizuchi/005-dialogue.wav?v=204ebb2e5937",
-      "contour": "自然回應",
-      "intent": "朋友間得知新資訊"
+      "word": "audio/aizuchi/005-word.wav?v=17eb5d0c48dd",
+      "example": "audio/aizuchi/005-dialogue.wav?v=cd1ad90d6f08",
+      "intent": "朋友間得知新資訊",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-6": {
-      "word": "audio/aizuchi/006-word.wav?v=0421f4344ecc",
-      "example": "audio/aizuchi/006-dialogue.wav?v=0bbf950a0db8",
-      "contour": "自然驚訝",
-      "intent": "對百年老店感興趣，避免冷淡"
+      "word": "audio/aizuchi/006-word.wav?v=4e9b44e878ef",
+      "example": "audio/aizuchi/006-dialogue.wav?v=274b5eb8c9a7",
+      "intent": "對百年老店感興趣，避免冷淡",
+      "provider": "AivisSpeech",
+      "voice": "まお"
     },
     "aizuchi-7": {
-      "word": "audio/aizuchi/007-word.wav?v=e79e1b3193b2",
-      "example": "audio/aizuchi/007-dialogue.wav?v=0ddd85475711",
-      "contour": "自然回應",
-      "intent": "理解地下道較方便的理由"
+      "word": "audio/aizuchi/007-word.wav?v=b5495180520a",
+      "example": "audio/aizuchi/007-dialogue.wav?v=2697707a2a91",
+      "intent": "理解地下道較方便的理由",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-8": {
-      "word": "audio/aizuchi/008-word.wav?v=4a75b119e8b5",
-      "example": "audio/aizuchi/008-dialogue.wav?v=87a0550a8183",
-      "contour": "自然回應",
-      "intent": "接受公休資訊；本例不是詢問"
+      "word": "audio/aizuchi/008-word.wav?v=85583a22012b",
+      "example": "audio/aizuchi/008-dialogue.wav?v=cced64d8f411",
+      "intent": "接受公休資訊；本例不是詢問",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-9": {
-      "word": "audio/aizuchi/009-word.wav?v=66a8bf816e7e",
-      "example": "audio/aizuchi/009-dialogue.wav?v=01051f0e2dcf",
-      "contour": "自然回應",
-      "intent": "兩次點頭，鼓勵繼續說"
+      "word": "audio/aizuchi/009-word.wav?v=cc78bd00d525",
+      "example": "audio/aizuchi/009-dialogue.wav?v=6c7078657514",
+      "intent": "兩次點頭，鼓勵繼續說",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-10": {
-      "word": "audio/aizuchi/010-word.wav?v=2a20974bc475",
-      "example": "audio/aizuchi/010-dialogue.wav?v=6026fbbbfee1",
-      "contour": "自然回應",
-      "intent": "溫和認同安靜的環境，非驚訝"
+      "word": "audio/aizuchi/010-word.wav?v=644df21d0088",
+      "example": "audio/aizuchi/010-dialogue.wav?v=e2cbd1aeaa48",
+      "intent": "溫和認同安靜的環境，非驚訝",
+      "provider": "AivisSpeech",
+      "voice": "まお"
     },
     "aizuchi-11": {
-      "word": "audio/aizuchi/011-word.wav?v=78b3e560f14b",
-      "example": "audio/aizuchi/011-dialogue.wav?v=e08753ca4926",
-      "contour": "尾升 ↗",
-      "intent": "中獎消息令人驚喜，確認真偽"
+      "word": "audio/aizuchi/011-word.wav?v=5f28df8b1d8c",
+      "example": "audio/aizuchi/011-dialogue.wav?v=210816739360",
+      "intent": "中獎消息令人驚喜，確認真偽",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-12": {
-      "word": "audio/aizuchi/012-word.wav?v=a9b65ced8d5a",
-      "example": "audio/aizuchi/012-dialogue.wav?v=388f012cea94",
-      "contour": "尾升 ↗",
-      "intent": "朋友間確認下雪消息"
+      "word": "audio/aizuchi/012-word.wav?v=9417172ac38b",
+      "example": "audio/aizuchi/012-dialogue.wav?v=37c6a1012d9f",
+      "intent": "朋友間確認下雪消息",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-13": {
-      "word": "audio/aizuchi/013-word.wav?v=b20e12dd2e58",
-      "example": "audio/aizuchi/013-dialogue.wav?v=a1fe2b2c4180",
-      "contour": "自然回應",
-      "intent": "承認這條路較近"
+      "word": "audio/aizuchi/013-word.wav?v=12acb4fc25fd",
+      "example": "audio/aizuchi/013-dialogue.wav?v=8a65dcaf6ea1",
+      "intent": "承認這條路較近",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-14": {
-      "word": "audio/aizuchi/014-word.wav?v=fb600d90bc57",
-      "example": "audio/aizuchi/014-dialogue.wav?v=2ead795d381a",
-      "contour": "自然回應",
-      "intent": "同意差不多該回家"
+      "word": "audio/aizuchi/014-word.wav?v=c937d0204412",
+      "example": "audio/aizuchi/014-dialogue.wav?v=e41841a49c35",
+      "intent": "同意差不多該回家",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-15": {
-      "word": "audio/aizuchi/015-word.wav?v=61c10c90bab1",
-      "example": "audio/aizuchi/015-dialogue.wav?v=0e8689620c34",
-      "contour": "自然回應",
-      "intent": "對方猜對店家，積極肯定"
+      "word": "audio/aizuchi/015-word.wav?v=8873eae7cb89",
+      "example": "audio/aizuchi/015-dialogue.wav?v=632fb5592e3a",
+      "intent": "對方猜對店家，積極肯定",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-16": {
-      "word": "audio/aizuchi/016-word.wav?v=5554fc562644",
-      "example": "audio/aizuchi/016-dialogue.wav?v=a62beb02a2fa",
-      "contour": "自然回應",
-      "intent": "體會早起辛苦，非冷淡確認"
+      "word": "audio/aizuchi/016-word.wav?v=cf01b441f803",
+      "example": "audio/aizuchi/016-dialogue.wav?v=0b9123fb01c2",
+      "intent": "體會早起辛苦，非冷淡確認",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-17": {
-      "word": "audio/aizuchi/017-word.wav?v=fae7d049c4cb",
-      "example": "audio/aizuchi/017-dialogue.wav?v=c0ed656b3ab4",
-      "contour": "自然回應",
-      "intent": "對假日很快結束有同感"
+      "word": "audio/aizuchi/017-word.wav?v=92b90b11bcf0",
+      "example": "audio/aizuchi/017-dialogue.wav?v=6f2722759bf5",
+      "intent": "對假日很快結束有同感",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-18": {
-      "word": "audio/aizuchi/018-word.wav?v=4b020b9c603b",
-      "example": "audio/aizuchi/018-dialogue.wav?v=ae4e66d8e324",
-      "contour": "輕升後收 ↗↘",
-      "intent": "贊同先預約，帶共享感"
+      "word": "audio/aizuchi/018-word.wav?v=32386b3aa263",
+      "example": "audio/aizuchi/018-dialogue.wav?v=b471a5d2a647",
+      "intent": "贊同先預約，帶共享感",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-19": {
-      "word": "audio/aizuchi/019-word.wav?v=8aaa369f0b0d",
-      "example": "audio/aizuchi/019-dialogue.wav?v=b56e40245432",
-      "contour": "明亮先升後降 ↗↘",
-      "intent": "真誠稱讚一年拿三張證照"
+      "word": "audio/aizuchi/019-word.wav?v=9eec92d3f39f",
+      "example": "audio/aizuchi/019-dialogue.wav?v=9e272fe40f51",
+      "intent": "真誠稱讚一年拿三張證照",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-20": {
-      "word": "audio/aizuchi/020-word.wav?v=79c077d620b8",
-      "example": "audio/aizuchi/020-dialogue.wav?v=b1e629860d05",
-      "contour": "先升後降 ↗↘",
-      "intent": "看見手作品的自然驚嘆"
+      "word": "audio/aizuchi/020-word.wav?v=fbded7c47ee3",
+      "example": "audio/aizuchi/020-dialogue.wav?v=32ee3a4ce238",
+      "intent": "看見手作品的自然驚嘆",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-21": {
-      "word": "audio/aizuchi/021-word.wav?v=36791ee24490",
-      "example": "audio/aizuchi/021-dialogue.wav?v=9ebe84af7d53",
-      "contour": "柔和先升後降 ↗↘",
-      "intent": "對溫泉計畫感到欣賞"
+      "word": "audio/aizuchi/021-word.wav?v=125e83c34d62",
+      "example": "audio/aizuchi/021-dialogue.wav?v=a893f9b7ff79",
+      "intent": "對溫泉計畫感到欣賞",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-22": {
-      "word": "audio/aizuchi/022-word.wav?v=fe0b3765a5a6",
-      "example": "audio/aizuchi/022-dialogue.wav?v=127fa60f204f",
-      "contour": "輕升後收 ↗↘",
-      "intent": "朋友間對新咖啡店積極回應"
+      "word": "audio/aizuchi/022-word.wav?v=d370fafaa9f3",
+      "example": "audio/aizuchi/022-dialogue.wav?v=7a58aab5553f",
+      "intent": "朋友間對新咖啡店積極回應",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-23": {
-      "word": "audio/aizuchi/023-word.wav?v=612ecaf9b9cc",
-      "example": "audio/aizuchi/023-dialogue.wav?v=4faa7237d741",
-      "contour": "自然回應",
-      "intent": "體諒連日加班，避免歡快語調"
+      "word": "audio/aizuchi/023-word.wav?v=4a8d73a733a9",
+      "example": "audio/aizuchi/023-dialogue.wav?v=dbdd08c39067",
+      "intent": "體諒連日加班，避免歡快語調",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-24": {
-      "word": "audio/aizuchi/024-word.wav?v=8853c8436766",
-      "example": "audio/aizuchi/024-dialogue.wav?v=874958527bb0",
-      "contour": "自然回應",
-      "intent": "關心走兩小時的辛苦"
+      "word": "audio/aizuchi/024-word.wav?v=0e993cba7971",
+      "example": "audio/aizuchi/024-dialogue.wav?v=58e6c9cde0fb",
+      "intent": "關心走兩小時的辛苦",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-25": {
-      "word": "audio/aizuchi/025-word.wav?v=4db1c293495f",
-      "example": "audio/aizuchi/025-dialogue.wav?v=47e7e89b4ec3",
-      "contour": "自然回應",
-      "intent": "想通今天是假日"
+      "word": "audio/aizuchi/025-word.wav?v=ce4a617f5494",
+      "example": "audio/aizuchi/025-dialogue.wav?v=9cbf2eca264e",
+      "intent": "想通今天是假日",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-26": {
-      "word": "audio/aizuchi/026-word.wav?v=a9927d035118",
-      "example": "audio/aizuchi/026-dialogue.wav?v=6a46cf5ad87f",
-      "contour": "自然回應",
-      "intent": "接受朋友不能來，略帶失落"
+      "word": "audio/aizuchi/026-word.wav?v=f9f51478fe32",
+      "example": "audio/aizuchi/026-dialogue.wav?v=c24a0e8d48d6",
+      "intent": "接受朋友不能來，略帶失落",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-27": {
-      "word": "audio/aizuchi/027-word.wav?v=de69c995ca22",
-      "example": "audio/aizuchi/027-dialogue.wav?v=f19cc20d8a27",
-      "contour": "短升 ↗",
-      "intent": "賣完了的突發驚訝"
+      "word": "audio/aizuchi/027-word.wav?v=aee49657205d",
+      "example": "audio/aizuchi/027-dialogue.wav?v=8e7aa482c831",
+      "intent": "賣完了的突發驚訝",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-28": {
-      "word": "audio/aizuchi/028-word.wav?v=f2d31c632caa",
-      "example": "audio/aizuchi/028-dialogue.wav?v=2500bc80e064",
-      "contour": "自然回應",
-      "intent": "想起田中先生，非嘆息"
+      "word": "audio/aizuchi/028-word.wav?v=6439833a89cb",
+      "example": "audio/aizuchi/028-dialogue.wav?v=8af8973d3eb0",
+      "intent": "想起田中先生，非嘆息",
+      "provider": "AivisSpeech",
+      "voice": "まお"
     },
     "aizuchi-29": {
-      "word": "audio/aizuchi/029-word.wav?v=b607e0655c47",
-      "example": "audio/aizuchi/029-dialogue.wav?v=45450a23bb7b",
-      "contour": "自然回應",
-      "intent": "理解朋友早出門的原因"
+      "word": "audio/aizuchi/029-word.wav?v=42a4274608cd",
+      "example": "audio/aizuchi/029-dialogue.wav?v=a33c1f9dabc9",
+      "intent": "理解朋友早出門的原因",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-30": {
-      "word": "audio/aizuchi/030-word.wav?v=289d35104aa3",
-      "example": "audio/aizuchi/030-dialogue.wav?v=be321e51e98b",
-      "contour": "尾升 ↗",
-      "intent": "對以前是學校的消息感興趣"
+      "word": "audio/aizuchi/030-word.wav?v=3387d3b61d43",
+      "example": "audio/aizuchi/030-dialogue.wav?v=60d56dc207c5",
+      "intent": "對以前是學校的消息感興趣",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-31": {
-      "word": "audio/aizuchi/031-word.wav?v=9ac67c99b6ba",
-      "example": "audio/aizuchi/031-dialogue.wav?v=20546713fd61",
-      "contour": "自然回應",
-      "intent": "對住三十年的感慨，非質疑"
+      "word": "audio/aizuchi/031-word.wav?v=81c31715cbcc",
+      "example": "audio/aizuchi/031-dialogue.wav?v=21f580fe0a1b",
+      "intent": "對住三十年的感慨，非質疑",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-32": {
-      "word": "audio/aizuchi/032-word.wav?v=57a779d5245b",
-      "example": "audio/aizuchi/032-dialogue.wav?v=389c5d0b0c5a",
-      "contour": "自然回應",
-      "intent": "實際看到櫻花，認同發現"
+      "word": "audio/aizuchi/032-word.wav?v=c0a5f10f8f8c",
+      "example": "audio/aizuchi/032-dialogue.wav?v=73210affad74",
+      "intent": "實際看到櫻花，認同發現",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-33": {
-      "word": "audio/aizuchi/033-word.wav?v=6c288c327bb3",
-      "example": "audio/aizuchi/033-dialogue.wav?v=78a646172321",
-      "contour": "先升後降 ↗↘",
-      "intent": "看到彩虹的驚喜"
+      "word": "audio/aizuchi/033-word.wav?v=af05d63a90ac",
+      "example": "audio/aizuchi/033-dialogue.wav?v=b5eb3533f71d",
+      "intent": "看到彩虹的驚喜",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-34": {
-      "word": "audio/aizuchi/034-word.wav?v=9dccf407c0f4",
-      "example": "audio/aizuchi/034-dialogue.wav?v=b0da90617cc3",
-      "contour": "尾升 ↗",
-      "intent": "朋友抽到票，口語驚喜"
+      "word": "audio/aizuchi/034-word.wav?v=3c1159ee86c2",
+      "example": "audio/aizuchi/034-dialogue.wav?v=35d0da64720b",
+      "intent": "朋友抽到票，口語驚喜",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-35": {
-      "word": "audio/aizuchi/035-word.wav?v=bab843827aef",
-      "example": "audio/aizuchi/035-dialogue.wav?v=9a7201a99468",
-      "contour": "尾升 ↗",
-      "intent": "得知兩人是兄弟，意外確認"
+      "word": "audio/aizuchi/035-word.wav?v=16d0e13b5a3d",
+      "example": "audio/aizuchi/035-dialogue.wav?v=789dd9753d72",
+      "intent": "得知兩人是兄弟，意外確認",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-36": {
-      "word": "audio/aizuchi/036-word.wav?v=863e1216f1f4",
-      "example": "audio/aizuchi/036-dialogue.wav?v=7c57f63aee70",
-      "contour": "自然回應",
-      "intent": "溫柔接受明天休息的安排"
+      "word": "audio/aizuchi/036-word.wav?v=db08dd361fe7",
+      "example": "audio/aizuchi/036-dialogue.wav?v=decfb31d9ffb",
+      "intent": "溫柔接受明天休息的安排",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-37": {
-      "word": "audio/aizuchi/037-word.wav?v=666852e39391",
-      "example": "audio/aizuchi/037-dialogue.wav?v=31aeb2886f8c",
-      "contour": "輕升後收 ↗↘",
-      "intent": "對說明難懂有共識"
+      "word": "audio/aizuchi/037-word.wav?v=0da53aab0bb8",
+      "example": "audio/aizuchi/037-dialogue.wav?v=02792a4d067f",
+      "intent": "對說明難懂有共識",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-38": {
-      "word": "audio/aizuchi/038-word.wav?v=cd6d4868dab6",
-      "example": "audio/aizuchi/038-dialogue.wav?v=a048f973ce52",
-      "contour": "輕升後收 ↗↘",
-      "intent": "分享電影好看的感受"
+      "word": "audio/aizuchi/038-word.wav?v=353914a1172b",
+      "example": "audio/aizuchi/038-dialogue.wav?v=365d8301017e",
+      "intent": "分享電影好看的感受",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-39": {
-      "word": "audio/aizuchi/039-word.wav?v=e4e33a80ce60",
-      "example": "audio/aizuchi/039-dialogue.wav?v=457402a9c0ac",
-      "contour": "自然回應",
-      "intent": "正式贊同安全優先"
+      "word": "audio/aizuchi/039-word.wav?v=3b10270db3cf",
+      "example": "audio/aizuchi/039-dialogue.wav?v=441c40e54dec",
+      "intent": "正式贊同安全優先",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-40": {
-      "word": "audio/aizuchi/040-word.wav?v=6a5e42a5dac5",
-      "example": "audio/aizuchi/040-dialogue.wav?v=fa05b4e6d483",
-      "contour": "自然回應",
-      "intent": "認同準備最重要"
+      "word": "audio/aizuchi/040-word.wav?v=a98f691a65a5",
+      "example": "audio/aizuchi/040-dialogue.wav?v=d7d52e189d58",
+      "intent": "認同準備最重要",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-41": {
-      "word": "audio/aizuchi/041-word.wav?v=32b933e823cd",
-      "example": "audio/aizuchi/041-dialogue.wav?v=5f4fceb5a483",
-      "contour": "自然回應",
-      "intent": "對停電一夜表達體諒"
+      "word": "audio/aizuchi/041-word.wav?v=c9767c8c22b3",
+      "example": "audio/aizuchi/041-dialogue.wav?v=f887dd500f35",
+      "intent": "對停電一夜表達體諒",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-42": {
-      "word": "audio/aizuchi/042-word.wav?v=d4111d80cf17",
-      "example": "audio/aizuchi/042-dialogue.wav?v=65e07cf01fba",
-      "contour": "自然回應",
-      "intent": "對順利出院真心放心"
+      "word": "audio/aizuchi/042-word.wav?v=f9a40cb2b88d",
+      "example": "audio/aizuchi/042-dialogue.wav?v=5e536b4b3250",
+      "intent": "對順利出院真心放心",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-43": {
-      "word": "audio/aizuchi/043-word.wav?v=ec6fb3a12dc3",
-      "example": "audio/aizuchi/043-dialogue.wav?v=c3fe3fefc322",
-      "contour": "自然回應",
-      "intent": "與朋友分享考試通過的喜悅"
+      "word": "audio/aizuchi/043-word.wav?v=69eb3d4821ff",
+      "example": "audio/aizuchi/043-dialogue.wav?v=55347b4850f4",
+      "intent": "與朋友分享考試通過的喜悅",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-44": {
-      "word": "audio/aizuchi/044-word.wav?v=007ef1f7a7cf",
-      "example": "audio/aizuchi/044-dialogue.wav?v=e62628252148",
-      "contour": "自然回應",
-      "intent": "理解找不到鑰匙的困擾"
+      "word": "audio/aizuchi/044-word.wav?v=3b09557727b7",
+      "example": "audio/aizuchi/044-dialogue.wav?v=365eb257574b",
+      "intent": "理解找不到鑰匙的困擾",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-45": {
-      "word": "audio/aizuchi/045-word.wav?v=c3eba6ca6db5",
-      "example": "audio/aizuchi/045-dialogue.wav?v=e37d50565d25",
-      "contour": "自然回應",
-      "intent": "對旅行取消惋惜"
+      "word": "audio/aizuchi/045-word.wav?v=6f60ef6acdab",
+      "example": "audio/aizuchi/045-dialogue.wav?v=1b0afdb5eb18",
+      "intent": "對旅行取消惋惜",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-46": {
-      "word": "audio/aizuchi/046-word.wav?v=72f738a0fa8e",
-      "example": "audio/aizuchi/046-dialogue.wav?v=41c15c7c71c0",
-      "contour": "自然回應",
-      "intent": "安慰決賽落敗的朋友"
+      "word": "audio/aizuchi/046-word.wav?v=80b957496598",
+      "example": "audio/aizuchi/046-dialogue.wav?v=a272c86e203e",
+      "intent": "安慰決賽落敗的朋友",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-47": {
-      "word": "audio/aizuchi/047-word.wav?v=5f8a457039d8",
-      "example": "audio/aizuchi/047-dialogue.wav?v=a91913e09ffd",
-      "contour": "自然回應",
-      "intent": "對熬夜習慣輕鬆共鳴"
+      "word": "audio/aizuchi/047-word.wav?v=92d8bd92ecea",
+      "example": "audio/aizuchi/047-dialogue.wav?v=37bb1e2cf060",
+      "intent": "對熬夜習慣輕鬆共鳴",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-48": {
-      "word": "audio/aizuchi/048-word.wav?v=3530dd9bd148",
-      "example": "audio/aizuchi/048-dialogue.wav?v=fabc5b23ba13",
-      "contour": "輕升後收 ↗↘",
-      "intent": "對突然想不起名字有同感"
+      "word": "audio/aizuchi/048-word.wav?v=60d84baf7e50",
+      "example": "audio/aizuchi/048-dialogue.wav?v=cbd2b3c6b6b7",
+      "intent": "對突然想不起名字有同感",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-49": {
-      "word": "audio/aizuchi/049-word.wav?v=46ac84c8c8c2",
-      "example": "audio/aizuchi/049-dialogue.wav?v=a905dbbfbe33",
-      "contour": "自然回應",
-      "intent": "對忘記購物清單輕鬆同感"
+      "word": "audio/aizuchi/049-word.wav?v=a75c9e97bdcf",
+      "example": "audio/aizuchi/049-dialogue.wav?v=1560b739b23a",
+      "intent": "對忘記購物清單輕鬆同感",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-50": {
-      "word": "audio/aizuchi/050-word.wav?v=1b77c8db8f11",
-      "example": "audio/aizuchi/050-dialogue.wav?v=77a4ad773e27",
-      "contour": "自然回應",
-      "intent": "整理不必預約的重點"
+      "word": "audio/aizuchi/050-word.wav?v=744b46740258",
+      "example": "audio/aizuchi/050-dialogue.wav?v=044828aaa48d",
+      "intent": "整理不必預約的重點",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-51": {
-      "word": "audio/aizuchi/051-word.wav?v=af90623ecc46",
-      "example": "audio/aizuchi/051-dialogue.wav?v=4522a3bf87a6",
-      "contour": "自然回應",
-      "intent": "想通店家沒開的原因"
+      "word": "audio/aizuchi/051-word.wav?v=86142376c13b",
+      "example": "audio/aizuchi/051-dialogue.wav?v=19477e182194",
+      "intent": "想通店家沒開的原因",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-52": {
-      "word": "audio/aizuchi/052-word.wav?v=aa9c6a7c8d3f",
-      "example": "audio/aizuchi/052-dialogue.wav?v=7651dfa94945",
-      "contour": "自然回應",
-      "intent": "理解材料成本與售價"
+      "word": "audio/aizuchi/052-word.wav?v=93fa16e25f3f",
+      "example": "audio/aizuchi/052-dialogue.wav?v=b617f53ae3f7",
+      "intent": "理解材料成本與售價",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-53": {
-      "word": "audio/aizuchi/053-word.wav?v=a2111ace5cd7",
-      "example": "audio/aizuchi/053-dialogue.wav?v=0ce179d15e83",
-      "contour": "自然回應",
-      "intent": "感謝學到敬語知識"
+      "word": "audio/aizuchi/053-word.wav?v=ac8550b61397",
+      "example": "audio/aizuchi/053-dialogue.wav?v=5ee909072e2c",
+      "intent": "感謝學到敬語知識",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-54": {
-      "word": "audio/aizuchi/054-word.wav?v=ab0930e4cb0a",
-      "example": "audio/aizuchi/054-dialogue.wav?v=39a6d66d83a6",
-      "contour": "先升後降 ↗↘",
-      "intent": "對夜間開花的新知有興趣"
+      "word": "audio/aizuchi/054-word.wav?v=dd1080cd0f88",
+      "example": "audio/aizuchi/054-dialogue.wav?v=7ce5355288ee",
+      "intent": "對夜間開花的新知有興趣",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-55": {
-      "word": "audio/aizuchi/055-word.wav?v=705b3924361e",
-      "example": "audio/aizuchi/055-dialogue.wav?v=2cfc6dcdb317",
-      "contour": "先升後降 ↗↘",
-      "intent": "得知公車可到機場的新發現"
+      "word": "audio/aizuchi/055-word.wav?v=8e575c913105",
+      "example": "audio/aizuchi/055-dialogue.wav?v=2881da0cdb8e",
+      "intent": "得知公車可到機場的新發現",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-56": {
-      "word": "audio/aizuchi/056-word.wav?v=96e0585d45ff",
-      "example": "audio/aizuchi/056-dialogue.wav?v=44b2e4fb87fd",
-      "contour": "輕升後收 ↗↘",
-      "intent": "與既有印象不同，避免冒犯"
+      "word": "audio/aizuchi/056-word.wav?v=1231e5e32662",
+      "example": "audio/aizuchi/056-dialogue.wav?v=8cf4ae81beb0",
+      "intent": "與既有印象不同，避免冒犯",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-57": {
-      "word": "audio/aizuchi/057-word.wav?v=da8c050f44ec",
-      "example": "audio/aizuchi/057-dialogue.wav?v=870b7cfd393d",
-      "contour": "先升後降 ↗↘",
-      "intent": "對百人來訪感到驚訝"
+      "word": "audio/aizuchi/057-word.wav?v=6b6ad6894ce6",
+      "example": "audio/aizuchi/057-dialogue.wav?v=1fe16024f229",
+      "intent": "對百人來訪感到驚訝",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-58": {
-      "word": "audio/aizuchi/058-word.wav?v=ed75056a15fb",
-      "example": "audio/aizuchi/058-dialogue.wav?v=bdfbbc46686b",
-      "contour": "先升後降 ↗↘",
-      "intent": "對結婚消息驚訝而友善"
+      "word": "audio/aizuchi/058-word.wav?v=fd6c32deac6a",
+      "example": "audio/aizuchi/058-dialogue.wav?v=946826c87431",
+      "intent": "對結婚消息驚訝而友善",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-59": {
-      "word": "audio/aizuchi/059-word.wav?v=f30f9c792165",
-      "example": "audio/aizuchi/059-dialogue.wav?v=9b155530cb24",
-      "contour": "輕尾升 ↗",
-      "intent": "對忘記錢包意外，不是否定對方"
+      "word": "audio/aizuchi/059-word.wav?v=b3d876fa983f",
+      "example": "audio/aizuchi/059-dialogue.wav?v=8eca33a84f19",
+      "intent": "對忘記錢包意外，不是否定對方",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-60": {
-      "word": "audio/aizuchi/060-word.wav?v=5437549755be",
-      "example": "audio/aizuchi/060-dialogue.wav?v=69878a764886",
-      "contour": "自然回應",
-      "intent": "接住停業一年的經歷"
+      "word": "audio/aizuchi/060-word.wav?v=10700fa17879",
+      "example": "audio/aizuchi/060-dialogue.wav?v=dd80834324f9",
+      "intent": "接住停業一年的經歷",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-61": {
-      "word": "audio/aizuchi/061-word.wav?v=0c2ca1bf05fb",
-      "example": "audio/aizuchi/061-dialogue.wav?v=e581094c993e",
-      "contour": "尾升 ↗",
-      "intent": "想聽遇見老朋友後的發展"
+      "word": "audio/aizuchi/061-word.wav?v=f1e5e44f6984",
+      "example": "audio/aizuchi/061-dialogue.wav?v=a4e32ad6d6ae",
+      "intent": "想聽遇見老朋友後的發展",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-62": {
-      "word": "audio/aizuchi/062-word.wav?v=e0256e2d8628",
-      "example": "audio/aizuchi/062-dialogue.wav?v=04acf85d0fb9",
-      "contour": "輕尾升 ↗",
-      "intent": "關心錯過末班車後續"
+      "word": "audio/aizuchi/062-word.wav?v=5b6462ededcc",
+      "example": "audio/aizuchi/062-dialogue.wav?v=b8219147e5f9",
+      "intent": "關心錯過末班車後續",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-63": {
-      "word": "audio/aizuchi/063-word.wav?v=0bc2eb4df70d",
-      "example": "audio/aizuchi/063-dialogue.wav?v=caec1e8af791",
-      "contour": "尾升 ↗",
-      "intent": "鼓勵繼續敘述"
+      "word": "audio/aizuchi/063-word.wav?v=3147c5258f1d",
+      "example": "audio/aizuchi/063-dialogue.wav?v=01b83f06f0b2",
+      "intent": "鼓勵繼續敘述",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-64": {
-      "word": "audio/aizuchi/064-word.wav?v=684b369808bb",
-      "example": "audio/aizuchi/064-dialogue.wav?v=e88f30d05e64",
-      "contour": "輕尾升 ↗",
-      "intent": "關心面試結果"
+      "word": "audio/aizuchi/064-word.wav?v=cf4eb100bda1",
+      "example": "audio/aizuchi/064-dialogue.wav?v=216d343dac10",
+      "intent": "關心面試結果",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-65": {
-      "word": "audio/aizuchi/065-word.wav?v=5558bf1a1112",
-      "example": "audio/aizuchi/065-dialogue.wav?v=535ed78db701",
-      "contour": "輕尾升 ↗",
-      "intent": "溫和請求補充情況"
+      "word": "audio/aizuchi/065-word.wav?v=6c5753485590",
+      "example": "audio/aizuchi/065-dialogue.wav?v=945337964ca6",
+      "intent": "溫和請求補充情況",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-66": {
-      "word": "audio/aizuchi/066-word.wav?v=293dd2d9c3c5",
-      "example": "audio/aizuchi/066-dialogue.wav?v=e7af85aea144",
-      "contour": "輕尾升 ↗",
-      "intent": "請求解釋計畫重來，不是質問"
+      "word": "audio/aizuchi/066-word.wav?v=f4cb868522e6",
+      "example": "audio/aizuchi/066-dialogue.wav?v=2ed604afa9e0",
+      "intent": "請求解釋計畫重來，不是質問",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-67": {
-      "word": "audio/aizuchi/067-word.wav?v=43202d82dea8",
-      "example": "audio/aizuchi/067-dialogue.wav?v=8fedef856189",
-      "contour": "輕尾升 ↗",
-      "intent": "對新興趣請求具體例子"
+      "word": "audio/aizuchi/067-word.wav?v=ac372ddfb39f",
+      "example": "audio/aizuchi/067-dialogue.wav?v=1a69a208c625",
+      "intent": "對新興趣請求具體例子",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-68": {
-      "word": "audio/aizuchi/068-word.wav?v=6717a843ef5d",
-      "example": "audio/aizuchi/068-dialogue.wav?v=c91168aaf0db",
-      "contour": "自然回應",
-      "intent": "保留地同意塞車推測"
+      "word": "audio/aizuchi/068-word.wav?v=409887d0b5cc",
+      "example": "audio/aizuchi/068-dialogue.wav?v=ff8dca00108b",
+      "intent": "保留地同意塞車推測",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-69": {
-      "word": "audio/aizuchi/069-word.wav?v=efa731d10f92",
-      "example": "audio/aizuchi/069-dialogue.wav?v=313d8aa3b4f7",
-      "contour": "自然回應",
-      "intent": "朋友間對遲到原因保留認同"
+      "word": "audio/aizuchi/069-word.wav?v=9ffe77cad5c4",
+      "example": "audio/aizuchi/069-dialogue.wav?v=ee24abca9f4e",
+      "intent": "朋友間對遲到原因保留認同",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-70": {
-      "word": "audio/aizuchi/070-word.wav?v=bc0bb86df4b9",
-      "example": "audio/aizuchi/070-dialogue.wav?v=ad43c9f93146",
-      "contour": "自然回應",
-      "intent": "承認先小規模試做有道理"
+      "word": "audio/aizuchi/070-word.wav?v=8a05ac6d26ad",
+      "example": "audio/aizuchi/070-dialogue.wav?v=056edcc9ea91",
+      "intent": "承認先小規模試做有道理",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-71": {
-      "word": "audio/aizuchi/071-word.wav?v=dada20dd98df",
-      "example": "audio/aizuchi/071-dialogue.wav?v=29c98fa3b1fb",
-      "contour": "未完平持 →",
-      "intent": "經提醒才察覺，保留思考感"
+      "word": "audio/aizuchi/071-word.wav?v=5385d3e718ac",
+      "example": "audio/aizuchi/071-dialogue.wav?v=69ea3a1a0e0f",
+      "intent": "經提醒才察覺，保留思考感",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-72": {
-      "word": "audio/aizuchi/072-word.wav?v=a339530851b5",
-      "example": "audio/aizuchi/072-dialogue.wav?v=94c6c4be9203",
-      "contour": "未完平持 →",
-      "intent": "重新思考，單句本身尚未說完"
+      "word": "audio/aizuchi/072-word.wav?v=8746fab44fa4",
+      "example": "audio/aizuchi/072-dialogue.wav?v=0eb0a6d00091",
+      "intent": "重新思考，單句本身尚未說完",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-73": {
-      "word": "audio/aizuchi/073-word.wav?v=d5a60a495189",
-      "example": "audio/aizuchi/073-dialogue.wav?v=e892cb333b9f",
-      "contour": "自然回應",
-      "intent": "明確表達相同看法"
+      "word": "audio/aizuchi/073-word.wav?v=54c9f09a19af",
+      "example": "audio/aizuchi/073-dialogue.wav?v=5de562812839",
+      "intent": "明確表達相同看法",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-74": {
-      "word": "audio/aizuchi/074-word.wav?v=f9b5117a446b",
-      "example": "audio/aizuchi/074-dialogue.wav?v=0c2094cc1d8d",
-      "contour": "自然回應",
-      "intent": "簡潔認同需要休息"
+      "word": "audio/aizuchi/074-word.wav?v=d79bf5d508df",
+      "example": "audio/aizuchi/074-dialogue.wav?v=77ae521e0e8e",
+      "intent": "簡潔認同需要休息",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-75": {
-      "word": "audio/aizuchi/075-word.wav?v=c90175bfb715",
-      "example": "audio/aizuchi/075-dialogue.wav?v=895e3acb77ca",
-      "contour": "自然回應",
-      "intent": "體會新工作的緊張"
+      "word": "audio/aizuchi/075-word.wav?v=f359fd4a27f8",
+      "example": "audio/aizuchi/075-dialogue.wav?v=9d78f6499688",
+      "intent": "體會新工作的緊張",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-76": {
-      "word": "audio/aizuchi/076-word.wav?v=773cc02ca749",
-      "example": "audio/aizuchi/076-dialogue.wav?v=70e2b8ec90cf",
-      "contour": "自然回應",
-      "intent": "接住與朋友吵架的難受"
+      "word": "audio/aizuchi/076-word.wav?v=2446abc31bb1",
+      "example": "audio/aizuchi/076-dialogue.wav?v=011bca7129cc",
+      "intent": "接住與朋友吵架的難受",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-77": {
-      "word": "audio/aizuchi/077-word.wav?v=3c3dff95c352",
-      "example": "audio/aizuchi/077-dialogue.wav?v=4f78cef393bf",
-      "contour": "自然回應",
-      "intent": "對貓尚未回家表達關心"
+      "word": "audio/aizuchi/077-word.wav?v=b20f845e1a53",
+      "example": "audio/aizuchi/077-dialogue.wav?v=9b5ef98df42c",
+      "intent": "對貓尚未回家表達關心",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-78": {
-      "word": "audio/aizuchi/078-word.wav?v=da70084977cc",
-      "example": "audio/aizuchi/078-dialogue.wav?v=cad8162d121e",
-      "contour": "自然回應",
-      "intent": "肯定初次獨自出國的不安"
+      "word": "audio/aizuchi/078-word.wav?v=4a7557b55b0c",
+      "example": "audio/aizuchi/078-dialogue.wav?v=94dd5dda6d21",
+      "intent": "肯定初次獨自出國的不安",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-79": {
-      "word": "audio/aizuchi/079-word.wav?v=59e596626c07",
-      "example": "audio/aizuchi/079-dialogue.wav?v=0bb3afbf8ff3",
-      "contour": "自然回應",
-      "intent": "分享收到學生來信的喜悅"
+      "word": "audio/aizuchi/079-word.wav?v=f10048e6addc",
+      "example": "audio/aizuchi/079-dialogue.wav?v=ab7e897019b2",
+      "intent": "分享收到學生來信的喜悅",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-80": {
-      "word": "audio/aizuchi/080-word.wav?v=d385d6f753d6",
-      "example": "audio/aizuchi/080-dialogue.wav?v=f526a7359106",
-      "contour": "輕升後收 ↗↘",
-      "intent": "對露營活動感興趣"
+      "word": "audio/aizuchi/080-word.wav?v=f7987ff37d2d",
+      "example": "audio/aizuchi/080-dialogue.wav?v=a3a3e2f51983",
+      "intent": "對露營活動感興趣",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-81": {
-      "word": "audio/aizuchi/081-word.wav?v=2f5c4660a92f",
-      "example": "audio/aizuchi/081-dialogue.wav?v=3487f51e232e",
-      "contour": "輕升後收 ↗↘",
-      "intent": "對新店開幕共同期待"
+      "word": "audio/aizuchi/081-word.wav?v=de674f464120",
+      "example": "audio/aizuchi/081-dialogue.wav?v=bd4f71bbe2e7",
+      "intent": "對新店開幕共同期待",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-82": {
-      "word": "audio/aizuchi/082-word.wav?v=6179367a7e86",
-      "example": "audio/aizuchi/082-dialogue.wav?v=1f741941af90",
-      "contour": "先升後降 ↗↘",
-      "intent": "輕鬆羨慕休一週，無嫉妒"
+      "word": "audio/aizuchi/082-word.wav?v=6afbcbb1e3bd",
+      "example": "audio/aizuchi/082-dialogue.wav?v=29184bba9fae",
+      "intent": "輕鬆羨慕休一週，無嫉妒",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-83": {
-      "word": "audio/aizuchi/083-word.wav?v=78f27c8e4e71",
-      "example": "audio/aizuchi/083-dialogue.wav?v=47a70eede55c",
-      "contour": "自然回應",
-      "intent": "讚賞迅速整理資料的能力"
+      "word": "audio/aizuchi/083-word.wav?v=c47960b9c34c",
+      "example": "audio/aizuchi/083-dialogue.wav?v=3d2b01256717",
+      "intent": "讚賞迅速整理資料的能力",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-84": {
-      "word": "audio/aizuchi/084-word.wav?v=bf61844ca423",
-      "example": "audio/aizuchi/084-dialogue.wav?v=3160ba8fdd8a",
-      "contour": "自然回應",
-      "intent": "肯定朋友練琴的努力"
+      "word": "audio/aizuchi/084-word.wav?v=1b19a51ef414",
+      "example": "audio/aizuchi/084-dialogue.wav?v=0ca870209232",
+      "intent": "肯定朋友練琴的努力",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-85": {
-      "word": "audio/aizuchi/085-word.wav?v=8150a960a3ea",
-      "example": "audio/aizuchi/085-dialogue.wav?v=dc7353fe4f0d",
-      "contour": "自然回應",
-      "intent": "慰勞完成報告的人"
+      "word": "audio/aizuchi/085-word.wav?v=b2d7095cb621",
+      "example": "audio/aizuchi/085-dialogue.wav?v=0b901ea0b493",
+      "intent": "慰勞完成報告的人",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-86": {
-      "word": "audio/aizuchi/086-word.wav?v=c45c1738191f",
-      "example": "audio/aizuchi/086-dialogue.wav?v=bec0b17a2270",
-      "contour": "自然回應",
-      "intent": "對家人健康真心安心"
+      "word": "audio/aizuchi/086-word.wav?v=24b43ae571fd",
+      "example": "audio/aizuchi/086-dialogue.wav?v=3844fc5cf823",
+      "intent": "對家人健康真心安心",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-87": {
-      "word": "audio/aizuchi/087-word.wav?v=84fe24e46505",
-      "example": "audio/aizuchi/087-dialogue.wav?v=0a7808445205",
-      "contour": "自然回應",
-      "intent": "文件找到後共同鬆口氣"
+      "word": "audio/aizuchi/087-word.wav?v=9eb6ae6848d4",
+      "example": "audio/aizuchi/087-dialogue.wav?v=810cb547d92b",
+      "intent": "文件找到後共同鬆口氣",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-88": {
-      "word": "audio/aizuchi/088-word.wav?v=3cb7222aa539",
-      "example": "audio/aizuchi/088-dialogue.wav?v=c9904c009da6",
-      "contour": "尾升 ↗",
-      "intent": "對排隊三小時驚訝，避免質疑"
+      "word": "audio/aizuchi/088-word.wav?v=32269c211a78",
+      "example": "audio/aizuchi/088-dialogue.wav?v=9d71e4751c29",
+      "intent": "對排隊三小時驚訝，避免質疑",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-89": {
-      "word": "audio/aizuchi/089-word.wav?v=4133cf92ea83",
-      "example": "audio/aizuchi/089-dialogue.wav?v=6a342bc4d33c",
-      "contour": "尾升 ↗",
-      "intent": "禮貌驚訝修理十萬日圓"
+      "word": "audio/aizuchi/089-word.wav?v=9be2f118babb",
+      "example": "audio/aizuchi/089-dialogue.wav?v=a5824135bab9",
+      "intent": "禮貌驚訝修理十萬日圓",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-90": {
-      "word": "audio/aizuchi/090-word.wav?v=1005f740f8f1",
-      "example": "audio/aizuchi/090-dialogue.wav?v=4d0275ee9212",
-      "contour": "自然回應",
-      "intent": "熱門店客滿符合預期"
+      "word": "audio/aizuchi/090-word.wav?v=cdc8cf01d5b6",
+      "example": "audio/aizuchi/090-dialogue.wav?v=5a4e3055c65a",
+      "intent": "熱門店客滿符合預期",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-91": {
-      "word": "audio/aizuchi/091-word.wav?v=cdfbc57def9d",
-      "example": "audio/aizuchi/091-dialogue.wav?v=03b39616d496",
-      "contour": "自然回應",
-      "intent": "印證週末擁擠的印象"
+      "word": "audio/aizuchi/091-word.wav?v=3745b4ec36fd",
+      "example": "audio/aizuchi/091-dialogue.wav?v=4d737d5620f7",
+      "intent": "印證週末擁擠的印象",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-92": {
-      "word": "audio/aizuchi/092-word.wav?v=22cb5242b687",
-      "example": "audio/aizuchi/092-dialogue.wav?v=8aec51205037",
-      "contour": "自然回應",
-      "intent": "理解昨天不舒服的原因"
+      "word": "audio/aizuchi/092-word.wav?v=71ddc74e716e",
+      "example": "audio/aizuchi/092-dialogue.wav?v=6fe88ff5a437",
+      "intent": "理解昨天不舒服的原因",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-93": {
-      "word": "audio/aizuchi/093-word.wav?v=b6b07dc4e056",
-      "example": "audio/aizuchi/093-dialogue.wav?v=e569c602f385",
-      "contour": "自然回應",
-      "intent": "朋友間理解以前住大阪"
+      "word": "audio/aizuchi/093-word.wav?v=151bbdd74cb5",
+      "example": "audio/aizuchi/093-dialogue.wav?v=e15c8b428a7f",
+      "intent": "朋友間理解以前住大阪",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-94": {
-      "word": "audio/aizuchi/094-word.wav?v=eb892c01f2ad",
-      "example": "audio/aizuchi/094-dialogue.wav?v=43e57b38629c",
-      "contour": "自然回應",
-      "intent": "理解買二送一的規則"
+      "word": "audio/aizuchi/094-word.wav?v=77ee5c796369",
+      "example": "audio/aizuchi/094-dialogue.wav?v=3aa9f34f26fd",
+      "intent": "理解買二送一的規則",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-95": {
-      "word": "audio/aizuchi/095-word.wav?v=1aa107aaf10c",
-      "example": "audio/aizuchi/095-dialogue.wav?v=0b15b1204bec",
-      "contour": "自然回應",
-      "intent": "慎重同意先定日期"
+      "word": "audio/aizuchi/095-word.wav?v=98eb5655c891",
+      "example": "audio/aizuchi/095-dialogue.wav?v=931396ab53d4",
+      "intent": "慎重同意先定日期",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-96": {
-      "word": "audio/aizuchi/096-word.wav?v=46a7aace74fc",
-      "example": "audio/aizuchi/096-dialogue.wav?v=e0ebc7ad7ec5",
-      "contour": "自然回應",
-      "intent": "完整表達對臨時變更的理解"
+      "word": "audio/aizuchi/096-word.wav?v=2feb67cb4171",
+      "example": "audio/aizuchi/096-dialogue.wav?v=9a4e34ef9a96",
+      "intent": "完整表達對臨時變更的理解",
+      "provider": "AivisSpeech",
+      "voice": "まお"
     },
     "aizuchi-97": {
-      "word": "audio/aizuchi/097-word.wav?v=832b011019e8",
-      "example": "audio/aizuchi/097-dialogue.wav?v=f2b39b5440ce",
-      "contour": "低平持 →",
-      "intent": "思考與保留，不表示同意"
+      "word": "audio/aizuchi/097-word.wav?v=b68f414c4d83",
+      "example": "audio/aizuchi/097-dialogue.wav?v=9e560fc1f137",
+      "intent": "思考與保留，不表示同意",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-98": {
-      "word": "audio/aizuchi/098-word.wav?v=7322bbadd5d8",
-      "example": "audio/aizuchi/098-dialogue.wav?v=7ccf07aac654",
-      "contour": "自然回應",
-      "intent": "有限度認同更方便，非爽快贊同"
+      "word": "audio/aizuchi/098-word.wav?v=778167bdd17b",
+      "example": "audio/aizuchi/098-dialogue.wav?v=4c3655b31ba1",
+      "intent": "有限度認同更方便，非爽快贊同",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-99": {
-      "word": "audio/aizuchi/099-word.wav?v=abfd10ffa00c",
-      "example": "audio/aizuchi/099-dialogue.wav?v=37f8d2025a62",
-      "contour": "自然回應",
-      "intent": "承認是一種看法，保留其他可能"
+      "word": "audio/aizuchi/099-word.wav?v=43faa10c1ba0",
+      "example": "audio/aizuchi/099-dialogue.wav?v=0344b13a2f68",
+      "intent": "承認是一種看法，保留其他可能",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     },
     "aizuchi-100": {
-      "word": "audio/aizuchi/100-word.wav?v=2318911b2e39",
-      "example": "audio/aizuchi/100-dialogue.wav?v=0daedb5d975c",
-      "contour": "自然回應",
-      "intent": "先理解再提出疑慮，未完句需留白"
+      "word": "audio/aizuchi/100-word.wav?v=ead96d047fb8",
+      "example": "audio/aizuchi/100-dialogue.wav?v=23546e376e71",
+      "intent": "先理解再提出疑慮，未完句需留白",
+      "provider": "VOICEVOX",
+      "voice": "四国めたん"
     }
   }
 };
