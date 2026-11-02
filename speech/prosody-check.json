@@ -1,0 +1,3563 @@
+{
+  "method": "Independent DIO + StoneMask estimation of final-vowel waveform pitch",
+  "auditSha256": "efb89371272d6434352b383fa4f2bdd642554fcd701457c70086bd10dff79ea9",
+  "checkedFiles": 200,
+  "checkedSegments": 214,
+  "limitation": "Validates acoustic pitch direction, not emotion, lexical accent or native naturalness.",
+  "checks": [
+    {
+      "id": "aizuchi-1",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "短降 ↘",
+          "voicedIntervalSeconds": [
+            0.27,
+            0.39
+          ],
+          "startHz": 408.0,
+          "endHz": 345.6,
+          "deltaSemitones": -2.87,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-1",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "短降 ↘",
+          "voicedIntervalSeconds": [
+            0.27,
+            0.39
+          ],
+          "startHz": 408.0,
+          "endHz": 345.6,
+          "deltaSemitones": -2.87,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-2",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "短降 ↘",
+          "voicedIntervalSeconds": [
+            0.31,
+            0.44
+          ],
+          "startHz": 395.5,
+          "endHz": 331.3,
+          "deltaSemitones": -3.06,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-2",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "短降 ↘",
+          "voicedIntervalSeconds": [
+            0.31,
+            0.44
+          ],
+          "startHz": 395.5,
+          "endHz": 331.3,
+          "deltaSemitones": -3.06,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-3",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.865,
+            1.015
+          ],
+          "startHz": 302.4,
+          "endHz": 250.0,
+          "deltaSemitones": -3.29,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-3",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.865,
+            1.015
+          ],
+          "startHz": 302.4,
+          "endHz": 250.0,
+          "deltaSemitones": -3.29,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-4",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.67,
+            0.825
+          ],
+          "startHz": 286.4,
+          "endHz": 237.0,
+          "deltaSemitones": -3.28,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-4",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.67,
+            0.825
+          ],
+          "startHz": 286.4,
+          "endHz": 237.0,
+          "deltaSemitones": -3.28,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-5",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.645,
+            0.78
+          ],
+          "startHz": 328.1,
+          "endHz": 281.8,
+          "deltaSemitones": -2.64,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-5",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.645,
+            0.78
+          ],
+          "startHz": 328.1,
+          "endHz": 281.8,
+          "deltaSemitones": -2.64,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-6",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.305,
+            0.5
+          ],
+          "startHz": 414.5,
+          "endHz": 383.2,
+          "deltaSemitones": -1.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-6",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.305,
+            0.5
+          ],
+          "startHz": 414.5,
+          "endHz": 383.2,
+          "deltaSemitones": -1.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-7",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.55,
+            0.7
+          ],
+          "startHz": 333.1,
+          "endHz": 276.5,
+          "deltaSemitones": -3.23,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-7",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.55,
+            0.7
+          ],
+          "startHz": 333.1,
+          "endHz": 276.5,
+          "deltaSemitones": -3.23,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-8",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.695,
+            0.845
+          ],
+          "startHz": 327.9,
+          "endHz": 277.0,
+          "deltaSemitones": -2.92,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-8",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.695,
+            0.845
+          ],
+          "startHz": 327.9,
+          "endHz": 277.0,
+          "deltaSemitones": -2.92,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-9",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.295,
+            0.42
+          ],
+          "startHz": 345.4,
+          "endHz": 291.5,
+          "deltaSemitones": -2.94,
+          "passed": true
+        },
+        {
+          "contour": "短降＋短降 ↘↘",
+          "voicedIntervalSeconds": [
+            0.67,
+            0.805
+          ],
+          "startHz": 437.9,
+          "endHz": 363.0,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-9",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.295,
+            0.42
+          ],
+          "startHz": 345.4,
+          "endHz": 291.5,
+          "deltaSemitones": -2.94,
+          "passed": true
+        },
+        {
+          "contour": "短降＋短降 ↘↘",
+          "voicedIntervalSeconds": [
+            0.67,
+            0.805
+          ],
+          "startHz": 437.9,
+          "endHz": 363.0,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-10",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.31,
+            0.48
+          ],
+          "startHz": 355.2,
+          "endHz": 291.0,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-10",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.31,
+            0.48
+          ],
+          "startHz": 355.2,
+          "endHz": 291.0,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-11",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.855,
+            1.0
+          ],
+          "startHz": 323.5,
+          "endHz": 392.2,
+          "deltaSemitones": 3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-11",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.855,
+            1.0
+          ],
+          "startHz": 323.5,
+          "endHz": 392.2,
+          "deltaSemitones": 3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-12",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.52,
+            0.66
+          ],
+          "startHz": 394.1,
+          "endHz": 474.2,
+          "deltaSemitones": 3.2,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-12",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.52,
+            0.66
+          ],
+          "startHz": 394.1,
+          "endHz": 474.2,
+          "deltaSemitones": 3.2,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-13",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.59,
+            0.745
+          ],
+          "startHz": 276.6,
+          "endHz": 230.1,
+          "deltaSemitones": -3.19,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-13",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.59,
+            0.745
+          ],
+          "startHz": 276.6,
+          "endHz": 230.1,
+          "deltaSemitones": -3.19,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-14",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.565,
+            0.715
+          ],
+          "startHz": 426.5,
+          "endHz": 350.0,
+          "deltaSemitones": -3.42,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-14",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.565,
+            0.715
+          ],
+          "startHz": 426.5,
+          "endHz": 350.0,
+          "deltaSemitones": -3.42,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-15",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.58,
+            0.73
+          ],
+          "startHz": 383.0,
+          "endHz": 314.8,
+          "deltaSemitones": -3.4,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-15",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.58,
+            0.73
+          ],
+          "startHz": 383.0,
+          "endHz": 314.8,
+          "deltaSemitones": -3.4,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-16",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.585,
+            0.75
+          ],
+          "startHz": 317.4,
+          "endHz": 262.2,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-16",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.585,
+            0.75
+          ],
+          "startHz": 317.4,
+          "endHz": 262.2,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-17",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.57
+          ],
+          "startHz": 312.4,
+          "endHz": 261.8,
+          "deltaSemitones": -3.06,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-17",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.57
+          ],
+          "startHz": 312.4,
+          "endHz": 261.8,
+          "deltaSemitones": -3.06,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-18",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.825,
+            0.975
+          ],
+          "startHz": 431.8,
+          "endHz": 378.1,
+          "deltaSemitones": -2.3,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-18",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.825,
+            0.975
+          ],
+          "startHz": 431.8,
+          "endHz": 378.1,
+          "deltaSemitones": -2.3,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-19",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.74,
+            0.885
+          ],
+          "startHz": 292.8,
+          "endHz": 257.9,
+          "deltaSemitones": -2.2,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-19",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.74,
+            0.885
+          ],
+          "startHz": 292.8,
+          "endHz": 257.9,
+          "deltaSemitones": -2.2,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-20",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.445,
+            0.595
+          ],
+          "startHz": 429.0,
+          "endHz": 372.5,
+          "deltaSemitones": -2.44,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-20",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.445,
+            0.595
+          ],
+          "startHz": 429.0,
+          "endHz": 372.5,
+          "deltaSemitones": -2.44,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-21",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "柔和先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.61,
+            0.75
+          ],
+          "startHz": 288.2,
+          "endHz": 268.6,
+          "deltaSemitones": -1.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-21",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "柔和先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.61,
+            0.75
+          ],
+          "startHz": 288.2,
+          "endHz": 268.6,
+          "deltaSemitones": -1.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-22",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.39,
+            0.53
+          ],
+          "startHz": 401.9,
+          "endHz": 363.9,
+          "deltaSemitones": -1.72,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-22",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.39,
+            0.53
+          ],
+          "startHz": 401.9,
+          "endHz": 363.9,
+          "deltaSemitones": -1.72,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-23",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.935,
+            1.06
+          ],
+          "startHz": 321.5,
+          "endHz": 277.0,
+          "deltaSemitones": -2.58,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-23",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.935,
+            1.06
+          ],
+          "startHz": 321.5,
+          "endHz": 277.0,
+          "deltaSemitones": -2.58,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-24",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.055,
+            1.185
+          ],
+          "startHz": 336.5,
+          "endHz": 287.0,
+          "deltaSemitones": -2.76,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-24",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.055,
+            1.185
+          ],
+          "startHz": 336.5,
+          "endHz": 287.0,
+          "deltaSemitones": -2.76,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-25",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.5,
+            0.65
+          ],
+          "startHz": 407.3,
+          "endHz": 335.4,
+          "deltaSemitones": -3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-25",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.5,
+            0.65
+          ],
+          "startHz": 407.3,
+          "endHz": 335.4,
+          "deltaSemitones": -3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-26",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "短緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.535,
+            0.7
+          ],
+          "startHz": 313.4,
+          "endHz": 265.8,
+          "deltaSemitones": -2.85,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-26",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "短緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.535,
+            0.7
+          ],
+          "startHz": 313.4,
+          "endHz": 265.8,
+          "deltaSemitones": -2.85,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-27",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "短升 ↗",
+          "voicedIntervalSeconds": [
+            0.13,
+            0.185
+          ],
+          "startHz": 327.2,
+          "endHz": 388.5,
+          "deltaSemitones": 2.97,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-27",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "短升 ↗",
+          "voicedIntervalSeconds": [
+            0.13,
+            0.185
+          ],
+          "startHz": 327.2,
+          "endHz": 388.5,
+          "deltaSemitones": 2.97,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-28",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.37,
+            0.545
+          ],
+          "startHz": 365.9,
+          "endHz": 319.0,
+          "deltaSemitones": -2.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-28",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.37,
+            0.545
+          ],
+          "startHz": 365.9,
+          "endHz": 319.0,
+          "deltaSemitones": -2.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-29",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.66,
+            0.795
+          ],
+          "startHz": 353.3,
+          "endHz": 301.0,
+          "deltaSemitones": -2.77,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-29",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.66,
+            0.795
+          ],
+          "startHz": 353.3,
+          "endHz": 301.0,
+          "deltaSemitones": -2.77,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-30",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.89,
+            1.03
+          ],
+          "startHz": 279.4,
+          "endHz": 332.3,
+          "deltaSemitones": 3.0,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-30",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.89,
+            1.03
+          ],
+          "startHz": 279.4,
+          "endHz": 332.3,
+          "deltaSemitones": 3.0,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-31",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "延長緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.0,
+            1.23
+          ],
+          "startHz": 266.1,
+          "endHz": 221.9,
+          "deltaSemitones": -3.14,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-31",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "延長緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.0,
+            1.23
+          ],
+          "startHz": 266.1,
+          "endHz": 221.9,
+          "deltaSemitones": -3.14,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-32",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.825,
+            0.97
+          ],
+          "startHz": 355.1,
+          "endHz": 291.8,
+          "deltaSemitones": -3.4,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-32",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.825,
+            0.97
+          ],
+          "startHz": 355.1,
+          "endHz": 291.8,
+          "deltaSemitones": -3.4,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-33",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.63,
+            0.745
+          ],
+          "startHz": 421.5,
+          "endHz": 410.4,
+          "deltaSemitones": -0.46,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-33",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.63,
+            0.745
+          ],
+          "startHz": 421.5,
+          "endHz": 410.4,
+          "deltaSemitones": -0.46,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-34",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.56
+          ],
+          "startHz": 326.1,
+          "endHz": 389.9,
+          "deltaSemitones": 3.09,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-34",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.56
+          ],
+          "startHz": 326.1,
+          "endHz": 389.9,
+          "deltaSemitones": 3.09,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-35",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.575,
+            0.725
+          ],
+          "startHz": 369.2,
+          "endHz": 448.2,
+          "deltaSemitones": 3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-35",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.575,
+            0.725
+          ],
+          "startHz": 369.2,
+          "endHz": 448.2,
+          "deltaSemitones": 3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-36",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.69,
+            0.845
+          ],
+          "startHz": 332.0,
+          "endHz": 272.1,
+          "deltaSemitones": -3.44,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-36",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.69,
+            0.845
+          ],
+          "startHz": 332.0,
+          "endHz": 272.1,
+          "deltaSemitones": -3.44,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-37",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.615,
+            0.765
+          ],
+          "startHz": 304.8,
+          "endHz": 268.2,
+          "deltaSemitones": -2.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-37",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.615,
+            0.765
+          ],
+          "startHz": 304.8,
+          "endHz": 268.2,
+          "deltaSemitones": -2.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-38",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.465,
+            0.615
+          ],
+          "startHz": 404.7,
+          "endHz": 385.4,
+          "deltaSemitones": -0.85,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-38",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.465,
+            0.615
+          ],
+          "startHz": 404.7,
+          "endHz": 385.4,
+          "deltaSemitones": -0.85,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-39",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.975,
+            1.13
+          ],
+          "startHz": 287.0,
+          "endHz": 238.8,
+          "deltaSemitones": -3.18,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-39",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.975,
+            1.13
+          ],
+          "startHz": 287.0,
+          "endHz": 238.8,
+          "deltaSemitones": -3.18,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-40",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.005,
+            1.155
+          ],
+          "startHz": 293.4,
+          "endHz": 244.6,
+          "deltaSemitones": -3.15,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-40",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.005,
+            1.155
+          ],
+          "startHz": 293.4,
+          "endHz": 244.6,
+          "deltaSemitones": -3.15,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-41",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.495,
+            1.66
+          ],
+          "startHz": 312.4,
+          "endHz": 264.5,
+          "deltaSemitones": -2.88,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-41",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.495,
+            1.66
+          ],
+          "startHz": 312.4,
+          "endHz": 264.5,
+          "deltaSemitones": -2.88,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-42",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.245,
+            1.395
+          ],
+          "startHz": 296.8,
+          "endHz": 243.2,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-42",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.245,
+            1.395
+          ],
+          "startHz": 296.8,
+          "endHz": 243.2,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-43",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.655,
+            0.8
+          ],
+          "startHz": 264.8,
+          "endHz": 216.4,
+          "deltaSemitones": -3.5,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-43",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.655,
+            0.8
+          ],
+          "startHz": 264.8,
+          "endHz": 216.4,
+          "deltaSemitones": -3.5,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-44",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.24,
+            1.405
+          ],
+          "startHz": 297.8,
+          "endHz": 248.3,
+          "deltaSemitones": -3.15,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-44",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.24,
+            1.405
+          ],
+          "startHz": 297.8,
+          "endHz": 248.3,
+          "deltaSemitones": -3.15,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-45",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.345,
+            1.51
+          ],
+          "startHz": 263.3,
+          "endHz": 216.2,
+          "deltaSemitones": -3.42,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-45",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.345,
+            1.51
+          ],
+          "startHz": 263.3,
+          "endHz": 216.2,
+          "deltaSemitones": -3.42,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-46",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.05,
+            1.215
+          ],
+          "startHz": 263.7,
+          "endHz": 216.5,
+          "deltaSemitones": -3.41,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-46",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.05,
+            1.215
+          ],
+          "startHz": 263.7,
+          "endHz": 216.5,
+          "deltaSemitones": -3.41,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-47",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.415,
+            0.565
+          ],
+          "startHz": 288.8,
+          "endHz": 241.3,
+          "deltaSemitones": -3.11,
+          "passed": true
+        },
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.985,
+            1.125
+          ],
+          "startHz": 306.3,
+          "endHz": 260.8,
+          "deltaSemitones": -2.79,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-47",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.415,
+            0.565
+          ],
+          "startHz": 288.8,
+          "endHz": 241.3,
+          "deltaSemitones": -3.11,
+          "passed": true
+        },
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.985,
+            1.125
+          ],
+          "startHz": 306.3,
+          "endHz": 260.8,
+          "deltaSemitones": -2.79,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-48",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.81,
+            0.96
+          ],
+          "startHz": 300.2,
+          "endHz": 265.5,
+          "deltaSemitones": -2.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-48",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.81,
+            0.96
+          ],
+          "startHz": 300.2,
+          "endHz": 265.5,
+          "deltaSemitones": -2.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-49",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.325,
+            0.48
+          ],
+          "startHz": 289.7,
+          "endHz": 242.9,
+          "deltaSemitones": -3.04,
+          "passed": true
+        },
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.775,
+            0.925
+          ],
+          "startHz": 329.3,
+          "endHz": 271.4,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-49",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.325,
+            0.48
+          ],
+          "startHz": 289.7,
+          "endHz": 242.9,
+          "deltaSemitones": -3.04,
+          "passed": true
+        },
+        {
+          "contour": "有節奏緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.775,
+            0.925
+          ],
+          "startHz": 329.3,
+          "endHz": 271.4,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-50",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.12,
+            1.27
+          ],
+          "startHz": 293.6,
+          "endHz": 242.9,
+          "deltaSemitones": -3.29,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-50",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.12,
+            1.27
+          ],
+          "startHz": 293.6,
+          "endHz": 242.9,
+          "deltaSemitones": -3.29,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-51",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.93,
+            1.08
+          ],
+          "startHz": 327.1,
+          "endHz": 270.0,
+          "deltaSemitones": -3.32,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-51",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.93,
+            1.08
+          ],
+          "startHz": 327.1,
+          "endHz": 270.0,
+          "deltaSemitones": -3.32,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-52",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.63,
+            0.785
+          ],
+          "startHz": 374.9,
+          "endHz": 309.7,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-52",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.63,
+            0.785
+          ],
+          "startHz": 374.9,
+          "endHz": 309.7,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-53",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.03,
+            1.18
+          ],
+          "startHz": 369.1,
+          "endHz": 304.8,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-53",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.03,
+            1.18
+          ],
+          "startHz": 369.1,
+          "endHz": 304.8,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-54",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            1.025,
+            1.17
+          ],
+          "startHz": 271.2,
+          "endHz": 243.4,
+          "deltaSemitones": -1.87,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-54",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            1.025,
+            1.17
+          ],
+          "startHz": 271.2,
+          "endHz": 243.4,
+          "deltaSemitones": -1.87,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-55",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.785,
+            0.91
+          ],
+          "startHz": 296.4,
+          "endHz": 277.7,
+          "deltaSemitones": -1.13,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-55",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.785,
+            0.91
+          ],
+          "startHz": 296.4,
+          "endHz": 277.7,
+          "deltaSemitones": -1.13,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-56",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.715,
+            0.86
+          ],
+          "startHz": 329.9,
+          "endHz": 289.2,
+          "deltaSemitones": -2.28,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-56",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.715,
+            0.86
+          ],
+          "startHz": 329.9,
+          "endHz": 289.2,
+          "deltaSemitones": -2.28,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-57",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.815,
+            0.96
+          ],
+          "startHz": 304.2,
+          "endHz": 268.8,
+          "deltaSemitones": -2.14,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-57",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.815,
+            0.96
+          ],
+          "startHz": 304.2,
+          "endHz": 268.8,
+          "deltaSemitones": -2.14,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-58",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.725,
+            0.865
+          ],
+          "startHz": 303.7,
+          "endHz": 265.0,
+          "deltaSemitones": -2.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-58",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.725,
+            0.865
+          ],
+          "startHz": 303.7,
+          "endHz": 265.0,
+          "deltaSemitones": -2.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-59",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.47,
+            0.625
+          ],
+          "startHz": 316.4,
+          "endHz": 390.2,
+          "deltaSemitones": 3.63,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-59",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.47,
+            0.625
+          ],
+          "startHz": 316.4,
+          "endHz": 390.2,
+          "deltaSemitones": 3.63,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-60",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.66,
+            1.825
+          ],
+          "startHz": 264.4,
+          "endHz": 215.7,
+          "deltaSemitones": -3.52,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-60",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.66,
+            1.825
+          ],
+          "startHz": 264.4,
+          "endHz": 215.7,
+          "deltaSemitones": -3.52,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-61",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.435,
+            0.56
+          ],
+          "startHz": 379.0,
+          "endHz": 444.9,
+          "deltaSemitones": 2.78,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-61",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.435,
+            0.56
+          ],
+          "startHz": 379.0,
+          "endHz": 444.9,
+          "deltaSemitones": 2.78,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-62",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            1.42,
+            1.57
+          ],
+          "startHz": 258.4,
+          "endHz": 313.9,
+          "deltaSemitones": 3.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-62",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            1.42,
+            1.57
+          ],
+          "startHz": 258.4,
+          "endHz": 313.9,
+          "deltaSemitones": 3.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-63",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.55,
+            0.705
+          ],
+          "startHz": 362.2,
+          "endHz": 443.0,
+          "deltaSemitones": 3.48,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-63",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.55,
+            0.705
+          ],
+          "startHz": 362.2,
+          "endHz": 443.0,
+          "deltaSemitones": 3.48,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-64",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.74,
+            0.89
+          ],
+          "startHz": 274.0,
+          "endHz": 330.9,
+          "deltaSemitones": 3.27,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-64",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.74,
+            0.89
+          ],
+          "startHz": 274.0,
+          "endHz": 330.9,
+          "deltaSemitones": 3.27,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-65",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.575,
+            0.73
+          ],
+          "startHz": 336.0,
+          "endHz": 406.8,
+          "deltaSemitones": 3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-65",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.575,
+            0.73
+          ],
+          "startHz": 336.0,
+          "endHz": 406.8,
+          "deltaSemitones": 3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-66",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            1.13,
+            1.28
+          ],
+          "startHz": 260.0,
+          "endHz": 315.2,
+          "deltaSemitones": 3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-66",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            1.13,
+            1.28
+          ],
+          "startHz": 260.0,
+          "endHz": 315.2,
+          "deltaSemitones": 3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-67",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.615,
+            0.76
+          ],
+          "startHz": 294.6,
+          "endHz": 348.6,
+          "deltaSemitones": 2.91,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-67",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.615,
+            0.76
+          ],
+          "startHz": 294.6,
+          "endHz": 348.6,
+          "deltaSemitones": 2.91,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-68",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "平緩收尾 →↘",
+          "voicedIntervalSeconds": [
+            1.38,
+            1.545
+          ],
+          "startHz": 327.3,
+          "endHz": 273.3,
+          "deltaSemitones": -3.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-68",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "平緩收尾 →↘",
+          "voicedIntervalSeconds": [
+            1.38,
+            1.545
+          ],
+          "startHz": 327.3,
+          "endHz": 273.3,
+          "deltaSemitones": -3.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-69",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "平緩收尾 →↘",
+          "voicedIntervalSeconds": [
+            0.76,
+            0.925
+          ],
+          "startHz": 411.1,
+          "endHz": 336.9,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-69",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "平緩收尾 →↘",
+          "voicedIntervalSeconds": [
+            0.76,
+            0.925
+          ],
+          "startHz": 411.1,
+          "endHz": 336.9,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-70",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.05,
+            1.215
+          ],
+          "startHz": 316.9,
+          "endHz": 261.5,
+          "deltaSemitones": -3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-70",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.05,
+            1.215
+          ],
+          "startHz": 316.9,
+          "endHz": 261.5,
+          "deltaSemitones": -3.33,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-71",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "未完平持 →",
+          "voicedIntervalSeconds": [
+            0.915,
+            1.065
+          ],
+          "startHz": 286.0,
+          "endHz": 284.0,
+          "deltaSemitones": -0.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-71",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "未完平持 →",
+          "voicedIntervalSeconds": [
+            0.915,
+            1.065
+          ],
+          "startHz": 286.0,
+          "endHz": 284.0,
+          "deltaSemitones": -0.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-72",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "未完平持 →",
+          "voicedIntervalSeconds": [
+            1.0,
+            1.165
+          ],
+          "startHz": 294.3,
+          "endHz": 292.7,
+          "deltaSemitones": -0.09,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-72",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.77,
+            1.93
+          ],
+          "startHz": 380.6,
+          "endHz": 313.1,
+          "deltaSemitones": -3.38,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-73",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.215,
+            1.365
+          ],
+          "startHz": 334.6,
+          "endHz": 275.4,
+          "deltaSemitones": -3.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-73",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.215,
+            1.365
+          ],
+          "startHz": 334.6,
+          "endHz": 275.4,
+          "deltaSemitones": -3.37,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-74",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.655,
+            0.81
+          ],
+          "startHz": 395.3,
+          "endHz": 325.7,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-74",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "穩定緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.655,
+            0.81
+          ],
+          "startHz": 395.3,
+          "endHz": 325.7,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-75",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.585,
+            1.75
+          ],
+          "startHz": 315.7,
+          "endHz": 260.0,
+          "deltaSemitones": -3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-75",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.585,
+            1.75
+          ],
+          "startHz": 315.7,
+          "endHz": 260.0,
+          "deltaSemitones": -3.36,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-76",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.205,
+            1.36
+          ],
+          "startHz": 265.1,
+          "endHz": 220.1,
+          "deltaSemitones": -3.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-76",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.205,
+            1.36
+          ],
+          "startHz": 265.1,
+          "endHz": 220.1,
+          "deltaSemitones": -3.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-77",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.39,
+            1.555
+          ],
+          "startHz": 295.8,
+          "endHz": 246.3,
+          "deltaSemitones": -3.17,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-77",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.39,
+            1.555
+          ],
+          "startHz": 295.8,
+          "endHz": 246.3,
+          "deltaSemitones": -3.17,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-78",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.415,
+            1.575
+          ],
+          "startHz": 271.1,
+          "endHz": 225.0,
+          "deltaSemitones": -3.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-78",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.415,
+            1.575
+          ],
+          "startHz": 271.1,
+          "endHz": 225.0,
+          "deltaSemitones": -3.22,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-79",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.23,
+            1.36
+          ],
+          "startHz": 287.3,
+          "endHz": 241.8,
+          "deltaSemitones": -2.99,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-79",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.23,
+            1.36
+          ],
+          "startHz": 287.3,
+          "endHz": 241.8,
+          "deltaSemitones": -2.99,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-80",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.97,
+            1.11
+          ],
+          "startHz": 315.7,
+          "endHz": 275.2,
+          "deltaSemitones": -2.38,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-80",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.97,
+            1.11
+          ],
+          "startHz": 315.7,
+          "endHz": 275.2,
+          "deltaSemitones": -2.38,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-81",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.875,
+            1.005
+          ],
+          "startHz": 315.5,
+          "endHz": 282.0,
+          "deltaSemitones": -1.94,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-81",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "輕升後收 ↗↘",
+          "voicedIntervalSeconds": [
+            0.875,
+            1.005
+          ],
+          "startHz": 315.5,
+          "endHz": 282.0,
+          "deltaSemitones": -1.94,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-82",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.87,
+            1.015
+          ],
+          "startHz": 340.8,
+          "endHz": 296.2,
+          "deltaSemitones": -2.43,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-82",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "先升後降 ↗↘",
+          "voicedIntervalSeconds": [
+            0.87,
+            1.015
+          ],
+          "startHz": 340.8,
+          "endHz": 296.2,
+          "deltaSemitones": -2.43,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-83",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.795,
+            0.94
+          ],
+          "startHz": 335.7,
+          "endHz": 276.2,
+          "deltaSemitones": -3.38,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-83",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "明亮緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.795,
+            0.94
+          ],
+          "startHz": 335.7,
+          "endHz": 276.2,
+          "deltaSemitones": -3.38,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-84",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "溫暖緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.73,
+            0.86
+          ],
+          "startHz": 311.8,
+          "endHz": 263.5,
+          "deltaSemitones": -2.91,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-84",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "溫暖緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.73,
+            0.86
+          ],
+          "startHz": 311.8,
+          "endHz": 263.5,
+          "deltaSemitones": -2.91,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-85",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "溫暖緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.22,
+            1.355
+          ],
+          "startHz": 263.3,
+          "endHz": 226.9,
+          "deltaSemitones": -2.57,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-85",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "溫暖緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.22,
+            1.355
+          ],
+          "startHz": 263.3,
+          "endHz": 226.9,
+          "deltaSemitones": -2.57,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-86",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "安心緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.685,
+            0.835
+          ],
+          "startHz": 262.8,
+          "endHz": 216.7,
+          "deltaSemitones": -3.34,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-86",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "安心緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.685,
+            0.835
+          ],
+          "startHz": 262.8,
+          "endHz": 216.7,
+          "deltaSemitones": -3.34,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-87",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "放鬆緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.02,
+            1.175
+          ],
+          "startHz": 281.3,
+          "endHz": 230.0,
+          "deltaSemitones": -3.48,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-87",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "放鬆緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.02,
+            1.175
+          ],
+          "startHz": 281.3,
+          "endHz": 230.0,
+          "deltaSemitones": -3.48,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-88",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.59,
+            0.74
+          ],
+          "startHz": 388.4,
+          "endHz": 452.4,
+          "deltaSemitones": 2.64,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-88",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.59,
+            0.74
+          ],
+          "startHz": 388.4,
+          "endHz": 452.4,
+          "deltaSemitones": 2.64,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-89",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.925,
+            1.075
+          ],
+          "startHz": 274.1,
+          "endHz": 331.1,
+          "deltaSemitones": 3.27,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-89",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "尾升 ↗",
+          "voicedIntervalSeconds": [
+            0.925,
+            1.075
+          ],
+          "startHz": 274.1,
+          "endHz": 331.1,
+          "deltaSemitones": 3.27,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-90",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "納得緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.57,
+            0.72
+          ],
+          "startHz": 310.0,
+          "endHz": 258.9,
+          "deltaSemitones": -3.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-90",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "納得緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.57,
+            0.72
+          ],
+          "startHz": 310.0,
+          "endHz": 258.9,
+          "deltaSemitones": -3.12,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-91",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.315,
+            1.465
+          ],
+          "startHz": 286.2,
+          "endHz": 237.2,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-91",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.315,
+            1.465
+          ],
+          "startHz": 286.2,
+          "endHz": 237.2,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-92",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.135,
+            1.3
+          ],
+          "startHz": 271.7,
+          "endHz": 222.6,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-92",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.135,
+            1.3
+          ],
+          "startHz": 271.7,
+          "endHz": 222.6,
+          "deltaSemitones": -3.45,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-93",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.86,
+            0.98
+          ],
+          "startHz": 317.5,
+          "endHz": 274.8,
+          "deltaSemitones": -2.5,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-93",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.86,
+            0.98
+          ],
+          "startHz": 317.5,
+          "endHz": 274.8,
+          "deltaSemitones": -2.5,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-94",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.56,
+            0.71
+          ],
+          "startHz": 295.9,
+          "endHz": 247.1,
+          "deltaSemitones": -3.12,
+          "passed": true
+        },
+        {
+          "contour": "分段緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.9,
+            2.05
+          ],
+          "startHz": 276.6,
+          "endHz": 229.2,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-94",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.56,
+            0.71
+          ],
+          "startHz": 295.9,
+          "endHz": 247.1,
+          "deltaSemitones": -3.12,
+          "passed": true
+        },
+        {
+          "contour": "分段緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.9,
+            2.05
+          ],
+          "startHz": 276.6,
+          "endHz": 229.2,
+          "deltaSemitones": -3.25,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-95",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.34,
+            0.495
+          ],
+          "startHz": 289.7,
+          "endHz": 245.8,
+          "deltaSemitones": -2.84,
+          "passed": true
+        },
+        {
+          "contour": "分段緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.255,
+            1.41
+          ],
+          "startHz": 426.7,
+          "endHz": 352.2,
+          "deltaSemitones": -3.32,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-95",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.34,
+            0.495
+          ],
+          "startHz": 289.7,
+          "endHz": 245.8,
+          "deltaSemitones": -2.84,
+          "passed": true
+        },
+        {
+          "contour": "分段緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.255,
+            1.41
+          ],
+          "startHz": 426.7,
+          "endHz": 352.2,
+          "deltaSemitones": -3.32,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-96",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.515
+          ],
+          "startHz": 279.7,
+          "endHz": 231.8,
+          "deltaSemitones": -3.25,
+          "passed": true
+        },
+        {
+          "contour": "分段低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.245,
+            1.41
+          ],
+          "startHz": 317.8,
+          "endHz": 262.0,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-96",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.425,
+            0.515
+          ],
+          "startHz": 279.7,
+          "endHz": 231.8,
+          "deltaSemitones": -3.25,
+          "passed": true
+        },
+        {
+          "contour": "分段低緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.245,
+            1.41
+          ],
+          "startHz": 317.8,
+          "endHz": 262.0,
+          "deltaSemitones": -3.35,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-97",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "低平持 →",
+          "voicedIntervalSeconds": [
+            0.44,
+            0.905
+          ],
+          "startHz": 374.9,
+          "endHz": 372.5,
+          "deltaSemitones": -0.11,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-97",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.935,
+            2.39
+          ],
+          "startHz": 344.2,
+          "endHz": 289.8,
+          "deltaSemitones": -2.97,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-98",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "猶豫平緩 →↘",
+          "voicedIntervalSeconds": [
+            1.225,
+            1.465
+          ],
+          "startHz": 409.8,
+          "endHz": 338.5,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-98",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "猶豫平緩 →↘",
+          "voicedIntervalSeconds": [
+            1.225,
+            1.465
+          ],
+          "startHz": 409.8,
+          "endHz": 338.5,
+          "deltaSemitones": -3.31,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-99",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "保留緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.21,
+            1.37
+          ],
+          "startHz": 336.0,
+          "endHz": 279.6,
+          "deltaSemitones": -3.18,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-99",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "保留緩降 ↘",
+          "voicedIntervalSeconds": [
+            1.21,
+            1.37
+          ],
+          "startHz": 336.0,
+          "endHz": 279.6,
+          "deltaSemitones": -3.18,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-100",
+      "part": "word",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.595,
+            0.76
+          ],
+          "startHz": 310.4,
+          "endHz": 256.1,
+          "deltaSemitones": -3.32,
+          "passed": true
+        },
+        {
+          "contour": "前降後平持 ↘→",
+          "voicedIntervalSeconds": [
+            1.18,
+            1.33
+          ],
+          "startHz": 381.5,
+          "endHz": 378.6,
+          "deltaSemitones": -0.13,
+          "passed": true
+        }
+      ]
+    },
+    {
+      "id": "aizuchi-100",
+      "part": "dialogue",
+      "segments": [
+        {
+          "contour": "緩降 ↘",
+          "voicedIntervalSeconds": [
+            0.6,
+            0.765
+          ],
+          "startHz": 285.4,
+          "endHz": 236.1,
+          "deltaSemitones": -3.28,
+          "passed": true
+        },
+        {
+          "contour": "輕尾升 ↗",
+          "voicedIntervalSeconds": [
+            2.605,
+            2.77
+          ],
+          "startHz": 255.8,
+          "endHz": 309.7,
+          "deltaSemitones": 3.31,
+          "passed": true
+        }
+      ]
+    }
+  ]
+}

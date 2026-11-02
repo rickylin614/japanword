@@ -7,7 +7,7 @@ const crypto = require('node:crypto');
 const {execFileSync} = require('node:child_process');
 const root = __dirname;
 const context = {window:{JP_VOCABULARY:{}}};
-for(const level of ['n5','n4','n3','n2']) for(const file of [level+'-data.js',level+'-examples.js']) vm.runInNewContext(fs.readFileSync(path.join(root,file),'utf8'),context);
+for(const level of ['n5','n4','n3','n2']) for(const file of [level+'-data.js',level+'-examples.js',level+'-example-audio.js']) vm.runInNewContext(fs.readFileSync(path.join(root,file),'utf8'),context);
 const levels = ['n5','n4','n3','n2'];
 const audit=JSON.parse(fs.readFileSync(path.join(root,'vocabulary-examples/audit.json'),'utf8'));
 for(const [file,expected] of Object.entries(audit.files)){
@@ -180,6 +180,8 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
     page.on('response',r=>{if(r.status()>=400)errors.push(r.status()+' '+r.url());});
     await page.addInitScript(()=>{
       window.spoken=[];
+      window.played=[];
+      window.Audio=class{constructor(src){this.src=src;}pause(){}play(){played.push(this.src);return Promise.resolve();}};
       window.SpeechSynthesisUtterance=class{constructor(text){this.text=text;}};
       Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[],cancel(){},speak(u){window.spoken.push({text:u.text,lang:u.lang});}}});
     });
@@ -206,8 +208,8 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
         assert.equal(await firstCard.locator('.word-example').first().isVisible(),true);
         for(let i=0;i<rendered[0].sections.length;i++){
           await firstCard.locator('[data-example-speak]').nth(i).click();
-          const spoken=await page.evaluate(()=>window.spoken.at(-1));
-          assert.equal(spoken.text,rendered[0].sections[i].sentence);assert.equal(spoken.lang,'ja-JP');
+          const played=await page.evaluate(()=>window.played.at(-1));
+          assert.equal(played,context.window.JP_EXAMPLE_AUDIO[level][rendered[0].id][i]);
         }
         await firstCard.locator('.word-examples > summary').click();
         assert.equal(await firstCard.locator('.word-example').first().isVisible(),false);

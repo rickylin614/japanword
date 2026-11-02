@@ -42,6 +42,8 @@ async function main() {
     const page=await browser.newPage();const errors=[];
     await page.addInitScript(()=>{
       window.spoken=[];
+      window.played=[];
+      window.Audio=class{constructor(src){this.src=src;}pause(){}play(){played.push(this.src);return Promise.resolve();}};
       window.SpeechSynthesisUtterance=class {constructor(text){this.text=text;}};
       Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[{lang:'ja-JP',name:'Test Japanese'}],cancel(){},speak(utterance){window.spoken.push({text:utterance.text,lang:utterance.lang});}}});
     });
@@ -106,7 +108,7 @@ async function main() {
       assert.equal(await page.locator('#feedback').innerText(),'');assert.ok(await page.locator('.option').first().isEnabled());
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
       await page.locator('#reveal').click();assert.match(await page.locator('#feedback').innerText(),/已加入待複習/);
-      await page.locator('#speech').click();assert.ok(!(await page.evaluate(()=>spoken.at(-1).text)).includes('空欄'));
+      await page.locator('#speech').click();assert.equal(await page.evaluate(level=>{const q=JP_GRAMMAR[level].find(q=>q.sentence===document.querySelector('#sentence').textContent);return played.at(-1)===JP_GRAMMAR_ANSWER_AUDIO[level][q.id];},level),true);
       assert.ok(await page.locator('[data-listen]').first().isEnabled());
       assert.ok(await page.locator('.option').first().isDisabled());
       await page.locator('#exit').click();await page.reload();await page.locator('#resume').click();assert.match(await page.locator('.quiz-top').innerText(),/2 \/ 10/);
@@ -117,7 +119,7 @@ async function main() {
         await page.locator('#next').click();
       }
       assert.match(await page.locator('.summary-number').innerText(),/9 \/ 10/);
-      await page.locator('[data-review-speech]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('[data-review-speech]').click();assert.equal(await page.evaluate(level=>played.at(-1)===JP_GRAMMAR_ANSWER_AUDIO[level][document.querySelector('[data-review-speech]').dataset.reviewSpeech],level),true);
       await page.locator('#retry').click();const sentence=await page.locator('#sentence').innerText();const q=grammar[level].find(q=>q.sentence===sentence);
       await page.locator('[data-choice]').nth(await page.locator('[data-choice]').evaluateAll((buttons,a)=>buttons.findIndex(b=>b.textContent.replace(/^\d+/, '')===a),q.answer)).click();await page.locator('#next').click();assert.equal(await page.locator('.summary-number').innerText(),'1 / 1');
       await page.locator('#again').click();await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
@@ -135,7 +137,7 @@ async function main() {
     await page.selectOption('#guide-level','n3');assert.match(await page.locator('#guide-count').innerText(),/61/);
     await page.locator('#guide-search').fill('xyz-nonexistent');assert.equal(await page.locator('.guide-card').count(),0);assert.ok(await page.locator('#guide-next').isDisabled());
     await page.locator('#guide-search').fill('確信的推測');assert.equal(await page.locator('.guide-card').count(),1);
-    const speech=await page.locator('.guide-example p').first().innerText();await page.locator('[data-guide-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),speech);
+    await page.locator('[data-guide-speak]').first().click();assert.equal(await page.evaluate(()=>{const b=document.querySelector('[data-guide-speak]');const g=JP_GRAMMAR_GUIDE.find(g=>g.id===b.dataset.guideSpeak);return played.at(-1)===JP_GRAMMAR_AUDIO[g.level][g.id][Number(b.dataset.example)];}),true);
     await page.locator('.guide-card summary').click();assert.ok(await page.locator('[data-guide-speak]').last().isVisible());
     for(const width of [360,390,768,1440]){await page.setViewportSize({width,height:900});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.screenshot({path:path.join(root,'grammar-guide-'+width+'.png'),fullPage:true});}
     await page.locator('.guide-card a').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');

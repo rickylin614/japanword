@@ -10,12 +10,15 @@ function page(file, title, data) {
     const target = path.join(root, file);
     fs.writeFileSync(target, fs.readFileSync(target, 'utf8').replace('<script defer src="learning.js">', `<script defer src="${examplesFile}"></script><script defer src="learning.js">`));
   }
+  const audioLevels=vocabularyLevel?[vocabularyLevel]:/data-page="grammar(?:-overview)?"/.test(data)?['n5','n4','n3','n2']:[];
+  const audioTags=audioLevels.map(level=>level+'-example-audio.js').filter(file=>fs.existsSync(path.join(root,file))).map(file=>`<script defer src="${file}"></script>`).join('');
+  if(audioTags){const target=path.join(root,file);fs.writeFileSync(target,fs.readFileSync(target,'utf8').replace('<script defer src="learning.js">',audioTags+'<script defer src="learning.js">'));}
 }
 // Conversation data is loaded before the shared page renderer only where needed.
 function conversationPage(file, title, category) {
   page(file, title, `data-page="conversation" data-category="${category}"`);
   const target = path.join(root, file);
-  fs.writeFileSync(target, fs.readFileSync(target, 'utf8').replace('<script defer src="learning.js">', '<script defer src="conversation-data.js"></script><script defer src="learning.js">'));
+  fs.writeFileSync(target, fs.readFileSync(target, 'utf8').replace('<script defer src="learning.js">', '<script defer src="conversation-data.js"></script>'+(category==='aizuchi'?'<script defer src="aizuchi-audio.js"></script>':'')+'<script defer src="learning.js">'));
 }
 conversationPage('aizuchi.html', '相づち・常用回應 100 句', 'aizuchi');
 conversationPage('gitaigo.html', '擬態語・常用詞彙與例句 100 組', 'gitaigo');

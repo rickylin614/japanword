@@ -1,6 +1,12 @@
 (function () {
   'use strict';
   const $ = id => document.getElementById(id);
+  const pageJumpButtons = '<button type="button" data-page-scroll="top">回到頂部</button><button type="button" data-page-scroll="bottom">到底部</button>';
+  document.addEventListener('click', event => {
+    const button = event.target.closest('.frozen-pagination [data-page-scroll]');
+    if (!button) return;
+    window.scrollTo({top:button.dataset.pageScroll === 'top' ? 0 : document.documentElement.scrollHeight,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'});
+  });
   const labels = { nouns: '名詞', verbs: '動詞', adjectives: '形容詞', i_adjectives: 'い形容詞', na_adjectives: 'な形容詞', others: '其餘詞性' };
   const categoriesFor = level => Object.keys(window.JP_VOCABULARY[level] || {});
   const page = document.body.dataset.page || 'home';
@@ -21,7 +27,20 @@
   }
   const migration = window.JP_VOCABULARY_MIGRATION || {};
   state.favorites = [...new Set(state.favorites.map(id => migration[id] || id))];
+  let currentRecording = null;
+  function playRecording(src) {
+    window.speechSynthesis?.cancel();
+    currentRecording?.pause();
+    const recording = new Audio(src);
+    currentRecording = recording;
+    $('audio-note').textContent = '';
+    recording.play().catch(() => {
+      if (currentRecording === recording) $('audio-note').textContent = '音檔暫時無法播放，請重新整理後再試。';
+    });
+  }
   function speak(text) {
+    currentRecording?.pause();
+    currentRecording = null;
     if (!('speechSynthesis' in window)) { $('audio-note').textContent = '此瀏覽器不支援語音朗讀。'; return; }
     $('audio-note').textContent = '';
     const utterance = new SpeechSynthesisUtterance(text);
@@ -38,6 +57,7 @@
     document.documentElement.dataset.theme = theme;
     try { localStorage.setItem('theme', theme); } catch { persistent = false; save(); }
   };
+  if(window.JP_EXAMPLE_AUDIO||window.JP_GRAMMAR_AUDIO)document.querySelector('.footer').insertAdjacentHTML('beforeend','<p class="example-audio-credit">例句合成語音：VOICEVOX:四国めたん · 自然會話語速。<a href="https://www.zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noopener">聲庫使用條款</a></p>');
   save();
   function stats(bank) {
     const done = bank.filter(q => state.answers[q.id]);
@@ -53,7 +73,8 @@
     const title = isAizuchi ? '相づち · 常用回應 100 句' : '擬態語 · 常用詞彙與例句 100 組';
     const bank = window.JP_CONVERSATION[kind];
     const tags = [...new Set(bank.map(w => w.tag))];
-    $('main').innerHTML = `<p class="eyebrow">DAILY CONVERSATION / ${kind.toUpperCase()}</p><h1>${title}</h1><p class="subtitle">${isAizuchi ? '從簡短接話到同理回應，練習自然地聽與回應。每句附讀音、繁體中文、禮貌程度與對話。' : '用日文描述心情、觸感與動作。每個詞附繁體中文、使用提示與一個完整例句。'}</p><nav class="inline-nav" aria-label="日常會話分類"><a href="aizuchi.html" ${isAizuchi ? 'aria-current="page"' : ''}>相づち · 100 句</a><a href="gitaigo.html" ${!isAizuchi ? 'aria-current="page"' : ''}>擬態語 · 100 組</a></nav><details class="source-note"><summary>排序方式、收錄範圍與參考資料</summary><p>依日常常見程度與學習實用性，由常用到情境限定估排。編號是本專案的學習順序，並非經語料庫統計的精確頻率榜；場合、年齡及人際關係都會影響實際使用頻率。</p><p>${isAizuchi ? '收錄短相づち及延伸接話、共鳴、追問與保留意見的回應，包含禮貌／隨意變體，並非 100 個獨立詞根。傾聽時的「はい」「うん」不一定表示同意。隨意語用於熟人；對長輩與工作場合優先選禮貌表達。' : '採廣義擬態表達，含擬情語、擬容語及部分常用樣態副詞。兼有擬音義的詞依本頁例句取狀態、感受或動作義；不以動物叫聲、純物音湊數。'}</p><p>中文說明、排序及例句為專案編寫；參考資料用於概念與延伸學習，未逐項外部審定。</p><ul><li><a href="https://www.hituzi.co.jp/hituzibooks/img/1147cyukyukarano_sample.pdf">ひつじ書房：日本語の会話の特徴（相づち與終助詞）</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/column/nihongo_1.html">國立國語研究所：擬音語・擬態語的分類</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/50_on.html">國立國語研究所：擬音語・擬態語索引</a></li><li><a href="https://www.hikidasu.jpf.go.jp/jp/corner/onomatopoeia/01/">國際交流基金：気持ちが伝わるオノマトペ</a></li></ul></details><div class="toolbar"><label class="grow">搜尋表達或例句<input id="expression-search" type="search" placeholder="日文、讀音、中文、例句或編號"></label><label>${isAizuchi ? '禮貌程度' : '表達類型'}<select id="expression-tag"><option value="all">全部</option>${tags.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')}</select></label><label>每頁顯示<select id="expression-size"><option value="20">20 筆</option><option value="50">50 筆</option><option value="100">全部 100 筆</option></select></label></div><p id="expression-count" role="status"></p><div id="expression-list" class="guide-grid"></div><nav id="expression-pagination" class="actions" aria-label="表達清單分頁"></nav>`;
+    $('main').innerHTML = `<p class="eyebrow">DAILY CONVERSATION / ${kind.toUpperCase()}</p><h1>${title}</h1><p class="subtitle">${isAizuchi ? '從簡短接話到同理回應，練習自然地聽與回應。每句附讀音、繁體中文、禮貌程度與對話。' : '用日文描述心情、觸感與動作。每個詞附繁體中文、使用提示與一個完整例句。'}</p><nav class="inline-nav" aria-label="日常會話分類"><a href="aizuchi.html" ${isAizuchi ? 'aria-current="page"' : ''}>相づち · 100 句</a><a href="gitaigo.html" ${!isAizuchi ? 'aria-current="page"' : ''}>擬態語 · 100 組</a></nav><details class="source-note"><summary>排序方式、收錄範圍與參考資料</summary><p>依日常常見程度與學習實用性，由常用到情境限定估排。編號是本專案的學習順序，並非經語料庫統計的精確頻率榜；場合、年齡及人際關係都會影響實際使用頻率。</p><p>${isAizuchi ? '收錄短相づち及延伸接話、共鳴、追問與保留意見的回應，包含禮貌／隨意變體，並非 100 個獨立詞根。傾聽時的「はい」「うん」不一定表示同意。隨意語用於熟人；對長輩與工作場合優先選禮貌表達。' : '採廣義擬態表達，含擬情語、擬容語及部分常用樣態副詞。兼有擬音義的詞依本頁例句取狀態、感受或動作義；不以動物叫聲、純物音湊數。'}</p><p>中文說明、排序及例句為專案編寫；參考資料用於概念與延伸學習，未逐項外部審定。</p><ul><li><a href="https://www.hituzi.co.jp/hituzibooks/img/1147cyukyukarano_sample.pdf">ひつじ書房：日本語の会話の特徴（相づち與終助詞）</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/column/nihongo_1.html">國立國語研究所：擬音語・擬態語的分類</a></li><li><a href="https://www2.ninjal.ac.jp/Onomatope/50_on.html">國立國語研究所：擬音語・擬態語索引</a></li><li><a href="https://www.hikidasu.jpf.go.jp/jp/corner/onomatopoeia/01/">國際交流基金：気持ちが伝わるオノマトペ</a></li></ul></details><div class="toolbar"><label class="grow">搜尋表達或例句<input id="expression-search" type="search" placeholder="日文、讀音、中文、例句或編號"></label><label>${isAizuchi ? '禮貌程度' : '表達類型'}<select id="expression-tag"><option value="all">全部</option>${tags.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')}</select></label><label>每頁顯示<select id="expression-size"><option value="20">20 筆</option><option value="50">50 筆</option><option value="100">全部 100 筆</option></select></label></div><p id="expression-count" role="status"></p><div id="expression-list" class="guide-grid"></div><nav id="expression-pagination" class="actions frozen-pagination" aria-label="表達清單分頁"></nav>`;
+    if (isAizuchi && window.JP_AIZUCHI_AUDIO) $('expression-count').insertAdjacentHTML('beforebegin','<p class="muted expression-audio-credit">合成語音：VOICEVOX:四国めたん（回應）／VOICEVOX:青山龍星（對話 A）。依本頁情境調整語氣；箭頭表示句尾走向。<a href="https://www.zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noopener">B 聲庫條款</a> · <a href="https://www.virvoxproject.com/voicevoxの利用規約" target="_blank" rel="noopener">A 聲庫條款</a></p>');
     let pageIndex = 0;
     const normalize = text => String(text).normalize('NFKC').replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0)-0x60)).toLowerCase();
     function draw() {
@@ -64,8 +85,8 @@
       const pages = Math.max(1, Math.ceil(filtered.length / size));
       pageIndex = Math.min(pageIndex, pages-1);
       $('expression-count').textContent = `符合 ${filtered.length} / ${bank.length} 筆 · 依常用順序 · 第 ${pageIndex+1} / ${pages} 頁（保留原編號）`;
-      $('expression-list').innerHTML = filtered.length ? filtered.slice(pageIndex*size, (pageIndex+1)*size).map(w => `<article class="panel guide-card expression-card"><span class="tag">#${String(w.rank).padStart(3,'0')} · ${esc(w.tag)}</span><h2 lang="ja">${esc(w.word)}</h2>${w.reading !== w.word ? `<p class="muted" lang="ja">${esc(w.reading)}</p>` : ''}<p><strong>${esc(w.meaning)}</strong></p><p class="muted">${esc(w.note)}</p><div class="guide-example"><p lang="ja">${esc(w.example)}</p><p>${esc(w.translation)}</p></div><div class="actions"><button data-expression="${w.id}" data-part="word" aria-label="朗讀表達 ${esc(w.word)}">朗讀表達</button><button data-expression="${w.id}" data-part="example" aria-label="朗讀例句 ${esc(w.word)}">${isAizuchi ? '朗讀對話' : '朗讀例句'}</button></div></article>`).join('') : '<p class="empty">沒有符合的內容，請更換關鍵字或選擇全部類型。</p>';
-      $('expression-pagination').innerHTML = `<button id="expression-prev" ${pageIndex===0?'disabled':''}>上一頁</button><span>${pageIndex+1} / ${pages}</span><button id="expression-next" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>`;
+      $('expression-list').innerHTML = filtered.length ? filtered.slice(pageIndex*size, (pageIndex+1)*size).map(w => `<article class="panel guide-card expression-card"><span class="tag">#${String(w.rank).padStart(3,'0')} · ${esc(w.tag)}</span><h2 lang="ja">${esc(w.word)}</h2>${w.reading !== w.word ? `<p class="muted" lang="ja">${esc(w.reading)}</p>` : ''}<p><strong>${esc(w.meaning)}</strong></p><p class="muted">${esc(w.note)}</p>${isAizuchi && window.JP_AIZUCHI_AUDIO?.entries[w.id]?`<p class="muted expression-prosody">語氣：${esc(window.JP_AIZUCHI_AUDIO.entries[w.id].contour)} · ${esc(window.JP_AIZUCHI_AUDIO.entries[w.id].intent)}</p>`:''}<div class="guide-example"><p lang="ja">${esc(w.example)}</p><p>${esc(w.translation)}</p></div><div class="actions"><button data-expression="${w.id}" data-part="word" aria-label="朗讀表達 ${esc(w.word)}">朗讀表達</button><button data-expression="${w.id}" data-part="example" aria-label="朗讀例句 ${esc(w.word)}">${isAizuchi ? '朗讀對話' : '朗讀例句'}</button></div></article>`).join('') : '<p class="empty">沒有符合的內容，請更換關鍵字或選擇全部類型。</p>';
+      $('expression-pagination').innerHTML = `<button id="expression-prev" ${pageIndex===0?'disabled':''}>上一頁</button><span>${pageIndex+1} / ${pages}</span><button id="expression-next" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>${pageJumpButtons}`;
       for (const [id, step] of [['expression-prev',-1],['expression-next',1]]) $(id).onclick = () => {pageIndex += step; draw(); $('expression-count').scrollIntoView({block:'start'}); $(id).focus();};
     }
     for (const id of ['expression-search','expression-tag','expression-size']) $(id).addEventListener(id==='expression-search'?'input':'change', () => {pageIndex=0; draw();});
@@ -73,7 +94,10 @@
       const b = e.target.closest('[data-expression]');
       if (!b) return;
       const w = bank.find(w => w.id === b.dataset.expression);
-      if (w) speak(b.dataset.part === 'word' ? w.reading : w.example.replace(/[AB]：/g,''));
+      if (!w) return;
+      const recording = isAizuchi && window.JP_AIZUCHI_AUDIO?.entries[w.id]?.[b.dataset.part];
+      if (recording) playRecording(recording);
+      else speak(b.dataset.part === 'word' ? w.reading : w.example.replace(/[AB]：/g,''));
     };
     draw();
   }
@@ -94,7 +118,7 @@
       const credit = source ? `<details class="example-source"><summary>例句來源 · Tatoeba</summary><p><a href="https://tatoeba.org/en/sentences/show/${source.jaId}" target="_blank" rel="noopener">日文 #${source.jaId}</a> · ${author(source.jaAuthor)}<br><a href="https://tatoeba.org/en/sentences/show/${source.zhId}" target="_blank" rel="noopener">中文 #${source.zhId}</a> · ${author(source.zhAuthor)}</p><p>中文已轉為繁體。${source.pivotId ? `本組經<a href="https://tatoeba.org/en/sentences/show/${source.pivotId}" target="_blank" rel="noopener">共通譯文</a>配對。` : '日中原句有直接翻譯連結。'} <a href="https://creativecommons.org/licenses/by/2.0/fr/" target="_blank" rel="noopener">CC BY 2.0 FR</a></p></details>` : '';
       return `<section class="word-example" data-example-kind="${example.kind||'common'}" aria-label="${esc(word.word)}的${example.label||'例句'}"><h3>${example.label||'例句'}</h3>${example.form?`<p class="example-form" lang="ja">${esc(example.form)} <span class="muted">（${esc(example.reading)}）</span></p>`:''}<p lang="ja" class="example-sentence">${highlighted}</p><p class="muted example-translation">${esc(example.translation)}</p>${example.note?`<p class="muted example-note">${esc(example.note)}</p>`:''}<button data-example-speak="${word.id}" data-example-index="${index}" aria-label="朗讀 ${esc(word.word)}的${example.label||'例句'}">朗讀例句</button>${credit}</section>`;
     }
-    $('main').innerHTML = `<p class="eyebrow">VOCABULARY / ${level.toUpperCase()}</p><h1>${level.toUpperCase()} ${labels[category]}</h1><p class="subtitle">共 ${bank.length} 詞 · 練讀音、記詞義，透過搜尋與收藏安排自己的複習。</p><details class="source-note"><summary>收錄範圍與資料來源</summary><p>依公開分級詞表與 JMdict 核對，同級異寫合併；各級可能重疊，非官方考試清單。<a href="sources.html">查看來源與實際詞量</a></p>${category==='verbs'&&level!=='n2'?`<p>這 ${bank.length} 個動詞同步用於<a href="${level}.html">動詞變化與情境測驗</a>。</p>`:''}</details><nav class="toolbar vocabulary-navigation" aria-label="詞彙分類"><label>切換等級<select id="vocabulary-level">${['n2','n3','n4','n5'].map(l=>`<option value="${l}" ${l===level?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">切換詞性<select id="vocabulary-category">${(category==='adjectives'?['adjectives',...categoriesFor(level)]:categoriesFor(level)).map(c=>`<option value="${c}" ${c===category?'selected':''}>${labels[c]} · ${c==='adjectives'?bank.length:window.JP_VOCABULARY[level][c].length} 詞</option>`).join('')}</select></label></nav><div class="toolbar"><label class="grow">搜尋詞彙<input id="search" type="search" placeholder="日文、假名、中文或詞性"></label><label>顯示範圍<select id="scope"><option value="all">全部詞彙</option><option value="favorites">只看收藏</option></select></label><label>練習題型<select id="word-mode"><option value="reading">漢字 → 假名</option><option value="meaning">日文 → 中文</option></select></label><label>每輪題數<select id="word-size"><option value="20">20 題</option><option value="50">50 題</option><option value="all">全部符合詞彙</option></select></label><button id="word-start" class="primary">練習目前詞彙</button></div><p id="word-count" role="status"></p><div id="word-list" class="word-grid"></div><div id="word-pagination" class="actions"></div><section id="word-practice" class="panel practice" hidden></section><section id="retired-favorites" class="panel" hidden></section>`;
+    $('main').innerHTML = `<p class="eyebrow">VOCABULARY / ${level.toUpperCase()}</p><h1>${level.toUpperCase()} ${labels[category]}</h1><p class="subtitle">共 ${bank.length} 詞 · 練讀音、記詞義，透過搜尋與收藏安排自己的複習。</p><details class="source-note"><summary>收錄範圍與資料來源</summary><p>依公開分級詞表與 JMdict 核對，同級異寫合併；各級可能重疊，非官方考試清單。<a href="sources.html">查看來源與實際詞量</a></p>${category==='verbs'&&level!=='n2'?`<p>這 ${bank.length} 個動詞同步用於<a href="${level}.html">動詞變化與情境測驗</a>。</p>`:''}</details><nav class="toolbar vocabulary-navigation" aria-label="詞彙分類"><label>切換等級<select id="vocabulary-level">${['n2','n3','n4','n5'].map(l=>`<option value="${l}" ${l===level?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">切換詞性<select id="vocabulary-category">${(category==='adjectives'?['adjectives',...categoriesFor(level)]:categoriesFor(level)).map(c=>`<option value="${c}" ${c===category?'selected':''}>${labels[c]} · ${c==='adjectives'?bank.length:window.JP_VOCABULARY[level][c].length} 詞</option>`).join('')}</select></label></nav><div class="toolbar"><label class="grow">搜尋詞彙<input id="search" type="search" placeholder="日文、假名、中文或詞性"></label><label>顯示範圍<select id="scope"><option value="all">全部詞彙</option><option value="favorites">只看收藏</option></select></label><label>練習題型<select id="word-mode"><option value="reading">漢字 → 假名</option><option value="meaning">日文 → 中文</option></select></label><label>每輪題數<select id="word-size"><option value="20">20 題</option><option value="50">50 題</option><option value="all">全部符合詞彙</option></select></label><button id="word-start" class="primary">練習目前詞彙</button></div><p id="word-count" role="status"></p><div id="word-list" class="word-grid"></div><nav id="word-pagination" class="actions frozen-pagination" aria-label="單字清單分頁"></nav><section id="word-practice" class="panel practice" hidden></section><section id="retired-favorites" class="panel" hidden></section>`;
     $('vocabulary-level').onchange=event=>{const next=event.target.value;const nextCategory=categoriesFor(next).includes(category)?category:'nouns';location.href=next+'-'+nextCategory+'.html';};
     $('vocabulary-category').onchange=event=>{location.href=level+'-'+event.target.value+'.html';};
     function drawRetired() {
@@ -112,9 +136,9 @@
       const pages = Math.max(1,Math.ceil(filtered.length/pageSize));
       pageIndex=Math.min(pageIndex,pages-1);
       $('word-count').textContent = `符合 ${filtered.length} / ${bank.length} 詞 · 第 ${pageIndex+1} / ${pages} 頁`;
-      $('word-pagination').innerHTML = `<button id="word-prev-page" ${pageIndex===0?'disabled':''}>上一頁</button><button id="word-next-page" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>`;
-      $('word-prev-page').onclick=()=>{pageIndex--;draw();$('word-count').scrollIntoView({block:'start'});};
-      $('word-next-page').onclick=()=>{pageIndex++;draw();$('word-count').scrollIntoView({block:'start'});};
+      $('word-pagination').innerHTML = `<button id="word-prev-page" ${pageIndex===0?'disabled':''}>上一頁</button><span role="status" aria-label="目前頁碼">${pageIndex+1} / ${pages}</span><button id="word-next-page" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>${pageJumpButtons}`;
+      $('word-prev-page').onclick=()=>{pageIndex--;draw();$('word-count').scrollIntoView({block:'start'});$('word-prev-page').focus();};
+      $('word-next-page').onclick=()=>{pageIndex++;draw();$('word-count').scrollIntoView({block:'start'});$('word-next-page').focus();};
       $('word-start').disabled = !filtered.length;
       $('word-list').innerHTML = filtered.length ? filtered.slice(pageIndex*pageSize,(pageIndex+1)*pageSize).map(w=>`<article class="word-card"><span class="tag">${w.pos}</span><h2 lang="ja">${w.word}</h2><p class="muted" lang="ja">${w.reading}</p><p>${esc(w.meaning)}</p><div class="word-actions"><button class="favorite" data-favorite="${w.id}" aria-pressed="${state.favorites.includes(w.id)}">${state.favorites.includes(w.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${w.word}</span></button><button data-speak="${w.id}" aria-label="朗讀 ${w.word}">朗讀</button></div>${exampleMarkup(w)}</article>`).join('') : '<p class="empty">沒有符合條件的詞彙，試試其他搜尋字或切回全部。</p>';
     }
@@ -129,7 +153,7 @@
       const button = event.target.closest('button'); if (!button) return;
       const id = button.dataset.favorite || button.dataset.speak || button.dataset.exampleSpeak;
       const word = bank.find(w=>w.id===id); if (!word) return;
-      if (button.dataset.exampleSpeak) { const base = examples[word.id]; const example=base?.variants?.[Number(button.dataset.exampleIndex)]||base; if (example) speak(example.sentence); }
+      if (button.dataset.exampleSpeak) { const base = examples[word.id]; const index=Number(button.dataset.exampleIndex); const example=base?.variants?.[index]||base; const recording=window.JP_EXAMPLE_AUDIO?.[level]?.[word.id]?.[index]; if(recording)playRecording(recording);else if (example) speak(example.sentence); }
       else if (button.dataset.speak) speak(word.reading);
       else { state.favorites = state.favorites.includes(id) ? state.favorites.filter(x=>x!==id) : [...state.favorites,id]; save(); draw(); const replacement = document.querySelector(`[data-favorite="${id}"]`); if (replacement) replacement.focus(); }
     };
@@ -218,7 +242,7 @@
         });
         $('reveal').disabled = true;
         $('feedback').innerHTML = `<div class="feedback ${correct?'':'bad'}"><strong>${choice===null?'已顯示答案 · 已加入待複習':correct?'答對了！':'答錯了 · 已加入待複習'}</strong><p>正確答案：<b lang="ja">${esc(q.answer)}</b></p><p lang="ja">${esc(q.sentence.replace('【　】',q.answer))}</p><p>${esc(q.explanation)}</p><button id="speech">朗讀完整句子</button></div>`;
-        $('speech').onclick = () => speak(q.sentence.replace('【　】',q.answer));
+        $('speech').onclick = () => {const recording=window.JP_GRAMMAR_ANSWER_AUDIO?.[currentLevel]?.[q.id];if(recording)playRecording(recording);else speak(q.sentence.replace('【　】',q.answer));};
         $('next').hidden=false; $('next').focus();
       }
       document.querySelectorAll('[data-choice]').forEach(button=>button.onclick=()=>answer(options[button.dataset.choice]));
@@ -234,7 +258,7 @@
         return `<div class="feedback"><p lang="ja">${esc(q.sentence.replace('【　】',q.answer))}</p><p>${esc(q.explanation)}</p><button data-review-speech="${q.id}">🔊 朗讀完整句子</button></div>`;
       }).join('') : '<p>全部答對！可以挑戰更多題目或另一個等級。</p>';
       $('main').innerHTML = `<div class="practice panel"><p class="eyebrow">SESSION COMPLETE / ${currentLevel.toUpperCase()}</p><h1 tabindex="-1" id="complete">這一輪，完成了。</h1><div class="summary-number">${results.length-wrong.length} / ${results.length}</div><p>本輪答對 ${Math.round((results.length-wrong.length)/results.length*100)}% · ${wrong.length} 題需要再複習</p><div class="actions"><button class="primary" id="again">返回練習設定</button>${wrong.length?'<button id="retry">重練本輪錯題</button>':''}<a class="button" href="layout.html">學習總覽</a></div>${review}</div>`;
-      document.querySelectorAll('[data-review-speech]').forEach(button=>button.onclick=()=>{const q=window.JP_GRAMMAR[currentLevel].find(q=>q.id===button.dataset.reviewSpeech);speak(q.sentence.replace('【　】',q.answer));});
+      document.querySelectorAll('[data-review-speech]').forEach(button=>button.onclick=()=>{const q=window.JP_GRAMMAR[currentLevel].find(q=>q.id===button.dataset.reviewSpeech);const recording=window.JP_GRAMMAR_ANSWER_AUDIO?.[currentLevel]?.[q.id];if(recording)playRecording(recording);else speak(q.sentence.replace('【　】',q.answer));});
       $('again').onclick=menu;
       if(wrong.length) $('retry').onclick=()=>{session={ids:shuffle(wrong.map(r=>r.id)),index:0,results:[]};state.sessions[currentLevel]=session;save();question();};
       $('complete').focus();
@@ -245,7 +269,7 @@
     const guide=window.JP_GRAMMAR_GUIDE, params=new URLSearchParams(location.search);
     let selected=['n5','n4','n3','n2'].includes(params.get('level'))?params.get('level'):'all';
     let currentPage=1; const pageSize=12;
-    $('main').innerHTML=`<p class="eyebrow">GRAMMAR REFERENCE / N5 – N2</p><h1>文法彙整</h1><p class="subtitle">共 ${guide.length} 個用法單元 · 理解句型、接續與例句，再透過朗讀和測驗加深印象。</p><div class="toolbar"><label>等級<select id="guide-level"><option value="all">全部等級</option>${['n5','n4','n3','n2'].map(l=>`<option value="${l}" ${l===selected?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">搜尋文法<input type="search" id="guide-search" placeholder="句型、接續、中文說明或日文例句"></label></div><p id="guide-count" role="status"></p><div id="guide-list" class="guide-grid"></div><div id="guide-pagination" class="actions"></div><section class="panel guide-references"><h2>延伸學習</h2><p>文法題目與中文解析由本專案編寫，分級是學習安排，非官方試題；JMdict 的核對範圍為詞彙，並非文法認證。</p><p>可搭配國際交流基金的 <a href="https://www.irodori.jpf.go.jp/starter/pdf.html">いろどり 入門</a>、<a href="https://www.irodori.jpf.go.jp/elementary01/pdf.html">初級 1</a>、<a href="https://www.irodori.jpf.go.jp/elementary02/pdf.html">初級 2</a>，以及「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html">そうだ／ようだ／らしい</a>」與「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201310.html">よう與ために</a>」的用法說明。另可閱讀「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201703.html">逆接：ものの、にもかかわらず</a>」與「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201206.html">もの的用法</a>」。這些是延伸參考，並非本題庫逐題的外部審定。</p></section>`;
+    $('main').innerHTML=`<p class="eyebrow">GRAMMAR REFERENCE / N5 – N2</p><h1>文法彙整</h1><p class="subtitle">共 ${guide.length} 個用法單元 · 理解句型、接續與例句，再透過朗讀和測驗加深印象。</p><div class="toolbar"><label>等級<select id="guide-level"><option value="all">全部等級</option>${['n5','n4','n3','n2'].map(l=>`<option value="${l}" ${l===selected?'selected':''}>${l.toUpperCase()}</option>`).join('')}</select></label><label class="grow">搜尋文法<input type="search" id="guide-search" placeholder="句型、接續、中文說明或日文例句"></label></div><p id="guide-count" role="status"></p><div id="guide-list" class="guide-grid"></div><nav id="guide-pagination" class="actions frozen-pagination" aria-label="文法彙整分頁"></nav><section class="panel guide-references"><h2>延伸學習</h2><p>文法題目與中文解析由本專案編寫，分級是學習安排，非官方試題；JMdict 的核對範圍為詞彙，並非文法認證。</p><p>可搭配國際交流基金的 <a href="https://www.irodori.jpf.go.jp/starter/pdf.html">いろどり 入門</a>、<a href="https://www.irodori.jpf.go.jp/elementary01/pdf.html">初級 1</a>、<a href="https://www.irodori.jpf.go.jp/elementary02/pdf.html">初級 2</a>，以及「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201012.html">そうだ／ようだ／らしい</a>」與「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201310.html">よう與ために</a>」的用法說明。另可閱讀「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201703.html">逆接：ものの、にもかかわらず</a>」與「<a href="https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201206.html">もの的用法</a>」。這些是延伸參考，並非本題庫逐題的外部審定。</p></section>`;
     function draw() {
       const query=normalizeReading($('guide-search').value);
       const filtered=guide.filter(g=>(selected==='all'||g.level===selected)&&normalizeReading([g.title,g.pattern,g.connection,g.explanation,...g.examples].join(' ')).includes(query));
@@ -255,10 +279,10 @@
         const example=(sentence,i)=>`<div class="guide-example"><p lang="ja">${esc(sentence)}</p><button data-guide-speak="${g.id}" data-example="${i}" aria-label="朗讀例句 ${i+1}">🔊 朗讀</button></div>`;
         return `<article class="panel guide-card"><span class="tag">${g.level.toUpperCase()} · ${g.questionIds.length} 題</span><h2>${esc(g.title)}</h2><p class="guide-pattern" lang="ja">${esc(g.pattern)}</p><h3>接續</h3><p>${esc(g.connection)}</p><h3>用法</h3><p>${esc(g.explanation)}</p><h3>例句</h3>${g.examples.slice(0,2).map(example).join('')}<details><summary>查看其餘 ${g.examples.length-2} 個例句</summary>${g.examples.slice(2).map((s,i)=>example(s,i+2)).join('')}</details><a class="button primary" href="grammar.html?level=${g.level}&amp;pattern=${g.id}">練習這個用法 · ${g.questionIds.length} 題</a></article>`;
       }).join(''):'<p class="panel">沒有符合的文法，請嘗試其他關鍵字或等級。</p>';
-      $('guide-pagination').innerHTML=`<button id="guide-prev" ${currentPage===1?'disabled':''}>上一頁</button><span>${currentPage} / ${pages}</span><button id="guide-next" ${currentPage===pages?'disabled':''}>下一頁</button>`;
+      $('guide-pagination').innerHTML=`<button id="guide-prev" ${currentPage===1?'disabled':''}>上一頁</button><span>${currentPage} / ${pages}</span><button id="guide-next" ${currentPage===pages?'disabled':''}>下一頁</button>${pageJumpButtons}`;
       for(const [id,step] of [['guide-prev',-1],['guide-next',1]]) $(id).onclick=()=>{currentPage+=step;draw();$('guide-count').scrollIntoView({block:'start'});$(id).focus();};
     }
-    $('guide-list').onclick=e=>{const b=e.target.closest('[data-guide-speak]');if(!b)return;const g=guide.find(g=>g.id===b.dataset.guideSpeak);if(g)speak(g.examples[Number(b.dataset.example)]);};
+    $('guide-list').onclick=e=>{const b=e.target.closest('[data-guide-speak]');if(!b)return;const g=guide.find(g=>g.id===b.dataset.guideSpeak);if(g){const index=Number(b.dataset.example);const recording=window.JP_GRAMMAR_AUDIO?.[g.level]?.[g.id]?.[index];if(recording)playRecording(recording);else speak(g.examples[index]);}};
     $('guide-search').oninput=()=>{currentPage=1;draw();};
     $('guide-level').onchange=e=>{selected=e.target.value;currentPage=1;try{history.replaceState(null,'',selected==='all'?'grammar-overview.html':'?level='+selected);}catch{}draw();};
     draw();
