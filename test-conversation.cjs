@@ -21,6 +21,7 @@ console.log('Conversation data: 100 unique entries per category, complete readin
 const crypto=require('node:crypto');
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 vm.runInNewContext(fs.readFileSync(path.join(__dirname,'aizuchi-audio.js'),'utf8'),context);
+vm.runInNewContext(fs.readFileSync(path.join(__dirname,'word-audio.js'),'utf8'),context);
 const manifest=context.window.JP_AIZUCHI_AUDIO;
 const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'speech/voicevox-audit.json'),'utf8'));
 const plan=JSON.parse(fs.readFileSync(path.join(__dirname,'speech/aizuchi-plan.json'),'utf8'));
@@ -136,9 +137,10 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
         });
         assert.equal(decoded,200);
       }else{
-        assert.ok(spoken.slice(-2).every(u=>u.lang==='ja-JP'));
-        assert.equal(spoken.at(-2).text,context.window.JP_CONVERSATION[kind][0].reading);
-        assert.equal(spoken.at(-1).text,context.window.JP_CONVERSATION[kind][0].example.replace(/[AB]：/g,''));
+        assert.equal(spoken.length,0);
+        const recordings=await page.evaluate(()=>window.recordings);
+        assert.equal(recordings.at(-2).src,context.window.JP_WORD_AUDIO.gitaigo['gitaigo-1'].word);
+        assert.equal(recordings.at(-1).src,context.window.JP_WORD_AUDIO.gitaigo['gitaigo-1'].example);
       }
       await page.click('#theme');
       assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');

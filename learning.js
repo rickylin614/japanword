@@ -50,6 +50,10 @@
     utterance.onerror = event => { if (!['canceled','interrupted'].includes(event.error)) $('audio-note').textContent = '無法播放日文語音，請確認裝置有可用的日文語音。'; };
     window.speechSynthesis.cancel(); window.speechSynthesis.speak(utterance);
   }
+  function speakWord(word) {
+    const recording=window.JP_WORD_AUDIO?.levels[word.sourceLevel?.toLowerCase()||word.level||level]?.[word.id]||window.JP_WORD_AUDIO?.retired[word.id];
+    if(recording)playRecording(recording);else speak(word.reading);
+  }
   const allGrammar = Object.values(window.JP_GRAMMAR).flat();
   document.body.innerHTML = `<a class="skip" href="#main">跳到主要內容</a><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html" ${page==='home'?'aria-current="page"':''}>學習總覽</a><a href="n3-nouns.html" ${page==='vocabulary'?'aria-current="page"':''}>詞彙練習</a><a href="grammar.html" ${page==='grammar'?'aria-current="page"':''}>文法題庫</a><a href="grammar-overview.html" ${page==='grammar-overview'?'aria-current="page"':''}>文法彙整</a><button id="theme" aria-label="切換深淺主題">切換主題</button></nav></div></header><p id="audio-note" class="audio-note" role="status"></p><main id="main" class="page"></main><footer class="footer">每天一點，讓日文成為日常。<br>學習教材；分級為學習參考，非官方 JLPT 試題。<a href="sources.html">N2～N5 題庫來源與核對紀錄</a><p id="storage-note" role="status"></p></footer>`;
   $('theme').onclick = () => {
@@ -57,7 +61,7 @@
     document.documentElement.dataset.theme = theme;
     try { localStorage.setItem('theme', theme); } catch { persistent = false; save(); }
   };
-  if(window.JP_EXAMPLE_AUDIO||window.JP_GRAMMAR_AUDIO)document.querySelector('.footer').insertAdjacentHTML('beforeend','<p class="example-audio-credit">例句合成語音：VOICEVOX:四国めたん · 自然會話語速。<a href="https://www.zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noopener">聲庫使用條款</a></p>');
+  if(window.JP_WORD_AUDIO||window.JP_EXAMPLE_AUDIO||window.JP_GRAMMAR_AUDIO)document.querySelector('.footer').insertAdjacentHTML('beforeend','<p class="example-audio-credit">單字與例句合成語音：VOICEVOX:四国めたん · 自然會話語速。<a href="https://www.zunko.jp/con_ongen_kiyaku.html" target="_blank" rel="noopener">聲庫使用條款</a></p>');
   save();
   function stats(bank) {
     const done = bank.filter(q => state.answers[q.id]);
@@ -95,7 +99,7 @@
       if (!b) return;
       const w = bank.find(w => w.id === b.dataset.expression);
       if (!w) return;
-      const recording = isAizuchi && window.JP_AIZUCHI_AUDIO?.entries[w.id]?.[b.dataset.part];
+      const recording = isAizuchi ? window.JP_AIZUCHI_AUDIO?.entries[w.id]?.[b.dataset.part] : window.JP_WORD_AUDIO?.gitaigo[w.id]?.[b.dataset.part];
       if (recording) playRecording(recording);
       else speak(b.dataset.part === 'word' ? w.reading : w.example.replace(/[AB]：/g,''));
     };
@@ -125,7 +129,7 @@
       const retired = (window.JP_RETIRED_VOCABULARY || []).filter(w=>w.level===level && state.favorites.includes(w.id));
       const panel=$('retired-favorites'); panel.hidden=!retired.length;
       panel.innerHTML='<h2>保留的舊版收藏</h2><p>以下詞彙無法對應本級新版來源，因此不列入核對題庫與測驗；原收藏仍保留，可繼續查看或移除。</p>'+retired.map(w=>`<article><p lang="ja">${esc(w.word)}（${esc(w.reading)}）</p><p>${esc(w.meaning)}</p><div class="actions"><button data-old-speak="${w.id}">朗讀舊收藏</button><button data-old-remove="${w.id}">移除舊收藏</button></div></article>`).join('');
-      panel.onclick=event=>{const b=event.target.closest('button');if(!b)return;const w=retired.find(w=>w.id===(b.dataset.oldSpeak||b.dataset.oldRemove));if(!w)return;if(b.dataset.oldSpeak)speak(w.reading);else{state.favorites=state.favorites.filter(id=>id!==w.id);save();drawRetired();}};
+      panel.onclick=event=>{const b=event.target.closest('button');if(!b)return;const w=retired.find(w=>w.id===(b.dataset.oldSpeak||b.dataset.oldRemove));if(!w)return;if(b.dataset.oldSpeak)speakWord(w);else{state.favorites=state.favorites.filter(id=>id!==w.id);save();drawRetired();}};
     }
     drawRetired();
     let filtered = [], session = null, pageIndex = 0;
@@ -154,7 +158,7 @@
       const id = button.dataset.favorite || button.dataset.speak || button.dataset.exampleSpeak;
       const word = bank.find(w=>w.id===id); if (!word) return;
       if (button.dataset.exampleSpeak) { const base = examples[word.id]; const index=Number(button.dataset.exampleIndex); const example=base?.variants?.[index]||base; const recording=window.JP_EXAMPLE_AUDIO?.[level]?.[word.id]?.[index]; if(recording)playRecording(recording);else if (example) speak(example.sentence); }
-      else if (button.dataset.speak) speak(word.reading);
+      else if (button.dataset.speak) speakWord(word);
       else { state.favorites = state.favorites.includes(id) ? state.favorites.filter(x=>x!==id) : [...state.favorites,id]; save(); draw(); const replacement = document.querySelector(`[data-favorite="${id}"]`); if (replacement) replacement.focus(); }
     };
     function stop() { session = null; $('word-practice').hidden = true; $('word-list').hidden = false; $('word-pagination').hidden = false; $('word-start').focus(); }
@@ -178,9 +182,9 @@
         if (answered) return; answered = true; if (correct) session.correct++;
         panel.querySelectorAll('.option, #reading-form button, #reading-answer').forEach(el=>el.disabled=true);
         $('word-feedback').innerHTML = `<div class="feedback"><strong>${revealed?'已顯示答案':correct?'答對了！':'再記一次'}</strong><p lang="ja">${word.word}（${word.reading}）</p><p>${word.meaning}</p><button id="word-speech">朗讀答案</button></div>`;
-        $('word-speech').onclick = () => speak(word.reading); $('word-next').hidden = false; $('word-next').focus();
+        $('word-speech').onclick = () => speakWord(word); $('word-next').hidden = false; $('word-next').focus();
       }
-      $('word-prompt-speech').onclick = () => speak(word.reading);
+      $('word-prompt-speech').onclick = () => speakWord(word);
       $('word-close').onclick = stop;
       if (meaning) panel.querySelectorAll('[data-meaning]').forEach(button=>button.onclick=()=>answer(options[button.dataset.meaning]===word.meaning,false));
       else {

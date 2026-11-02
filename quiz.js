@@ -78,7 +78,7 @@ function wordQuestion(word, type, field, label) {
         ? [...answerVariants(word.verb), word.pron, ...(word.aliases || [])]
         : answerVariants(word[field]);
     return {
-        id: `${word.id}-${type}`, type,
+        id: `${word.id}-${type}`, type, wordId:word.id,
         prompt: type === '1' ? `中文：${word.chinese}（請回答原形）` : `${word.verb}${type==='6'?'':`（${word.pron}）`} · ${label}`,
         answers, explanation: `原形：${word.verb}（${word.pron}）；中文：${word.chinese}`,
         speech: word.pron
@@ -98,7 +98,7 @@ function buildQuestions(vocabulary, exercises) {
         }
         for (const [field, label] of [['masu', 'ます形'], ['te', 'て形'], ['nai', 'ない形'], ['ta', 'た形']]) {
             result.push({
-                id: `${word.id}-7-${field}`, type: '7',
+                id: `${word.id}-7-${field}`, type: '7', wordId:word.id,
                 prompt: `${answerVariants(word[field])[0]}（${label} → 請回答原形）`,
                 answers: [...answerVariants(word.verb), word.pron, ...(word.aliases || [])],
                 explanation: `${word.verb}（${word.pron}）的${label}是「${answerVariants(word[field])[0]}」。中文：${word.chinese}`,
@@ -203,8 +203,17 @@ function checkAnswer() {
     input.focus();
 }
 
+let legacyRecording=null;
+function playLegacyRecording(src) {
+    window.speechSynthesis?.cancel();legacyRecording?.pause();
+    const recording=new Audio(src);legacyRecording=recording;
+    recording.play().catch(()=>{if(legacyRecording===recording)document.getElementById('status').textContent='音檔暫時無法播放，請重新整理後再試。';});
+}
 function speakText() {
+    const recording=currentQuestion?.type!=='7'&&window.JP_WORD_AUDIO?.levels[level]?.[currentQuestion?.wordId];
+    if(recording){playLegacyRecording(recording);return;}
     if (!currentQuestion || !('speechSynthesis' in window)) return;
+    legacyRecording?.pause();
     const utterance = new SpeechSynthesisUtterance(currentQuestion.speech);
     utterance.lang = 'ja-JP';
     window.speechSynthesis.cancel();

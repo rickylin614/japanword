@@ -50,6 +50,7 @@ async function main() {
     page.on('pageerror',e=>errors.push(e.message));
     const base=`http://127.0.0.1:${server.address().port}`;
     const go=file=>page.goto(`${base}/${file}`);
+    const assertCurrentWordAudio=async level=>assert.equal(await page.evaluate(level=>{const text=document.querySelector('#word-practice h2').textContent;return Object.values(JP_VOCABULARY[level]).flat().some(w=>w.word===text&&played.at(-1)===JP_WORD_AUDIO.levels[level][w.id]);},level),true);
     const pages=['50.html','n87.html','layout.html','index.html','grammar.html','grammar-overview.html','sources.html',...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n2-${c}.html`),...['n3','n4'].flatMap(l=>['nouns','verbs','i_adjectives','na_adjectives','adjectives','others'].map(c=>`${l}-${c}.html`)),...['nouns','verbs','i_adjectives','na_adjectives','others'].map(c=>`n5-${c}.html`),...['n3.html','n4.html','n5.html']];
     for(const width of [360,390,768,1440]) {
       await page.setViewportSize({width,height:900});
@@ -92,13 +93,13 @@ async function main() {
     assert.match(await page.locator('.stats').innerText(),/5233/);
     for(const level of ['n3','n4','n5'])assert.equal(await page.locator(`.card a[href="${level}.html"]`).count(),1);
     for(const category of ['nouns','verbs','i_adjectives','na_adjectives','others'])assert.equal(await page.locator('.card a[href="n5-'+category+'.html"]').count(),1);
-    const links=await page.locator('a[href]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')).filter(h=>!h.startsWith('#')));
+    const links=await page.locator('a[href]').evaluateAll(nodes=>nodes.map(n=>n.getAttribute('href')).filter(h=>!/^(?:#|[a-z][a-z0-9+.-]*:|\/\/)/i.test(h)));
     for(const link of links){const res=await page.request.get(`${base}/${link}`);assert.ok(res.ok(),link);}
     await page.locator('#theme').click();await page.reload();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
     await go('n3-nouns.html');await page.locator('.favorite').first().click();await page.reload();await page.selectOption('#scope','favorites');assert.equal(await page.locator('.word-card').count(),1);
     await page.fill('#search','不存在的詞彙');assert.ok(await page.locator('#word-start').isDisabled());
     await page.fill('#search','');await page.selectOption('#scope','all');await page.fill('#search','えいきょう');assert.equal(await page.locator('.word-card').count(),1);
-    await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),'えいきょう');assert.equal(await page.locator('#word-feedback').innerText(),'');await page.fill('#reading-answer','エイキョウ');await page.locator('button[type=submit]').click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);await page.locator('#word-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');await page.locator('#word-next').click();assert.match(await page.locator('#word-practice').innerText(),/答對 1 \/ 1/);
+    await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();await assertCurrentWordAudio('n3');assert.equal(await page.locator('#word-feedback').innerText(),'');await page.fill('#reading-answer','エイキョウ');await page.locator('button[type=submit]').click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);await page.locator('#word-speech').click();await assertCurrentWordAudio('n3');await page.locator('#word-next').click();assert.match(await page.locator('#word-practice').innerText(),/答對 1 \/ 1/);
     await page.locator('#word-close').click();await page.selectOption('#word-mode','meaning');await page.locator('#word-start').click();await page.getByRole('button',{name:'影響',exact:true}).click();assert.match(await page.locator('#word-feedback').innerText(),/答對/);
     for(const level of ['n5','n4','n3','n2']) {
       await go(`grammar.html?level=${level}`);await page.selectOption('#grammar-scope','wrong');await page.locator('#start').click();assert.match(await page.locator('#empty-pool').innerText(),/沒有錯題/);
@@ -147,7 +148,7 @@ async function main() {
     await page.locator('#exit').click();assert.equal(await page.locator('#grammar-pattern').inputValue(),'n3-extra-01');
     for(const l of ['n5','n4','n3','n2']){await go('grammar.html?level='+l+'&pattern=invalid');assert.equal(await page.locator('#grammar-pattern').inputValue(),'');await page.selectOption('#size','500');await page.locator('#start').click();const ids=await page.evaluate(l=>JSON.parse(localStorage.getItem('jp-learning-v1')).sessions[l].ids,l);assert.equal(ids.length,500);assert.equal(new Set(ids).size,500);assert.ok(ids.includes(l+'-g-500'));}
     for(const l of ['n3','n4'])for(const category of ['nouns','adjectives','others'])for(const mode of ['reading','meaning']){
-      await go(`${l}-${category}.html`);await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');assert.equal(await page.locator('#word-feedback').innerText(),'');
+      await go(`${l}-${category}.html`);await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();await page.locator('#word-prompt-speech').click();await assertCurrentWordAudio(l);assert.equal(await page.locator('#word-feedback').innerText(),'');
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
     }
     for(const l of ['n3','n4','n5']){
@@ -157,8 +158,8 @@ async function main() {
       assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
       await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'light');
       await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
-      await page.locator('button[onclick="speakText()"]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
-      await page.locator('button[onclick="checkAnswer()"]').click();await page.getByRole('button',{name:'🔊 聽答案發音',exact:true}).click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('button[onclick="speakText()"]').click();assert.equal(await page.evaluate(l=>played.at(-1)===JP_WORD_AUDIO.levels[l][currentQuestion.wordId],l),true);
+      await page.locator('button[onclick="checkAnswer()"]').click();await page.getByRole('button',{name:'🔊 聽答案發音',exact:true}).click();assert.equal(await page.evaluate(l=>played.at(-1)===JP_WORD_AUDIO.levels[l][currentQuestion.wordId],l),true);
     }
     for(const level of ['n2','n3','n4','n5'])for(const category of ['nouns','verbs','i_adjectives','na_adjectives','others']){
       await page.evaluate(()=>{const s=JSON.parse(localStorage.getItem('jp-learning-v1'));s.favorites=[];localStorage.setItem('jp-learning-v1',JSON.stringify(s));});
@@ -167,14 +168,14 @@ async function main() {
       assert.equal(await page.locator('.word-card').count(),Math.min(60,count));
       const first=await page.locator('.word-card h2').first().innerText();
       if(count>60){await page.locator('#word-next-page').click();assert.notEqual(await page.locator('.word-card h2').first().innerText(),first);await page.locator('#word-prev-page').click();}
-      await page.locator('[data-speak]').first().click();assert.equal(await page.evaluate(()=>spoken.at(-1).lang),'ja-JP');
+      await page.locator('[data-speak]').first().click();assert.equal(await page.evaluate(level=>played.at(-1)===JP_WORD_AUDIO.levels[level][document.querySelector('[data-speak]').dataset.speak],level),true);
       assert.equal(await page.locator('.word-card > details:not(.word-examples)').count(),0);
       await page.fill('#search',first);assert.ok(await page.locator('.word-card').count()>0);await page.fill('#search','');
       await page.locator('.favorite').first().click();await page.reload();await page.selectOption('#scope','favorites');assert.equal(await page.locator('.word-card').count(),1);
       for(const mode of ['reading','meaning']){
         await page.selectOption('#word-mode',mode);await page.locator('#word-start').click();
         const word=await page.locator('#word-practice h2').innerText();const item=await page.evaluate(({level,category,word})=>window.JP_VOCABULARY[level][category].find(w=>w.word===word),{level,category,word});
-        await page.locator('#word-prompt-speech').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),item.reading);
+        await page.locator('#word-prompt-speech').click();await assertCurrentWordAudio(level);
         assert.equal(await page.locator('#word-feedback').innerText(),'');
         if(mode==='reading'){await page.fill('#reading-answer',item.reading);await page.locator('button[type=submit]').click();}
         else await page.getByRole('button',{name:item.meaning,exact:true}).click();
@@ -190,7 +191,7 @@ async function main() {
     await page.reload();await page.reload();
     const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')));
     assert.deepEqual(saved.favorites.sort(),[migration.newId,migration.retired.id].sort());assert.equal(saved.answers['grammar-sentinel'].correct,true);assert.equal(saved.sessions.keep.test,true);
-    assert.match(await page.locator('#retired-favorites').innerText(),/舊版收藏/);await page.locator('[data-old-speak]').click();assert.equal(await page.evaluate(()=>spoken.at(-1).text),migration.retired.reading);
+    assert.match(await page.locator('#retired-favorites').innerText(),/舊版收藏/);await page.locator('[data-old-speak]').click();assert.equal(await page.evaluate(id=>played.at(-1)===JP_WORD_AUDIO.retired[id],migration.retired.id),true);
     await page.locator('[data-old-remove]').click();assert.ok(await page.locator('#retired-favorites').isHidden());
     for(const level of ['n3','n4']){await go(level+'-adjectives.html');const total=await page.evaluate(l=>window.JP_VOCABULARY[l].i_adjectives.length+window.JP_VOCABULARY[l].na_adjectives.length,level);assert.ok((await page.locator('#word-count').innerText()).includes('/ '+total+' 詞'));}
     await go('n4-nouns.html');await page.selectOption('#vocabulary-category','verbs');await page.waitForURL('**/n4-verbs.html');await page.selectOption('#vocabulary-level','n3');await page.waitForURL('**/n3-verbs.html');

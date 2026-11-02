@@ -13,6 +13,7 @@ function page(file, title, data) {
   const audioLevels=vocabularyLevel?[vocabularyLevel]:/data-page="grammar(?:-overview)?"/.test(data)?['n5','n4','n3','n2']:[];
   const audioTags=audioLevels.map(level=>level+'-example-audio.js').filter(file=>fs.existsSync(path.join(root,file))).map(file=>`<script defer src="${file}"></script>`).join('');
   if(audioTags){const target=path.join(root,file);fs.writeFileSync(target,fs.readFileSync(target,'utf8').replace('<script defer src="learning.js">',audioTags+'<script defer src="learning.js">'));}
+  if(fs.existsSync(path.join(root,'word-audio.js'))){const target=path.join(root,file);fs.writeFileSync(target,fs.readFileSync(target,'utf8').replace('<script defer src="learning.js">','<script defer src="word-audio.js"></script><script defer src="learning.js">'));}
 }
 // Conversation data is loaded before the shared page renderer only where needed.
 function conversationPage(file, title, category) {
@@ -30,6 +31,8 @@ for (const level of ['n3','n4','n5']) {
   const file = path.join(root,`${level}.html`);
   let html = fs.readFileSync(file,'utf8');
   if(!html.includes('legacy-navigation.js')) html=html.replace('</body>','<script src="legacy-navigation.js"></script>\n</body>');
+  if(fs.existsSync(path.join(root,'word-audio.js'))&&!html.includes('src="word-audio.js"'))html=html.replace('</head>','<script defer src="word-audio.js"></script></head>');
+  html=html.replace('<script src="legacy-navigation.js">','<script defer src="legacy-navigation.js">');
   fs.writeFileSync(file,html);
 }
 

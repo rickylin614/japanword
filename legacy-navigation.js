@@ -1,6 +1,7 @@
 /* Shared visual shell for existing quizzes. CSV loading and grading stay in quiz.js. */
 (function () {
   const current=document.body.dataset.level;
+  if(window.JP_WORD_AUDIO)document.querySelector('.footer').insertAdjacentHTML('beforeend','<p>單字合成語音：VOICEVOX:四国めたん · <a href="https://www.zunko.jp/con_ongen_kiyaku.html">聲庫使用條款</a></p>');
   const header=document.createElement('header');header.className='site-header';
   header.innerHTML=`<div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N2 – N5</small></a><nav class="nav-links" aria-label="主要導覽"><a href="layout.html">學習總覽</a><a href="n2-nouns.html">N2 詞彙</a><a href="grammar.html?level=${current}">文法題庫</a><button id="legacy-theme" aria-label="切換深淺主題">切換主題</button></nav></div>`;
   document.body.prepend(header);
@@ -15,11 +16,12 @@
   const feedback=document.getElementById('feedback');
   new MutationObserver(()=>{answerAudio.hidden=!feedback.textContent;}).observe(feedback,{childList:true,characterData:true,subtree:true});
   function say(text){
+    legacyRecording?.pause();
     if(!('speechSynthesis' in window)){document.getElementById('status').textContent='此瀏覽器不支援語音朗讀。';return;}
     const utterance=new SpeechSynthesisUtterance(text);utterance.lang='ja-JP';utterance.rate=.85;
     const voice=window.speechSynthesis.getVoices().find(v=>/^ja(?:-|_)/i.test(v.lang));if(voice)utterance.voice=voice;
     utterance.onerror=e=>{if(!['canceled','interrupted'].includes(e.error))document.getElementById('status').textContent='無法播放日文語音，請確認裝置有可用的日文語音。';};
     window.speechSynthesis.cancel();window.speechSynthesis.speak(utterance);
   }
-  answerAudio.onclick=()=>{if(currentQuestion)say(currentQuestion.answers[0]);};
+  answerAudio.onclick=()=>{if(!currentQuestion)return;const recording=['1','6','7'].includes(currentQuestion.type)&&window.JP_WORD_AUDIO?.levels[current]?.[currentQuestion.wordId];if(recording)playLegacyRecording(recording);else say(currentQuestion.answers[0]);};
 })();
