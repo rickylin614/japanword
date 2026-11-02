@@ -9,11 +9,12 @@ const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const read=f=>fs.readFileSync(resolveFile(f),'utf8').replace(/\r\n/g,'\n');
 function targetReading(word,example,base){
  if(example.reading)return example.reading;
- if(example.evidence?.reading)return example.evidence.reading;
+ // Corpus evidence.reading identifies the lemma, not an inflected surface.
+ if(example.evidence?.surfaceReading)return example.evidence.surfaceReading;
  const surface=example.surface;
  const canonical=base.variants?.find(e=>e.kind==='dictionary');
  const lemma=canonical?.form||word.word,reading=canonical?.reading||word.reading;
- const candidates=[[lemma,reading],[word.word,word.reading]];
+ const candidates=[[lemma,reading],[word.word,word.reading],...(word.aliases||[]).map(a=>[a.word,a.reading])];
  if(word.category==='verbs'){
   const type=word.posCodes.find(p=>p.startsWith('v')&&!['vi','vt'].includes(p));
   const a=forms(lemma,type),b=forms(reading,type);
@@ -21,6 +22,12 @@ function targetReading(word,example,base){
   // Keep inflected stems aligned, including 来る→来ません/来なかった.
   candidates.push([a[0].replace(/ます$/u,''),b[0].replace(/ます$/u,'')]);
   candidates.push([a[2].replace(/い$/u,''),b[2].replace(/い$/u,'')]);
+  for(const index of [1,3])candidates.push([a[index].slice(0,-1),b[index].slice(0,-1)]);
+ }
+ if(word.category==='adjectives' || word.posCodes.includes('adj-i')){
+  if(lemma.endsWith('い')&&reading.endsWith('い')){
+   for(const suffix of ['く','くて','くない','かった','かっ'])candidates.push([lemma.slice(0,-1)+suffix,reading.slice(0,-1)+suffix]);
+  }
  }
  candidates.sort((a,b)=>b[0].length-a[0].length);
  for(const [form,kana] of candidates){
@@ -40,12 +47,34 @@ function collect(){
  for(const level of levels){
   for(const f of [level+'-data.js',level+'-examples.js']){const s=read(f);sources[f]=hash(s);vm.runInNewContext(s,c);}
   banks[level]={};
+  // N1 examples can teach several words in one sentence. Carry every reviewed
+  // target reading into that sentence, including another card's homographs.
+  const sentenceTargets=new Map();
+  if(level==='n1')for(const word of Object.values(c.window.JP_VOCABULARY[level]).flat()){
+   const base=c.window.JP_VOCABULARY_EXAMPLES[level][word.id];
+   for(const e of base.variants||[base]){
+    const kana=targetReading(word,e,base);
+    if(!kana||!/[\u3400-\u9fff]/u.test(e.surface))continue;
+    const start=e.sentence.indexOf(e.surface),end=start+e.surface.length;
+    if(!sentenceTargets.has(e.sentence))sentenceTargets.set(e.sentence,[]);
+    const spans=sentenceTargets.get(e.sentence),same=spans.find(s=>s.start===start&&s.end===end);
+    if(same)assert.equal(same.kana,kana,'Conflicting readings: '+e.sentence);
+    else spans.push({start,end,kana});
+   }
+  }
   for(const word of Object.values(c.window.JP_VOCABULARY[level]).flat()){
    const base=c.window.JP_VOCABULARY_EXAMPLES[level][word.id];assert.ok(base,word.id);
    banks[level][word.id]=Array.from(base.variants||[base],(e,index)=>{
     const pronunciation=targetReading(word,e,base);
     let input=e.sentence;
-    if(pronunciation&&/[\u3400-\u9fff]/u.test(e.surface)){
+    if(level==='n1'){
+     let cursor=0;input='';
+     for(const span of (sentenceTargets.get(e.sentence)||[]).sort((a,b)=>a.start-b.start||b.end-a.end)){
+      if(span.start<cursor)continue;
+      input+=e.sentence.slice(cursor,span.start)+span.kana;cursor=span.end;
+     }
+     input+=e.sentence.slice(cursor);
+    }else if(pronunciation&&/[\u3400-\u9fff]/u.test(e.surface)){
      const pos=input.indexOf(e.surface);assert.ok(pos>=0,word.id);input=input.slice(0,pos)+pronunciation+input.slice(pos+e.surface.length);
     }
     input=input.replace(/((?:です|ます|ません|でしょう|でした|ました|なの|のです)か)。$/u,'$1？');
@@ -71,7 +100,7 @@ function collect(){
  }
  return{schemaVersion:1,settings,sources,banks,grammar,grammarQuestions,clips:[...clips.values()]};
 }
-module.exports={collect,settings,hash};
+module.exports={collect,settings,hash,targetReading};
 if(require.main===module){const plan=collect();if(process.argv.includes('--write'))fs.writeFileSync(resolveFile('speech/vocabulary-plan.json'),JSON.stringify(plan,null,2)+'\n');
  for(const level of levels)console.log(level+': '+Object.values(plan.banks[level]).flat().length+' vocabulary examples + '+Object.values(plan.grammar[level]).flat().length+' grammar examples; '+plan.clips.filter(c=>c.firstLevel===level).length+' new audio files');
  console.log('Total '+plan.clips.length+' unique spoken inputs; natural conversational speed '+settings.speedScale+'.');}

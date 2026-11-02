@@ -23,12 +23,12 @@
 - VOICEVOX 軟體條款：https://voicevox.hiroshiba.jp/term/
 - 四国めたん聲庫條款：https://www.zunko.jp/con_ongen_kiyaku.html
 - 引擎：VOICEVOX Engine 0.26.0，使用官方版本。
-- 例句文字及外部來源：`vocabulary-examples/ATTRIBUTION.md`、各級 `n*-examples.js`。Tatoeba 的句子、作者、原句連結與 CC BY 2.0 FR 署名仍保留於卡片及資料檔；音檔是相應文本的語音呈現，散布時請保留相應來源與授權資訊。`speech/vocabulary-plan.json` 將每個音檔 ID 對應到原句、等級、詞彙或文法單元及變體索引。
+- 例句文字及外部來源：`data/vocabulary/examples/ATTRIBUTION.md`、各級 `n*-examples.js`。Tatoeba 的句子、作者、原句連結與 CC BY 2.0 FR 署名仍保留於卡片及資料檔；音檔是相應文本的語音呈現，散布時請保留相應來源與授權資訊。`data/speech/vocabulary-plan.json` 將每個音檔 ID 對應到原句、等級、詞彙或文法單元及變體索引。
 - 音檔生成紀錄：`speech/vocabulary-audio-audit.json`，含輸入、讀音、引擎設定、音檔雜湊、長度、音量與來源快照。
 
 ## 重建與驗證
 
-1. 啟動本機 VOICEVOX Engine，預設 `http://127.0.0.1:50021`。
+1. 啟動本機 VOICEVOX Engine，預設 `http://127.0.0.1:50022`。
 2. 建議以 `speech/requirements-examples.txt` 安裝本機 Python 編碼依賴，將 `VOICEVOX_PYTHON` 設為該 Python 執行檔；也可改以 `VOICEVOX_FFMPEG` 指定 ffmpeg。可用 `VOICEVOX_CACHE` 指定專案外快取目錄。GPU 引擎可用 `VOICEVOX_URL` 指定本機連接埠。
 3. 執行 `node scripts/audio/generate-vocabulary-voicevox.cjs`。中途可重跑，會核對檔案雜湊後沿用已完成錄音；同一等級完成後才進入下一級。
 4. 執行 `node scripts/build/build-pages.cjs`，將各級音檔清單載入對應頁面。
@@ -37,4 +37,4 @@
 這些檢查驗證完整覆蓋、來源一致性、錄音讀取與播放路由，不將未試聽的全部語音描述成母語者認證。相づち的語氣曲線與雙聲線對話另見 `speech/ATTRIBUTION.md`。
 
 
-N1 新增 3,475 組詞彙例句用法與 500 句文法，共 3,942 個新增不同朗讀輸入。整站例句合成音檔共 12,791 個。本次目錄重整與 N1 新增先完成生成，尚未執行變更後驗證。
+N1 包含 3,475 組詞彙例句用法與 500 句文法，使用 3,341 個互異音檔；整站例句／文法共 12,194 個 MP3。同句的已核對目標讀音合併後共用錄音，避免多音字失配及重複檔案。本次已完成全數 MP3 的 Chrome 解碼與所有播放按鈕映射驗證，並修正活用詞形的朗讀輸入。詳見 `docs/N1-VALIDATION.md`；沒有宣稱全部音檔已人工逐句試聽。

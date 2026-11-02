@@ -55,5 +55,5 @@ report = dict(method='Independent DIO + StoneMask estimation of final-vowel wave
               auditSha256=hashlib.sha256(audit_bytes).hexdigest(),
               checkedFiles=len(checks),checkedSegments=sum(len(c['segments']) for c in checks),
               limitation='Validates acoustic pitch direction, not emotion, lexical accent or native naturalness.',checks=checks)
-(root/'speech/prosody-check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+(root/'data/speech/prosody-check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(f"PASS: {report['checkedFiles']} WAV files / {report['checkedSegments']} voiced intervals checked with DIO, without changing audio.")

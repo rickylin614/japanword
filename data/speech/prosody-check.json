@@ -1,6 +1,6 @@
 {
   "method": "Independent DIO + StoneMask estimation of final-vowel waveform pitch",
-  "auditSha256": "efb89371272d6434352b383fa4f2bdd642554fcd701457c70086bd10dff79ea9",
+  "auditSha256": "6e65f93f692bd99e890f29ae6db60fbae5cffd52b3b2227007db97de0639a23b",
   "checkedFiles": 200,
   "checkedSegments": 214,
   "limitation": "Validates acoustic pitch direction, not emotion, lexical accent or native naturalness.",

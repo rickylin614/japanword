@@ -33,7 +33,7 @@ function examplesFor(word){
  assert.ok(f,'Missing verb frame: '+word.word+'@'+word.reading);
  const type=word.posCodes.find(p=>p.startsWith('v')&&!['vi','vt'].includes(p));
  const lemma=spelling[word.word+'@'+word.reading+'#'+word.jmdictId]||spelling[word.word+'@'+word.reading]||spelling[word.word]||word.word;
- const te=forms(lemma,type)[1],teReading=forms(word.reading,type)[1];
+ const te=forms(lemma,type)[1],teReading=forms(word.reading,type)[1].replace(/[ァ-ヶ]/gu,c=>String.fromCharCode(c.charCodeAt(0)-96));
  const result=[{kind:'dictionary',label:'原型',form:lemma,reading:word.reading,surface:lemma,sentence:f.prefix+lemma+'。',translation:f.translation+'。'},
  {kind:'te',label:'て形',form:te,reading:teReading,surface:te,sentence:f.tePrefix+te+f.ending+'。',translation:f.teTranslation+'。'}];
  if(word.word==='要る')Object.assign(result[1],{sentence:'「要る」のて形は「要って」です。',translation:'「需要」的て形是「要って」。',note:'「要って」較少用於日常連接句，通常改說「必要で」等；不要與「居る→居て」混淆。'});

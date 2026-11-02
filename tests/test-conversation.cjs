@@ -31,8 +31,8 @@ assert.equal(pitchCheck.auditSha256,hash(fs.readFileSync(resolveFile('speech/voi
 assert.equal(pitchCheck.checkedFiles,200);
 assert.ok(pitchCheck.checks.every(c=>c.segments.every(s=>s.passed)));
 assert.equal(audit.voices.a.name,'青山龍星');assert.equal(audit.voices.b.name,'四国めたん');
-assert.equal(audit.renderer.generatorSha256,hash(fs.readFileSync(resolveFile('generate-aizuchi-voicevox.cjs'),'utf8').replace(/\r\n/g,'\n')));
-assert.equal(audit.renderer.shaperSha256,hash(fs.readFileSync(resolveFile('shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n')));
+assert.equal(audit.renderer.generatorSha256,hash(fs.readFileSync(resolveFile(audit.renderer.generatorSnapshot||'generate-aizuchi-voicevox.cjs'),'utf8').replace(/\r\n/g,'\n')));
+assert.equal(audit.renderer.shaperSha256,hash(fs.readFileSync(resolveFile(audit.renderer.shaperSnapshot||'shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(audit.sourcePlanSha256,hash(fs.readFileSync(resolveFile('speech/aizuchi-plan.json'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(plan.sources['speech/aizuchi-review.txt'],hash(fs.readFileSync(resolveFile('speech/aizuchi-review.txt'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(plan.sources['conversation-data.js'],hash(fs.readFileSync(resolveFile('conversation-data.js'),'utf8').replace(/\r\n/g,'\n')));
@@ -67,7 +67,7 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
 (async()=>{
   const server = http.createServer((req,res)=>{
     const file=resolveFile('.'+new URL(req.url,'http://localhost').pathname);
-    if(!file.startsWith(__dirname+path.sep)){res.writeHead(403).end();return;}
+    if(!file.startsWith(PROJECT_ROOT+path.sep)){res.writeHead(403).end();return;}
     fs.readFile(file,(err,data)=>{
       if(err){res.writeHead(404).end();return;}
       res.setHeader('Content-Type',file.endsWith('.html')?'text/html; charset=utf-8':file.endsWith('.js')?'text/javascript':file.endsWith('.wav')?'audio/wav':'text/css');

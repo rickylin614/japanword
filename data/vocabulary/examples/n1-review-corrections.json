@@ -1,0 +1,1120 @@
+{
+  "reviewedAt": "2026-11-03",
+  "reviewer": "Codex (editorial review; no native-speaker certification)",
+  "corpusEntriesReviewed": 1358,
+  "corrections": [
+    {
+      "id": "n1-jmdict-1586350",
+      "word": "あざ",
+      "kind": "translation",
+      "before": "腳上的傷是怎麼回事？",
+      "after": "你腳上的瘀青是怎麼回事？"
+    },
+    {
+      "id": "n1-jmdict-1153260",
+      "word": "圧倒",
+      "kind": "translation",
+      "before": "他被數字征服了。",
+      "after": "他在數量上被對方壓倒了。"
+    },
+    {
+      "id": "n1-jmdict-1018550",
+      "word": "アマチュア",
+      "kind": "translation",
+      "before": "我的舅舅愛好打板球。",
+      "after": "我的叔叔是業餘板球選手。"
+    },
+    {
+      "id": "n1-jmdict-1196010",
+      "word": "過ち",
+      "kind": "translation",
+      "before": "以免再犯同樣的過錯",
+      "after": "別再犯同樣的過錯。"
+    },
+    {
+      "id": "n1-jmdict-1378550",
+      "word": "生き甲斐",
+      "kind": "translation",
+      "before": "你讓生命活得有價值。",
+      "after": "多虧有你，我感受到了人生的意義。"
+    },
+    {
+      "id": "n1-jmdict-1158150",
+      "word": "異論",
+      "kind": "translation",
+      "before": "對於我，我不反對。",
+      "after": "至於我，沒有異議。"
+    },
+    {
+      "id": "n1-jmdict-1233050",
+      "word": "漁船",
+      "kind": "translation",
+      "before": "迷路的漁船安全地返回了港口。",
+      "after": "之前失聯的漁船已平安返港。"
+    },
+    {
+      "id": "n1-jmdict-1232390",
+      "word": "拒絶",
+      "kind": "translation",
+      "before": "你應該直接拒絕他的要求。",
+      "after": "你當時應該堅決拒絕他的要求。"
+    },
+    {
+      "id": "n1-jmdict-1287710",
+      "word": "黒字",
+      "kind": "translation",
+      "before": "我們公司今季的赤字上漲了差不多一成。",
+      "after": "本期本公司的盈餘增加了將近一成。"
+    },
+    {
+      "id": "n1-jmdict-1592510",
+      "word": "群衆",
+      "kind": "translation",
+      "before": "群眾從觀眾席上湧了出來。",
+      "after": "群眾一下子從公會堂湧了出來。"
+    },
+    {
+      "id": "n1-jmdict-1249780",
+      "word": "刑罰",
+      "kind": "translation",
+      "before": "句子可以教我們很多東西。比文字多得多。",
+      "after": "刑罰能教會我們許多事情，比言語多得多。"
+    },
+    {
+      "id": "n1-jmdict-1252860",
+      "word": "軽蔑",
+      "kind": "translation",
+      "before": "雖然說是窮人，但也不可輕蔑對方。",
+      "after": "不應因為別人貧窮就輕視他。"
+    },
+    {
+      "id": "n1-jmdict-1258090",
+      "word": "権威",
+      "kind": "translation",
+      "before": "他是權威的經濟學家。",
+      "after": "他是經濟學方面的權威。"
+    },
+    {
+      "id": "n1-jmdict-1262220",
+      "word": "原爆",
+      "kind": "translation",
+      "before": "核武器是人類生存的致命威脅。",
+      "after": "原子彈對人類是重大威脅。"
+    },
+    {
+      "id": "n1-jmdict-1282440",
+      "word": "購入",
+      "kind": "translation",
+      "before": "您購買另一臺電腦的計劃完全不會有問題。",
+      "after": "你那個再買一臺電腦的提案，根本不值得考慮。"
+    },
+    {
+      "id": "n1-jmdict-1348410",
+      "word": "小切手",
+      "kind": "translation",
+      "before": "他在支票上籤了名。",
+      "after": "他在支票上簽了名。"
+    },
+    {
+      "id": "n1-jmdict-1291370",
+      "word": "差額",
+      "kind": "translation",
+      "before": "有什麼區別嗎？",
+      "after": "有差額嗎？"
+    },
+    {
+      "id": "n1-jmdict-1307980",
+      "word": "子息",
+      "kind": "translation",
+      "before": "謹為另公子婚事獻上由衷祝福。",
+      "after": "衷心祝賀令公子新婚。"
+    },
+    {
+      "id": "n1-jmdict-1315810",
+      "word": "持続",
+      "kind": "translation",
+      "before": "腳踏車是保護城市環境的一種工具。",
+      "after": "自行車是一種能持續利用資源、又不破壞都市環境的工具。"
+    },
+    {
+      "id": "n1-jmdict-1321360",
+      "word": "実態",
+      "kind": "translation",
+      "before": "確認放射效能源洩漏的情況與安全是很困難的。",
+      "after": "要確認放射性物質洩漏的實際狀況與安全性很困難。"
+    },
+    {
+      "id": "n1-jmdict-1327540",
+      "word": "手芸",
+      "kind": "translation",
+      "before": "我去年上了一堂藝術課。",
+      "after": "我去年上了手工藝課程。"
+    },
+    {
+      "id": "n1-jmdict-1325840",
+      "word": "主体",
+      "kind": "translation",
+      "before": "學生不該忽略自己的身份。",
+      "after": "學生不應失去自己的自主性。"
+    },
+    {
+      "id": "n1-jmdict-1339340",
+      "word": "出世",
+      "kind": "translation",
+      "before": "再努力一下，你的人生會成功的。",
+      "after": "再加把勁，你應該就能飛黃騰達。"
+    },
+    {
+      "id": "n1-jmdict-1339880",
+      "word": "出動",
+      "kind": "translation",
+      "before": "一般來說，我8:40下班。",
+      "after": "通常我在八點四十分出動。"
+    },
+    {
+      "id": "n1-jmdict-1351900",
+      "word": "象徴",
+      "kind": "translation",
+      "before": "說明年夜飯的餃子是親人團聚的象徵。",
+      "after": "可以說，跨年時吃的餃子是家人團聚的象徵。"
+    },
+    {
+      "id": "n1-jmdict-1343310",
+      "word": "所属",
+      "kind": "translation",
+      "before": "您隸屬哪傢俱樂部嗎？",
+      "after": "你有參加什麼社團嗎？"
+    },
+    {
+      "id": "n1-jmdict-1366000",
+      "word": "進化",
+      "kind": "translation",
+      "before": "一提到進化論，我們就會想起達爾文。",
+      "after": "一提到達爾文，我們就會想到進化論。"
+    },
+    {
+      "id": "n1-jmdict-1366730",
+      "word": "人格",
+      "kind": "translation",
+      "before": "我對那些所謂有個性的人沒甚麼好感。",
+      "after": "我不喜歡那些所謂品德高尚的人。"
+    },
+    {
+      "id": "n1-jmdict-1360720",
+      "word": "心情",
+      "kind": "translation",
+      "before": "我感情上支援，但是理性上反對。",
+      "after": "感情上贊成，不過從現實角度來說，我反對。"
+    },
+    {
+      "id": "n1-jmdict-1376550",
+      "word": "晴天",
+      "kind": "translation",
+      "before": "風暴過後，太陽出來了。",
+      "after": "雨天過後，晴天就會到來。"
+    },
+    {
+      "id": "n1-jmdict-1598710",
+      "word": "とげ",
+      "kind": "translation",
+      "before": "沒有不帶刺的玫瑰。",
+      "after": "美麗的花都有刺。"
+    },
+    {
+      "id": "n1-jmdict-1455870",
+      "word": "独占",
+      "kind": "translation",
+      "before": "她給自己一間大房子。",
+      "after": "她獨自占用了一棟大房子。"
+    },
+    {
+      "id": "n1-jmdict-1466290",
+      "word": "入手",
+      "kind": "translation",
+      "before": "我可以免費獲取一份登錄檔格。",
+      "after": "可以免費取得登記表格。"
+    },
+    {
+      "id": "n1-jmdict-1470910",
+      "word": "把握",
+      "kind": "translation",
+      "before": "他控制了大局。",
+      "after": "他掌握了當時的情況。"
+    },
+    {
+      "id": "n1-jmdict-1473150",
+      "word": "配置",
+      "kind": "translation",
+      "before": "石頭被美麗得放置在日式庭園裡。",
+      "after": "那座日式庭園中的石頭配置得十分精妙。"
+    },
+    {
+      "id": "n1-jmdict-1473210",
+      "word": "配慮",
+      "kind": "translation",
+      "before": "她親自過問了此事。",
+      "after": "她做了個別的照顧與考量。"
+    },
+    {
+      "id": "n1-jmdict-1478660",
+      "word": "判定",
+      "kind": "translation",
+      "before": "法官判決定讞。",
+      "after": "裁判的判定不會被推翻。"
+    },
+    {
+      "id": "n1-jmdict-1488680",
+      "word": "標語",
+      "kind": "translation",
+      "before": "標語是「前往未來！前往夢境吧！」",
+      "after": "標語是「邁向未來！朝著夢想奔跑吧！」"
+    },
+    {
+      "id": "n1-jmdict-1490580",
+      "word": "品質",
+      "kind": "translation",
+      "before": "這些產品質量同等。",
+      "after": "這些產品的品質相同。"
+    },
+    {
+      "id": "n1-jmdict-1108540",
+      "word": "ファン",
+      "kind": "translation",
+      "before": "他雖然是新演員，但已經累積不少粉絲支援。",
+      "after": "他雖然是新人演員，卻已獲得許多粉絲的支持。"
+    },
+    {
+      "id": "n1-jmdict-1512760",
+      "word": "弁解",
+      "kind": "translation",
+      "before": "他不接受我的道歉。",
+      "after": "他不接受我的辯解。"
+    },
+    {
+      "id": "n1-jmdict-1512980",
+      "word": "弁償",
+      "kind": "translation",
+      "before": "我喜歡替換。",
+      "after": "讓我賠償吧。"
+    },
+    {
+      "id": "n1-jmdict-1513290",
+      "word": "保育",
+      "kind": "translation",
+      "before": "我想對兒子育幼院的保母抱怨。",
+      "after": "我想向兒子托兒所的保育員提出抱怨。"
+    },
+    {
+      "id": "n1-jmdict-1517160",
+      "word": "法案",
+      "kind": "translation",
+      "before": "該法案在眾議院爭議後獲得透過。",
+      "after": "法案經過激烈爭論後，在議會獲得通過。"
+    },
+    {
+      "id": "n1-jmdict-1517230",
+      "word": "法学",
+      "kind": "translation",
+      "before": "他得到了法學學位。",
+      "after": "他取得了法學碩士學位。"
+    },
+    {
+      "id": "n1-jmdict-1516600",
+      "word": "放射",
+      "kind": "translation",
+      "before": "確認放射效能源洩漏的情況與安全是很困難的。",
+      "after": "要確認放射性物質洩漏的實際狀況與安全性很困難。"
+    },
+    {
+      "id": "n1-jmdict-1519520",
+      "word": "暴動",
+      "kind": "translation",
+      "before": "暴動開始時只有一位監獄長值班。",
+      "after": "暴動發生時，值班的看守只有一人。"
+    },
+    {
+      "id": "n1-jmdict-1518050",
+      "word": "褒美",
+      "kind": "translation",
+      "before": "她不僅沒責怪他，反而稱讚他。",
+      "after": "她非但沒責備他，反而給了他獎賞。"
+    },
+    {
+      "id": "n1-jmdict-2009220",
+      "word": "どころか",
+      "kind": "translation",
+      "before": "她不僅沒責怪他，反而稱讚他。",
+      "after": "她非但沒責備他，反而給了他獎賞。"
+    },
+    {
+      "id": "n1-jmdict-1514260",
+      "word": "捕虜",
+      "kind": "translation",
+      "before": "他被囚禁了。",
+      "after": "他成了俘虜。"
+    },
+    {
+      "id": "n1-jmdict-1522250",
+      "word": "本音",
+      "kind": "translation",
+      "before": "告訴我真相。",
+      "after": "說出你的真心話吧。"
+    },
+    {
+      "id": "n1-jmdict-1533590",
+      "word": "面目",
+      "kind": "translation",
+      "before": "我沒有藉口。",
+      "after": "實在慚愧，無顏見人。"
+    },
+    {
+      "id": "n1-jmdict-1538040",
+      "word": "役職",
+      "kind": "translation",
+      "before": "你的職業是什麼?",
+      "after": "你的職位是什麼？"
+    },
+    {
+      "id": "n1-jmdict-1546250",
+      "word": "用件",
+      "kind": "translation",
+      "before": "是什麼風把你吹來了啊？",
+      "after": "請問您這次來有什麼事？"
+    },
+    {
+      "id": "n1-jmdict-1546410",
+      "word": "用法",
+      "kind": "translation",
+      "before": "吃藥之前一定要仔細看說明書。",
+      "after": "服藥時，請仔細遵守瓶身標示的用法。"
+    },
+    {
+      "id": "n1-jmdict-1546830",
+      "word": "要望",
+      "kind": "translation",
+      "before": "很抱歉，我們不能接受你的要求。",
+      "after": "很抱歉，無法滿足您的要求。"
+    },
+    {
+      "id": "n1-jmdict-1542910",
+      "word": "予感",
+      "kind": "translation",
+      "before": "不詳的預感靈驗了。",
+      "after": "不祥的預感成真了。"
+    },
+    {
+      "id": "n1-jmdict-1551990",
+      "word": "略語",
+      "kind": "translation",
+      "before": "你知道PKO是什麼意思嗎？",
+      "after": "你知道 PKO 是什麼的縮寫嗎？"
+    },
+    {
+      "id": "n1-jmdict-1144790",
+      "word": "レギュラー",
+      "kind": "translation",
+      "before": "請照平常一樣五加侖。",
+      "after": "請給我五加侖普通汽油。"
+    },
+    {
+      "id": "n1-jmdict-1271300",
+      "word": "誤る",
+      "kind": "translation",
+      "before": "他誤吞了洗衣粉。",
+      "after": "我不小心喝下了清潔劑。"
+    },
+    {
+      "id": "n1-jmdict-1587190",
+      "word": "生ける",
+      "kind": "translation",
+      "before": "我把花兒放到花瓶裡了。",
+      "after": "我在花瓶裡插了花。"
+    },
+    {
+      "id": "n1-jmdict-1329580",
+      "word": "受かる",
+      "kind": "translation",
+      "before": "所有學員都透過了駕照考試。",
+      "after": "所有學員都通過了駕照考試。"
+    },
+    {
+      "id": "n1-jmdict-1237170",
+      "word": "教習",
+      "kind": "translation",
+      "before": "所有學員都透過了駕照考試。",
+      "after": "所有學員都通過了駕照考試。"
+    },
+    {
+      "id": "n1-jmdict-1432350",
+      "word": "追い出す",
+      "kind": "translation",
+      "before": "有被從bar裡趕出來的經歷嗎？",
+      "after": "你有被酒吧趕出來過嗎？"
+    },
+    {
+      "id": "n1-jmdict-1316820",
+      "word": "治まる",
+      "kind": "translation",
+      "before": "這藥會讓你舒服些。",
+      "after": "吃了這個藥，疼痛就會稍微緩和。"
+    },
+    {
+      "id": "n1-jmdict-1372890",
+      "word": "かさばる",
+      "kind": "translation",
+      "before": "這個箱子太笨重了無法攜帶。",
+      "after": "這個箱子太占空間了，搬不動。"
+    },
+    {
+      "id": "n1-jmdict-1423080",
+      "word": "着飾る",
+      "kind": "translation",
+      "before": "跳舞的孩子們穿著很美。",
+      "after": "舞者們打扮得很漂亮。"
+    },
+    {
+      "id": "n1-jmdict-1573440",
+      "word": "きしむ",
+      "kind": "translation",
+      "before": "桌子上放滿了食物。",
+      "after": "桌上食物多得讓桌子嘎吱作響。"
+    },
+    {
+      "id": "n1-jmdict-1271480",
+      "word": "ごまかす",
+      "kind": "translation",
+      "before": "就算想用這種手段遮住我的眼睛也沒用。",
+      "after": "你想用那種手段蒙混我的眼睛，也是沒用的。"
+    },
+    {
+      "id": "n1-jmdict-1288790",
+      "word": "込める",
+      "kind": "translation",
+      "before": "他在槍每時每刻有子彈。",
+      "after": "他一直讓這把槍保持裝有子彈的狀態。"
+    },
+    {
+      "id": "n1-jmdict-1298740",
+      "word": "察する",
+      "kind": "translation",
+      "before": "讀懂字裡行間的意思。",
+      "after": "你要體察一下狀況呀。"
+    },
+    {
+      "id": "n1-jmdict-1373650",
+      "word": "澄ます",
+      "kind": "translation",
+      "before": "我聽了，但什麼也沒聽到。",
+      "after": "我側耳細聽，卻什麼也沒聽見。"
+    },
+    {
+      "id": "n1-jmdict-1295030",
+      "word": "済ます",
+      "kind": "translation",
+      "before": "夏天沒空調，我什麼都做不了。",
+      "after": "夏天我不能不用冷氣。"
+    },
+    {
+      "id": "n1-jmdict-1404090",
+      "word": "即する",
+      "kind": "translation",
+      "before": "這是從日常生活中而來的例句啊。這樣的例句真是不錯。",
+      "after": "這是貼近日常生活的例句呢，非常歡迎這樣的例句。"
+    },
+    {
+      "id": "n1-jmdict-1158890",
+      "word": "違える",
+      "kind": "translation",
+      "before": "比爾很少準時來。",
+      "after": "比爾幾乎總是遲到。"
+    },
+    {
+      "id": "n1-jmdict-1372620",
+      "word": "遂げる",
+      "kind": "translation",
+      "before": "我妹妹的英語有了明顯的進步。",
+      "after": "姊姊的英語有了顯著進步。"
+    },
+    {
+      "id": "n1-jmdict-1326540",
+      "word": "取り扱う",
+      "kind": "translation",
+      "before": "科學家處理大多數物理的事物。",
+      "after": "科學家主要處理有關物質的問題。"
+    },
+    {
+      "id": "n1-jmdict-1326910",
+      "word": "取り付ける",
+      "kind": "translation",
+      "before": "每個機器人身上都安裝了一臺發聲器。",
+      "after": "每個機器人都裝有通話裝置。"
+    },
+    {
+      "id": "n1-jmdict-1259920",
+      "word": "見渡す",
+      "kind": "translation",
+      "before": "極目遠望，除了一大片小麥田以外，就甚麼也看不見了。",
+      "after": "放眼望去，除了玉米田之外什麼也看不到。"
+    },
+    {
+      "id": "n1-jmdict-1007520",
+      "word": "だるい",
+      "kind": "translation",
+      "before": "今日夠了。我太累了。",
+      "after": "今天實在倦怠得受不了。"
+    },
+    {
+      "id": "n1-jmdict-1483290",
+      "word": "悲惨",
+      "kind": "translation",
+      "before": "那是一個恥辱。",
+      "after": "那真是悲慘啊。"
+    },
+    {
+      "id": "n1-jmdict-1575970",
+      "word": "一筋",
+      "kind": "translation",
+      "before": "我對足球很感興趣。",
+      "after": "我一心只投入足球。"
+    },
+    {
+      "id": "n1-jmdict-1490900",
+      "word": "貧乏",
+      "kind": "translation",
+      "before": "他雖然貧窮，但還是透過了測驗。",
+      "after": "他雖然貧窮，仍然通過了那項測驗。"
+    },
+    {
+      "id": "n1-jmdict-1088450",
+      "word": "ドライ",
+      "kind": "translation",
+      "before": "這種啤酒口感乾燥。",
+      "after": "這款啤酒口味清爽、不甜。"
+    },
+    {
+      "id": "n1-jmdict-2613280",
+      "word": "いっそ",
+      "kind": "translation",
+      "before": "只要說不。",
+      "after": "乾脆拒絕怎麼樣？"
+    },
+    {
+      "id": "n1-jmdict-1365870",
+      "word": "かろうじて",
+      "kind": "translation",
+      "before": "他勉強地透過了考試。",
+      "after": "他勉強通過了考試。"
+    },
+    {
+      "id": "n1-jmdict-1005860",
+      "word": "じっくり",
+      "kind": "translation",
+      "before": "媽媽，雖然我仔細考慮過他，但是我還是沒有勇氣結婚。",
+      "after": "媽媽，我仔細考慮過他的事，卻怎麼也無法下定決心結婚。"
+    },
+    {
+      "id": "n1-jmdict-1096260",
+      "word": "はらはら",
+      "kind": "translation",
+      "before": "我讀了一篇精彩的故事。",
+      "after": "我讀了一本讓人捏把冷汗的小說。"
+    },
+    {
+      "id": "n1-jmdict-1458550",
+      "word": "内心",
+      "kind": "translation",
+      "before": "政治家從來不告訴我們他們的別有用心。",
+      "after": "政治人物從不表露內心的想法。"
+    },
+    {
+      "id": "n1-jmdict-1394280",
+      "word": "良し",
+      "kind": "translation",
+      "before": "為了正當目的可以不擇手段。",
+      "after": "結果好，一切就好。"
+    },
+    {
+      "id": "n1-jmdict-1220040",
+      "word": "幾多",
+      "kind": "translation",
+      "before": "我們要面對許多的困難。",
+      "after": "我們必須克服許多困難。"
+    },
+    {
+      "id": "n1-jmdict-1436720",
+      "word": "諦め",
+      "kind": "replacement",
+      "before": "何事にも諦めがたいせつ。",
+      "after": "失敗しても、すぐに諦めの気持ちを持たないでほしい。"
+    },
+    {
+      "id": "n1-jmdict-1527000",
+      "word": "味わい",
+      "kind": "replacement",
+      "before": "新竹の貢丸と米粉は非常に有名で、多くの観光客が味わいに訪れる。",
+      "after": "この器には、手作りならではの味わいがある。"
+    },
+    {
+      "id": "n1-jmdict-1167850",
+      "word": "稲光",
+      "kind": "replacement",
+      "before": "稲光はたいてい雷の音がした後で光る。",
+      "after": "稲光が走り、少し遅れて雷が鳴った。"
+    },
+    {
+      "id": "n1-jmdict-1587690",
+      "word": "意欲",
+      "kind": "replacement",
+      "before": "学校教育の義務的側面は子どもの学習意欲を改善させる様々な研究の多くの取り組みの中ではめったに分析されない。",
+      "after": "新しい仕事への意欲が、日ごとに高まっている。"
+    },
+    {
+      "id": "n1-jmdict-1172460",
+      "word": "嘘つき",
+      "kind": "replacement",
+      "before": "弁護士はみんな嘘つきだ。",
+      "after": "嘘つきだと思われたくないので、正直に話した。"
+    },
+    {
+      "id": "n1-jmdict-1172100",
+      "word": "雨天",
+      "kind": "replacement",
+      "before": "雨天の後には晴天が来る。",
+      "after": "試合は雨天のため、翌日に延期された。"
+    },
+    {
+      "id": "n1-jmdict-1173030",
+      "word": "運命",
+      "kind": "replacement",
+      "before": "運命に甘んじるくらいなら自殺したほうがいい。",
+      "after": "運命を変えようと、新しい仕事に挑戦した。"
+    },
+    {
+      "id": "n1-jmdict-1205760",
+      "word": "獲物",
+      "kind": "replacement",
+      "before": "男は狩人で、女はその獲物である。",
+      "after": "鷹は空から獲物を見つけると、急降下した。"
+    },
+    {
+      "id": "n1-jmdict-1203080",
+      "word": "階層",
+      "kind": "replacement",
+      "before": "野球への興味はわが国ではあらゆる階層、年齢にわたっている。",
+      "after": "図書館は、あらゆる階層の人々に開かれている。"
+    },
+    {
+      "id": "n1-jmdict-1204480",
+      "word": "概念",
+      "kind": "replacement",
+      "before": "無色の緑の概念が激しく眠る。",
+      "after": "具体的な例を使うと、この概念を説明しやすい。"
+    },
+    {
+      "id": "n1-jmdict-1037630",
+      "word": "カット",
+      "kind": "replacement",
+      "before": "私はかっとなって、その自販機をけとばした。",
+      "after": "髪のカットだけなら、三十分ほどで終わる。"
+    },
+    {
+      "id": "n1-jmdict-1215930",
+      "word": "関税",
+      "kind": "replacement",
+      "before": "私は航空の関税で身体検査を受けた。",
+      "after": "輸入品には、品目に応じた関税がかかる。"
+    },
+    {
+      "id": "n1-jmdict-1591390",
+      "word": "規範",
+      "kind": "replacement",
+      "before": "倫理学というのは、行動の規範を意味する。",
+      "after": "この行動規範は、すべての職員に適用される。"
+    },
+    {
+      "id": "n1-jmdict-1263630",
+      "word": "現行",
+      "kind": "replacement",
+      "before": "今度は見逃してやるが、またお前を盗みの現行犯で捕らえたくないもんだね。",
+      "after": "現行の制度では、この申請は認められない。"
+    },
+    {
+      "id": "n1-jmdict-1320950",
+      "word": "実業家",
+      "kind": "replacement",
+      "before": "シルヴィオ・ベルルスコーニはイタリアの政治家、現在のイタリア首相、また成功した実業家。",
+      "after": "祖父は若いころに会社を興した実業家だ。"
+    },
+    {
+      "id": "n1-jmdict-1282010",
+      "word": "行政",
+      "kind": "replacement",
+      "before": "第三の性別の出現は、法的および行政上の問題を増やし、不必要な負担を生んでいる。",
+      "after": "行政の手続きをオンラインで済ませた。"
+    },
+    {
+      "id": "n1-jmdict-1338820",
+      "word": "出現",
+      "kind": "replacement",
+      "before": "第三の性別の出現は、法的および行政上の問題を増やし、不必要な負担を生んでいる。",
+      "after": "雨がやむと、空に大きな虹が出現した。"
+    },
+    {
+      "id": "n1-jmdict-1379060",
+      "word": "生死",
+      "kind": "replacement",
+      "before": "彼岸花、千年咲き、千年落ち、花と叶ずっと合えなく、情は因果に関系がなし、生死は縁で予め定められている。",
+      "after": "救助隊は、行方不明者の生死を確認している。"
+    },
+    {
+      "id": "n1-jmdict-1381870",
+      "word": "静止",
+      "kind": "replacement",
+      "before": "浅間山は今静止している。",
+      "after": "カメラを構えたまま、数秒間静止した。"
+    },
+    {
+      "id": "n1-jmdict-1343250",
+      "word": "所持",
+      "kind": "replacement",
+      "before": "最近では、誰でも銃を所持している。",
+      "after": "会場に入る前に、所持品の確認を受けた。"
+    },
+    {
+      "id": "n1-jmdict-1598780",
+      "word": "とって",
+      "kind": "replacement",
+      "before": "好きなだけとって食べなさい。",
+      "after": "この鍋のとっては熱くならない。"
+    },
+    {
+      "id": "n1-jmdict-1490720",
+      "word": "浜辺",
+      "kind": "replacement",
+      "before": "この町は浜辺が二つです。",
+      "after": "夕方、犬と一緒に静かな浜辺を歩いた。"
+    },
+    {
+      "id": "n1-jmdict-1430850",
+      "word": "直感",
+      "kind": "replacement",
+      "before": "彼は直感で彼女の嘘をついているとわかった。",
+      "after": "彼女は直感で、その話に何かおかしい点があると感じた。"
+    },
+    {
+      "id": "n1-jmdict-1483700",
+      "word": "比例",
+      "kind": "replacement",
+      "before": "マフィンを受ける数は、IRCでしゃべる回数に反比例して変化する。",
+      "after": "料金は、利用時間に比例して高くなる。"
+    },
+    {
+      "id": "n1-jmdict-1110340",
+      "word": "フォーム",
+      "kind": "replacement",
+      "before": "これらのフォームのアカウントを私はもってません。",
+      "after": "申込フォームに、必要な情報を入力した。"
+    },
+    {
+      "id": "n1-jmdict-1114300",
+      "word": "ブル",
+      "kind": "replacement",
+      "before": "ブルジュ・ハリファは現在、世界で最も高い超高層ビルです。",
+      "after": "この犬はブルという種類で、がっしりした体つきだ。"
+    },
+    {
+      "id": "n1-jmdict-1126140",
+      "word": "マーク",
+      "kind": "replacement",
+      "before": "マークの本はとても面白いです。",
+      "after": "地図の星のマークが、集合場所を示している。"
+    },
+    {
+      "id": "n1-jmdict-1532090",
+      "word": "命中",
+      "kind": "replacement",
+      "before": "一発で命中しなくたって、妊娠するまでハメ続ければいいだけだし。",
+      "after": "放った矢は、的の中心に命中した。"
+    },
+    {
+      "id": "n1-jmdict-1559660",
+      "word": "連帯",
+      "kind": "replacement",
+      "before": "荷物が遅れた場合、特別な連帯保険がある。",
+      "after": "地域の人々は連帯して、被災地を支援した。"
+    },
+    {
+      "id": "n1-jmdict-1481550",
+      "word": "犯す",
+      "kind": "replacement",
+      "before": "名古屋大学には女生徒が法を犯す伝統がある。",
+      "after": "同じ過ちを二度と犯さないように注意する。"
+    },
+    {
+      "id": "n1-jmdict-1372880",
+      "word": "かさむ",
+      "kind": "replacement",
+      "before": "おとうさん、おっかさん、いい事教えてあげようか。",
+      "after": "工事が長引き、予想以上に費用がかさんだ。"
+    },
+    {
+      "id": "n1-jmdict-1222350",
+      "word": "かぶれる",
+      "kind": "replacement",
+      "before": "この帽子は小さすぎて、私にはかぶれない。",
+      "after": "新しい化粧品を使ったら、肌がかぶれてしまった。"
+    },
+    {
+      "id": "n1-jmdict-1291180",
+      "word": "差し支える",
+      "kind": "replacement",
+      "before": "大丈夫よ！私は飲んでも運転に差し支えない。",
+      "after": "明日の仕事に差し支えるので、今日は早く帰ります。"
+    },
+    {
+      "id": "n1-jmdict-1480170",
+      "word": "反る",
+      "kind": "replacement",
+      "before": "憤せずんば啓せず。非せずんば発せず。一隅を挙げて三隅を以って反らざれば、則ち復せざるなり。",
+      "after": "湿気のせいで、木の板が反ってしまった。"
+    },
+    {
+      "id": "n1-jmdict-1312860",
+      "word": "賜る",
+      "kind": "replacement",
+      "before": "今回賜りましたご意見につきましては、真摯に受け止めざるを得ません。",
+      "after": "皆様から温かいご支援を賜り、心より感謝申し上げます。"
+    },
+    {
+      "id": "n1-jmdict-1453680",
+      "word": "導く",
+      "kind": "replacement",
+      "before": "運命は、志あるものを導き、志なきものをひきずってゆく。",
+      "after": "先生の助言が、私を正しい方向へ導いてくれた。"
+    },
+    {
+      "id": "n1-jmdict-1386000",
+      "word": "設ける",
+      "kind": "replacement",
+      "before": "人生はあきらめが肝心。設けた財産も消えさることがありうるのだから。",
+      "after": "相談のために、専用の窓口を設けた。"
+    },
+    {
+      "id": "n1-jmdict-1362930",
+      "word": "申し出る",
+      "kind": "replacement",
+      "before": "私彼が援助を申し出てくれる事を期待した。",
+      "after": "彼は自分から、会場の片づけを申し出た。"
+    },
+    {
+      "id": "n1-jmdict-1315730",
+      "word": "もてる",
+      "kind": "replacement",
+      "before": "彼女は看護婦かもしれない、確信はもてないが。",
+      "after": "彼は親切なので、クラスのみんなにもてている。"
+    },
+    {
+      "id": "n1-jmdict-1227340",
+      "word": "久しい",
+      "kind": "replacement",
+      "before": "久しぶりに運動したからめっちゃ疲れた。",
+      "after": "故郷を離れて久しい。"
+    },
+    {
+      "id": "n1-jmdict-1519610",
+      "word": "望ましい",
+      "kind": "replacement",
+      "before": "誰に望ましい急展開だよ。",
+      "after": "この仕事には、接客の経験があることが望ましい。"
+    },
+    {
+      "id": "n1-jmdict-1590970",
+      "word": "完ぺき",
+      "kind": "replacement",
+      "before": "練習が完ぺきにする。",
+      "after": "初めての発表なのに、準備は完ぺきだった。"
+    },
+    {
+      "id": "n1-jmdict-1060610",
+      "word": "シック",
+      "kind": "replacement",
+      "before": "ホームシックなの？",
+      "after": "彼女はシックな色合いの服を選んだ。"
+    },
+    {
+      "id": "n1-jmdict-1532640",
+      "word": "明朗",
+      "kind": "replacement",
+      "before": "両親は赤ん坊を明朗と名づけた。",
+      "after": "彼女は明朗な性格で、誰とでもすぐに打ち解ける。"
+    },
+    {
+      "id": "n1-jmdict-1542860",
+      "word": "予め",
+      "kind": "replacement",
+      "before": "彼岸花、千年咲き、千年落ち、花と叶ずっと合えなく、情は因果に関系がなし、生死は縁で予め定められている。",
+      "after": "参加人数を、予め知らせてください。"
+    },
+    {
+      "id": "n1-jmdict-1000910",
+      "word": "いやに",
+      "kind": "replacement",
+      "before": "ジムは肉体労働がいやになった。",
+      "after": "今日は電車がいやに空いている。"
+    },
+    {
+      "id": "n1-jmdict-2853873",
+      "word": "おおい",
+      "kind": "replacement",
+      "before": "君が私を愛しているよりもおおく私は君を愛している。",
+      "after": "おおい、こっちだよ。"
+    },
+    {
+      "id": "n1-jmdict-1421990",
+      "word": "遅くとも",
+      "kind": "replacement",
+      "before": "遅くともやらないよりはまし。",
+      "after": "遅くとも金曜日までに、返事をください。"
+    },
+    {
+      "id": "n1-jmdict-1008770",
+      "word": "とんだ",
+      "kind": "replacement",
+      "before": "彼は非常に想像力にとんだ作家です。",
+      "after": "とんだ勘違いをしてしまい、会議室を間違えた。"
+    },
+    {
+      "id": "n1-jmdict-1212660",
+      "word": "慣れ",
+      "kind": "replacement",
+      "before": "この仕事は慣れの必要だ。",
+      "after": "この作業には、少し慣れが必要だ。"
+    },
+    {
+      "id": "n1-jmdict-1010470",
+      "word": "ひいては",
+      "kind": "replacement",
+      "before": "テストでは辞書をひいてはいけません。",
+      "after": "地域の活性化は、ひいては国全体の発展につながる。"
+    },
+    {
+      "id": "n1-jmdict-2607690",
+      "word": "よし",
+      "kind": "replacement",
+      "before": "爪を噛むのはよしなさい。",
+      "after": "よし、準備ができたら出発しよう。"
+    },
+    {
+      "id": "n1-jmdict-1236660",
+      "word": "恐れ",
+      "kind": "translation",
+      "before": "雨再大一點就會引起水災了。",
+      "after": "雨再大一些，就有發生洪水的危險。"
+    },
+    {
+      "id": "n1-jmdict-1206950",
+      "word": "学説",
+      "kind": "translation",
+      "before": "實驗證實了他的理論。",
+      "after": "這項實驗使他的學說更加穩固。"
+    },
+    {
+      "id": "n1-jmdict-1210870",
+      "word": "勘弁",
+      "kind": "translation",
+      "before": "除了這個我什麼都會做。",
+      "after": "唯獨這件事，請饒了我吧。"
+    },
+    {
+      "id": "n1-jmdict-1222120",
+      "word": "気兼ね",
+      "kind": "translation",
+      "before": "湯姆在表達自己的意見的時候總是很慌張。",
+      "after": "湯姆從未能毫無顧慮地說出自己的意見。"
+    },
+    {
+      "id": "n1-jmdict-1185180",
+      "word": "下取り",
+      "kind": "translation",
+      "before": "我用我的舊車換了一輛新的。",
+      "after": "我把舊車折價抵購車款，買了一輛新車。"
+    },
+    {
+      "id": "n1-jmdict-1060830",
+      "word": "シナリオ",
+      "kind": "translation",
+      "before": "簡直就像電影裡的一幕一樣，不是嗎？",
+      "after": "簡直就像電影劇本一樣呢。"
+    },
+    {
+      "id": "n1-jmdict-1597700",
+      "word": "貯蓄",
+      "kind": "translation",
+      "before": "你現在不好好儲蓄金錢的話，終有一天會後悔的。",
+      "after": "總有一天，你也會明白儲蓄的重要性。"
+    },
+    {
+      "id": "n1-jmdict-1598240",
+      "word": "手当",
+      "kind": "translation",
+      "before": "一個成長中的孩子如果沒有充足的能量，可能需要藥物治療。",
+      "after": "成長期的孩子若精神不振，可能需要請醫師診治。"
+    },
+    {
+      "id": "n1-jmdict-1481700",
+      "word": "繁殖",
+      "kind": "translation",
+      "before": "數月後，牠們回到了北極的繁殖地。",
+      "after": "兩三個月後，牠們就會返回北極的繁殖地。"
+    },
+    {
+      "id": "n1-jmdict-1104300",
+      "word": "ヒント",
+      "kind": "translation",
+      "before": "這女孩的眼睛閃爍著光亮, 這個暗示讓她可愛的貓圖案自動鉛筆越過了她的筆記本。",
+      "after": "因為得到了一個提示，女孩眼睛一亮，用可愛的貓造型自動鉛筆在筆記本上寫了起來。"
+    },
+    {
+      "id": "n1-jmdict-1397390",
+      "word": "素朴",
+      "kind": "translation",
+      "before": "這可能是個蠢問題，但是一頭老虎和一頭獅子哪個更厲害？",
+      "after": "我只是有個單純的疑問……老虎和獅子哪個比較強？"
+    },
+    {
+      "id": "n1-jmdict-1165340",
+      "word": "一同",
+      "kind": "translation",
+      "before": "奶奶去世讓全家都受了打擊。",
+      "after": "奶奶突然過世，讓全家都很震驚。"
+    },
+    {
+      "id": "n1-jmdict-1166870",
+      "word": "一面",
+      "kind": "translation",
+      "before": "天冷得足以讓湖結冰。",
+      "after": "天氣太冷了，整個湖面都被冰覆蓋。"
+    },
+    {
+      "id": "n1-jmdict-1008320",
+      "word": "てんで",
+      "kind": "translation",
+      "before": "我沒有絲毫的想法。",
+      "after": "我完全摸不著頭緒。"
+    },
+    {
+      "id": "n1-jmdict-1001980",
+      "word": "お使い",
+      "kind": "replacement",
+      "before": "この辞書はどなたでもお使いいただけます。",
+      "after": "母に頼まれて、近所の店へお使いに行った。"
+    },
+    {
+      "id": "n1-jmdict-1694410",
+      "word": "おまけ",
+      "kind": "replacement",
+      "before": "その日は寒く、おまけに雨まで降ってきた。",
+      "after": "お菓子を買ったら、小さなおもちゃがおまけとしてついてきた。"
+    }
+  ]
+}

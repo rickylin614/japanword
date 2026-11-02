@@ -16,13 +16,14 @@ const authoredPath = resolveFile('vocabulary-examples',level+'.txt');
 const lines = fs.existsSync(authoredPath) ? fs.readFileSync(authoredPath,'utf8').split(/\r?\n/) : [];
 lines.forEach((line,index)=>{
   if(!line.trim() || line.startsWith('#')) return;
-  const [targets,sentence,translation,...extra] = line.split('|');
+  const [targets,sentence,translation,note,...extra] = line.split('|');
   if(!targets || !sentence || !translation || extra.length || !/[。？！][」』]?$/.test(sentence) || !/[\u3400-\u9fff]/u.test(translation)) {
     errors.push(`Line ${index+1}: incomplete example`); return;
   }
   sentences.add(sentence);
   for(const target of targets.split(',')){
-    const [selector, surfaceOverride] = target.split('=');
+    const [selector, surfaceSpec] = target.split('=');
+    const [surfaceOverride,surfaceReading] = (surfaceSpec||'').split('~');
     const [word,reading] = selector.split('@');
     const matches = words.filter(w=>w.word===word && (!reading || w.reading===reading));
     if(matches.length!==1){errors.push(`Line ${index+1}: ambiguous or unknown target ${selector}`);continue;}
@@ -30,7 +31,7 @@ lines.forEach((line,index)=>{
     const surface = surfaceOverride || word;
     if(!surface || !sentence.includes(surface)) {errors.push(`Line ${index+1}: missing surface ${target}`);continue;}
     if(examples[item.id]){errors.push(`Line ${index+1}: duplicate target ${selector}`);continue;}
-    examples[item.id] = {sentence,translation,surface};
+    examples[item.id] = {sentence,translation,surface,...(surfaceReading?{reading:surfaceReading}:{}),...(note?{note}:{})};
   }
 });
 // A pinned, attributed selection is reviewed separately from its live source corpus.

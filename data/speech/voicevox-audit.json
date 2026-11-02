@@ -20,7 +20,9 @@
   "aVoiceLicense": "https://www.virvoxproject.com/voicevoxの利用規約",
   "renderer": {
     "generatorSha256": "566c67fc4043e495181ed9bc9063b5d4e780b21c01dc27c81816b1d4cdce77f2",
-    "shaperSha256": "35bd2b119e16412e7278cc245ed7861052c8189434c6f230945e3a2c9acec749"
+    "shaperSha256": "35bd2b119e16412e7278cc245ed7861052c8189434c6f230945e3a2c9acec749",
+    "generatorSnapshot": "data/speech/renderer-snapshots/generate-aizuchi-voicevox.cjs",
+    "shaperSnapshot": "data/speech/renderer-snapshots/shape-aizuchi-prosody.py"
   },
   "validation": "Rendered final-vowel pitch measured with WORLD Harvest/StoneMask; all contours must pass before publication. WAV structure, duration, non-silence and clipping checked. Pitch does not certify emotion or native-speaker naturalness.",
   "records": [

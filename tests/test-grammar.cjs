@@ -14,7 +14,7 @@ for(const [level,bank] of Object.entries(banks)){
     assert.equal(q.sentence.split('【　】').length,2);assert.equal(q.options.length,4);assert.equal(new Set(q.options).size,4);
     assert.equal(q.options.filter(a=>a===q.answer).length,1);assert.ok(q.hint&&q.explanation&&q.grammarId);
     const full=q.sentence.replace('【　】',q.answer);
-    assert.ok(!/(?:んて|んたら|とようと|ろようと|もようと)/.test(full),q.id+': '+full);
+    assert.ok(!/(?:んて|んたら|とようと|ろようと|もようと)/.test(full.replaceAll('なんて','')),q.id+': '+full);
   }
 }
 for(const g of guide){

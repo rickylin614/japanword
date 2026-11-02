@@ -157,7 +157,7 @@ async function main() {
     }
     for(const l of ['n3','n4','n5']){
       await go(`${l}.html`);await page.waitForFunction(()=>document.getElementById('status').textContent.includes('已載入'));
-      assert.equal(await page.locator('link[href="learning.css"]').count(),1);
+      assert.equal(await page.locator('link[href="assets/css/learning.css"]').count(),1);
       assert.match(await page.locator('#status').innerText(),new RegExp(String(vocabulary[l].verbs.length)+' 個分類動詞'));
       assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
       await page.locator('#legacy-theme').click();assert.equal(await page.locator('html').getAttribute('data-theme'),'light');

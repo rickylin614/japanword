@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "scope": "N2-N5 examples",
+  "date": "2026-11-03",
+  "scope": "N1-N5 examples",
   "levels": {
     "n5": {
       "total": 698,
@@ -137,7 +137,7 @@
     "n1": {
       "total": 2671,
       "covered": 2671,
-      "distinctSentences": 2034,
+      "distinctSentences": 2037,
       "categories": {
         "nouns": {
           "total": 1736,
@@ -160,12 +160,12 @@
           "covered": 245
         }
       },
-      "authored": 1313,
-      "corpus": 1358,
-      "sharedPivot": 701,
+      "authored": 1367,
+      "corpus": 1304,
+      "sharedPivot": 676,
       "verbEntries": 402,
       "verbExamples": 1206,
-      "distinctSentencesWithVariants": 2838
+      "distinctSentencesWithVariants": 2841
     }
   },
   "sources": [
@@ -200,7 +200,7 @@
       "sha256LF": "bf0d15aec92ddc8d7b912f86cfb4eae8988e601dda79f40b4e560d499021522b"
     },
     "build-verb-examples.cjs": {
-      "sha256LF": "1b6d0782a492e37232c8832db59daf055c52fdadeebf9cc9bbd3819eb071faa5"
+      "sha256LF": "c6305152f5aa9e116b2684d9fbf1019f4b91202315cc08a370a1b1e1a744601a"
     },
     "n4-data.js": {
       "sha256LF": "40ded9330c34ec4315297439715efd440d384bf2b593d85b09f3c5e59c04d611"
@@ -248,19 +248,19 @@
       "sha256LF": "ed56eee44b9e8442371aaa8bcd53fbb222a3f62e6883d793246e997c6b55f5f5"
     },
     "n1-data.js": {
-      "sha256LF": "120edc6a188b016aa57ad3f74b5179dbaf795bd1dc746b7ec71056eb5527046e"
+      "sha256LF": "c2ccd3b129790e8ce00e87ba7c2aec06d67fbb13e300855a62c0a6a8d78cdf6b"
     },
     "n1-examples.js": {
-      "sha256LF": "3e80ea8b60a35116b9d42b8fb3158d004724b5fe410dbac8b2362ae352fb0979"
+      "sha256LF": "d066919f1e758f3df7c671827830f6bd2e6e2f34cbea3e06a7f9c5dc6327bf65"
     },
     "vocabulary-examples/n1.txt": {
-      "sha256LF": "56601308800f606d2e7f2ae7dbdbcd171539490d839168bb2043133a08f8c593"
+      "sha256LF": "a4560bc61d385a3412f9f506feaa8d7430d67a0fd4a7c3d94b9fd7b0671d9493"
     },
     "vocabulary-examples/n1-corpus.json": {
-      "sha256LF": "fe648cf04b14db8e24849be0d553f5a10d4124f8c1efdd83ead98996ee30d535"
+      "sha256LF": "16e57b3dc3c0bf92ffc2baa3b2f8ab43303b15eb753c64b6bbdcf4b39ff2de89"
     },
     "vocabulary-examples/verbs-n1.txt": {
-      "sha256LF": "15dab9c2975f5fbad3eb8e053c8ff0ec28a75f45584197cfba6ebfb6e7d70cb8"
+      "sha256LF": "5231b67999936825ae7cee3dfa16605b5cfd3a1e0554bbb595aecda6ddc35fef"
     }
   }
 }

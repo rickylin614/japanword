@@ -547,14 +547,15 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "眼球"
   },
   "n1-jmdict-1199800": {
-    "sentence": "回覧する文書は、要点を箇条書にした。",
+    "sentence": "回覧する文書は、要点を箇条書きにした。",
     "translation": "準備傳閱的文件，我把重點整理成條列形式。",
     "surface": "回覧"
   },
   "n1-jmdict-1590280": {
-    "sentence": "回覧する文書は、要点を箇条書にした。",
+    "sentence": "回覧する文書は、要点を箇条書きにした。",
     "translation": "準備傳閱的文件，我把重點整理成條列形式。",
-    "surface": "箇条書"
+    "surface": "箇条書き",
+    "reading": "かじょうがき"
   },
   "n1-jmdict-1201820": {
     "sentence": "地球の海流と、火星の地形は、それぞれ別の班が調べた。",
@@ -727,12 +728,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "感度"
   },
   "n1-jmdict-1261020": {
-    "sentence": "新しい元年を迎え、議事堂の前で式典が開かれた。",
+    "sentence": "新しい年号の元年を迎え、議事堂の前で式典が開かれた。",
     "translation": "迎來新年號的元年後，議會大廈前舉行了典禮。",
     "surface": "元年"
   },
   "n1-jmdict-1226090": {
-    "sentence": "新しい元年を迎え、議事堂の前で式典が開かれた。",
+    "sentence": "新しい年号の元年を迎え、議事堂の前で式典が開かれた。",
     "translation": "迎來新年號的元年後，議會大廈前舉行了典禮。",
     "surface": "議事堂"
   },
@@ -1137,23 +1138,23 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "公認"
   },
   "n1-jmdict-1956210": {
-    "sentence": "議案の採択に向けて採決を行い、多数決の決に基づく決議を公表した。",
-    "translation": "為採納議案，我們進行表決，並公布依多數決作成的決議。",
+    "sentence": "決を採り、議案の採択を決めた。採決の結果に基づく決議を公表した。",
+    "translation": "我們進行表決，決定採納議案，並公布依表決結果作成的決議。",
     "surface": "決"
   },
   "n1-jmdict-1254240": {
-    "sentence": "議案の採択に向けて採決を行い、多数決の決に基づく決議を公表した。",
-    "translation": "為採納議案，我們進行表決，並公布依多數決作成的決議。",
+    "sentence": "決を採り、議案の採択を決めた。採決の結果に基づく決議を公表した。",
+    "translation": "我們進行表決，決定採納議案，並公布依表決結果作成的決議。",
     "surface": "決議"
   },
   "n1-jmdict-1294760": {
-    "sentence": "議案の採択に向けて採決を行い、多数決の決に基づく決議を公表した。",
-    "translation": "為採納議案，我們進行表決，並公布依多數決作成的決議。",
+    "sentence": "決を採り、議案の採択を決めた。採決の結果に基づく決議を公表した。",
+    "translation": "我們進行表決，決定採納議案，並公布依表決結果作成的決議。",
     "surface": "採決"
   },
   "n1-jmdict-1294830": {
-    "sentence": "議案の採択に向けて採決を行い、多数決の決に基づく決議を公表した。",
-    "translation": "為採納議案，我們進行表決，並公布依多數決作成的決議。",
+    "sentence": "決を採り、議案の採択を決めた。採決の結果に基づく決議を公表した。",
+    "translation": "我們進行表決，決定採納議案，並公布依表決結果作成的決議。",
     "surface": "採択"
   },
   "n1-jmdict-1254710": {
@@ -1417,12 +1418,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "再建"
   },
   "n1-jmdict-1240250": {
-    "sentence": "長い苦労の末に聞いた喜びの叫びは、極楽にいるかのようだった。",
+    "sentence": "長い苦労の末に喜びの叫びを耳にし、極楽にいるかのような気分になった。",
     "translation": "歷經漫長辛苦後聽到的歡呼，讓人彷彿身在天堂。",
     "surface": "極楽"
   },
   "n1-jmdict-1235890": {
-    "sentence": "長い苦労の末に聞いた喜びの叫びは、極楽にいるかのようだった。",
+    "sentence": "長い苦労の末に喜びの叫びを耳にし、極楽にいるかのような気分になった。",
     "translation": "歷經漫長辛苦後聽到的歡呼，讓人彷彿身在天堂。",
     "surface": "叫び"
   },
@@ -2302,12 +2303,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "調停"
   },
   "n1-jmdict-1204110": {
-    "sentence": "話しかけても、彼は扉の方へ外方を向いたままだった。",
+    "sentence": "話しかけても、彼は扉の方へそっぽを向いたままだった。",
     "translation": "就算和他說話，他也仍然把臉轉向門那一邊。",
-    "surface": "外方"
+    "surface": "そっぽ"
   },
   "n1-jmdict-1483380": {
-    "sentence": "話しかけても、彼は扉の方へ外方を向いたままだった。",
+    "sentence": "話しかけても、彼は扉の方へそっぽを向いたままだった。",
     "translation": "就算和他說話，他也仍然把臉轉向門那一邊。",
     "surface": "扉"
   },
@@ -2332,13 +2333,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "富"
   },
   "n1-jmdict-1413150": {
-    "sentence": "その大家の邸宅は、今は美術館になっている。",
-    "translation": "那個名門家族的豪宅，如今成了美術館。",
+    "sentence": "書道の大家が住んでいた邸宅は、今は美術館になっている。",
+    "translation": "書法大家曾住過的豪宅，如今成了美術館。",
     "surface": "大家"
   },
   "n1-jmdict-1436820": {
-    "sentence": "その大家の邸宅は、今は美術館になっている。",
-    "translation": "那個名門家族的豪宅，如今成了美術館。",
+    "sentence": "書道の大家が住んでいた邸宅は、今は美術館になっている。",
+    "translation": "書法大家曾住過的豪宅，如今成了美術館。",
     "surface": "邸宅"
   },
   "n1-jmdict-1411320": {
@@ -3977,22 +3978,22 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "目途"
   },
   "n1-jmdict-1263360": {
-    "sentence": "ロープウエイで峰に上ると、川の源まで見える見晴らしだった。",
+    "sentence": "ロープウエイで峰に上ると、川の源が見えるほど見晴らしがよかった。",
     "translation": "搭纜車登上山峰後，視野開闊到連河流源頭都看得見。",
     "surface": "源"
   },
   "n1-jmdict-1516250": {
-    "sentence": "ロープウエイで峰に上ると、川の源まで見える見晴らしだった。",
+    "sentence": "ロープウエイで峰に上ると、川の源が見えるほど見晴らしがよかった。",
     "translation": "搭纜車登上山峰後，視野開闊到連河流源頭都看得見。",
     "surface": "峰"
   },
   "n1-jmdict-1259770": {
-    "sentence": "ロープウエイで峰に上ると、川の源まで見える見晴らしだった。",
+    "sentence": "ロープウエイで峰に上ると、川の源が見えるほど見晴らしがよかった。",
     "translation": "搭纜車登上山峰後，視野開闊到連河流源頭都看得見。",
     "surface": "見晴らし"
   },
   "n1-jmdict-1146760": {
-    "sentence": "ロープウエイで峰に上ると、川の源まで見える見晴らしだった。",
+    "sentence": "ロープウエイで峰に上ると、川の源が見えるほど見晴らしがよかった。",
     "translation": "搭纜車登上山峰後，視野開闊到連河流源頭都看得見。",
     "surface": "ロープウエイ"
   },
@@ -4147,12 +4148,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "模倣"
   },
   "n1-jmdict-1605310": {
-    "sentence": "ユニフォームの股の部分が、激しい動きで破れてしまった。",
+    "sentence": "ユニフォームの腿の部分が、激しい動きで破れてしまった。",
     "translation": "隊服大腿部位因劇烈動作而破了。",
-    "surface": "股"
+    "surface": "腿"
   },
   "n1-jmdict-1137430": {
-    "sentence": "ユニフォームの股の部分が、激しい動きで破れてしまった。",
+    "sentence": "ユニフォームの腿の部分が、激しい動きで破れてしまった。",
     "translation": "隊服大腿部位因劇烈動作而破了。",
     "surface": "ユニフォーム"
   },
@@ -4208,12 +4209,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1542310": {
     "sentence": "遊牧と酪農の違いを、生活様式から学んだ。",
-    "translation": "我們從生活方式學習遊牧與乳酪畜牧業的差別。",
+    "translation": "我們從生活方式學習遊牧與乳牛畜牧業的差別。",
     "surface": "遊牧"
   },
   "n1-jmdict-1548890": {
     "sentence": "遊牧と酪農の違いを、生活様式から学んだ。",
-    "translation": "我們從生活方式學習遊牧與乳酪畜牧業的差別。",
+    "translation": "我們從生活方式學習遊牧與乳牛畜牧業的差別。",
     "surface": "酪農"
   },
   "n1-jmdict-1605847": {
@@ -4590,7 +4591,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     ]
   },
   "n1-jmdict-1284460": {
-    "sentence": "子供たちは先生に動きを合わして、踊っていた。",
+    "sentence": "子供たちは先生の動きに合わして、踊っていた。",
     "translation": "孩子們配合老師的動作跳舞。",
     "surface": "合わして",
     "variants": [
@@ -4615,7 +4616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       {
         "kind": "common",
         "label": "常用用法",
-        "sentence": "子供たちは先生に動きを合わして、踊っていた。",
+        "sentence": "子供たちは先生の動きに合わして、踊っていた。",
         "translation": "孩子們配合老師的動作跳舞。",
         "surface": "合わして"
       }
@@ -6256,9 +6257,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     ]
   },
   "n1-jmdict-1320420": {
-    "sentence": "袋を閉じ忘れたので、せんべいが湿気ってしまった。",
+    "sentence": "袋を閉じ忘れたので、せんべいが湿気てしまった。",
     "translation": "因為忘了封袋，米餅受潮了。",
-    "surface": "湿気って",
+    "surface": "湿気て",
     "variants": [
       {
         "kind": "dictionary",
@@ -6281,9 +6282,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       {
         "kind": "common",
         "label": "常用用法",
-        "sentence": "袋を閉じ忘れたので、せんべいが湿気ってしまった。",
+        "sentence": "袋を閉じ忘れたので、せんべいが湿気てしまった。",
         "translation": "因為忘了封袋，米餅受潮了。",
-        "surface": "湿気って"
+        "surface": "湿気て"
       }
     ]
   },
@@ -10784,13 +10785,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "surface": "なにとぞ"
   },
   "n1-jmdict-1154790": {
-    "sentence": "てっきり間に合うと思ったが、案の定、道が混んでいた。",
-    "translation": "原以為一定趕得上，結果路上果然很塞。",
+    "sentence": "てっきり電車は空いていると思ったが、友人の予想どおり、案の定、満員だった。",
+    "translation": "原以為電車一定很空，結果正如朋友所預料，果然擠滿了人。",
     "surface": "案の定"
   },
   "n1-jmdict-1008290": {
-    "sentence": "てっきり間に合うと思ったが、案の定、道が混んでいた。",
-    "translation": "原以為一定趕得上，結果路上果然很塞。",
+    "sentence": "てっきり電車は空いていると思ったが、友人の予想どおり、案の定、満員だった。",
+    "translation": "原以為電車一定很空，結果正如朋友所預料，果然擠滿了人。",
     "surface": "てっきり"
   },
   "n1-jmdict-2843921": {
@@ -10906,12 +10907,14 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   "n1-jmdict-1576870": {
     "sentence": "「俺も行く」「だったら、一緒に出よう」と二人は話した。",
     "translation": "兩人說：「我也去。」「那就一起出發吧。」",
-    "surface": "俺"
+    "surface": "俺",
+    "note": "「俺」是偏男性、隨意的自稱，適合熟人之間；正式場合通常改用「私」。"
   },
   "n1-jmdict-1007400": {
     "sentence": "「俺も行く」「だったら、一緒に出よう」と二人は話した。",
     "translation": "兩人說：「我也去。」「那就一起出發吧。」",
-    "surface": "だったら"
+    "surface": "だったら",
+    "note": "「俺」是偏男性、隨意的自稱，適合熟人之間；正式場合通常改用「私」。"
   },
   "n1-jmdict-2081500": {
     "sentence": "その主張は学界でも、公然と批判されている。",
@@ -11428,6 +11431,550 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
     "translation": "這間店的套餐附有魚和蔬菜。",
     "surface": "定食"
   },
+  "n1-jmdict-1436720": {
+    "sentence": "失敗しても、すぐに諦めの気持ちを持たないでほしい。",
+    "translation": "即使失敗，也希望你不要立刻產生放棄的念頭。",
+    "surface": "諦め"
+  },
+  "n1-jmdict-1527000": {
+    "sentence": "この器には、手作りならではの味わいがある。",
+    "translation": "這個器皿有著手工製品特有的韻味。",
+    "surface": "味わい"
+  },
+  "n1-jmdict-1167850": {
+    "sentence": "稲光が走り、少し遅れて雷が鳴った。",
+    "translation": "閃電劃過天空，稍後才響起雷聲。",
+    "surface": "稲光"
+  },
+  "n1-jmdict-1587690": {
+    "sentence": "新しい仕事への意欲が、日ごとに高まっている。",
+    "translation": "對新工作的熱忱與日俱增。",
+    "surface": "意欲"
+  },
+  "n1-jmdict-1172460": {
+    "sentence": "嘘つきだと思われたくないので、正直に話した。",
+    "translation": "因為不想被當成騙子，我說了實話。",
+    "surface": "嘘つき"
+  },
+  "n1-jmdict-1172100": {
+    "sentence": "試合は雨天のため、翌日に延期された。",
+    "translation": "比賽因雨延期至隔天。",
+    "surface": "雨天"
+  },
+  "n1-jmdict-1173030": {
+    "sentence": "運命を変えようと、新しい仕事に挑戦した。",
+    "translation": "為了改變命運，我挑戰了新的工作。",
+    "surface": "運命"
+  },
+  "n1-jmdict-1205760": {
+    "sentence": "鷹は空から獲物を見つけると、急降下した。",
+    "translation": "老鷹從空中發現獵物後，便俯衝而下。",
+    "surface": "獲物"
+  },
+  "n1-jmdict-1203080": {
+    "sentence": "図書館は、あらゆる階層の人々に開かれている。",
+    "translation": "圖書館向各個社會階層的人開放。",
+    "surface": "階層"
+  },
+  "n1-jmdict-1204480": {
+    "sentence": "具体的な例を使うと、この概念を説明しやすい。",
+    "translation": "使用具體例子，會比較容易說明這個概念。",
+    "surface": "概念"
+  },
+  "n1-jmdict-1037630": {
+    "sentence": "髪のカットだけなら、三十分ほどで終わる。",
+    "translation": "如果只剪髮，大約三十分鐘就能完成。",
+    "surface": "カット"
+  },
+  "n1-jmdict-1215930": {
+    "sentence": "輸入品には、品目に応じた関税がかかる。",
+    "translation": "進口商品會依品項課徵相應的關稅。",
+    "surface": "関税"
+  },
+  "n1-jmdict-1591390": {
+    "sentence": "この行動規範は、すべての職員に適用される。",
+    "translation": "這套行為規範適用於所有職員。",
+    "surface": "規範"
+  },
+  "n1-jmdict-1263630": {
+    "sentence": "現行の制度では、この申請は認められない。",
+    "translation": "依照現行制度，這項申請無法獲准。",
+    "surface": "現行"
+  },
+  "n1-jmdict-1320950": {
+    "sentence": "祖父は若いころに会社を興した実業家だ。",
+    "translation": "祖父是一位年輕時創立公司的實業家。",
+    "surface": "実業家"
+  },
+  "n1-jmdict-1282010": {
+    "sentence": "行政の手続きをオンラインで済ませた。",
+    "translation": "我在線上辦完了行政手續。",
+    "surface": "行政"
+  },
+  "n1-jmdict-1338820": {
+    "sentence": "雨がやむと、空に大きな虹が出現した。",
+    "translation": "雨停後，天空出現了一道大彩虹。",
+    "surface": "出現"
+  },
+  "n1-jmdict-1379060": {
+    "sentence": "救助隊は、行方不明者の生死を確認している。",
+    "translation": "救難隊正在確認失蹤者的生死。",
+    "surface": "生死"
+  },
+  "n1-jmdict-1381870": {
+    "sentence": "カメラを構えたまま、数秒間静止した。",
+    "translation": "我保持拿著相機的姿勢，靜止了幾秒鐘。",
+    "surface": "静止"
+  },
+  "n1-jmdict-1343250": {
+    "sentence": "会場に入る前に、所持品の確認を受けた。",
+    "translation": "進入會場前，我接受了隨身物品檢查。",
+    "surface": "所持"
+  },
+  "n1-jmdict-1598780": {
+    "sentence": "この鍋のとっては熱くならない。",
+    "translation": "這個鍋子的把手不會發燙。",
+    "surface": "とって"
+  },
+  "n1-jmdict-1490720": {
+    "sentence": "夕方、犬と一緒に静かな浜辺を歩いた。",
+    "translation": "傍晚，我和狗一起走在安靜的海灘上。",
+    "surface": "浜辺"
+  },
+  "n1-jmdict-1430850": {
+    "sentence": "彼女は直感で、その話に何かおかしい点があると感じた。",
+    "translation": "她憑直覺感到，那段話有些不對勁。",
+    "surface": "直感"
+  },
+  "n1-jmdict-1483700": {
+    "sentence": "料金は、利用時間に比例して高くなる。",
+    "translation": "費用會隨使用時間成比例增加。",
+    "surface": "比例"
+  },
+  "n1-jmdict-1110340": {
+    "sentence": "申込フォームに、必要な情報を入力した。",
+    "translation": "我在申請表單中輸入了必要的資訊。",
+    "surface": "フォーム"
+  },
+  "n1-jmdict-1114300": {
+    "sentence": "工事現場では、ブルが土を押しのけていた。",
+    "translation": "工地上，推土機正在推開泥土。",
+    "surface": "ブル",
+    "note": "此處「ブル」是「ブルドーザー」的簡稱。"
+  },
+  "n1-jmdict-1126140": {
+    "sentence": "地図の星のマークが、集合場所を示している。",
+    "translation": "地圖上的星形標記表示集合地點。",
+    "surface": "マーク"
+  },
+  "n1-jmdict-1532090": {
+    "sentence": "放った矢は、的の中心に命中した。",
+    "translation": "射出的箭命中了靶心。",
+    "surface": "命中"
+  },
+  "n1-jmdict-1559660": {
+    "sentence": "地域の人々は連帯して、被災地を支援した。",
+    "translation": "地方居民團結一致，支援了災區。",
+    "surface": "連帯"
+  },
+  "n1-jmdict-1481550": {
+    "sentence": "同じ過ちを二度と犯さないように注意する。",
+    "translation": "我會注意，不再犯同樣的錯誤。",
+    "surface": "犯さない",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "犯す",
+        "reading": "おかす",
+        "surface": "犯す",
+        "sentence": "彼は法律で禁じられた罪を犯す。",
+        "translation": "他犯下法律禁止的罪行。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "犯して",
+        "reading": "おかして",
+        "surface": "犯して",
+        "sentence": "彼は法律で禁じられた罪を犯しています。",
+        "translation": "他犯了罪。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "同じ過ちを二度と犯さないように注意する。",
+        "translation": "我會注意，不再犯同樣的錯誤。",
+        "surface": "犯さない"
+      }
+    ]
+  },
+  "n1-jmdict-1372880": {
+    "sentence": "工事が長引き、予想以上に費用がかさんだ。",
+    "translation": "工程延誤，費用比預期增加得更多。",
+    "surface": "かさんだ",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "かさむ",
+        "reading": "かさむ",
+        "surface": "かさむ",
+        "sentence": "長旅で費用がかさむ。",
+        "translation": "長途旅行讓費用增加。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "かさんで",
+        "reading": "かさんで",
+        "surface": "かさんで",
+        "sentence": "長旅で費用がかさんでいます。",
+        "translation": "長途旅行的費用正增加。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "工事が長引き、予想以上に費用がかさんだ。",
+        "translation": "工程延誤，費用比預期增加得更多。",
+        "surface": "かさんだ"
+      }
+    ]
+  },
+  "n1-jmdict-1222350": {
+    "sentence": "新しい化粧品を使ったら、肌がかぶれてしまった。",
+    "translation": "用了新的化妝品後，皮膚過敏發炎了。",
+    "surface": "かぶれて",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "かぶれる",
+        "reading": "かぶれる",
+        "surface": "かぶれる",
+        "sentence": "肌が薬品にかぶれる。",
+        "translation": "皮膚因化學藥品起疹子。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "かぶれて",
+        "reading": "かぶれて",
+        "surface": "かぶれて",
+        "sentence": "肌が薬品にかぶれています。",
+        "translation": "皮膚因化學藥品起了疹子。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "新しい化粧品を使ったら、肌がかぶれてしまった。",
+        "translation": "用了新的化妝品後，皮膚過敏發炎了。",
+        "surface": "かぶれて"
+      }
+    ]
+  },
+  "n1-jmdict-1291180": {
+    "sentence": "明日の仕事に差し支えるので、今日は早く帰ります。",
+    "translation": "因為會影響明天的工作，今天我要早點回家。",
+    "surface": "差し支える",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "差し支える",
+        "reading": "さしつかえる",
+        "surface": "差し支える",
+        "sentence": "夜更かしが仕事に差し支える。",
+        "translation": "熬夜妨礙工作。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "差し支えて",
+        "reading": "さしつかえて",
+        "surface": "差し支えて",
+        "sentence": "夜更かしが仕事に差し支えています。",
+        "translation": "熬夜正在妨礙工作。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "明日の仕事に差し支えるので、今日は早く帰ります。",
+        "translation": "因為會影響明天的工作，今天我要早點回家。",
+        "surface": "差し支える"
+      }
+    ]
+  },
+  "n1-jmdict-1480170": {
+    "sentence": "湿気のせいで、木の板が反ってしまった。",
+    "translation": "因為濕氣，木板翹曲了。",
+    "surface": "反って",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "反る",
+        "reading": "そる",
+        "surface": "反る",
+        "sentence": "湿気で板が反る。",
+        "translation": "木板因濕氣翹曲。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "反って",
+        "reading": "そって",
+        "surface": "反って",
+        "sentence": "湿気で板が反っています。",
+        "translation": "木板已因濕氣而翹曲。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "湿気のせいで、木の板が反ってしまった。",
+        "translation": "因為濕氣，木板翹曲了。",
+        "surface": "反って"
+      }
+    ]
+  },
+  "n1-jmdict-1312860": {
+    "sentence": "皆様から温かいご支援を賜り、心より感謝申し上げます。",
+    "translation": "承蒙各位溫暖的支持，我由衷致上謝意。",
+    "surface": "賜り",
+    "note": "正式致謝用的謙讓語，帶有鄭重語氣。",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "賜る",
+        "reading": "たまわる",
+        "surface": "賜る",
+        "sentence": "先生からご指導を賜る。",
+        "translation": "承蒙老師指導。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "賜って",
+        "reading": "たまわって",
+        "surface": "賜って",
+        "sentence": "先生からご指導を賜っています。",
+        "translation": "正承蒙老師指導。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "皆様から温かいご支援を賜り、心より感謝申し上げます。",
+        "translation": "承蒙各位溫暖的支持，我由衷致上謝意。",
+        "surface": "賜り",
+        "note": "正式致謝用的謙讓語，帶有鄭重語氣。"
+      }
+    ]
+  },
+  "n1-jmdict-1453680": {
+    "sentence": "先生の助言が、私を正しい方向へ導いてくれた。",
+    "translation": "老師的建議引導我走向正確的方向。",
+    "surface": "導いて",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "導く",
+        "reading": "みちびく",
+        "surface": "導く",
+        "sentence": "先生が学生を正しい方向へ導く。",
+        "translation": "老師引導學生朝正確方向前進。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "導いて",
+        "reading": "みちびいて",
+        "surface": "導いて",
+        "sentence": "先生が学生を正しい方向へ導いています。",
+        "translation": "老師正引導學生朝正確方向前進。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "先生の助言が、私を正しい方向へ導いてくれた。",
+        "translation": "老師的建議引導我走向正確的方向。",
+        "surface": "導いて"
+      }
+    ]
+  },
+  "n1-jmdict-1386000": {
+    "sentence": "相談のために、専用の窓口を設けた。",
+    "translation": "為了提供諮詢，設立了專用窗口。",
+    "surface": "設けた",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "設ける",
+        "reading": "もうける",
+        "surface": "設ける",
+        "sentence": "会場に相談窓口を設ける。",
+        "translation": "在會場設諮詢窗口。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "設けて",
+        "reading": "もうけて",
+        "surface": "設けて",
+        "sentence": "会場に相談窓口を設けています。",
+        "translation": "正在會場設諮詢窗口。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "相談のために、専用の窓口を設けた。",
+        "translation": "為了提供諮詢，設立了專用窗口。",
+        "surface": "設けた"
+      }
+    ]
+  },
+  "n1-jmdict-1362930": {
+    "sentence": "彼は自分から、会場の片づけを申し出た。",
+    "translation": "他主動提出幫忙收拾會場。",
+    "surface": "申し出た",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "申し出る",
+        "reading": "もうしでる",
+        "surface": "申し出る",
+        "sentence": "学生が手伝いを申し出る。",
+        "translation": "學生主動提出幫忙。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "申し出て",
+        "reading": "もうしでて",
+        "surface": "申し出て",
+        "sentence": "学生が手伝いを申し出ています。",
+        "translation": "學生正在主動提出幫忙。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "彼は自分から、会場の片づけを申し出た。",
+        "translation": "他主動提出幫忙收拾會場。",
+        "surface": "申し出た"
+      }
+    ]
+  },
+  "n1-jmdict-1315730": {
+    "sentence": "彼は親切なので、クラスのみんなにもてている。",
+    "translation": "他因為親切，在班上很受歡迎。",
+    "surface": "もてて",
+    "variants": [
+      {
+        "kind": "dictionary",
+        "label": "原型",
+        "form": "もてる",
+        "reading": "もてる",
+        "surface": "もてる",
+        "sentence": "親切な人は周囲にもてる。",
+        "translation": "親切的人受周圍歡迎。"
+      },
+      {
+        "kind": "te",
+        "label": "て形",
+        "form": "もてて",
+        "reading": "もてて",
+        "surface": "もてて",
+        "sentence": "親切な人は周囲にもてています。",
+        "translation": "親切的人正受周圍歡迎。"
+      },
+      {
+        "kind": "common",
+        "label": "常用用法",
+        "sentence": "彼は親切なので、クラスのみんなにもてている。",
+        "translation": "他因為親切，在班上很受歡迎。",
+        "surface": "もてて"
+      }
+    ]
+  },
+  "n1-jmdict-1227340": {
+    "sentence": "故郷を離れて久しい。",
+    "translation": "離開故鄉已經很久了。",
+    "surface": "久しい"
+  },
+  "n1-jmdict-1519610": {
+    "sentence": "この仕事には、接客の経験があることが望ましい。",
+    "translation": "這份工作最好具備接待顧客的經驗。",
+    "surface": "望ましい"
+  },
+  "n1-jmdict-1590970": {
+    "sentence": "初めての発表なのに、準備は完ぺきだった。",
+    "translation": "雖然是第一次發表，卻準備得十分完善。",
+    "surface": "完ぺき"
+  },
+  "n1-jmdict-1060610": {
+    "sentence": "彼女はシックな色合いの服を選んだ。",
+    "translation": "她挑選了色調高雅的衣服。",
+    "surface": "シック"
+  },
+  "n1-jmdict-1532640": {
+    "sentence": "彼女は明朗な性格で、誰とでもすぐに打ち解ける。",
+    "translation": "她性格開朗，和任何人都能很快熟絡。",
+    "surface": "明朗"
+  },
+  "n1-jmdict-1542860": {
+    "sentence": "参加人数を、予め知らせてください。",
+    "translation": "請事先告知參加人數。",
+    "surface": "予め"
+  },
+  "n1-jmdict-1000910": {
+    "sentence": "今日は電車がいやに空いている。",
+    "translation": "今天電車上異常地空。",
+    "surface": "いやに"
+  },
+  "n1-jmdict-2853873": {
+    "sentence": "おおい、こっちだよ。",
+    "translation": "喂，在這裡呀。",
+    "surface": "おおい",
+    "note": "對熟人呼喊時使用，語氣隨意；對陌生人或上司不宜直接這樣叫。"
+  },
+  "n1-jmdict-1421990": {
+    "sentence": "遅くとも金曜日までに、返事をください。",
+    "translation": "最晚請在星期五之前回覆。",
+    "surface": "遅くとも"
+  },
+  "n1-jmdict-1008770": {
+    "sentence": "とんだ勘違いをしてしまい、会議室を間違えた。",
+    "translation": "我犯了個大誤會，弄錯了會議室。",
+    "surface": "とんだ"
+  },
+  "n1-jmdict-1212660": {
+    "sentence": "この作業には、少し慣れが必要だ。",
+    "translation": "這項作業需要稍微習慣一下。",
+    "surface": "慣れ"
+  },
+  "n1-jmdict-1010470": {
+    "sentence": "地域の活性化は、ひいては国全体の発展につながる。",
+    "translation": "地方的活化進而會帶動整個國家的發展。",
+    "surface": "ひいては"
+  },
+  "n1-jmdict-2607690": {
+    "sentence": "よし、準備ができたら出発しよう。",
+    "translation": "好，準備好了就出發吧。",
+    "surface": "よし"
+  },
+  "n1-jmdict-1001980": {
+    "sentence": "母に頼まれて、近所の店へお使いに行った。",
+    "translation": "媽媽拜託我跑腿，我便去了附近的商店。",
+    "surface": "お使い"
+  },
+  "n1-jmdict-1694410": {
+    "sentence": "お菓子を買ったら、小さなおもちゃがおまけとしてついてきた。",
+    "translation": "買了零食後，還附贈了一個小玩具。",
+    "surface": "おまけ"
+  },
   "n1-jmdict-1383440": {
     "sentence": "昨年は赤字でした。",
     "translation": "我們去年遇到了赤字。",
@@ -11440,7 +11987,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "赤字"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11455,34 +12002,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "244706"
     }
   },
-  "n1-jmdict-1436720": {
-    "sentence": "何事にも諦めがたいせつ。",
-    "translation": "辭職是人生的第一課。",
-    "surface": "諦め",
-    "evidence": {
-      "surface": "諦め",
-      "reading": "あきらめ",
-      "lemma": "諦め",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "187482",
-      "zhId": "875128",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "辭職是人生的第一課。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "24611"
-    }
-  },
   "n1-jmdict-1586350": {
     "sentence": "足のあざどうしたの？",
-    "translation": "腳上的傷是怎麼回事？",
+    "translation": "你腳上的瘀青是怎麼回事？",
     "surface": "あざ",
     "evidence": {
       "surface": "あざ",
@@ -11490,7 +12012,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "あざ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11501,31 +12023,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "脚上的伤是怎么回事？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1527000": {
-    "sentence": "新竹の貢丸と米粉は非常に有名で、多くの観光客が味わいに訪れる。",
-    "translation": "新竹的貢丸和米粉非常有名，吸引不少遊客品嚐。",
-    "surface": "味わい",
-    "evidence": {
-      "surface": "味わい",
-      "reading": "あじわい",
-      "lemma": "味わい",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "13545822",
-      "zhId": "13537650",
-      "jaAuthor": "LeviHighway",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "新竹的貢丸和米粉非常有名，吸引不少遊客品嚐。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1151470": {
@@ -11540,7 +12038,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "惡化"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11565,7 +12063,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "斡旋",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11582,7 +12080,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1153260": {
     "sentence": "彼は数に圧倒された。",
-    "translation": "他被數字征服了。",
+    "translation": "他在數量上被對方壓倒了。",
     "surface": "圧倒",
     "evidence": {
       "surface": "圧倒",
@@ -11590,7 +12088,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "圧倒",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11601,7 +12099,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他被數字征服了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1153310": {
@@ -11616,7 +12114,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "壓迫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11642,7 +12140,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "壓力"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11668,7 +12166,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "雨具"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11685,7 +12183,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1018550": {
     "sentence": "私のおじはアマチュアのクリケット選手です。",
-    "translation": "我的舅舅愛好打板球。",
+    "translation": "我的叔叔是業餘板球選手。",
     "surface": "アマチュア",
     "evidence": {
       "surface": "アマチュア",
@@ -11693,7 +12191,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "アマチュア",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11704,12 +12202,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我的舅舅爱好打板球。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1196010": {
     "sentence": "同じ過ちを犯さないように。",
-    "translation": "以免再犯同樣的過錯",
+    "translation": "別再犯同樣的過錯。",
     "surface": "過ち",
     "evidence": {
       "surface": "過ち",
@@ -11719,7 +12217,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "過錯"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11730,7 +12228,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "以免再犯同样的过错",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1514330": {
@@ -11745,7 +12243,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "腳步"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11772,7 +12270,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "爭執"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11796,7 +12294,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "アルカリ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11821,7 +12319,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "アワー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11848,7 +12346,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "安可"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11875,7 +12373,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "暗殺"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11902,7 +12400,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "暗示"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11928,7 +12426,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "藉口"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11954,7 +12452,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "離家出走"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11979,7 +12477,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "異議",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -11995,7 +12493,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1378550": {
     "sentence": "あなたのお陰で私は生き甲斐を感じます。",
-    "translation": "你讓生命活得有價值。",
+    "translation": "多虧有你，我感受到了人生的意義。",
     "surface": "生き甲斐",
     "evidence": {
       "surface": "生き甲斐",
@@ -12003,7 +12501,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "生き甲斐",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12014,7 +12512,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "你讓生命活得有價值。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "70984"
     }
   },
@@ -12028,7 +12526,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "意向",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12053,7 +12551,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "移住",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12080,7 +12578,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "服裝"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12106,7 +12604,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "依賴"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12131,7 +12629,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一部分",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12157,7 +12655,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "一連串"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12183,7 +12681,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "意圖"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12195,33 +12693,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1167850": {
-    "sentence": "稲光はたいてい雷の音がした後で光る。",
-    "translation": "閃電常常伴隨著雷鳴。",
-    "surface": "稲光",
-    "evidence": {
-      "surface": "稲光",
-      "reading": "いなびかり",
-      "lemma": "稲光",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "閃電"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "1267818",
-      "zhId": "798210",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "Martha",
-      "originalTranslation": "閃電常常伴隨著雷鳴。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "27162"
     }
   },
   "n1-jmdict-1222760": {
@@ -12236,7 +12707,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "祈禱"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12260,7 +12731,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "いびき",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12287,7 +12758,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "移民"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12301,31 +12772,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1587690": {
-    "sentence": "学校教育の義務的側面は子どもの学習意欲を改善させる様々な研究の多くの取り組みの中ではめったに分析されない。",
-    "translation": "許多著作都致力於研究開發小孩學習慾望的方式，但其中很少會有作品分析學校教育的強制性角色。",
-    "surface": "意欲",
-    "evidence": {
-      "surface": "意欲",
-      "reading": "いよく",
-      "lemma": "意欲",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "5029",
-      "zhId": "13114003",
-      "jaAuthor": "mookeee",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "許多著作都致力於研究開發小孩學習慾望的方式，但其中很少會有作品分析學校教育的強制性角色。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "1623"
-    }
-  },
   "n1-jmdict-1613280": {
     "sentence": "彼女は数分前に衣類のアイロンがけを終えた。",
     "translation": "她幾分鐘前熨完了衣服。",
@@ -12336,7 +12782,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "衣類",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12353,7 +12799,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1158150": {
     "sentence": "私はといえば、異論はない。",
-    "translation": "對於我，我不反對。",
+    "translation": "至於我，沒有異議。",
     "surface": "異論",
     "evidence": {
       "surface": "異論",
@@ -12361,7 +12807,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "異論",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12372,7 +12818,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "对于我，我不反对。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "255143"
     }
   },
@@ -12388,7 +12834,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "通貨膨脹"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12415,7 +12861,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "動作"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12424,30 +12870,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "\\N",
       "zhAuthor": "nickyeow",
       "originalTranslation": "舞者的每一個動作都是完美無瑕的。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1172460": {
-    "sentence": "弁護士はみんな嘘つきだ。",
-    "translation": "律師都是騙子。",
-    "surface": "嘘つき",
-    "evidence": {
-      "surface": "嘘つき",
-      "reading": "うそつき",
-      "lemma": "嘘つき",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "1594429",
-      "zhId": "7708514",
-      "jaAuthor": "Bah_Dure",
-      "zhAuthor": "biglion",
-      "originalTranslation": "律师都是骗子。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -12463,7 +12885,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "写し",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12488,7 +12910,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "訴え",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12503,30 +12925,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "306550"
     }
   },
-  "n1-jmdict-1172100": {
-    "sentence": "雨天の後には晴天が来る。",
-    "translation": "風暴過後，太陽出來了。",
-    "surface": "雨天",
-    "evidence": {
-      "surface": "雨天",
-      "reading": "うてん",
-      "lemma": "雨天",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "189518",
-      "zhId": "7768231",
-      "jaAuthor": "\\N",
-      "zhAuthor": "jiangche",
-      "originalTranslation": "风暴过后，太阳出来了。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1550620": {
     "sentence": "セーターが裏返しだよ。",
     "translation": "你毛衣穿反了喲。",
@@ -12537,7 +12935,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "裏返し",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12561,7 +12959,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "売り出し",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12586,7 +12984,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "運営",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12611,7 +13009,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "運賃",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12636,7 +13034,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "運搬",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12651,32 +13049,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "276938"
     }
   },
-  "n1-jmdict-1173030": {
-    "sentence": "運命に甘んじるくらいなら自殺したほうがいい。",
-    "translation": "與其向命運妥協，我寧可自殺。",
-    "surface": "運命",
-    "evidence": {
-      "surface": "運命",
-      "reading": "うんめい",
-      "lemma": "運命",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "命運"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "189387",
-      "zhId": "623217",
-      "jaAuthor": "\\N",
-      "zhAuthor": "xiuqin",
-      "originalTranslation": "与其向命运妥协，我宁可自杀。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1173800": {
     "sentence": "多くの場合、音楽を聴く時に心に浮かぶ映像はＣＤのアートワークです。",
     "translation": "聽歌時腦海裡浮起的影象，許多時候都是唱片的封面。",
@@ -12687,7 +13059,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "映像",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12713,7 +13085,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "英雄"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12740,7 +13112,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "閱覽"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12755,32 +13127,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "785885"
     }
   },
-  "n1-jmdict-1205760": {
-    "sentence": "男は狩人で、女はその獲物である。",
-    "translation": "男人是獵人而女人就是他的獵物。",
-    "surface": "獲物",
-    "evidence": {
-      "surface": "獲物",
-      "reading": "えもの",
-      "lemma": "獲物",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "獵物"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "127200",
-      "zhId": "429474",
-      "jaAuthor": "\\N",
-      "zhAuthor": "aliene",
-      "originalTranslation": "男人是猎人而女人就是他的猎物。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1176740": {
     "sentence": "世界人口の三分の一が、沿岸部に住んでいる。",
     "translation": "全世界有超過三分之一的人在沿岸地區居住。",
@@ -12793,7 +13139,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "沿岸"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12820,7 +13166,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "工程師"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12847,7 +13193,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "遠方"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12873,7 +13219,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "應急"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12898,7 +13244,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "黄金",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12924,7 +13270,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "應徵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12950,7 +13296,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "洪水"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12977,7 +13323,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "行為"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -12993,7 +13339,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1236660": {
     "sentence": "もう少し雨がひどくなると、洪水の恐れがある。",
-    "translation": "雨再大一點就會引起水災了。",
+    "translation": "雨再大一些，就有發生洪水的危險。",
     "surface": "恐れ",
     "evidence": {
       "surface": "恐れ",
@@ -13001,7 +13347,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "恐れ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13012,7 +13358,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "雨再大一点就会引起水灾了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "15064"
     }
   },
@@ -13026,7 +13372,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "落ち着き",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13040,31 +13386,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1001980": {
-    "sentence": "この辞書はどなたでもお使いいただけます。",
-    "translation": "所有人都可以用這本詞典。",
-    "surface": "お使い",
-    "evidence": {
-      "surface": "お使い",
-      "reading": "おつかい",
-      "lemma": "お使い",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "9073598",
-      "zhId": "347408",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "nickyeow",
-      "originalTranslation": "所有人都可以用這本詞典。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "40410"
-    }
-  },
   "n1-jmdict-1001810": {
     "sentence": "彼女は私のお供をするように言われた。",
     "translation": "有人叫她陪我。",
@@ -13075,7 +13396,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "お供",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13100,7 +13421,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "同い年",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13124,7 +13445,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "お袋",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13149,7 +13470,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "覚え",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13163,31 +13484,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1694410": {
-    "sentence": "その日は寒く、おまけに雨まで降ってきた。",
-    "translation": "那天很冷，而且還下起了雨。",
-    "surface": "おまけ",
-    "evidence": {
-      "surface": "おまけ",
-      "reading": "おまけ",
-      "lemma": "おまけ",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "207339",
-      "zhId": "2610633",
-      "jaAuthor": "\\N",
-      "zhAuthor": "visualtoday",
-      "originalTranslation": "那天很冷，而且还下起了雨。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "330681"
-    }
-  },
   "n1-jmdict-1365330": {
     "sentence": "都市の親父は、会社で８時間、それに毎朝毎夕、会社への行き帰りに満員電車の中でさらに２時間過ごさなければならない。",
     "translation": "都市裡的父親每天花八個小時在辦公室裡，而且每天早上和晚上另外再花兩個小時在往返於工作並擠滿了人的火車上。",
@@ -13198,7 +13494,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "親父",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13225,7 +13521,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "紡織品"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13251,7 +13547,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "線上"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13275,7 +13571,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "カーペット",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13299,7 +13595,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "海運",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13326,7 +13622,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "外幣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13352,7 +13648,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "改革"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13379,7 +13675,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貝殼"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13403,7 +13699,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "外観",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13430,7 +13726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "階級"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13457,7 +13753,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "海峽"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13484,7 +13780,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "會面"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13508,7 +13804,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "開催",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13532,7 +13828,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "改修",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13558,7 +13854,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "怪獸"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13584,7 +13880,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "解除"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13611,7 +13907,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "外交部長"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13638,7 +13934,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "概述"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13653,31 +13949,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "3365"
     }
   },
-  "n1-jmdict-1203080": {
-    "sentence": "野球への興味はわが国ではあらゆる階層、年齢にわたっている。",
-    "translation": "這個國家裡不同年齡階級的人都減少了對棒球的興趣。",
-    "surface": "階層",
-    "evidence": {
-      "surface": "階層",
-      "reading": "かいそう",
-      "lemma": "階層",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "79638",
-      "zhId": "887773",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "這個國家裡不同年齡階級的人都減少了對棒球的興趣。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "324080"
-    }
-  },
   "n1-jmdict-1198760": {
     "sentence": "和平会談は再度失敗した。",
     "translation": "和平談判再次破裂了。",
@@ -13688,7 +13959,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "会談",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13713,7 +13984,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ガイド",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13739,7 +14010,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "旅遊指南"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13764,7 +14035,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "介入",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13773,30 +14044,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "\\N",
       "zhAuthor": "sadhen",
       "originalTranslation": "不要侵犯她的隐私。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1204480": {
-    "sentence": "無色の緑の概念が激しく眠る。",
-    "translation": "無色的綠色的觀念瘋狂地睡覺。",
-    "surface": "概念",
-    "evidence": {
-      "surface": "概念",
-      "reading": "がいねん",
-      "lemma": "概念",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "719084",
-      "zhId": "719067",
-      "jaAuthor": "Vortarulo",
-      "zhAuthor": "Vortarulo",
-      "originalTranslation": "无色的绿色的观念疯狂地睡觉。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -13814,7 +14061,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "開發"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13840,7 +14087,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "海拔"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13865,7 +14112,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "外来",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13889,7 +14136,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "改良",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13916,7 +14163,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "差距"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13942,7 +14189,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "確信"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13958,7 +14205,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1206950": {
     "sentence": "この実験で彼の学説はいっそう強固なものになった。",
-    "translation": "實驗證實了他的理論。",
+    "translation": "這項實驗使他的學說更加穩固。",
     "surface": "学説",
     "evidence": {
       "surface": "学説",
@@ -13966,7 +14213,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "学説",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -13977,7 +14224,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "實驗證實了他的理論。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1205880": {
@@ -13990,7 +14237,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "確定",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14017,7 +14264,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "獲得"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14044,7 +14291,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "革命"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14070,7 +14317,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "化石"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14094,7 +14341,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "河川",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14120,7 +14367,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "家畜"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14146,7 +14393,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "一致"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14161,30 +14408,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "287282"
     }
   },
-  "n1-jmdict-1037630": {
-    "sentence": "私はかっとなって、その自販機をけとばした。",
-    "translation": "我怒氣上頭，重重地踢向那臺自動售貨機。",
-    "surface": "かっと",
-    "evidence": {
-      "surface": "かっと",
-      "reading": "カット",
-      "lemma": "かっと",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "161192",
-      "zhId": "9277196",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "Leolaaziano",
-      "originalTranslation": "我怒氣上頭，重重地踢向那台自動售貨機。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1578970": {
     "sentence": "会社は合併によってすべてがかわり、混乱状態が続いています。",
     "translation": "自從公司合併了以後，一切都變得十分混亂。",
@@ -14197,7 +14420,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "合併"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14221,7 +14444,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "金槌",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14246,7 +14469,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "加入",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14272,7 +14495,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "股份"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14298,7 +14521,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "花粉"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14324,7 +14547,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "攝影師"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14351,7 +14574,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "車庫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14375,7 +14598,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "過労",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14402,7 +14625,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "眼科"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14429,7 +14652,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "玩具"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14455,7 +14678,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "護理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14479,7 +14702,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "換算",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14504,7 +14727,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "監視",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14528,7 +14751,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "慣習",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14555,7 +14778,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "觀眾"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14582,7 +14805,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "干涉"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14594,31 +14817,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1215930": {
-    "sentence": "私は航空の関税で身体検査を受けた。",
-    "translation": "我在機場被海關人員搜查。",
-    "surface": "関税",
-    "evidence": {
-      "surface": "関税",
-      "reading": "かんぜい",
-      "lemma": "関税",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "157128",
-      "zhId": "727982",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "我在機場被海關人員搜查。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "257406"
     }
   },
   "n1-jmdict-1212470": {
@@ -14633,7 +14831,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "感染"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14659,7 +14857,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "幹線"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14686,7 +14884,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "觀點"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14712,7 +14910,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "作弊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14728,7 +14926,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1210870": {
     "sentence": "それだけは勘弁してください。",
-    "translation": "除了這個我什麼都會做。",
+    "translation": "唯獨這件事，請饒了我吧。",
     "surface": "勘弁",
     "evidence": {
       "surface": "勘弁",
@@ -14736,7 +14934,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "勘弁",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14747,7 +14945,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "除了这个我什么都会做。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "12300"
     }
   },
@@ -14763,7 +14961,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "威嚴"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14790,7 +14988,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "議案"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14817,7 +15015,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "傷害"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14842,7 +15040,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "企画",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14859,7 +15057,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1222120": {
     "sentence": "トムは気兼ねすることなく自分の意見を述べたことがない。",
-    "translation": "湯姆在表達自己的意見的時候總是很慌張。",
+    "translation": "湯姆從未能毫無顧慮地說出自己的意見。",
     "surface": "気兼ね",
     "evidence": {
       "surface": "気兼ね",
@@ -14867,7 +15065,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気兼ね",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14878,7 +15076,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "汤姆在表达自己的意见的时候总是很慌张。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "1676542"
     }
   },
@@ -14894,7 +15092,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "危機"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14918,7 +15116,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "効き目",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14945,7 +15143,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "劇本"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14972,7 +15170,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "基金"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -14999,7 +15197,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "喜劇"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15026,7 +15224,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "已婚"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15051,7 +15249,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "兆し",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15076,7 +15274,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "記述",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15101,7 +15299,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気象",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15128,7 +15326,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "犧牲"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15154,7 +15352,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "汽船"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15178,7 +15376,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "議題",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15202,7 +15400,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気立て",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15229,7 +15427,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "規定"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15255,7 +15453,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "軌道"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15282,7 +15480,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "技能"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15297,31 +15495,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "243013"
     }
   },
-  "n1-jmdict-1591390": {
-    "sentence": "倫理学というのは、行動の規範を意味する。",
-    "translation": "倫理學是指行為準則。",
-    "surface": "規範",
-    "evidence": {
-      "surface": "規範",
-      "reading": "きはん",
-      "lemma": "規範",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "77794",
-      "zhId": "431496",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "伦理学是指行为准则。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "135638"
-    }
-  },
   "n1-jmdict-1222540": {
     "sentence": "彼女には生まれつきの気品がある。",
     "translation": "她有與生俱來的尊嚴。",
@@ -15332,7 +15505,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気品",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15359,7 +15532,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "規模"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15386,7 +15559,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "期末"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15413,7 +15586,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "劇本"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15440,7 +15613,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "客觀"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15464,7 +15637,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "キャッチ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15489,7 +15662,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "キャリア",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15516,7 +15689,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "救援"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15540,7 +15713,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "究極",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15564,7 +15737,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "救済",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15591,7 +15764,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "服務生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15616,7 +15789,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "宮殿",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15643,7 +15816,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貧困"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15668,7 +15841,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "教科",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15692,7 +15865,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "境遇",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15718,7 +15891,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "教訓"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15745,7 +15918,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "業者"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15761,7 +15934,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1237170": {
     "sentence": "教習生全員が、運転免許試験に受かりました。",
-    "translation": "所有學員都透過了駕照考試。",
+    "translation": "所有學員都通過了駕照考試。",
     "surface": "教習",
     "evidence": {
       "surface": "教習",
@@ -15769,7 +15942,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "教習",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15780,7 +15953,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "所有學員都通過了駕照考試。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1238500": {
@@ -15793,7 +15966,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "郷愁",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15818,7 +15991,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "教職",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15844,7 +16017,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "強制"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15853,32 +16026,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "\\N",
       "zhAuthor": "xiuqin",
       "originalTranslation": "广场的暴徒被强制驱离。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1282010": {
-    "sentence": "第三の性別の出現は、法的および行政上の問題を増やし、不必要な負担を生んでいる。",
-    "translation": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。",
-    "surface": "行政",
-    "evidence": {
-      "surface": "行政",
-      "reading": "ぎょうせい",
-      "lemma": "行政",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "行政"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "13537676",
-      "zhId": "13128292",
-      "jaAuthor": "LeviHighway",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -15894,7 +16041,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "業績",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15919,7 +16066,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "脅迫",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15943,7 +16090,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "郷里",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15970,7 +16117,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "共和"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -15994,7 +16141,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "居住",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16011,7 +16158,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1232390": {
     "sentence": "君は断固として彼の要求を拒絶すべきであった。",
-    "translation": "你應該直接拒絕他的要求。",
+    "translation": "你當時應該堅決拒絕他的要求。",
     "surface": "拒絶",
     "evidence": {
       "surface": "拒絶",
@@ -16021,7 +16168,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "拒絕"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16032,13 +16179,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "你应该直接拒绝他的要求。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "15903"
     }
   },
   "n1-jmdict-1233050": {
     "sentence": "行方不明だった漁船が無事帰港した。",
-    "translation": "迷路的漁船安全地返回了港口。",
+    "translation": "之前失聯的漁船已平安返港。",
     "surface": "漁船",
     "evidence": {
       "surface": "漁船",
@@ -16048,7 +16195,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "漁船"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16059,7 +16206,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "迷路的渔船安全地返回了港口。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1233060": {
@@ -16074,7 +16221,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "漁村"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16100,7 +16247,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "拒絕"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16124,7 +16271,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気流",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16151,7 +16298,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "近郊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16177,7 +16324,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "工作"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16203,7 +16350,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不該"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16230,7 +16377,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "空間"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16255,7 +16402,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "区画",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16282,7 +16429,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "抽籤"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16309,7 +16456,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "灰色"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16325,7 +16472,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1287710": {
     "sentence": "今期、我が社の黒字はほぼ１０％増加した。",
-    "translation": "我們公司今季的赤字上漲了差不多一成。",
+    "translation": "本期本公司的盈餘增加了將近一成。",
     "surface": "黒字",
     "evidence": {
       "surface": "黒字",
@@ -16333,7 +16480,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "黒字",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16344,7 +16491,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我們公司今季的赤字上漲了差不多一成。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "241994"
     }
   },
@@ -16360,7 +16507,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "軍艦"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16386,7 +16533,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "君主"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16412,7 +16559,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "人群"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16429,7 +16576,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1592510": {
     "sentence": "群衆は公会堂からドッと出てきた。",
-    "translation": "群眾從觀眾席上湧了出來。",
+    "translation": "群眾一下子從公會堂湧了出來。",
     "surface": "群衆",
     "evidence": {
       "surface": "群衆",
@@ -16439,7 +16586,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "群眾"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16450,7 +16597,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "群眾從觀眾席上湧了出來。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1251250": {
@@ -16465,7 +16612,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "進展"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16492,7 +16639,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "警戒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16518,7 +16665,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "形成"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16544,7 +16691,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "形勢"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16560,7 +16707,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1249780": {
     "sentence": "刑罰は私たちに多くのことを教えてくれる。言葉よりずっと。",
-    "translation": "句子可以教我們很多東西。比文字多得多。",
+    "translation": "刑罰能教會我們許多事情，比言語多得多。",
     "surface": "刑罰",
     "evidence": {
       "surface": "刑罰",
@@ -16568,7 +16715,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "刑罰",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16579,7 +16726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "句子可以教我们很多东西。比文字多得多。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "802482"
     }
   },
@@ -16593,7 +16740,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "経費",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16610,7 +16757,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1252860": {
     "sentence": "貧乏だからといって人を軽蔑するものではない。",
-    "translation": "雖然說是窮人，但也不可輕蔑對方。",
+    "translation": "不應因為別人貧窮就輕視他。",
     "surface": "軽蔑",
     "evidence": {
       "surface": "軽蔑",
@@ -16620,7 +16767,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "輕蔑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16631,7 +16778,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "虽然说是穷人，但也不可轻蔑对方。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1251690": {
@@ -16646,7 +16793,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "經歷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16672,7 +16819,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "決心"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16697,7 +16844,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "月謝",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16722,7 +16869,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "決勝",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16749,7 +16896,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "組成"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16774,7 +16921,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "決断",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16798,7 +16945,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "欠乏",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16822,7 +16969,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "下痢",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16838,7 +16985,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1258090": {
     "sentence": "彼は経済学の権威です。",
-    "translation": "他是權威的經濟學家。",
+    "translation": "他是經濟學方面的權威。",
     "surface": "権威",
     "evidence": {
       "surface": "権威",
@@ -16848,7 +16995,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "權威"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16859,7 +17006,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他是權威的經濟學家。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1261310": {
@@ -16872,7 +17019,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "原形",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16897,7 +17044,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "権限",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16912,31 +17059,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "24848"
     }
   },
-  "n1-jmdict-1263630": {
-    "sentence": "今度は見逃してやるが、またお前を盗みの現行犯で捕らえたくないもんだね。",
-    "translation": "今次就原諒你吧，但我不希望再看見你偷東西。",
-    "surface": "現行",
-    "evidence": {
-      "surface": "現行",
-      "reading": "げんこう",
-      "lemma": "現行",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "172099",
-      "zhId": "343100",
-      "jaAuthor": "\\N",
-      "zhAuthor": "nickyeow",
-      "originalTranslation": "今次就原諒你吧，但我不希望再看見你偷東西。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "242376"
-    }
-  },
   "n1-jmdict-1261450": {
     "sentence": "その映画は原作ほどおもしろくなかった。",
     "translation": "電影不如原著好看。",
@@ -16947,7 +17069,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "原作",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -16974,7 +17096,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "檢察官"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17001,7 +17123,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "原子"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17027,7 +17149,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "元素"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17051,7 +17173,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見地",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17077,7 +17199,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "限定"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17103,7 +17225,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "原點"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17119,7 +17241,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1262220": {
     "sentence": "原爆は人類にとって重大な脅威だ。",
-    "translation": "核武器是人類生存的致命威脅。",
+    "translation": "原子彈對人類是重大威脅。",
     "surface": "原爆",
     "evidence": {
       "surface": "原爆",
@@ -17127,7 +17249,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "原爆",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17138,7 +17260,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "核武器是人类生存的致命威胁。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "8739"
     }
   },
@@ -17154,7 +17276,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "原文"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17179,7 +17301,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "兼用",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17206,7 +17328,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "權力"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17232,7 +17354,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "言論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17259,7 +17381,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "詞彙"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17286,7 +17408,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "好意"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17312,7 +17434,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "行為"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17338,7 +17460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同意"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17363,7 +17485,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "工学",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17388,7 +17510,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "抗議",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17412,7 +17534,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "皇居",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17438,7 +17560,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "高原"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17462,7 +17584,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "交互",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17489,7 +17611,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "考古學"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17514,7 +17636,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "交渉",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17538,7 +17660,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "向上",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17562,7 +17684,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "行進",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17587,7 +17709,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "香辛料",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17614,7 +17736,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "洪水"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17638,7 +17760,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "後退",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17665,7 +17787,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "訂閱"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17682,7 +17804,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1282440": {
     "sentence": "あと一台パソコンを購入する君の案はまったく問題にならない。",
-    "translation": "您購買另一臺電腦的計劃完全不會有問題。",
+    "translation": "你那個再買一臺電腦的提案，根本不值得考慮。",
     "surface": "購入",
     "evidence": {
       "surface": "購入",
@@ -17692,7 +17814,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "購買"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17703,7 +17825,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "您購買另一台電腦的計劃完全不會有問題。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "71663"
     }
   },
@@ -17717,7 +17839,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "公用",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17742,7 +17864,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "効率",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17769,7 +17891,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "公立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17785,7 +17907,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1348410": {
     "sentence": "彼は小切手に署名した。",
-    "translation": "他在支票上籤了名。",
+    "translation": "他在支票上簽了名。",
     "surface": "小切手",
     "evidence": {
       "surface": "小切手",
@@ -17795,7 +17917,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "支票"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17806,7 +17928,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他在支票上签了名。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1286590": {
@@ -17819,7 +17941,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "国産",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17846,7 +17968,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "嘗試"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17873,7 +17995,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "孤兒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17899,7 +18021,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "個性"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17925,7 +18047,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "古代"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17949,7 +18071,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "こたつ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -17976,7 +18098,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "誇張"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18003,7 +18125,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "古董"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18029,7 +18151,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "固定"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18055,7 +18177,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "事項"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18082,7 +18204,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "評論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18108,7 +18230,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "孤立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18135,7 +18257,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "耐心"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18162,7 +18284,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "根據"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18188,7 +18310,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "隱形眼鏡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18214,7 +18336,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "昆蟲"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18240,7 +18362,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "混淆"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18266,7 +18388,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "控制"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18293,7 +18415,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "根本"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18317,7 +18439,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "再会",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18344,7 +18466,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "災害"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18371,7 +18493,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "細菌"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18396,7 +18518,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "細工",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18420,7 +18542,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "在庫",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18447,7 +18569,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "尺寸"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18473,7 +18595,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "播放"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18500,7 +18622,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "財政"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18526,7 +18648,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "最佳"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18553,7 +18675,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "栽培"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18579,7 +18701,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "復發"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18605,7 +18727,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "細胞"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18632,7 +18754,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "採用"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18649,7 +18771,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1291370": {
     "sentence": "差額はありますか。",
-    "translation": "有什麼區別嗎？",
+    "translation": "有差額嗎？",
     "surface": "差額",
     "evidence": {
       "surface": "差額",
@@ -18657,7 +18779,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "差額",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18668,7 +18790,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "有什么区别吗？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "243580"
     }
   },
@@ -18682,7 +18804,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "詐欺",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18706,7 +18828,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "削減",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18730,7 +18852,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "錯誤",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18754,7 +18876,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "作戦",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18780,7 +18902,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "殺人"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18804,7 +18926,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "寒気",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18830,7 +18952,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "作用"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18854,7 +18976,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "参照",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18879,7 +19001,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "残高",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18904,7 +19026,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "産物",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18930,7 +19052,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "山脈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18954,7 +19076,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "飼育",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -18981,7 +19103,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "座位"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19007,7 +19129,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "牛仔褲"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19033,7 +19155,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "牙科"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19060,7 +19182,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "事業"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19086,7 +19208,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "資金"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19112,7 +19234,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "死刑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19138,7 +19260,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "思考"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19162,7 +19284,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "事項",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19187,7 +19309,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "地獄",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19213,7 +19335,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "時刻表"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19238,7 +19360,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "資産",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19264,7 +19386,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "支持"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19289,7 +19411,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "刺繍",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19316,7 +19438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "市場"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19342,7 +19464,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "辭職"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19368,7 +19490,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "系統"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19394,7 +19516,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "設施"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19410,7 +19532,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1307980": {
     "sentence": "ご子息のご結婚を心よりお祝い申し上げます。",
-    "translation": "謹為另公子婚事獻上由衷祝福。",
+    "translation": "衷心祝賀令公子新婚。",
     "surface": "子息",
     "evidence": {
       "surface": "子息",
@@ -19418,7 +19540,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "子息",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19429,12 +19551,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "谨为另公子婚事献上由衷祝福。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1315810": {
     "sentence": "自転車は都会の環境を破壊することなく資源利用を持続することのできる道具である。",
-    "translation": "腳踏車是保護城市環境的一種工具。",
+    "translation": "自行車是一種能持續利用資源、又不破壞都市環境的工具。",
     "surface": "持続",
     "evidence": {
       "surface": "持続",
@@ -19442,7 +19564,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "持続",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19453,7 +19575,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "自行车是保护城市环境的一种工具。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "3554"
     }
   },
@@ -19469,7 +19591,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "自尊心"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19486,7 +19608,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1185180": {
     "sentence": "前の車を下取りに出して、新車を買ったんだ。",
-    "translation": "我用我的舊車換了一輛新的。",
+    "translation": "我把舊車折價抵購車款，買了一輛新車。",
     "surface": "下取り",
     "evidence": {
       "surface": "下取り",
@@ -19494,7 +19616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "下取り",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19505,7 +19627,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我用我的旧车换了一辆新的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "257300"
     }
   },
@@ -19519,7 +19641,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "実家",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19543,7 +19665,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "失脚",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19558,31 +19680,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "870753"
     }
   },
-  "n1-jmdict-1320950": {
-    "sentence": "シルヴィオ・ベルルスコーニはイタリアの政治家、現在のイタリア首相、また成功した実業家。",
-    "translation": "西爾維奧·貝盧斯科尼除了是一位義大利政治家和現任的義大利總理，也是一個成功的商人。",
-    "surface": "実業家",
-    "evidence": {
-      "surface": "実業家",
-      "reading": "じつぎょうか",
-      "lemma": "実業家",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "390717",
-      "zhId": "1329551",
-      "jaAuthor": "Scott",
-      "zhAuthor": "nickyeow",
-      "originalTranslation": "西爾維奧·貝盧斯科尼除了是一位意大利政治家和現任的意大利總理，也是一個成功的商人。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "441925"
-    }
-  },
   "n1-jmdict-1321260": {
     "sentence": "理論には実践が伴わなければならない。",
     "translation": "理論必須與實踐相隨。",
@@ -19595,7 +19692,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "實踐"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19612,7 +19709,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1321360": {
     "sentence": "放射能漏れの実態や安全確認することは難しいのです。",
-    "translation": "確認放射效能源洩漏的情況與安全是很困難的。",
+    "translation": "要確認放射性物質洩漏的實際狀況與安全性很困難。",
     "surface": "実態",
     "evidence": {
       "surface": "実態",
@@ -19620,7 +19717,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "実態",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19631,7 +19728,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "确认放射性能源泄漏的情况与安全是很困难的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1320080": {
@@ -19644,7 +19741,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "失調",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19670,7 +19767,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "嫉妒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19696,7 +19793,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "指出"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19722,7 +19819,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "自轉"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19738,7 +19835,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1060830": {
     "sentence": "映画のシナリオみたいですね。",
-    "translation": "簡直就像電影裡的一幕一樣，不是嗎？",
+    "translation": "簡直就像電影劇本一樣呢。",
     "surface": "シナリオ",
     "evidence": {
       "surface": "シナリオ",
@@ -19746,7 +19843,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "シナリオ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19757,7 +19854,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "简直就像电影里的一幕一样，不是吗？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "2737407"
     }
   },
@@ -19771,7 +19868,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "始発",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19797,7 +19894,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "使命"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19821,7 +19918,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "視野",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19848,7 +19945,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "社交"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19874,7 +19971,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "爵士樂"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19898,7 +19995,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "斜面",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19923,7 +20020,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ジャンパー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19949,7 +20046,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "收益"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -19976,7 +20073,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "修學"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20000,7 +20097,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "周期",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20027,7 +20124,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "員工"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20053,7 +20150,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "襲擊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20079,7 +20176,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "碩士"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20106,7 +20203,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "從事"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20133,7 +20230,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "充實"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20159,7 +20256,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "收集"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20185,7 +20282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "容納"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20211,7 +20308,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "主觀"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20228,7 +20325,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1327540": {
     "sentence": "去年手芸コースを取っていたのです。",
-    "translation": "我去年上了一堂藝術課。",
+    "translation": "我去年上了手工藝課程。",
     "surface": "手芸",
     "evidence": {
       "surface": "手芸",
@@ -20236,7 +20333,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手芸",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20247,7 +20344,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我去年上了一堂藝術課。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "19414"
     }
   },
@@ -20263,7 +20360,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "主權"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20287,7 +20384,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "主催",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20314,7 +20411,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "主食"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20340,7 +20437,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "主角"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20357,7 +20454,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1325840": {
     "sentence": "学生は自分の主体性を見失ってはならない。",
-    "translation": "學生不該忽略自己的身份。",
+    "translation": "學生不應失去自己的自主性。",
     "surface": "主体",
     "evidence": {
       "surface": "主体",
@@ -20365,7 +20462,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "主体",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20376,7 +20473,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "学生不该忽略自己的身份。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "21369"
     }
   },
@@ -20392,7 +20489,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "主題"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20416,7 +20513,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "出演",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20443,7 +20540,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "出血"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20452,32 +20549,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "fcbond",
       "zhAuthor": "ydcok",
       "originalTranslation": "我十四岁的时候，父亲死于蛛网膜下出血。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1338820": {
-    "sentence": "第三の性別の出現は、法的および行政上の問題を増やし、不必要な負担を生んでいる。",
-    "translation": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。",
-    "surface": "出現",
-    "evidence": {
-      "surface": "出現",
-      "reading": "しゅつげん",
-      "lemma": "出現",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "出現"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "13537676",
-      "zhId": "13128292",
-      "jaAuthor": "LeviHighway",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "第三性別的出現增加了法律和行政上的麻煩，徒增無謂的負擔。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -20495,7 +20566,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "生產"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20522,7 +20593,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "出生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20539,7 +20610,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1339340": {
     "sentence": "もう一頑張りすれば、あなたは出世するでしょう。",
-    "translation": "再努力一下，你的人生會成功的。",
+    "translation": "再加把勁，你應該就能飛黃騰達。",
     "surface": "出世",
     "evidence": {
       "surface": "出世",
@@ -20547,7 +20618,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "出世",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20558,13 +20629,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "再努力一下，你的人生会成功的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "31518"
     }
   },
   "n1-jmdict-1339880": {
     "sentence": "通常、私は８時４０分に出動する。",
-    "translation": "一般來說，我8:40下班。",
+    "translation": "通常我在八點四十分出動。",
     "surface": "出動",
     "evidence": {
       "surface": "出動",
@@ -20572,7 +20643,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "出動",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20583,7 +20654,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "一般來說，我8:40下班。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "4535651"
     }
   },
@@ -20599,7 +20670,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "支出"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20624,7 +20695,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "守備",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20650,7 +20721,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "樹木"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20676,7 +20747,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "樹立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20700,7 +20771,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "上位",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20727,7 +20798,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "上演"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20751,7 +20822,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "城下",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20778,7 +20849,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "上空"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20803,7 +20874,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "衝撃",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20830,7 +20901,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "作證"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20857,7 +20928,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "證據"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20883,7 +20954,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "上升"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20908,7 +20979,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "昇進",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20932,7 +21003,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "情勢",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20959,7 +21030,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同意"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20976,7 +21047,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1351900": {
     "sentence": "年越しに食べる餃子は家族団欒の象徴といえる。",
-    "translation": "說明年夜飯的餃子是親人團聚的象徵。",
+    "translation": "可以說，跨年時吃的餃子是家人團聚的象徵。",
     "surface": "象徴",
     "evidence": {
       "surface": "象徴",
@@ -20986,7 +21057,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "象徵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -20997,7 +21068,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "说明年夜饭的饺子是亲人团聚的象征。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1306280": {
@@ -21010,7 +21081,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "使用人",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21037,7 +21108,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "熱情"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21064,7 +21135,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "條約"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21090,7 +21161,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勝利"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21114,7 +21185,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "上陸",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21141,7 +21212,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "鼓勵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21167,7 +21238,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "表演"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21192,7 +21263,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "除外",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21219,7 +21290,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "職員"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21246,7 +21317,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "殖民"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21270,7 +21341,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "職務",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21296,7 +21367,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "建議"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21322,7 +21393,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "所在"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21336,33 +21407,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1343250": {
-    "sentence": "最近では、誰でも銃を所持している。",
-    "translation": "最近人人手裡都有一把槍。",
-    "surface": "所持",
-    "evidence": {
-      "surface": "所持",
-      "reading": "しょじ",
-      "lemma": "所持",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "5748443",
-      "zhId": "13949338",
-      "jaAuthor": "daifons",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "最近人人手裡都有一把槍。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1343310": {
     "sentence": "どこかのクラブに所属してるの？",
-    "translation": "您隸屬哪傢俱樂部嗎？",
+    "translation": "你有參加什麼社團嗎？",
     "surface": "所属",
     "evidence": {
       "surface": "所属",
@@ -21372,7 +21419,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "隸屬"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21383,7 +21430,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "您隶属哪家俱乐部吗？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "16278"
     }
   },
@@ -21399,7 +21446,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "處理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21426,7 +21473,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "助動詞"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21452,7 +21499,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "所得"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21476,7 +21523,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "処分",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21501,7 +21548,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "庶民",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21528,7 +21575,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "擁有"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21554,7 +21601,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "自立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21580,7 +21627,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "指令"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21596,7 +21643,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1366000": {
     "sentence": "我々はダーウィンといえば進化論を想像する。",
-    "translation": "一提到進化論，我們就會想起達爾文。",
+    "translation": "一提到達爾文，我們就會想到進化論。",
     "surface": "進化",
     "evidence": {
       "surface": "進化",
@@ -21606,7 +21653,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "進化"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21617,13 +21664,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "一提到進化論，我們就會想起達爾文。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "23153"
     }
   },
   "n1-jmdict-1366730": {
     "sentence": "私はいわゆる人格者は好きではない。",
-    "translation": "我對那些所謂有個性的人沒甚麼好感。",
+    "translation": "我不喜歡那些所謂品德高尚的人。",
     "surface": "人格",
     "evidence": {
       "surface": "人格",
@@ -21631,7 +21678,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "人格",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21642,7 +21689,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我對那些所謂有個性的人沒甚麼好感。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1360360": {
@@ -21655,7 +21702,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "審議",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21679,7 +21726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "新婚",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21703,7 +21750,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "審査",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21729,7 +21776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "人才"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21755,7 +21802,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "紳士"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21779,7 +21826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "信者",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21806,7 +21853,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "珍珠"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21830,7 +21877,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "心中",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21846,7 +21893,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1360720": {
     "sentence": "心情的には賛成、けれど現実的に反対します。",
-    "translation": "我感情上支援，但是理性上反對。",
+    "translation": "感情上贊成，不過從現實角度來說，我反對。",
     "surface": "心情",
     "evidence": {
       "surface": "心情",
@@ -21854,7 +21901,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "心情",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21865,7 +21912,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我感情上支持，但是理性上反对。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1361960": {
@@ -21880,7 +21927,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "新人"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21906,7 +21953,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "真相"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21932,7 +21979,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "新建"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21957,7 +22004,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "進展",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -21983,7 +22030,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "神殿"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22009,7 +22056,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "新生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22034,7 +22081,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "辛抱",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22060,7 +22107,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "侵略"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22086,7 +22133,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "推動"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22110,7 +22157,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "吹奏",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22137,7 +22184,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "推測"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22162,7 +22209,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "水田",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22188,7 +22235,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "推理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22215,7 +22262,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "崇拜"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22239,7 +22286,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "救い",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22266,7 +22313,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "罷工"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22293,7 +22340,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "罷工"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22318,7 +22365,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ずぶぬれ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22344,7 +22391,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "跑車"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22371,7 +22418,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "成果"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22397,7 +22444,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "正確答案"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22423,7 +22470,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "正義"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22450,7 +22497,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "生計"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22476,7 +22523,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "政權"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22503,7 +22550,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "星座"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22530,7 +22577,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "政策"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22539,56 +22586,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "\\N",
       "zhAuthor": "aliene",
       "originalTranslation": "这个政策导致物价大幅度的上升。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1379060": {
-    "sentence": "彼岸花、千年咲き、千年落ち、花と叶ずっと合えなく、情は因果に関系がなし、生死は縁で予め定められている。",
-    "translation": "彼岸花、開一千年、落一千年、花葉永不相見。情不為因果、縁註定生死。",
-    "surface": "生死",
-    "evidence": {
-      "surface": "生死",
-      "reading": "せいし",
-      "lemma": "生死",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "生死"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "347551",
-      "zhId": "347550",
-      "jaAuthor": "zhouj1955",
-      "zhAuthor": "zhouj1955",
-      "originalTranslation": "彼岸花、开一千年、落一千年、花叶永不相见。情不为因果、縁注定生死。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1381870": {
-    "sentence": "浅間山は今静止している。",
-    "translation": "淺間山現在是寂靜的。",
-    "surface": "静止",
-    "evidence": {
-      "surface": "静止",
-      "reading": "せいし",
-      "lemma": "静止",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "141226",
-      "zhId": "5655373",
-      "jaAuthor": "\\N",
-      "zhAuthor": "verdastelo9604",
-      "originalTranslation": "浅间山现在是寂静的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -22606,7 +22603,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "青春"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22632,7 +22629,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "聖經"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22648,7 +22645,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1376550": {
     "sentence": "雨天の後には晴天が来る。",
-    "translation": "風暴過後，太陽出來了。",
+    "translation": "雨天過後，晴天就會到來。",
     "surface": "晴天",
     "evidence": {
       "surface": "晴天",
@@ -22656,7 +22653,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "晴天",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22667,7 +22664,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "风暴过后，太阳出来了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1374940": {
@@ -22682,7 +22679,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "制服"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22708,7 +22705,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "征服"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22734,7 +22731,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勢力"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22758,7 +22755,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "セール",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22783,7 +22780,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "世辞",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22810,7 +22807,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "世代"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22835,7 +22832,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "セックス",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22861,7 +22858,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "接觸"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22885,7 +22882,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "設置",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22912,7 +22909,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "設定"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22938,7 +22935,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "說服"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22962,7 +22959,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "設立",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -22988,7 +22985,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "果凍"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23014,7 +23011,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "纖維"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23039,7 +23036,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "全快",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23064,7 +23061,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "宣言",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23091,7 +23088,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "戰術"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23118,7 +23115,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "品味"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23144,7 +23141,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "潛水"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23171,7 +23168,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "全盛"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23198,7 +23195,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "前途"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23224,7 +23221,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "戰鬥"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23248,7 +23245,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "占領",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23272,7 +23269,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "前例",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23297,7 +23294,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "総会",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23321,7 +23318,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "捜索",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23348,7 +23345,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "相對"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23372,7 +23369,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "相場",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23399,7 +23396,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "創立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23424,7 +23421,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ソース",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23451,7 +23448,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "促進"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23475,7 +23472,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "束縛",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23500,7 +23497,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "側面",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23524,7 +23521,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "素材",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23551,7 +23548,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "阻止"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23577,7 +23574,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "措施"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23604,7 +23601,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "襪子"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23630,7 +23627,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "雪橇"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23657,7 +23654,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "損失"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23683,7 +23680,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "一打"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23710,7 +23707,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "對應"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23735,7 +23732,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "体格",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23759,7 +23756,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "大金",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23783,7 +23780,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "体験",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23807,7 +23804,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "対抗",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23831,7 +23828,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "退治",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23855,7 +23852,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "大衆",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23881,7 +23878,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "處理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23907,7 +23904,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "退休"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23931,7 +23928,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "態勢",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23955,7 +23952,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "滞納",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -23982,7 +23979,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "打字員"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24009,7 +24006,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "計時器"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24036,7 +24033,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "時機"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24060,7 +24057,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "タイム",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24084,7 +24081,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "体力",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24109,7 +24106,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "対話",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24134,7 +24131,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "打開",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24161,7 +24158,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "妥協"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24188,7 +24185,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "加法"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24215,7 +24212,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "幫助"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24239,7 +24236,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "脱出",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24266,7 +24263,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "達成"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24290,7 +24287,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "脱退",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24315,7 +24312,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "タレント",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24339,7 +24336,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "タワー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24366,7 +24363,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "團結"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24393,7 +24390,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "探險"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24417,7 +24414,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "断言",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24441,7 +24438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "短縮",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24466,7 +24463,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "炭素",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24492,7 +24489,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "丈夫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24517,7 +24514,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "知性",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24544,7 +24541,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "秩序"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24571,7 +24568,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "降落"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24595,7 +24592,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "茶の間",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24622,7 +24619,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "頻道"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24649,7 +24646,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "忠告"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24675,7 +24672,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "中傷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24702,7 +24699,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "中立"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24729,7 +24726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "聽覺"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24754,7 +24751,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "調理",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24779,7 +24776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "調和",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24805,7 +24802,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "面臨"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24829,7 +24826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "著書",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24845,7 +24842,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1597700": {
     "sentence": "いつかは君も貯蓄の重要さを悟るようになるだろう。",
-    "translation": "你現在不好好儲蓄金錢的話，終有一天會後悔的。",
+    "translation": "總有一天，你也會明白儲蓄的重要性。",
     "surface": "貯蓄",
     "evidence": {
       "surface": "貯蓄",
@@ -24855,7 +24852,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "儲蓄"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24866,34 +24863,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "你現在不好好儲蓄金錢的話，終有一天會後悔的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "66364"
-    }
-  },
-  "n1-jmdict-1430850": {
-    "sentence": "彼は直感で彼女の嘘をついているとわかった。",
-    "translation": "他憑直覺發現她在撒謊。",
-    "surface": "直感",
-    "evidence": {
-      "surface": "直感",
-      "reading": "ちょっかん",
-      "lemma": "直感",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "直覺"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "102030",
-      "zhId": "9955893",
-      "jaAuthor": "\\N",
-      "zhAuthor": "GlossaMatik",
-      "originalTranslation": "他凭直觉发现她在撒谎。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
     }
   },
   "n1-jmdict-1431990": {
@@ -24908,7 +24879,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "工資"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24932,7 +24903,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "沈没",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24959,7 +24930,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "沉默"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -24983,7 +24954,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "陳列",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25008,7 +24979,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "追及",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25032,7 +25003,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "追跡",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25057,7 +25028,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "追放",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25082,7 +25053,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "墜落",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25106,7 +25077,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "使い道",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25130,7 +25101,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "勤め先",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25157,7 +25128,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "海嘯"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25173,7 +25144,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1598240": {
     "sentence": "成長期で、元気のない子供は医者に手当してもらう必要があろう。",
-    "translation": "一個成長中的孩子如果沒有充足的能量，可能需要藥物治療。",
+    "translation": "成長期的孩子若精神不振，可能需要請醫師診治。",
     "surface": "手当",
     "evidence": {
       "surface": "手当",
@@ -25183,7 +25154,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "治療"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25194,7 +25165,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "一个成长中的孩子如果没有充足的能量，可能需要药物治疗。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "402438"
     }
   },
@@ -25210,7 +25181,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "定義"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25236,7 +25207,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "提供"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25261,7 +25232,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "体裁",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25286,7 +25257,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "訂正",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25311,7 +25282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "定年",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25336,7 +25307,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "堤防",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25361,7 +25332,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手遅れ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25387,7 +25358,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "線索"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25413,7 +25384,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "適應"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25437,7 +25408,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手際",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25462,7 +25433,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手順",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25489,7 +25460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "鋼鐵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25514,7 +25485,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "てっぺん",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25541,7 +25512,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "安排"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25566,7 +25537,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手引",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25593,7 +25564,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "榜樣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25618,7 +25589,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "転換",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25644,7 +25615,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "檢查"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25671,7 +25642,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "天國"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25697,7 +25668,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "天才"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25723,7 +25694,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "展示"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25750,7 +25721,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "傳說"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25777,7 +25748,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "天體"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25801,7 +25772,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "伝達",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25826,7 +25797,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "天地",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25852,7 +25823,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同意"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25876,7 +25847,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "同感",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25901,7 +25872,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "陶器",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25927,7 +25898,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "討論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25954,7 +25925,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "動機"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -25979,7 +25950,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "同級",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26003,7 +25974,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "同居",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26028,7 +25999,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "登校",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26054,7 +26025,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "投資"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26080,7 +26051,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同情"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26105,7 +26076,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "当選",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26132,7 +26103,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "到達"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26156,7 +26127,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "当人",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26181,7 +26152,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "逃亡",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26208,7 +26179,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同盟"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26233,7 +26204,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "登録",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26259,7 +26230,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "討論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26285,7 +26256,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "獨裁"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26302,7 +26273,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1455870": {
     "sentence": "彼女は大きな家を独占している。",
-    "translation": "她給自己一間大房子。",
+    "translation": "她獨自占用了一棟大房子。",
     "surface": "独占",
     "evidence": {
       "surface": "独占",
@@ -26310,7 +26281,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "独占",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26321,7 +26292,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "她給自己一間大房子。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "311321"
     }
   },
@@ -26335,7 +26306,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "独創",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26360,7 +26331,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "得点",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26386,7 +26357,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "特派"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26403,7 +26374,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1598710": {
     "sentence": "きれいな花にはとげがある。",
-    "translation": "沒有不帶刺的玫瑰。",
+    "translation": "美麗的花都有刺。",
     "surface": "とげ",
     "evidence": {
       "surface": "とげ",
@@ -26411,7 +26382,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "とげ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26422,7 +26393,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "沒有不帶刺的玫瑰。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "1636183"
     }
   },
@@ -26438,7 +26409,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "專利"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26464,7 +26435,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "特權"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26476,31 +26447,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1598780": {
-    "sentence": "好きなだけとって食べなさい。",
-    "translation": "你想吃多少就吃多少。",
-    "surface": "とって",
-    "evidence": {
-      "surface": "とって",
-      "reading": "とって",
-      "lemma": "とって",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "173810",
-      "zhId": "421304",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "你想吃多少就吃多少。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "8639"
     }
   },
   "n1-jmdict-1457100": {
@@ -26515,7 +26461,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "突破"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26539,7 +26485,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "土手",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26566,7 +26512,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "步行"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26592,7 +26538,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "駕駛"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26618,7 +26564,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "麻煩"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26645,7 +26591,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "電晶體"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26670,7 +26616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取扱",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26694,7 +26640,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取引",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26719,7 +26665,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "度忘れ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26746,7 +26692,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "秘密"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26771,7 +26717,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ナイター",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26797,7 +26743,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "內部"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26823,7 +26769,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "水槽"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26849,7 +26795,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "同情"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26876,7 +26822,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "餐巾"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26901,7 +26847,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "名札",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26928,7 +26874,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "煩惱"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26952,7 +26898,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "にきび",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -26979,7 +26925,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "肉體"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27005,7 +26951,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "打包"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27021,7 +26967,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1466290": {
     "sentence": "登録用紙は無料で入手できます。",
-    "translation": "我可以免費獲取一份登錄檔格。",
+    "translation": "可以免費取得登記表格。",
     "surface": "入手",
     "evidence": {
       "surface": "入手",
@@ -27029,7 +26975,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "入手",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27040,7 +26986,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我可以免费获取一份注册表格。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1466330": {
@@ -27053,7 +26999,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "入賞",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27078,7 +27024,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "入浴",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27102,7 +27048,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "認識",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27128,7 +27074,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "懷孕"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27154,7 +27100,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "任務"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27181,7 +27127,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "任命"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27207,7 +27153,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "音色"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27232,7 +27178,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "熱湯",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27257,7 +27203,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "値引き",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27283,7 +27229,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "賀年"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27310,7 +27256,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "燃燒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27336,7 +27282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "燃料"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27363,7 +27309,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "農場"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27389,7 +27335,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "酒吧"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27405,7 +27351,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1470910": {
     "sentence": "彼はその情況を把握していた。",
-    "translation": "他控制了大局。",
+    "translation": "他掌握了當時的情況。",
     "surface": "把握",
     "evidence": {
       "surface": "把握",
@@ -27413,7 +27359,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "把握",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27424,7 +27370,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他控制了大局。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "291048"
     }
   },
@@ -27440,7 +27386,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "兼職"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27466,7 +27412,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "廢棄"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27492,7 +27438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "背景"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27518,7 +27464,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "背後"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27544,7 +27490,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "廢止"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27568,7 +27514,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "拝借",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27593,7 +27539,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "排除",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27619,7 +27565,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "賠償"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27636,7 +27582,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1473150": {
     "sentence": "その日本庭園には石が見事に配置されている。",
-    "translation": "石頭被美麗得放置在日式庭園裡。",
+    "translation": "那座日式庭園中的石頭配置得十分精妙。",
     "surface": "配置",
     "evidence": {
       "surface": "配置",
@@ -27644,7 +27590,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "配置",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27655,7 +27601,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "石頭被美麗得放置在日式庭園裡。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "44569"
     }
   },
@@ -27669,7 +27615,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "敗北",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27693,7 +27639,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "倍率",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27710,7 +27656,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1473210": {
     "sentence": "彼女は個人的な配慮をした。",
-    "translation": "她親自過問了此事。",
+    "translation": "她做了個別的照顧與考量。",
     "surface": "配慮",
     "evidence": {
       "surface": "配慮",
@@ -27718,7 +27664,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "配慮",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27729,7 +27675,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "她親自過問了此事。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "311103"
     }
   },
@@ -27743,7 +27689,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "破壊",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27768,7 +27714,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "破棄",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27793,7 +27739,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "白状",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27819,7 +27765,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "炸彈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27843,7 +27789,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "爆破",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27870,7 +27816,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "揭露"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27895,7 +27841,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "派遣",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27922,7 +27868,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "睡衣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27946,7 +27892,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "破損",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27972,7 +27918,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "蜂蜜"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -27996,7 +27942,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "発言",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28022,7 +27968,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "發生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28049,7 +27995,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "電池"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28073,7 +28019,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "初耳",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28098,7 +28044,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "果て",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28123,7 +28069,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "パトカー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28149,7 +28095,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "花瓣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28164,30 +28110,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "23743"
     }
   },
-  "n1-jmdict-1490720": {
-    "sentence": "この町は浜辺が二つです。",
-    "translation": "這座城市有兩個海灘。",
-    "surface": "浜辺",
-    "evidence": {
-      "surface": "浜辺",
-      "reading": "はまべ",
-      "lemma": "浜辺",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "8736330",
-      "zhId": "10275084",
-      "jaAuthor": "chanchan",
-      "zhAuthor": "DaoSeng",
-      "originalTranslation": "這座城市有兩個海灘。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1501290": {
     "sentence": "腹立ちまぎれに彼は言いたい放題のことを言って、帰って行った。",
     "translation": "他在氣頭上，說了所有他想說的話就回家了。",
@@ -28198,7 +28120,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "腹立ち",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28223,7 +28145,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "破裂",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28249,7 +28171,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "繁榮"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28276,7 +28198,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "衣架"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28300,7 +28222,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "パンク",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28324,7 +28246,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "反撃",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28350,7 +28272,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "判決"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28367,7 +28289,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1481700": {
     "sentence": "２、３ヶ月後、彼らは北極にある繁殖地へと戻っていきます。",
-    "translation": "數月後，牠們回到了北極的繁殖地。",
+    "translation": "兩三個月後，牠們就會返回北極的繁殖地。",
     "surface": "繁殖",
     "evidence": {
       "surface": "繁殖",
@@ -28377,7 +28299,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "繁殖"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28388,13 +28310,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "數月後，牠們回到了北極的繁殖地。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "73021"
     }
   },
   "n1-jmdict-1478660": {
     "sentence": "審判の判定は覆らない。",
-    "translation": "法官判決定讞。",
+    "translation": "裁判的判定不會被推翻。",
     "surface": "判定",
     "evidence": {
       "surface": "判定",
@@ -28402,7 +28324,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "判定",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28413,7 +28335,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "法官判決定讞。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "268941"
     }
   },
@@ -28429,7 +28351,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "晚年"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28455,7 +28377,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "反應"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28481,7 +28403,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "萬能"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28507,7 +28429,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "反彈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28533,7 +28455,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "叛亂"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28559,7 +28481,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "氾濫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28585,7 +28507,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "悲觀"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28611,7 +28533,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "生意"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28637,7 +28559,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "美術"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28662,7 +28584,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "秘書",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28688,7 +28610,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "微笑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28715,7 +28637,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "左撇子"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28740,7 +28662,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "匹敵",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28765,7 +28687,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一息",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28792,7 +28714,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "人質"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28816,7 +28738,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "日取り",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28840,7 +28762,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "日向",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28865,7 +28787,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "非難",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28889,7 +28811,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "避難",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28915,7 +28837,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "尖叫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28941,7 +28863,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "曬黑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28957,7 +28879,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1488680": {
     "sentence": "標語は「未来へ！！夢に向かってさあ走ろう！！」である。",
-    "translation": "標語是「前往未來！前往夢境吧！」",
+    "translation": "標語是「邁向未來！朝著夢想奔跑吧！」",
     "surface": "標語",
     "evidence": {
       "surface": "標語",
@@ -28967,7 +28889,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "標語"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -28978,7 +28900,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "標語是「前往未來！前往夢境吧！」",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1490140": {
@@ -28991,7 +28913,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "描写",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29016,7 +28938,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "びり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29043,7 +28965,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "午餐"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29058,31 +28980,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "296636"
     }
   },
-  "n1-jmdict-1483700": {
-    "sentence": "マフィンを受ける数は、IRCでしゃべる回数に反比例して変化する。",
-    "translation": "你能得到鬆餅數量將和你去IRC聊天的次數成反比。",
-    "surface": "比例",
-    "evidence": {
-      "surface": "比例",
-      "reading": "ひれい",
-      "lemma": "比例",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "604646",
-      "zhId": "414973",
-      "jaAuthor": "saeb",
-      "zhAuthor": "sysko",
-      "originalTranslation": "你能得到松饼数量将和你去IRC聊天的次数成反比。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "415158"
-    }
-  },
   "n1-jmdict-1483780": {
     "sentence": "初期のジェット旅客機の墜落事故は、機体とエンジンの金属疲労のような、技術的欠陥が原因で起こることが多かった。",
     "translation": "早期的噴射客機墜機事故，多半是因為機體或引擎的金屬疲勞等技術性缺陷而發生的。",
@@ -29095,7 +28992,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "疲勞"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29111,7 +29008,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1490580": {
     "sentence": "こちらの製品は同じ品質になります。",
-    "translation": "這些產品質量同等。",
+    "translation": "這些產品的品質相同。",
     "surface": "品質",
     "evidence": {
       "surface": "品質",
@@ -29121,7 +29018,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "品質"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29132,12 +29029,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "这些产品质量同等。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1104300": {
     "sentence": "ひとつのヒントに目を輝かせた女の子は、可愛らしい猫型のシャープペンシルをノートに走らせていく。",
-    "translation": "這女孩的眼睛閃爍著光亮, 這個暗示讓她可愛的貓圖案自動鉛筆越過了她的筆記本。",
+    "translation": "因為得到了一個提示，女孩眼睛一亮，用可愛的貓造型自動鉛筆在筆記本上寫了起來。",
     "surface": "ヒント",
     "evidence": {
       "surface": "ヒント",
@@ -29145,7 +29042,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ヒント",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29156,7 +29053,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "這女孩的眼睛閃爍著光亮, 這個暗示讓她可愛的貓圖案自動鉛筆越過了她的筆記本。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "328192"
     }
   },
@@ -29173,7 +29070,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "檔案",
         "資料夾"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29189,7 +29086,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1108540": {
     "sentence": "彼は新人俳優ながら、すでに多くのファンの支持を得ている。",
-    "translation": "他雖然是新演員，但已經累積不少粉絲支援。",
+    "translation": "他雖然是新人演員，卻已獲得許多粉絲的支持。",
     "surface": "ファン",
     "evidence": {
       "surface": "ファン",
@@ -29199,7 +29096,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "粉絲"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29210,7 +29107,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他雖然是新演員，但已經累積不少粉絲支持。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1499650": {
@@ -29225,7 +29122,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "封鎖"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29251,7 +29148,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "風俗習慣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29278,7 +29175,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "靴子"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29292,31 +29189,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1110340": {
-    "sentence": "これらのフォームのアカウントを私はもってません。",
-    "translation": "我在這些論壇上沒有帳號。",
-    "surface": "フォーム",
-    "evidence": {
-      "surface": "フォーム",
-      "reading": "フォーム",
-      "lemma": "フォーム",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "181953",
-      "zhId": "501352",
-      "jaAuthor": "sugisaki",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "我在这些论坛上没有帐号。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "1381"
-    }
-  },
   "n1-jmdict-1499350": {
     "sentence": "司令官は部下に向かって直ちに発砲するよう命令を発した。",
     "translation": "指揮官要求士兵立刻開火。",
@@ -29327,7 +29199,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "部下",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29351,7 +29223,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "複合",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29376,7 +29248,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "福祉",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29401,7 +29273,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "布告",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29427,7 +29299,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "負債"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29454,7 +29326,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "受傷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29481,7 +29353,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "武裝"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29508,7 +29380,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "負擔"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29535,7 +29407,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "復活"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29562,7 +29434,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "修復"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29588,7 +29460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "物資"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29615,7 +29487,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "佛像"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29642,7 +29514,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "物體"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29669,7 +29541,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "沸騰"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29695,7 +29567,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不受歡迎"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29719,7 +29591,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "扶養",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29734,30 +29606,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "303618"
     }
   },
-  "n1-jmdict-1114300": {
-    "sentence": "ブルジュ・ハリファは現在、世界で最も高い超高層ビルです。",
-    "translation": "哈里發塔是現時世界上最高的摩天大樓。",
-    "surface": "ブル",
-    "evidence": {
-      "surface": "ブル",
-      "reading": "ブル",
-      "lemma": "ブル",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "1510170",
-      "zhId": "1530737",
-      "jaAuthor": "Balamax",
-      "zhAuthor": "Balamax",
-      "originalTranslation": "哈里發塔是現時世界上最高的摩天大樓。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1112990": {
     "sentence": "車のフロントガラスが粉々に割れたの。",
     "translation": "車頭的擋風玻璃被砸至粉碎。",
@@ -29768,7 +29616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "フロント",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29795,7 +29643,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "書面語"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29821,7 +29669,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "分子"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29846,7 +29694,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "紛失",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29872,7 +29720,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "文件"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29898,7 +29746,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "紛爭"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29925,7 +29773,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "分擔"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29950,7 +29798,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "奮闘",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -29975,7 +29823,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "分配",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30002,7 +29850,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "武器"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30028,7 +29876,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "封閉"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30055,7 +29903,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "士兵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30081,7 +29929,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "平方"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30105,7 +29953,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ベース",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30130,7 +29978,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ベストセラー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30147,7 +29995,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1512760": {
     "sentence": "彼は私の弁解を認めてくれなかった。",
-    "translation": "他不接受我的道歉。",
+    "translation": "他不接受我的辯解。",
     "surface": "弁解",
     "evidence": {
       "surface": "弁解",
@@ -30155,7 +30003,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "弁解",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30166,7 +30014,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他不接受我的道歉。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "297990"
     }
   },
@@ -30180,7 +30028,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "便宜",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30207,7 +30055,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "偏見"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30231,7 +30079,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "弁護",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30255,7 +30103,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "返済",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30271,7 +30119,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1512980": {
     "sentence": "弁償させてくれよ。",
-    "translation": "我喜歡替換。",
+    "translation": "讓我賠償吧。",
     "surface": "弁償",
     "evidence": {
       "surface": "弁償",
@@ -30279,7 +30127,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "弁償",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30290,7 +30138,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我喜欢替换。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "135015"
     }
   },
@@ -30304,7 +30152,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "返答",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30328,7 +30176,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "変動",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30344,7 +30192,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1513290": {
     "sentence": "息子の保育園の保母さんにクレームをつけたいと思っています。",
-    "translation": "我想對兒子育幼院的保母抱怨。",
+    "translation": "我想向兒子托兒所的保育員提出抱怨。",
     "surface": "保育",
     "evidence": {
       "surface": "保育",
@@ -30352,7 +30200,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "保育",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30363,7 +30211,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我想對兒子育幼院的保母抱怨。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1124860": {
@@ -30376,7 +30224,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ポイント",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30392,7 +30240,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1517160": {
     "sentence": "法案は激しい論争ののち議会を通過した。",
-    "translation": "該法案在眾議院爭議後獲得透過。",
+    "translation": "法案經過激烈爭論後，在議會獲得通過。",
     "surface": "法案",
     "evidence": {
       "surface": "法案",
@@ -30402,7 +30250,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "法案"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30413,7 +30261,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "該法案在眾議院爭議後獲得通過。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "321028"
     }
   },
@@ -30427,7 +30275,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "防火",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30453,7 +30301,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "崩潰"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30478,7 +30326,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "妨害",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30495,7 +30343,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1517230": {
     "sentence": "彼は法学修士の学位を得た。",
-    "translation": "他得到了法學學位。",
+    "translation": "他取得了法學碩士學位。",
     "surface": "法学",
     "evidence": {
       "surface": "法学",
@@ -30505,7 +30353,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "法學"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30516,7 +30364,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他得到了法学学位。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "353481"
     }
   },
@@ -30532,7 +30380,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "封建"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30557,7 +30405,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "豊作",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30584,7 +30432,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "方式"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30600,7 +30448,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1516600": {
     "sentence": "放射能漏れの実態や安全確認することは難しいのです。",
-    "translation": "確認放射效能源洩漏的情況與安全是很困難的。",
+    "translation": "要確認放射性物質洩漏的實際狀況與安全性很困難。",
     "surface": "放射",
     "evidence": {
       "surface": "放射",
@@ -30610,7 +30458,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "放射"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30621,7 +30469,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "确认放射性能源泄漏的情况与安全是很困难的。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1516690": {
@@ -30636,7 +30484,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "放射性"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30662,7 +30510,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "報酬"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30689,7 +30537,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "釋放",
         "放出"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30713,7 +30561,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "放置",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30740,7 +30588,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "法庭"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30766,7 +30614,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "報導"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30783,7 +30631,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1519520": {
     "sentence": "暴動が起こったとき、当直の監視員はたった１人だった。",
-    "translation": "暴動開始時只有一位監獄長值班。",
+    "translation": "暴動發生時，值班的看守只有一人。",
     "surface": "暴動",
     "evidence": {
       "surface": "暴動",
@@ -30793,7 +30641,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "暴動"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30804,13 +30652,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "暴動開始時只有一位監獄長值班。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "321200"
     }
   },
   "n1-jmdict-1518050": {
     "sentence": "彼女は彼を責めるどころか、彼に褒美をあげた。",
-    "translation": "她不僅沒責怪他，反而稱讚他。",
+    "translation": "她非但沒責備他，反而給了他獎賞。",
     "surface": "褒美",
     "evidence": {
       "surface": "褒美",
@@ -30818,7 +30666,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "褒美",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30829,7 +30677,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "她不仅没责怪他，反而称赞他。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "459249"
     }
   },
@@ -30845,7 +30693,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "暴力"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30870,7 +30718,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ポーズ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30896,7 +30744,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "大廳"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30920,7 +30768,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "捕獲",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30946,7 +30794,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "保管"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30970,7 +30818,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "補給",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -30997,7 +30845,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "牧師"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31023,7 +30871,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "保險"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31049,7 +30897,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "祖國"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31075,7 +30923,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "保守"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31100,7 +30948,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "舗装",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31125,7 +30973,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "墓地",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31151,7 +30999,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "發作"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31175,7 +31023,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ポット",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31200,7 +31048,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ほとり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31217,7 +31065,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1514260": {
     "sentence": "彼は捕虜になった。",
-    "translation": "他被囚禁了。",
+    "translation": "他成了俘虜。",
     "surface": "捕虜",
     "evidence": {
       "surface": "捕虜",
@@ -31225,7 +31073,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "捕虜",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31236,7 +31084,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他被囚禁了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "303607"
     }
   },
@@ -31252,7 +31100,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "正式"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31279,7 +31127,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "本質"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31296,7 +31144,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1522250": {
     "sentence": "本音を言えよ。",
-    "translation": "告訴我真相。",
+    "translation": "說出你的真心話吧。",
     "surface": "本音",
     "evidence": {
       "surface": "本音",
@@ -31304,7 +31152,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "本音",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31315,7 +31163,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "告訴我真相。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "321441"
     }
   },
@@ -31331,7 +31179,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "本能"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31356,7 +31204,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "本名",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31365,30 +31213,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "tommy_san",
       "zhAuthor": "huangfen",
       "originalTranslation": "我的外号跟我的真名没有任何关系。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1126140": {
-    "sentence": "マークの本はとても面白いです。",
-    "translation": "馬克的書非常有趣。",
-    "surface": "マーク",
-    "evidence": {
-      "surface": "マーク",
-      "reading": "マーク",
-      "lemma": "マーク",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "13542988",
-      "zhId": "2318417",
-      "jaAuthor": "LeviHighway",
-      "zhAuthor": "User5120",
-      "originalTranslation": "马克的书非常有趣。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -31404,7 +31228,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "真下",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31429,7 +31253,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "待ち合わせ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31454,7 +31278,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "麻痺",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31481,7 +31305,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "滿月"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31505,7 +31329,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "未開",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31532,7 +31356,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "希望"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31559,7 +31383,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "未婚"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31583,7 +31407,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "未知",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31610,7 +31434,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "密集"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31636,7 +31460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "密度"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31661,7 +31485,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見通し",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31686,7 +31510,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "身なり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31710,7 +31534,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "身振り",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31737,7 +31561,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "民族"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31763,7 +31587,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "無線電"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31788,7 +31612,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "無駄遣い",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31800,31 +31624,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1532090": {
-    "sentence": "一発で命中しなくたって、妊娠するまでハメ続ければいいだけだし。",
-    "translation": "即使我們第一次不夠幸運, 我們可以就一直做愛直到我懷孕。",
-    "surface": "命中",
-    "evidence": {
-      "surface": "命中",
-      "reading": "めいちゅう",
-      "lemma": "命中",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "75265",
-      "zhId": "793336",
-      "jaAuthor": "fcbond",
-      "zhAuthor": "Martha",
-      "originalTranslation": "即使我們第一次不夠幸運, 我們可以就一直做愛直到我懷孕。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "1317859"
     }
   },
   "n1-jmdict-1531830": {
@@ -31839,7 +31638,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "名冊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31863,7 +31662,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "恵み",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31890,7 +31689,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "滅亡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31917,7 +31716,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "旋律"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31942,7 +31741,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "面会",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31958,7 +31757,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1533590": {
     "sentence": "なんとも面目ありません。",
-    "translation": "我沒有藉口。",
+    "translation": "實在慚愧，無顏見人。",
     "surface": "面目",
     "evidence": {
       "surface": "面目",
@@ -31966,7 +31765,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "面目",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -31977,7 +31776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我没有借口。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "36027"
     }
   },
@@ -31993,7 +31792,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "申請"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32018,7 +31817,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "申し分",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32044,7 +31843,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "汽車旅館"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32070,7 +31869,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "模型"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32096,7 +31895,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "戶外"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32113,7 +31912,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1538040": {
     "sentence": "役職は何ですか？",
-    "translation": "你的職業是什麼?",
+    "translation": "你的職位是什麼？",
     "surface": "役職",
     "evidence": {
       "surface": "役職",
@@ -32121,7 +31920,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "役職",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32132,7 +31931,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "你的職業是什麼?",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "17125"
     }
   },
@@ -32146,7 +31945,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "屋敷",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32172,7 +31971,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "野心"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32199,7 +31998,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "黃昏"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32225,7 +32024,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貸款"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32249,7 +32048,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "融通",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32276,7 +32075,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "優先"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32302,7 +32101,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "引導"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32327,7 +32126,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "夕焼け",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32353,7 +32152,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "幽靈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32379,7 +32178,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "誘惑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32403,7 +32202,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ゆとり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32428,7 +32227,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "要因",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32444,7 +32243,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1546250": {
     "sentence": "どのようなご用件でいらっしゃいましたか。",
-    "translation": "是什麼風把你吹來了啊？",
+    "translation": "請問您這次來有什麼事？",
     "surface": "用件",
     "evidence": {
       "surface": "用件",
@@ -32452,7 +32251,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "用件",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32463,7 +32262,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "是什么风把你吹来了啊？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "16502"
     }
   },
@@ -32479,7 +32278,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "表格"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32503,7 +32302,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "様式",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32529,7 +32328,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "要求"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32556,7 +32355,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "用品"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32573,7 +32372,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1546410": {
     "sentence": "薬を服用するときは、ビンに書いてある用法に注意深く従いなさい。",
-    "translation": "吃藥之前一定要仔細看說明書。",
+    "translation": "服藥時，請仔細遵守瓶身標示的用法。",
     "surface": "用法",
     "evidence": {
       "surface": "用法",
@@ -32581,7 +32380,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "用法",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32592,13 +32391,13 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "吃药之前一定要仔细看说明书。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "324243"
     }
   },
   "n1-jmdict-1546830": {
     "sentence": "ご要望にお応えできずに申しわけありません。",
-    "translation": "很抱歉，我們不能接受你的要求。",
+    "translation": "很抱歉，無法滿足您的要求。",
     "surface": "要望",
     "evidence": {
       "surface": "要望",
@@ -32608,7 +32407,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "要求"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32619,7 +32418,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "很抱歉，我们不能接受你的要求。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "54300"
     }
   },
@@ -32635,7 +32434,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "閒暇"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32651,7 +32450,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1542910": {
     "sentence": "嫌な予感が的中した。",
-    "translation": "不詳的預感靈驗了。",
+    "translation": "不祥的預感成真了。",
     "surface": "予感",
     "evidence": {
       "surface": "予感",
@@ -32661,7 +32460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "預感"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32672,7 +32471,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "不详的预感灵验了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1545020": {
@@ -32685,7 +32484,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "預金",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32710,7 +32509,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "抑圧",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32736,7 +32535,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "浴室"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32761,7 +32560,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "欲望",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32787,7 +32586,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "預言"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32811,7 +32610,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "汚れ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32835,7 +32634,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "余地",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32861,7 +32660,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "米飯"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32886,7 +32685,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "落下",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32913,7 +32712,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "樂觀"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32937,7 +32736,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ランプ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32961,7 +32760,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "利子",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -32985,7 +32784,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "理性",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33012,7 +32811,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "立方"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33039,7 +32838,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "立法"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33063,7 +32862,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "利点",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33079,7 +32878,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1551990": {
     "sentence": "PKOが何の略語だか知ってる？",
-    "translation": "你知道PKO是什麼意思嗎？",
+    "translation": "你知道 PKO 是什麼的縮寫嗎？",
     "surface": "略語",
     "evidence": {
       "surface": "略語",
@@ -33087,7 +32886,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "略語",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33098,7 +32897,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "你知道PKO是什么意思吗？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1554720": {
@@ -33111,7 +32910,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "領域",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33136,7 +32935,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "良識",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33163,7 +32962,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "良心"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33190,7 +32989,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "領土"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33214,7 +33013,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "旅客",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33241,7 +33040,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "履歷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33268,7 +33067,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "理論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33294,7 +33093,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "相似"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33318,7 +33117,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "冷蔵",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33342,7 +33141,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レース",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33359,7 +33158,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1144790": {
     "sentence": "レギュラーを５ガロンお願いします。",
-    "translation": "請照平常一樣五加侖。",
+    "translation": "請給我五加侖普通汽油。",
     "surface": "レギュラー",
     "evidence": {
       "surface": "レギュラー",
@@ -33367,7 +33166,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レギュラー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33378,7 +33177,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "請照平常一樣五加侖。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "29527"
     }
   },
@@ -33392,7 +33191,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レッスン",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33418,7 +33217,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "女士"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33443,7 +33242,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "恋愛",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33467,7 +33266,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レンジ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33481,31 +33280,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1559660": {
-    "sentence": "荷物が遅れた場合、特別な連帯保険がある。",
-    "translation": "萬一船運遲了，我們有特別的遲到保險。",
-    "surface": "連帯",
-    "evidence": {
-      "surface": "連帯",
-      "reading": "れんたい",
-      "lemma": "連帯",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "186553",
-      "zhId": "812222",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "万一船运迟了，我们有特别的迟到保险。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "23689"
-    }
-  },
   "n1-jmdict-1146160": {
     "sentence": "休暇で出かけるときは、レンタカーを借りるよ。",
     "translation": "去度假的時候我要租輛車。",
@@ -33516,7 +33290,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レンタカー",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33544,7 +33318,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "那群",
         "群人"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33568,7 +33342,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "レントゲン",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33592,7 +33366,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "連邦",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33619,7 +33393,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "浪費"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33643,7 +33417,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "労力",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33668,7 +33442,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ロープ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33694,7 +33468,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "爭論"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33720,7 +33494,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "邏輯"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33746,7 +33520,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "行星"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33770,7 +33544,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "詫び",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33794,7 +33568,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "明かす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33838,7 +33612,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "明かす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -33866,7 +33640,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "欺騙"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33912,7 +33686,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "欺騙"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -33940,7 +33714,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "著急"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -33986,7 +33760,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "著急"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34004,7 +33778,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1271300": {
     "sentence": "誤って洗剤を飲んでしまいました。",
-    "translation": "他誤吞了洗衣粉。",
+    "translation": "我不小心喝下了清潔劑。",
     "surface": "誤っ",
     "evidence": {
       "surface": "誤っ",
@@ -34012,7 +33786,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "誤る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34023,7 +33797,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他误吞了洗衣粉。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -34048,7 +33822,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "誤って洗剤を飲んでしまいました。",
-        "translation": "他誤吞了洗衣粉。",
+        "translation": "我不小心喝下了清潔劑。",
         "surface": "誤っ",
         "evidence": {
           "surface": "誤っ",
@@ -34056,7 +33830,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "誤る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34067,7 +33841,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "他误吞了洗衣粉。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
@@ -34082,7 +33856,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "歩む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34127,7 +33901,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "歩む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34154,7 +33928,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "荒らす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34198,7 +33972,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "荒らす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34224,7 +33998,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "改まる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34268,7 +34042,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "改まる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34296,7 +34070,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "平凡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34343,7 +34117,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "平凡"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34370,7 +34144,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "生かす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34414,7 +34188,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "生かす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34432,7 +34206,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1587190": {
     "sentence": "花瓶に花を生けました。",
-    "translation": "我把花兒放到花瓶裡了。",
+    "translation": "我在花瓶裡插了花。",
     "surface": "生け",
     "evidence": {
       "surface": "生け",
@@ -34440,7 +34214,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "生ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34451,7 +34225,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我把花兒放到花瓶裡了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -34476,7 +34250,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "花瓶に花を生けました。",
-        "translation": "我把花兒放到花瓶裡了。",
+        "translation": "我在花瓶裡插了花。",
         "surface": "生け",
         "evidence": {
           "surface": "生け",
@@ -34484,7 +34258,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "生ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34495,7 +34269,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "我把花兒放到花瓶裡了。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
@@ -34510,7 +34284,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "いじる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34554,7 +34328,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "いじる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34580,7 +34354,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "いたわる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34625,7 +34399,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "いたわる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34654,7 +34428,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "挑戰"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34701,7 +34475,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "挑戰"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34720,7 +34494,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1329580": {
     "sentence": "教習生全員が、運転免許試験に受かりました。",
-    "translation": "所有學員都透過了駕照考試。",
+    "translation": "所有學員都通過了駕照考試。",
     "surface": "受かり",
     "evidence": {
       "surface": "受かり",
@@ -34728,7 +34502,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "受かる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34739,7 +34513,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "所有學員都通過了駕照考試。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -34764,7 +34538,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "教習生全員が、運転免許試験に受かりました。",
-        "translation": "所有學員都透過了駕照考試。",
+        "translation": "所有學員都通過了駕照考試。",
         "surface": "受かり",
         "evidence": {
           "surface": "受かり",
@@ -34772,7 +34546,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "受かる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34783,7 +34557,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "所有學員都通過了駕照考試。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
@@ -34800,7 +34574,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "接受"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34846,7 +34620,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "接受"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34874,7 +34648,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "繼承"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34920,7 +34694,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "繼承"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -34946,7 +34720,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "受け止める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -34990,7 +34764,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "受け止める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35016,7 +34790,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "打ち明ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35060,7 +34834,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "打ち明ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35086,7 +34860,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "打ち込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35131,7 +34905,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "打ち込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35158,7 +34932,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "売り出す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35203,7 +34977,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "売り出す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35230,7 +35004,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "植わる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35274,7 +35048,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "植わる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35302,7 +35076,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "扮演"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35348,7 +35122,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "扮演"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35376,7 +35150,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "扮演"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35422,7 +35196,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "扮演"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35448,7 +35222,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "追い込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35493,7 +35267,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "追い込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35512,7 +35286,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1432350": {
     "sentence": "バーから追い出されたことある？",
-    "translation": "有被從bar裡趕出來的經歷嗎？",
+    "translation": "你有被酒吧趕出來過嗎？",
     "surface": "追い出さ",
     "evidence": {
       "surface": "追い出さ",
@@ -35520,7 +35294,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "追い出す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35531,7 +35305,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "有被从bar里赶出来的经历吗？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "13192427"
     },
     "variants": [
@@ -35557,7 +35331,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "バーから追い出されたことある？",
-        "translation": "有被從bar裡趕出來的經歷嗎？",
+        "translation": "你有被酒吧趕出來過嗎？",
         "surface": "追い出さ",
         "evidence": {
           "surface": "追い出さ",
@@ -35565,7 +35339,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "追い出す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35576,7 +35350,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "有被从bar里赶出来的经历吗？",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "13192427"
         }
       }
@@ -35592,7 +35366,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "老いる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35637,7 +35411,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "老いる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35654,76 +35428,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1481550": {
-    "sentence": "名古屋大学には女生徒が法を犯す伝統がある。",
-    "translation": "名古屋大學有女生犯法的傳統。",
-    "surface": "犯す",
-    "evidence": {
-      "surface": "犯す",
-      "reading": "おかす",
-      "lemma": "犯す",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "4292145",
-      "zhId": "13632049",
-      "jaAuthor": "admiral",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "名古屋大學有女生犯法的傳統。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "犯す",
-        "reading": "おかす",
-        "surface": "犯す",
-        "sentence": "彼は法律で禁じられた罪を犯す。",
-        "translation": "他犯下法律禁止的罪行。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "犯して",
-        "reading": "おかして",
-        "surface": "犯して",
-        "sentence": "彼は法律で禁じられた罪を犯しています。",
-        "translation": "他犯了罪。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "名古屋大学には女生徒が法を犯す伝統がある。",
-        "translation": "名古屋大學有女生犯法的傳統。",
-        "surface": "犯す",
-        "evidence": {
-          "surface": "犯す",
-          "reading": "おかす",
-          "lemma": "犯す",
-          "method": "token-boundaries+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "4292145",
-          "zhId": "13632049",
-          "jaAuthor": "admiral",
-          "zhAuthor": "LeviHighway",
-          "originalTranslation": "名古屋大學有女生犯法的傳統。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1330490": {
     "sentence": "最後には全てがうまく収まるといいんだけど。",
     "translation": "我希望最後一切都好。",
@@ -35734,7 +35438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "収まる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35779,7 +35483,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "収まる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35798,7 +35502,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1316820": {
     "sentence": "この薬を飲めば痛みが少し治まりますよ。",
-    "translation": "這藥會讓你舒服些。",
+    "translation": "吃了這個藥，疼痛就會稍微緩和。",
     "surface": "治まり",
     "evidence": {
       "surface": "治まり",
@@ -35806,7 +35510,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "治まる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35817,7 +35521,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "这药会让你舒服些。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "56564"
     },
     "variants": [
@@ -35843,7 +35547,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "この薬を飲めば痛みが少し治まりますよ。",
-        "translation": "這藥會讓你舒服些。",
+        "translation": "吃了這個藥，疼痛就會稍微緩和。",
         "surface": "治まり",
         "evidence": {
           "surface": "治まり",
@@ -35851,7 +35555,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "治まる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35862,7 +35566,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "这药会让你舒服些。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "56564"
         }
       }
@@ -35878,7 +35582,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "押し込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35923,7 +35627,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "押し込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -35950,7 +35654,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "惜しむ",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -35995,7 +35699,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "惜しむ",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36022,7 +35726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "押し寄せる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36066,7 +35770,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "押し寄せる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36094,7 +35798,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "襲擊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36140,7 +35844,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "襲擊"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36166,7 +35870,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "恐れ入る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36211,7 +35915,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "恐れ入る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36238,7 +35942,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "落ち込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36282,7 +35986,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "落ち込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36310,7 +36014,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "威脅"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36356,7 +36060,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "威脅"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36382,7 +36086,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "訪れる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36426,7 +36130,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "訪れる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36454,7 +36158,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "衰退"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36501,7 +36205,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "衰退"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36530,7 +36234,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "威脅"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36577,7 +36281,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "威脅"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36604,7 +36308,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "帯びる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36648,7 +36352,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "帯びる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36674,7 +36378,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "赴く",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36719,7 +36423,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "赴く",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36748,7 +36452,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "重視"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36794,7 +36498,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "重視"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36820,7 +36524,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "及ぶ",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36865,7 +36569,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "及ぶ",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36892,7 +36596,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "折り返す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -36936,7 +36640,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "折り返す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -36962,7 +36666,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "害する",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37006,7 +36710,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "害する",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37032,7 +36736,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "掲げる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37076,7 +36780,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "掲げる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37102,7 +36806,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "かく",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37147,7 +36851,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "かく",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37166,7 +36870,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1372890": {
     "sentence": "この箱はかさばりすぎて運べない。",
-    "translation": "這個箱子太笨重了無法攜帶。",
+    "translation": "這個箱子太占空間了，搬不動。",
     "surface": "かさばり",
     "evidence": {
       "surface": "かさばり",
@@ -37174,7 +36878,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "かさばる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37185,7 +36889,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "這個箱子太笨重了無法攜帶。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -37210,7 +36914,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "この箱はかさばりすぎて運べない。",
-        "translation": "這個箱子太笨重了無法攜帶。",
+        "translation": "這個箱子太占空間了，搬不動。",
         "surface": "かさばり",
         "evidence": {
           "surface": "かさばり",
@@ -37218,7 +36922,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "かさばる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37229,79 +36933,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "這個箱子太笨重了無法攜帶。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
-        }
-      }
-    ]
-  },
-  "n1-jmdict-1372880": {
-    "sentence": "おとうさん、おっかさん、いい事教えてあげようか。",
-    "translation": "爸！媽！我有個好訊息要告訴你們！",
-    "surface": "かさん",
-    "evidence": {
-      "surface": "かさん",
-      "reading": "かさむ",
-      "lemma": "かさむ",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "227623",
-      "zhId": "346837",
-      "jaAuthor": "\\N",
-      "zhAuthor": "nickyeow",
-      "originalTranslation": "爸！媽！我有個好消息要告訴你們！",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "64976"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "かさむ",
-        "reading": "かさむ",
-        "surface": "かさむ",
-        "sentence": "長旅で費用がかさむ。",
-        "translation": "長途旅行讓費用增加。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "かさんで",
-        "reading": "かさんで",
-        "surface": "かさんで",
-        "sentence": "長旅で費用がかさんでいます。",
-        "translation": "長途旅行的費用正增加。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "おとうさん、おっかさん、いい事教えてあげようか。",
-        "translation": "爸！媽！我有個好訊息要告訴你們！",
-        "surface": "かさん",
-        "evidence": {
-          "surface": "かさん",
-          "reading": "かさむ",
-          "lemma": "かさむ",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "227623",
-          "zhId": "346837",
-          "jaAuthor": "\\N",
-          "zhAuthor": "nickyeow",
-          "originalTranslation": "爸！媽！我有個好消息要告訴你們！",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "64976"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
@@ -37316,7 +36948,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "傾ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37361,7 +36993,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "傾ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37388,7 +37020,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "固める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37433,7 +37065,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "固める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37460,7 +37092,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "叶う",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37505,7 +37137,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "叶う",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37534,7 +37166,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "實現"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37580,7 +37212,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "實現"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37596,78 +37228,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1222350": {
-    "sentence": "この帽子は小さすぎて、私にはかぶれない。",
-    "translation": "這頂帽子對我來說太小了。",
-    "surface": "かぶれ",
-    "evidence": {
-      "surface": "かぶれ",
-      "reading": "かぶれる",
-      "lemma": "かぶれる",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "219800",
-      "zhId": "4504507",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "egg0073",
-      "originalTranslation": "這頂帽子對我來說太小了。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "1726833"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "かぶれる",
-        "reading": "かぶれる",
-        "surface": "かぶれる",
-        "sentence": "肌が薬品にかぶれる。",
-        "translation": "皮膚因化學藥品起疹子。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "かぶれて",
-        "reading": "かぶれて",
-        "surface": "かぶれて",
-        "sentence": "肌が薬品にかぶれています。",
-        "translation": "皮膚因化學藥品起了疹子。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "この帽子は小さすぎて、私にはかぶれない。",
-        "translation": "這頂帽子對我來說太小了。",
-        "surface": "かぶれ",
-        "evidence": {
-          "surface": "かぶれ",
-          "reading": "かぶれる",
-          "lemma": "かぶれる",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "219800",
-          "zhId": "4504507",
-          "jaAuthor": "bunbuku",
-          "zhAuthor": "egg0073",
-          "originalTranslation": "這頂帽子對我來說太小了。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "1726833"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1279700": {
     "sentence": "新居を構えるためにお金を貯めてるんだ。",
     "translation": "為了修建新家，我存了一筆錢。",
@@ -37678,7 +37238,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "構える",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37722,7 +37282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "構える",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37748,7 +37308,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "絡む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37792,7 +37352,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "絡む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37810,7 +37370,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1423080": {
     "sentence": "踊り子たちは美しく着飾っていた。",
-    "translation": "跳舞的孩子們穿著很美。",
+    "translation": "舞者們打扮得很漂亮。",
     "surface": "着飾っ",
     "evidence": {
       "surface": "着飾っ",
@@ -37818,7 +37378,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "着飾る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37829,7 +37389,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "跳舞的孩子们穿着很美。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -37854,7 +37414,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "踊り子たちは美しく着飾っていた。",
-        "translation": "跳舞的孩子們穿著很美。",
+        "translation": "舞者們打扮得很漂亮。",
         "surface": "着飾っ",
         "evidence": {
           "surface": "着飾っ",
@@ -37862,7 +37422,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "着飾る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37873,14 +37433,14 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "跳舞的孩子们穿着很美。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
   },
   "n1-jmdict-1573440": {
     "sentence": "テーブルがきしむほど食物がたくさんあった。",
-    "translation": "桌子上放滿了食物。",
+    "translation": "桌上食物多得讓桌子嘎吱作響。",
     "surface": "きしむ",
     "evidence": {
       "surface": "きしむ",
@@ -37888,7 +37448,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "きしむ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -37899,7 +37459,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "桌子上放滿了食物。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "39642"
     },
     "variants": [
@@ -37925,7 +37485,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "テーブルがきしむほど食物がたくさんあった。",
-        "translation": "桌子上放滿了食物。",
+        "translation": "桌上食物多得讓桌子嘎吱作響。",
         "surface": "きしむ",
         "evidence": {
           "surface": "きしむ",
@@ -37933,7 +37493,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "きしむ",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -37944,7 +37504,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "桌子上放滿了食物。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "39642"
         }
       }
@@ -37962,7 +37522,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "傷害"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38009,7 +37569,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "傷害"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38036,7 +37596,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "鍛える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38066,7 +37626,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "reading": "きたえて",
         "surface": "鍛えて",
         "sentence": "毎朝、体を鍛えています。",
-        "translation": "每天早上正在鍛鍊身體。"
+        "translation": "每天早上都鍛鍊身體。"
       },
       {
         "kind": "common",
@@ -38080,7 +37640,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "鍛える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38106,7 +37666,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "食い違う",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38151,7 +37711,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "食い違う",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38178,7 +37738,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "くぐる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38222,7 +37782,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "くぐる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38248,7 +37808,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "朽ちる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38292,7 +37852,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "朽ちる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38318,7 +37878,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "組み合わせる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38362,7 +37922,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "組み合わせる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38388,7 +37948,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "けなす",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38433,7 +37993,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "けなす",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38462,7 +38022,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "立志"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38509,7 +38069,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "立志"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38538,7 +38098,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "嘗試"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38584,7 +38144,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "嘗試"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38610,7 +38170,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "こだわる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38654,7 +38214,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "こだわる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38672,7 +38232,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1271480": {
     "sentence": "そんな手で私の目をごまかそうとしても無駄だ。",
-    "translation": "就算想用這種手段遮住我的眼睛也沒用。",
+    "translation": "你想用那種手段蒙混我的眼睛，也是沒用的。",
     "surface": "ごまかそう",
     "evidence": {
       "surface": "ごまかそう",
@@ -38680,7 +38240,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ごまかす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38691,7 +38251,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "就算想用這種手段遮住我的眼睛也沒用。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -38716,7 +38276,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "そんな手で私の目をごまかそうとしても無駄だ。",
-        "translation": "就算想用這種手段遮住我的眼睛也沒用。",
+        "translation": "你想用那種手段蒙混我的眼睛，也是沒用的。",
         "surface": "ごまかそう",
         "evidence": {
           "surface": "ごまかそう",
@@ -38724,7 +38284,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "ごまかす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38735,14 +38295,14 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "就算想用這種手段遮住我的眼睛也沒用。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
   },
   "n1-jmdict-1288790": {
     "sentence": "彼はこの銃に弾丸を込めたままにしている。",
-    "translation": "他在槍每時每刻有子彈。",
+    "translation": "他一直讓這把槍保持裝有子彈的狀態。",
     "surface": "込め",
     "evidence": {
       "surface": "込め",
@@ -38750,7 +38310,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "込める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38761,7 +38321,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他在枪每时每刻有子弹。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "289912"
     },
     "variants": [
@@ -38787,7 +38347,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼はこの銃に弾丸を込めたままにしている。",
-        "translation": "他在槍每時每刻有子彈。",
+        "translation": "他一直讓這把槍保持裝有子彈的狀態。",
         "surface": "込め",
         "evidence": {
           "surface": "込め",
@@ -38795,7 +38355,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "込める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38806,7 +38366,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "他在枪每时每刻有子弹。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "289912"
         }
       }
@@ -38822,7 +38382,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "遮る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38867,7 +38427,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "遮る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38894,7 +38454,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "さえずる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -38939,7 +38499,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "さえずる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -38966,7 +38526,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "捧げる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39010,7 +38570,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "捧げる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39036,7 +38596,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "差し出す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39080,7 +38640,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "差し出す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39096,82 +38656,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1291180": {
-    "sentence": "大丈夫よ！私は飲んでも運転に差し支えない。",
-    "translation": "別擔心! 即使我喝酒了, 它對我的駕駛沒有影響。",
-    "surface": "差し支え",
-    "evidence": {
-      "surface": "差し支え",
-      "reading": "さしつかえる",
-      "lemma": "差し支える",
-      "method": "lemma+reading",
-      "meaningAnchors": [
-        "有影響"
-      ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "418385",
-      "zhId": "793346",
-      "jaAuthor": "Scott",
-      "zhAuthor": "Martha",
-      "originalTranslation": "別擔心! 即使我喝酒了, 它對我的駕駛沒有影響。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "418386"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "差し支える",
-        "reading": "さしつかえる",
-        "surface": "差し支える",
-        "sentence": "夜更かしが仕事に差し支える。",
-        "translation": "熬夜妨礙工作。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "差し支えて",
-        "reading": "さしつかえて",
-        "surface": "差し支えて",
-        "sentence": "夜更かしが仕事に差し支えています。",
-        "translation": "熬夜正在妨礙工作。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "大丈夫よ！私は飲んでも運転に差し支えない。",
-        "translation": "別擔心! 即使我喝酒了, 它對我的駕駛沒有影響。",
-        "surface": "差し支え",
-        "evidence": {
-          "surface": "差し支え",
-          "reading": "さしつかえる",
-          "lemma": "差し支える",
-          "method": "lemma+reading",
-          "meaningAnchors": [
-            "有影響"
-          ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "418385",
-          "zhId": "793346",
-          "jaAuthor": "Scott",
-          "zhAuthor": "Martha",
-          "originalTranslation": "別擔心! 即使我喝酒了, 它對我的駕駛沒有影響。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "418386"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1330280": {
     "sentence": "聖霊がある方の上に下って、その上にとどまられるのが見えたなら、その方こそ聖霊によってバプテスマを授ける方である。",
     "translation": "你如果看見聖靈降下，落在誰身上，誰就是用聖靈替人施洗的了。",
@@ -39182,7 +38666,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "授ける",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39227,7 +38711,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "授ける",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39254,7 +38738,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "定める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39299,7 +38783,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "定める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39318,7 +38802,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1298740": {
     "sentence": "状況を察しなさいよ。",
-    "translation": "讀懂字裡行間的意思。",
+    "translation": "你要體察一下狀況呀。",
     "surface": "察し",
     "evidence": {
       "surface": "察し",
@@ -39326,7 +38810,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "察する",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39337,7 +38821,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "讀懂字裡行間的意思。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "322227"
     },
     "variants": [
@@ -39363,7 +38847,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "状況を察しなさいよ。",
-        "translation": "讀懂字裡行間的意思。",
+        "translation": "你要體察一下狀況呀。",
         "surface": "察し",
         "evidence": {
           "surface": "察し",
@@ -39371,7 +38855,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "察する",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39382,7 +38866,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "讀懂字裡行間的意思。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "322227"
         }
       }
@@ -39398,7 +38882,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "悟る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39442,7 +38926,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "悟る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39470,7 +38954,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "翹課"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39484,6 +38968,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion",
       "pivotId": "6003634"
     },
+    "note": "口語，表示偷懶或翹課；本句是邀約語氣，不是正式建議。",
     "variants": [
       {
         "kind": "dictionary",
@@ -39498,7 +38983,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "te",
         "label": "て形",
         "form": "サボって",
-        "reading": "サボって",
+        "reading": "さぼって",
         "surface": "サボって",
         "sentence": "彼は時々授業をサボっています。",
         "translation": "他正在翹課。"
@@ -39517,7 +39002,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "翹課"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39530,7 +39015,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "retrievedAt": "2026-10-31",
           "modified": "Traditional Chinese conversion",
           "pivotId": "6003634"
-        }
+        },
+        "note": "口語，表示偷懶或翹課；本句是邀約語氣，不是正式建議。"
       }
     ]
   },
@@ -39544,7 +39030,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "障る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39588,7 +39074,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "障る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39616,7 +39102,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "完成"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39663,7 +39149,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "完成"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39692,7 +39178,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "強迫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39739,7 +39225,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "強迫"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39766,7 +39252,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "仕入れる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39811,7 +39297,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "仕入れる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39838,7 +39324,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "仕掛ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39882,7 +39368,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "仕掛ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39908,7 +39394,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "しくじる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -39952,7 +39438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "しくじる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -39978,7 +39464,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "沈める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40023,7 +39509,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "沈める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40050,7 +39536,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "親しむ",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40095,7 +39581,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "親しむ",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40122,7 +39608,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "仕立てる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40166,7 +39652,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "仕立てる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40194,7 +39680,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "稱為"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40241,7 +39727,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "稱為"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40268,7 +39754,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "据える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40313,7 +39799,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "据える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40332,7 +39818,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1373650": {
     "sentence": "私は耳を澄ましたが、何も聞こえなかった。",
-    "translation": "我聽了，但什麼也沒聽到。",
+    "translation": "我側耳細聽，卻什麼也沒聽見。",
     "surface": "澄まし",
     "evidence": {
       "surface": "澄まし",
@@ -40340,7 +39826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "澄ます",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40351,7 +39837,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我听了，但什么也没听到。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "619682"
     },
     "variants": [
@@ -40377,7 +39863,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私は耳を澄ましたが、何も聞こえなかった。",
-        "translation": "我聽了，但什麼也沒聽到。",
+        "translation": "我側耳細聽，卻什麼也沒聽見。",
         "surface": "澄まし",
         "evidence": {
           "surface": "澄まし",
@@ -40385,7 +39871,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "澄ます",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40396,7 +39882,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "我听了，但什么也没听到。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "619682"
         }
       }
@@ -40404,7 +39890,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1295030": {
     "sentence": "私は夏はエアコンなしで済ますことはできない。",
-    "translation": "夏天沒空調，我什麼都做不了。",
+    "translation": "夏天我不能不用冷氣。",
     "surface": "済ます",
     "evidence": {
       "surface": "済ます",
@@ -40412,7 +39898,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "済ます",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40423,7 +39909,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "夏天没空调，我什么都做不了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "6736"
     },
     "variants": [
@@ -40449,7 +39935,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私は夏はエアコンなしで済ますことはできない。",
-        "translation": "夏天沒空調，我什麼都做不了。",
+        "translation": "夏天我不能不用冷氣。",
         "surface": "済ます",
         "evidence": {
           "surface": "済ます",
@@ -40457,7 +39943,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "済ます",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40468,7 +39954,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "夏天没空调，我什么都做不了。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "6736"
         }
       }
@@ -40484,7 +39970,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "添える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40528,7 +40014,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "添える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40546,7 +40032,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1404090": {
     "sentence": "日常生活に即した例文ですね。こういう例文は大歓迎です。",
-    "translation": "這是從日常生活中而來的例句啊。這樣的例句真是不錯。",
+    "translation": "這是貼近日常生活的例句呢，非常歡迎這樣的例句。",
     "surface": "即し",
     "evidence": {
       "surface": "即し",
@@ -40554,7 +40040,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "即する",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40565,7 +40051,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "这是从日常生活中而来的例句啊。这样的例句真是不错。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     },
     "variants": [
       {
@@ -40590,7 +40076,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "日常生活に即した例文ですね。こういう例文は大歓迎です。",
-        "translation": "這是從日常生活中而來的例句啊。這樣的例句真是不錯。",
+        "translation": "這是貼近日常生活的例句呢，非常歡迎這樣的例句。",
         "surface": "即し",
         "evidence": {
           "surface": "即し",
@@ -40598,7 +40084,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "即する",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40609,7 +40095,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "这是从日常生活中而来的例句啊。这样的例句真是不错。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
         }
       }
     ]
@@ -40624,7 +40110,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "備え付ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40669,7 +40155,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "備え付ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40698,7 +40184,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "具備"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40744,7 +40230,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "具備"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40770,7 +40256,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "染まる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40814,7 +40300,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "染まる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40840,7 +40326,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "背く",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40885,7 +40371,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "背く",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40912,7 +40398,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "染める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -40956,7 +40442,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "染める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -40965,76 +40451,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "jaAuthor": "tommy_san",
           "zhAuthor": "crescat",
           "originalTranslation": "一直染发太麻烦了。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
-        }
-      }
-    ]
-  },
-  "n1-jmdict-1480170": {
-    "sentence": "憤せずんば啓せず。非せずんば発せず。一隅を挙げて三隅を以って反らざれば、則ち復せざるなり。",
-    "translation": "不憤不啟，不悱不發，舉一隅，不以三隅反，則不復也。",
-    "surface": "反ら",
-    "evidence": {
-      "surface": "反ら",
-      "reading": "そる",
-      "lemma": "反る",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "347583",
-      "zhId": "347582",
-      "jaAuthor": "zhouj1955",
-      "zhAuthor": "zhouj1955",
-      "originalTranslation": "不愤不启，不悱不发，举一隅，不以三隅反，则不复也。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "反る",
-        "reading": "そる",
-        "surface": "反る",
-        "sentence": "湿気で板が反る。",
-        "translation": "木板因濕氣翹曲。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "反って",
-        "reading": "そって",
-        "surface": "反って",
-        "sentence": "湿気で板が反っています。",
-        "translation": "木板已因濕氣而翹曲。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "憤せずんば啓せず。非せずんば発せず。一隅を挙げて三隅を以って反らざれば、則ち復せざるなり。",
-        "translation": "不憤不啟，不悱不發，舉一隅，不以三隅反，則不復也。",
-        "surface": "反ら",
-        "evidence": {
-          "surface": "反ら",
-          "reading": "そる",
-          "lemma": "反る",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "347583",
-          "zhId": "347582",
-          "jaAuthor": "zhouj1955",
-          "zhAuthor": "zhouj1955",
-          "originalTranslation": "不愤不启，不悱不发，举一隅，不以三隅反，则不复也。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
           "modified": "Traditional Chinese conversion"
@@ -41052,7 +40468,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "題する",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41096,7 +40512,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "題する",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41124,7 +40540,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "承受"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41171,7 +40587,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "承受"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41198,7 +40614,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "絶える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41243,7 +40659,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "絶える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41270,7 +40686,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "漂う",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41314,7 +40730,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "漂う",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41340,7 +40756,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "立ち去る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41384,7 +40800,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "立ち去る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41410,7 +40826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "立ち寄る",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41454,7 +40870,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "立ち寄る",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41482,7 +40898,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "脫離"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41529,7 +40945,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "脫離"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41556,7 +40972,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "辿り着く",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41600,7 +41016,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "辿り着く",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41626,7 +41042,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "給う",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41673,7 +41089,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "給う",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41690,78 +41106,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1312860": {
-    "sentence": "今回賜りましたご意見につきましては、真摯に受け止めざるを得ません。",
-    "translation": "對於這次給的意見，我不得不認真對待。",
-    "surface": "賜り",
-    "evidence": {
-      "surface": "賜り",
-      "reading": "たまわる",
-      "lemma": "賜る",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "12025723",
-      "zhId": "13512248",
-      "jaAuthor": "small_snow",
-      "zhAuthor": "LeviHighway",
-      "originalTranslation": "對於這次給的意見，我不得不認真對待。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "13250694"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "賜る",
-        "reading": "たまわる",
-        "surface": "賜る",
-        "sentence": "先生からご指導を賜る。",
-        "translation": "承蒙老師指導。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "賜って",
-        "reading": "たまわって",
-        "surface": "賜って",
-        "sentence": "先生からご指導を賜っています。",
-        "translation": "正承蒙老師指導。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "今回賜りましたご意見につきましては、真摯に受け止めざるを得ません。",
-        "translation": "對於這次給的意見，我不得不認真對待。",
-        "surface": "賜り",
-        "evidence": {
-          "surface": "賜り",
-          "reading": "たまわる",
-          "lemma": "賜る",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "12025723",
-          "zhId": "13512248",
-          "jaAuthor": "small_snow",
-          "zhAuthor": "LeviHighway",
-          "originalTranslation": "對於這次給的意見，我不得不認真對待。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "13250694"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1513250": {
     "sentence": "名声を保つことは難しい。",
     "translation": "維持一個人的聲譽是很難的。",
@@ -41774,7 +41118,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "維持"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41821,7 +41165,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "維持"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41848,7 +41192,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "垂れる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41892,7 +41236,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "垂れる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41910,7 +41254,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1158890": {
     "sentence": "ビルは時間を違えないことはめったにない。",
-    "translation": "比爾很少準時來。",
+    "translation": "比爾幾乎總是遲到。",
     "surface": "違え",
     "evidence": {
       "surface": "違え",
@@ -41918,7 +41262,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "違える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -41929,7 +41273,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "比尔很少准时来。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "34499"
     },
     "variants": [
@@ -41955,7 +41299,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "ビルは時間を違えないことはめったにない。",
-        "translation": "比爾很少準時來。",
+        "translation": "比爾幾乎總是遲到。",
         "surface": "違え",
         "evidence": {
           "surface": "違え",
@@ -41963,7 +41307,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "違える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -41974,7 +41318,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "比尔很少准时来。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "34499"
         }
       }
@@ -41992,7 +41336,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "花費"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42039,7 +41383,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "花費"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42066,7 +41410,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "仕える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42111,7 +41455,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "仕える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42140,7 +41484,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "耗盡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42186,7 +41530,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "耗盡"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42214,7 +41558,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "盡力"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42260,7 +41604,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "盡力"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42286,7 +41630,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "繕う",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42330,7 +41674,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "繕う",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42358,7 +41702,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "補充"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42405,7 +41749,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "補充"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42432,7 +41776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "告げる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42476,7 +41820,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "告げる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42502,7 +41846,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "貫く",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42547,7 +41891,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "貫く",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42574,7 +41918,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "連ねる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42618,7 +41962,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "連ねる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42644,7 +41988,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "出くわす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42688,7 +42032,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "出くわす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42714,7 +42058,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "徹する",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42759,7 +42103,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "徹する",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42786,7 +42130,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "転じる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42831,7 +42175,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "転じる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42860,7 +42204,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "詢問"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42906,7 +42250,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "詢問"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42932,7 +42276,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "とがめる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -42977,7 +42321,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "とがめる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -42996,7 +42340,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1372620": {
     "sentence": "姉は注目すべき英語の進歩を遂げた。",
-    "translation": "我妹妹的英語有了明顯的進步。",
+    "translation": "姊姊的英語有了顯著進步。",
     "surface": "遂げ",
     "evidence": {
       "surface": "遂げ",
@@ -43004,7 +42348,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "遂げる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43015,7 +42359,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我妹妹的英语有了明显的进步。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "245596"
     },
     "variants": [
@@ -43041,7 +42385,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "姉は注目すべき英語の進歩を遂げた。",
-        "translation": "我妹妹的英語有了明顯的進步。",
+        "translation": "姊姊的英語有了顯著進步。",
         "surface": "遂げ",
         "evidence": {
           "surface": "遂げ",
@@ -43049,7 +42393,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "遂げる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43060,7 +42404,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "我妹妹的英语有了明显的进步。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "245596"
         }
       }
@@ -43078,7 +42422,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "整理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43124,7 +42468,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "整理"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43152,7 +42496,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "提倡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43199,7 +42543,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "提倡"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43226,7 +42570,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "とぼける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43271,7 +42615,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "とぼける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43298,7 +42642,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "富む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43342,7 +42686,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "富む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43368,7 +42712,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "伴う",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43413,7 +42757,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "伴う",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43432,7 +42776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1326540": {
     "sentence": "科学者は主として物質の問題を取り扱う。",
-    "translation": "科學家處理大多數物理的事物。",
+    "translation": "科學家主要處理有關物質的問題。",
     "surface": "取り扱う",
     "evidence": {
       "surface": "取り扱う",
@@ -43442,7 +42786,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "處理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43453,7 +42797,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "科学家處理大多数物理的事物。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "23973"
     },
     "variants": [
@@ -43479,7 +42823,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "科学者は主として物質の問題を取り扱う。",
-        "translation": "科學家處理大多數物理的事物。",
+        "translation": "科學家主要處理有關物質的問題。",
         "surface": "取り扱う",
         "evidence": {
           "surface": "取り扱う",
@@ -43489,7 +42833,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "處理"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43500,7 +42844,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "科学家處理大多数物理的事物。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "23973"
         }
       }
@@ -43516,7 +42860,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取り組む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43561,7 +42905,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "取り組む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43590,7 +42934,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "取締"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43636,7 +42980,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "取締"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43654,7 +42998,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1326910": {
     "sentence": "各ロボットには通話機が取り付けられています。",
-    "translation": "每個機器人身上都安裝了一臺發聲器。",
+    "translation": "每個機器人都裝有通話裝置。",
     "surface": "取り付け",
     "evidence": {
       "surface": "取り付け",
@@ -43664,7 +43008,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "安裝"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43675,7 +43019,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "每個機器人身上都安裝了一台發聲器。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "21760"
     },
     "variants": [
@@ -43701,7 +43045,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "各ロボットには通話機が取り付けられています。",
-        "translation": "每個機器人身上都安裝了一臺發聲器。",
+        "translation": "每個機器人都裝有通話裝置。",
         "surface": "取り付け",
         "evidence": {
           "surface": "取り付け",
@@ -43711,7 +43055,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "安裝"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43722,7 +43066,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "每個機器人身上都安裝了一台發聲器。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "21760"
         }
       }
@@ -43738,7 +43082,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取り除く",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43782,7 +43126,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "取り除く",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43808,7 +43152,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取り戻す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43853,7 +43197,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "取り戻す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43880,7 +43224,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "取り寄せる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43924,7 +43268,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "取り寄せる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -43952,7 +43296,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "嘆息"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -43999,7 +43343,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "嘆息"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44028,7 +43372,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "放棄"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44074,7 +43418,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "放棄"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44102,7 +43446,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "命名"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44122,8 +43466,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "form": "名付ける",
         "reading": "なづける",
         "surface": "名付ける",
-        "sentence": "生まれた子供に名前を名付ける。",
-        "translation": "替新生孩子命名。"
+        "sentence": "生まれた子供を「太郎」と名付ける。",
+        "translation": "替新生孩子取名為太郎。"
       },
       {
         "kind": "te",
@@ -44131,8 +43475,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "form": "名付けて",
         "reading": "なづけて",
         "surface": "名付けて",
-        "sentence": "生まれた子供に名前を名付けて届け出る。",
-        "translation": "替新生孩子命名並辦理申報。"
+        "sentence": "生まれた子供を「太郎」と名付けて届け出る。",
+        "translation": "替新生孩子取名為太郎並辦理申報。"
       },
       {
         "kind": "common",
@@ -44148,7 +43492,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "命名"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44174,7 +43518,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "悩ます",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44218,7 +43562,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "悩ます",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44246,7 +43590,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "下去"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44293,7 +43637,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "下去"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44322,7 +43666,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "相似"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44369,7 +43713,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "相似"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44398,7 +43742,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "逃離"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44445,7 +43789,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "逃離"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44472,7 +43816,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "担う",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44516,7 +43860,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "担う",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44542,7 +43886,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "抜かす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44586,7 +43930,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "抜かす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44612,7 +43956,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "抜け出す",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44657,7 +44001,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "抜け出す",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44684,7 +44028,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "寝かせる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44729,7 +44073,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "寝かせる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44758,7 +44102,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "嫉妒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44804,7 +44148,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "嫉妒"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44830,7 +44174,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ねだる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44875,7 +44219,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "ねだる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44902,7 +44246,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "練る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -44947,7 +44291,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "練る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -44976,7 +44320,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "錯過"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45023,7 +44367,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "錯過"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45050,7 +44394,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "逃れる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45094,7 +44438,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "逃れる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45120,7 +44464,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "乗っ取る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45164,7 +44508,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "乗っ取る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45190,7 +44534,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "飲み込む",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45235,7 +44579,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "飲み込む",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45262,7 +44606,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "乗り込む",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45306,7 +44650,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "乗り込む",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45332,7 +44676,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "剥ぐ",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45377,7 +44721,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "剥ぐ",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45406,7 +44750,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "鼓勵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45452,7 +44796,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "鼓勵"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45478,7 +44822,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "剥げる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45523,7 +44867,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "剥げる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45552,7 +44896,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "感到羞恥"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45598,7 +44942,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "感到羞恥"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45626,7 +44970,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "完成"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45673,7 +45017,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "完成"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45700,7 +45044,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "果てる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45745,7 +45089,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "果てる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45772,7 +45116,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ばてる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45817,7 +45161,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "ばてる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45846,7 +45190,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "沉迷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45892,7 +45236,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "沉迷"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45920,7 +45264,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "相反"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -45967,7 +45311,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "相反"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -45994,7 +45338,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "控える",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46039,7 +45383,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "控える",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46068,7 +45412,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "打撈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46115,7 +45459,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "打撈"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46142,7 +45486,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "率いる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46186,7 +45530,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "率いる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46214,7 +45558,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "引起"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46234,8 +45578,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "form": "引き起こす",
         "reading": "ひきおこす",
         "surface": "引き起こす",
-        "sentence": "小さな火が事故を引き起こす。",
-        "translation": "小火引起事故。"
+        "sentence": "小さな不注意が事故を引き起こす。",
+        "translation": "小小疏忽引起事故。"
       },
       {
         "kind": "te",
@@ -46243,8 +45587,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "form": "引き起こして",
         "reading": "ひきおこして",
         "surface": "引き起こして",
-        "sentence": "小さな火が事故を引き起こしています。",
-        "translation": "小火正在引起事故。"
+        "sentence": "小さな不注意が事故を引き起こしています。",
+        "translation": "小小疏忽正引起事故。"
       },
       {
         "kind": "common",
@@ -46260,7 +45604,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "引起"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46286,7 +45630,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "引きずる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46331,7 +45675,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "引きずる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46358,7 +45702,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "膨れる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46403,7 +45747,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "膨れる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46432,7 +45776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "顯老"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46479,7 +45823,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "顯老"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46506,7 +45850,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "踏み込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46551,7 +45895,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "踏み込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46580,7 +45924,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "回頭"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46626,7 +45970,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "回頭"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46652,7 +45996,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "放り込む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46697,7 +46041,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "放り込む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46724,7 +46068,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "放り出す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46769,7 +46113,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "放り出す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46796,7 +46140,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "誇る",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46841,7 +46185,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "誇る",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46868,7 +46212,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "施す",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46912,7 +46256,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "施す",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -46938,7 +46282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "滅びる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -46983,7 +46327,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "滅びる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47010,7 +46354,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "滅ぼす",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47055,7 +46399,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "滅ぼす",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47082,7 +46426,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "負かす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47126,7 +46470,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "負かす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47154,7 +46498,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不知所措"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47200,7 +46544,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "不知所措"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47228,7 +46572,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勝過"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47274,7 +46618,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "勝過"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47302,7 +46646,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "盼望"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47349,7 +46693,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "盼望"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47376,7 +46720,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "免れる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47420,7 +46764,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "免れる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47446,7 +46790,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見合わせる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47491,7 +46835,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見合わせる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47520,7 +46864,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "看漏"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47567,7 +46911,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "看漏"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47594,7 +46938,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見せびらかす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47638,7 +46982,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見せびらかす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47664,7 +47008,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "満たす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47708,7 +47052,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "満たす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47734,7 +47078,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "乱れる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47779,7 +47123,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "乱れる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47796,76 +47140,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1453680": {
-    "sentence": "運命は、志あるものを導き、志なきものをひきずってゆく。",
-    "translation": "命運是指引著鴻志者前進，拖拽著平庸者繼續混生活。",
-    "surface": "導き",
-    "evidence": {
-      "surface": "導き",
-      "reading": "みちびく",
-      "lemma": "導く",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "2049448",
-      "zhId": "2049584",
-      "jaAuthor": "KISEKI",
-      "zhAuthor": "KISEKI",
-      "originalTranslation": "命运是指引着鸿志者前进，拖拽着平庸者继续混生活。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "導く",
-        "reading": "みちびく",
-        "surface": "導く",
-        "sentence": "先生が学生を正しい方向へ導く。",
-        "translation": "老師引導學生朝正確方向前進。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "導いて",
-        "reading": "みちびいて",
-        "surface": "導いて",
-        "sentence": "先生が学生を正しい方向へ導いています。",
-        "translation": "老師正引導學生朝正確方向前進。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "運命は、志あるものを導き、志なきものをひきずってゆく。",
-        "translation": "命運是指引著鴻志者前進，拖拽著平庸者繼續混生活。",
-        "surface": "導き",
-        "evidence": {
-          "surface": "導き",
-          "reading": "みちびく",
-          "lemma": "導く",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "2049448",
-          "zhId": "2049584",
-          "jaAuthor": "KISEKI",
-          "zhAuthor": "KISEKI",
-          "originalTranslation": "命运是指引着鸿志者前进，拖拽着平庸者继续混生活。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1604630": {
     "sentence": "私はテレビを見ることを時間の浪費と見なしている。",
     "translation": "我覺得看電視是浪費時間。",
@@ -47876,7 +47150,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見なす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47921,7 +47195,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見なす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -47948,7 +47222,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見習う",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -47992,7 +47266,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見習う",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48018,7 +47292,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見逃す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48062,7 +47336,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見逃す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48080,7 +47354,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1259920": {
     "sentence": "見渡す限り、トウモロコシ畑以外何も見えなかった。",
-    "translation": "極目遠望，除了一大片小麥田以外，就甚麼也看不見了。",
+    "translation": "放眼望去，除了玉米田之外什麼也看不到。",
     "surface": "見渡す",
     "evidence": {
       "surface": "見渡す",
@@ -48088,7 +47362,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "見渡す",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48099,7 +47373,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "極目遠望，除了一大片小麥田以外，就甚麼也看不見了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "239352"
     },
     "variants": [
@@ -48125,7 +47399,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "kind": "common",
         "label": "常用用法",
         "sentence": "見渡す限り、トウモロコシ畑以外何も見えなかった。",
-        "translation": "極目遠望，除了一大片小麥田以外，就甚麼也看不見了。",
+        "translation": "放眼望去，除了玉米田之外什麼也看不到。",
         "surface": "見渡す",
         "evidence": {
           "surface": "見渡す",
@@ -48133,7 +47407,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "見渡す",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48144,7 +47418,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "originalTranslation": "極目遠望，除了一大片小麥田以外，就甚麼也看不見了。",
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
+          "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
           "pivotId": "239352"
         }
       }
@@ -48160,7 +47434,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "結び付ける",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48205,7 +47479,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "結び付ける",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48232,7 +47506,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "群がる",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48276,7 +47550,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "群がる",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48304,7 +47578,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "醒來"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48351,7 +47625,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "醒來"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48378,7 +47652,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "召す",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48423,7 +47697,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "召す",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48452,7 +47726,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "面向"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48498,7 +47772,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "面向"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48510,150 +47784,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "license": "CC BY 2.0 FR",
           "retrievedAt": "2026-10-31",
           "modified": "Traditional Chinese conversion"
-        }
-      }
-    ]
-  },
-  "n1-jmdict-1386000": {
-    "sentence": "人生はあきらめが肝心。設けた財産も消えさることがありうるのだから。",
-    "translation": "我們應該努力地豁然看待人生；獲得的財富也會煙消雲散。",
-    "surface": "設け",
-    "evidence": {
-      "surface": "設け",
-      "reading": "もうける",
-      "lemma": "設ける",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "144002",
-      "zhId": "881811",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "我們應該努力地豁然看待人生；獲得的財富也會煙消雲散。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "270564"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "設ける",
-        "reading": "もうける",
-        "surface": "設ける",
-        "sentence": "会場に相談窓口を設ける。",
-        "translation": "在會場設諮詢窗口。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "設けて",
-        "reading": "もうけて",
-        "surface": "設けて",
-        "sentence": "会場に相談窓口を設けています。",
-        "translation": "正在會場設諮詢窗口。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "人生はあきらめが肝心。設けた財産も消えさることがありうるのだから。",
-        "translation": "我們應該努力地豁然看待人生；獲得的財富也會煙消雲散。",
-        "surface": "設け",
-        "evidence": {
-          "surface": "設け",
-          "reading": "もうける",
-          "lemma": "設ける",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "144002",
-          "zhId": "881811",
-          "jaAuthor": "\\N",
-          "zhAuthor": "Martha",
-          "originalTranslation": "我們應該努力地豁然看待人生；獲得的財富也會煙消雲散。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "270564"
-        }
-      }
-    ]
-  },
-  "n1-jmdict-1362930": {
-    "sentence": "私彼が援助を申し出てくれる事を期待した。",
-    "translation": "我期待他提供一些幫助。",
-    "surface": "申し出",
-    "evidence": {
-      "surface": "申し出",
-      "reading": "もうしでる",
-      "lemma": "申し出る",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "151225",
-      "zhId": "888049",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "我期待他提供一些幫助。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "263331"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "申し出る",
-        "reading": "もうしでる",
-        "surface": "申し出る",
-        "sentence": "学生が手伝いを申し出る。",
-        "translation": "學生主動提出幫忙。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "申し出て",
-        "reading": "もうしでて",
-        "surface": "申し出て",
-        "sentence": "学生が手伝いを申し出ています。",
-        "translation": "學生正在主動提出幫忙。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "私彼が援助を申し出てくれる事を期待した。",
-        "translation": "我期待他提供一些幫助。",
-        "surface": "申し出",
-        "evidence": {
-          "surface": "申し出",
-          "reading": "もうしでる",
-          "lemma": "申し出る",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "151225",
-          "zhId": "888049",
-          "jaAuthor": "\\N",
-          "zhAuthor": "Martha",
-          "originalTranslation": "我期待他提供一些幫助。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "263331"
         }
       }
     ]
@@ -48670,7 +47800,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "掙扎"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48717,7 +47847,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "掙扎"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48746,7 +47876,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "帶來"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48792,7 +47922,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "帶來"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48818,7 +47948,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "もてなす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -48863,7 +47993,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "もてなす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -48880,78 +48010,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       }
     ]
   },
-  "n1-jmdict-1315730": {
-    "sentence": "彼女は看護婦かもしれない、確信はもてないが。",
-    "translation": "她可能是護士。我不太肯定。",
-    "surface": "もて",
-    "evidence": {
-      "surface": "もて",
-      "reading": "もてる",
-      "lemma": "もてる",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "90657",
-      "zhId": "408467",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "她可能是护士。我不太肯定。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "134226"
-    },
-    "variants": [
-      {
-        "kind": "dictionary",
-        "label": "原型",
-        "form": "もてる",
-        "reading": "もてる",
-        "surface": "もてる",
-        "sentence": "親切な人は周囲にもてる。",
-        "translation": "親切的人受周圍歡迎。"
-      },
-      {
-        "kind": "te",
-        "label": "て形",
-        "form": "もてて",
-        "reading": "もてて",
-        "surface": "もてて",
-        "sentence": "親切な人は周囲にもてています。",
-        "translation": "親切的人正受周圍歡迎。"
-      },
-      {
-        "kind": "common",
-        "label": "常用用法",
-        "sentence": "彼女は看護婦かもしれない、確信はもてないが。",
-        "translation": "她可能是護士。我不太肯定。",
-        "surface": "もて",
-        "evidence": {
-          "surface": "もて",
-          "reading": "もてる",
-          "lemma": "もてる",
-          "method": "lemma+reading",
-          "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "90657",
-          "zhId": "408467",
-          "jaAuthor": "\\N",
-          "zhAuthor": "fucongcong",
-          "originalTranslation": "她可能是护士。我不太肯定。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "Traditional Chinese conversion",
-          "pivotId": "134226"
-        }
-      }
-    ]
-  },
   "n1-jmdict-1292160": {
     "sentence": "彼は舞踏会を催した。",
     "translation": "他舉辦了一場舞會。",
@@ -48964,7 +48022,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "舉辦"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49010,7 +48068,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "舉辦"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49036,7 +48094,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "漏らす",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49080,7 +48138,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "漏らす",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49108,7 +48166,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "漏水"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49155,7 +48213,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "漏水"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49184,7 +48242,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "洩漏"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49231,7 +48289,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "洩漏"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49258,7 +48316,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "養う",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49279,7 +48337,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "reading": "やしなう",
         "surface": "養う",
         "sentence": "両親が家族を養う。",
-        "translation": "父母養育家人。"
+        "translation": "父母扶養家人。"
       },
       {
         "kind": "te",
@@ -49288,7 +48346,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
         "reading": "やしなって",
         "surface": "養って",
         "sentence": "両親が家族を養っています。",
-        "translation": "父母正養育家人。"
+        "translation": "父母扶養著家人。"
       },
       {
         "kind": "common",
@@ -49302,7 +48360,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "養う",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49328,7 +48386,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "休める",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49373,7 +48431,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "休める",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49400,7 +48458,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "病む",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49445,7 +48503,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "病む",
           "method": "lemma+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49474,7 +48532,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "減輕"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49521,7 +48579,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "減輕"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49550,7 +48608,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "擁有"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49596,7 +48654,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "擁有"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49622,7 +48680,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "揺さぶる",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49667,7 +48725,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "lemma": "揺さぶる",
           "method": "token-boundaries+reading",
           "meaningAnchors": [],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49696,7 +48754,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "指著"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49743,7 +48801,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "指著"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49772,7 +48830,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "需要"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49819,7 +48877,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
           "meaningAnchors": [
             "需要"
           ],
-          "selection": "morphology-and-reading candidate; not individually reviewed"
+          "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
         },
         "source": {
           "provider": "Tatoeba",
@@ -49848,7 +48906,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "粗暴"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49875,7 +48933,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "顯著"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49901,7 +48959,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "比不上"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49925,7 +48983,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "心細い",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49950,7 +49008,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "快い",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -49975,7 +49033,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "すがすがしい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50000,7 +49058,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "すばしこい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50027,7 +49085,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "迅速"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50053,7 +49111,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "難過"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50080,7 +49138,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "強健"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50106,7 +49164,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "容易"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50123,7 +49181,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1007520": {
     "sentence": "今日は、もうだるくてしょうがない。",
-    "translation": "今日夠了。我太累了。",
+    "translation": "今天實在倦怠得受不了。",
     "surface": "だるく",
     "evidence": {
       "surface": "だるく",
@@ -50131,7 +49189,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "だるい",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50142,7 +49200,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "今日够了。我太累了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "242647"
     }
   },
@@ -50156,7 +49214,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "でかい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50180,7 +49238,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "尊い",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50207,7 +49265,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貧乏"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50234,7 +49292,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "想睡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50249,30 +49307,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "43542"
     }
   },
-  "n1-jmdict-1519610": {
-    "sentence": "誰に望ましい急展開だよ。",
-    "translation": "出乎眾人期待的大發展啊。",
-    "surface": "望ましい",
-    "evidence": {
-      "surface": "望ましい",
-      "reading": "のぞましい",
-      "lemma": "望ましい",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "2531360",
-      "zhId": "2531363",
-      "jaAuthor": "fenfang557",
-      "zhAuthor": "fenfang557",
-      "originalTranslation": "出乎众人期待的大发展啊。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1600630": {
     "sentence": "私たちの恋は、しゃぼん玉のようにはかなかった。",
     "translation": "我們的愛情就像肥皂泡一樣脆弱。",
@@ -50283,7 +49317,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "はかない",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50307,7 +49341,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ばかばかしい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50322,30 +49356,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "282398"
     }
   },
-  "n1-jmdict-1227340": {
-    "sentence": "久しぶりに運動したからめっちゃ疲れた。",
-    "translation": "隔了好久才鍛鍊，所以感覺真的很累了。",
-    "surface": "久し",
-    "evidence": {
-      "surface": "久し",
-      "reading": "ひさしい",
-      "lemma": "久しい",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "3698231",
-      "zhId": "5097651",
-      "jaAuthor": "tommy_san",
-      "zhAuthor": "mirrorvan",
-      "originalTranslation": "隔了好久才锻炼，所以感觉真的很累了。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1400850": {
     "sentence": "応募者にふさわしい職務遂行能力があるか？",
     "translation": "那位求職者能勝任工作嗎？",
@@ -50356,7 +49366,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ふさわしい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50381,7 +49391,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "待ち遠しい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50406,7 +49416,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "みすぼらしい",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50431,7 +49441,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "空しい",
       "method": "lemma+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50458,7 +49468,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "顯著"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50484,7 +49494,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "複雜"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50509,7 +49519,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "鮮やか",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50533,7 +49543,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "あやふや",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50558,7 +49568,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "いい加減",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50582,7 +49592,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "浮気",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50608,7 +49618,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "大幅度"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50632,7 +49642,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "大まか",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50658,7 +49668,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "膽小"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50684,7 +49694,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "愚蠢"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50710,7 +49720,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "溫和"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50735,7 +49745,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "微か",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50762,7 +49772,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "任性"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50789,7 +49799,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "活躍"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50816,7 +49826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "簡潔"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50843,7 +49853,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "頑固"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50868,7 +49878,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "頑丈",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50895,7 +49905,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "關鍵"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50920,7 +49930,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "簡素",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50935,31 +49945,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "294939"
     }
   },
-  "n1-jmdict-1590970": {
-    "sentence": "練習が完ぺきにする。",
-    "translation": "熟能生巧。",
-    "surface": "完ぺき",
-    "evidence": {
-      "surface": "完ぺき",
-      "reading": "かんぺき",
-      "lemma": "完ぺき",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "77425",
-      "zhId": "358986",
-      "jaAuthor": "\\N",
-      "zhAuthor": "rmgao",
-      "originalTranslation": "熟能生巧。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "266400"
-    }
-  },
   "n1-jmdict-1222110": {
     "sentence": "何かあったら、気軽に声をかけてね。",
     "translation": "如果發生了什麼，可以跟我說喔。",
@@ -50970,7 +49955,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気軽",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -50994,7 +49979,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "几帳面",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51019,7 +50004,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "強硬",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51046,7 +50031,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "極端"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51072,7 +50057,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "緊急"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51098,7 +50083,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勤勉"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51124,7 +50109,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "飢餓"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51151,7 +50136,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "牢騷"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51176,7 +50161,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "厳密",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51202,7 +50187,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "明智"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51227,7 +50212,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "倹約",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51252,7 +50237,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "好調",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51279,7 +50264,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "好評"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51303,7 +50288,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "滑稽",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51329,7 +50314,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "孤獨"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51355,7 +50340,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "粉碎"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51381,7 +50366,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "固有"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51407,7 +50392,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "完全不"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51431,7 +50416,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "残酷",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51455,7 +50440,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "自在",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51470,30 +50455,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "1991573"
     }
   },
-  "n1-jmdict-1060610": {
-    "sentence": "ホームシックなの？",
-    "translation": "想家嗎？",
-    "surface": "シック",
-    "evidence": {
-      "surface": "シック",
-      "reading": "シック",
-      "lemma": "シック",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "8703990",
-      "zhId": "11924125",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "DaoSeng",
-      "originalTranslation": "想家嗎？",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1320710": {
     "sentence": "彼は質素な生活を送った。",
     "translation": "他生活樸素。",
@@ -51506,7 +50467,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "樸素"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51531,7 +50492,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "始末",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51556,7 +50517,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ジャンボ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51581,7 +50542,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "種々",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51608,7 +50569,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "詳細"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51634,7 +50595,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "真實"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51660,7 +50621,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "神聖"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51684,7 +50645,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "迅速",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51709,7 +50670,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "神秘",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51736,7 +50697,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "誠實"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51760,7 +50721,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "正常",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51787,7 +50748,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "盛大"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51814,7 +50775,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "正當"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51838,7 +50799,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "相応",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51855,7 +50816,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1397390": {
     "sentence": "素朴な疑問なんだけど、・・・トラとライオンはどっちが強いの？",
-    "translation": "這可能是個蠢問題，但是一頭老虎和一頭獅子哪個更厲害？",
+    "translation": "我只是有個單純的疑問……老虎和獅子哪個比較強？",
     "surface": "素朴",
     "evidence": {
       "surface": "素朴",
@@ -51863,7 +50824,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "素朴",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51874,7 +50835,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "这可能是个蠢问题，但是一头老虎和一头狮子哪个更厉害？",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "328905"
     }
   },
@@ -51888,7 +50849,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ぞんざい",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51913,7 +50874,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "怠慢",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51938,7 +50899,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "巧み",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51964,7 +50925,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "忙碌"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -51989,7 +50950,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "多様",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52014,7 +50975,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "短気",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52040,7 +51001,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "單調"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52065,7 +51026,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "単独",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52089,7 +51050,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "知的",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52114,7 +51075,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "著名",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52140,7 +51101,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "手邊"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52164,7 +51125,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "独自",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52190,7 +51151,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "特有"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52207,7 +51168,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1088450": {
     "sentence": "このビールはドライだ。",
-    "translation": "這種啤酒口感乾燥。",
+    "translation": "這款啤酒口味清爽、不甜。",
     "surface": "ドライ",
     "evidence": {
       "surface": "ドライ",
@@ -52217,7 +51178,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "乾燥"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52228,7 +51189,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "這種啤酒口感乾燥。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1208560": {
@@ -52243,7 +51204,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "光滑"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52267,7 +51228,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ナンセンス",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52294,7 +51255,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "價值"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52318,7 +51279,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "華やか",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52343,7 +51304,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "遥か",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52368,7 +51329,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "半端",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52385,7 +51346,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1483290": {
     "sentence": "それは悲惨だな。",
-    "translation": "那是一個恥辱。",
+    "translation": "那真是悲慘啊。",
     "surface": "悲惨",
     "evidence": {
       "surface": "悲惨",
@@ -52393,7 +51354,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "悲惨",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52404,7 +51365,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "那是一個恥辱。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "435170"
     }
   },
@@ -52418,7 +51379,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "密か",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52445,7 +51406,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "濕透"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52472,7 +51433,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "必然"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52498,7 +51459,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "人品"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52514,7 +51475,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1575970": {
     "sentence": "俺はサッカー一筋なんだ。",
-    "translation": "我對足球很感興趣。",
+    "translation": "我一心只投入足球。",
     "surface": "一筋",
     "evidence": {
       "surface": "一筋",
@@ -52522,7 +51483,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一筋",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52533,7 +51494,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我对足球很感兴趣。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "6873197"
     }
   },
@@ -52549,7 +51510,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "敏感"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52575,7 +51536,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貧困"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52602,7 +51563,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "頻繁"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52619,7 +51580,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1490900": {
     "sentence": "彼は貧乏にも関わらず、そのテストに合格した。",
-    "translation": "他雖然貧窮，但還是透過了測驗。",
+    "translation": "他雖然貧窮，仍然通過了那項測驗。",
     "surface": "貧乏",
     "evidence": {
       "surface": "貧乏",
@@ -52629,7 +51590,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "貧窮"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52640,7 +51601,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他雖然貧窮，但還是通過了測驗。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1491400": {
@@ -52655,7 +51616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不可或缺"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52682,7 +51643,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不吉利"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52709,7 +51670,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不景氣"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52736,7 +51697,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "異常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52761,7 +51722,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "不当",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52788,7 +51749,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不明"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52815,7 +51776,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "頭暈"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52840,7 +51801,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ぶらぶら",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52865,7 +51826,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "不良",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52892,7 +51853,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "無禮"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52918,7 +51879,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "肚子餓"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52945,7 +51906,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "最好"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52972,7 +51933,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "當真"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -52996,7 +51957,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "未熟",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53021,7 +51982,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "身近",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53048,7 +52009,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "密切"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53074,7 +52035,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "無意義"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53100,7 +52061,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "沉默寡言"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53124,7 +52085,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "無邪気",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53150,7 +52111,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "無知"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53174,7 +52135,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "無茶",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53201,7 +52162,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "無用"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53226,7 +52187,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "明白",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53253,7 +52214,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "名譽"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53278,7 +52239,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "明瞭",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53292,31 +52253,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1532640": {
-    "sentence": "両親は赤ん坊を明朗と名づけた。",
-    "translation": "父母把他們的嬰兒取名為晃。",
-    "surface": "明朗",
-    "evidence": {
-      "surface": "明朗",
-      "reading": "めいろう",
-      "lemma": "明朗",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "536188",
-      "zhId": "907316",
-      "jaAuthor": "Scott",
-      "zhAuthor": "Martha",
-      "originalTranslation": "父母把他們的嬰兒取名為晃。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "325718"
-    }
-  },
   "n1-jmdict-1534100": {
     "sentence": "警官がやってくるのを見ると彼は猛烈に走り出した。",
     "translation": "看到警察走來，他猛地跑了開去。",
@@ -53327,7 +52263,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "猛烈",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53354,7 +52290,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "憂鬱"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53378,7 +52314,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "有益",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53405,7 +52341,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勇敢"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53429,7 +52365,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "有望",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53455,7 +52391,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "有希望"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53480,7 +52416,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "緩やか",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53505,7 +52441,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "良好",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53532,7 +52468,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "優質"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53557,7 +52493,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "冷酷",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53584,7 +52520,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "冷淡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53610,7 +52546,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "浪漫"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53635,7 +52571,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "上がり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53661,7 +52597,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "處理"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53687,7 +52623,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "清淡"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53714,7 +52650,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "依靠"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53729,30 +52665,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "68769"
     }
   },
-  "n1-jmdict-1542860": {
-    "sentence": "彼岸花、千年咲き、千年落ち、花と叶ずっと合えなく、情は因果に関系がなし、生死は縁で予め定められている。",
-    "translation": "彼岸花、開一千年、落一千年、花葉永不相見。情不為因果、縁註定生死。",
-    "surface": "予め",
-    "evidence": {
-      "surface": "予め",
-      "reading": "あらかじめ",
-      "lemma": "予め",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "347551",
-      "zhId": "347550",
-      "jaAuthor": "zhouj1955",
-      "zhAuthor": "zhouj1955",
-      "originalTranslation": "彼岸花、开一千年、落一千年、花叶永不相见。情不为因果、縁注定生死。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1541000": {
     "sentence": "物事は、ありのまま見るのではなく、自分自身をそこに見る。",
     "translation": "我們看東西不是看其實質，而是以我們的主觀意識看它們的。",
@@ -53763,7 +52675,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ありのまま",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53789,7 +52701,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "如何"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53806,7 +52718,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1220040": {
     "sentence": "我々は幾多の困難を克服しなければならない。",
-    "translation": "我們要面對許多的困難。",
+    "translation": "我們必須克服許多困難。",
     "surface": "幾多",
     "evidence": {
       "surface": "幾多",
@@ -53816,7 +52728,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "許多"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53827,7 +52739,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我們要面對許多的困難。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "23054"
     }
   },
@@ -53843,7 +52755,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "到了"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53860,7 +52772,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1165340": {
     "sentence": "おばあちゃんが突然死んで家族一同驚いた。",
-    "translation": "奶奶去世讓全家都受了打擊。",
+    "translation": "奶奶突然過世，讓全家都很震驚。",
     "surface": "一同",
     "evidence": {
       "surface": "一同",
@@ -53868,7 +52780,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一同",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53879,12 +52791,12 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "奶奶去世让全家都受了打击。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1166870": {
     "sentence": "とても寒かったので、湖は一面氷に覆われた。",
-    "translation": "天冷得足以讓湖結冰。",
+    "translation": "天氣太冷了，整個湖面都被冰覆蓋。",
     "surface": "一面",
     "evidence": {
       "surface": "一面",
@@ -53892,7 +52804,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一面",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53903,7 +52815,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "天冷得足以让湖结冰。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1161720": {
@@ -53916,7 +52828,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "一気",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53943,7 +52855,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "乍看"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53970,7 +52882,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "一切"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -53987,7 +52899,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-2613280": {
     "sentence": "いっそ断れば。",
-    "translation": "只要說不。",
+    "translation": "乾脆拒絕怎麼樣？",
     "surface": "いっそ",
     "evidence": {
       "surface": "いっそ",
@@ -53995,7 +52907,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "いっそ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54006,7 +52918,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "只要說不。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "827234"
     }
   },
@@ -54020,7 +52932,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "今更",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54044,7 +52956,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "未だ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54053,30 +52965,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "thyc244",
       "zhAuthor": "fucongcong",
       "originalTranslation": "科学家们还没有找到癌症的治疗方法。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-1000910": {
-    "sentence": "ジムは肉体労働がいやになった。",
-    "translation": "吉姆怕了體力勞動了。",
-    "surface": "いやに",
-    "evidence": {
-      "surface": "いやに",
-      "reading": "いやに",
-      "lemma": "いやに",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "215943",
-      "zhId": "510741",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "吉姆怕了体力劳动了。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -54094,7 +52982,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "天生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54121,7 +53009,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "厭煩"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54130,30 +53018,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "jaAuthor": "\\N",
       "zhAuthor": "nickyeow",
       "originalTranslation": "我聽她的埋怨聽得十分厭煩。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
-  "n1-jmdict-2853873": {
-    "sentence": "君が私を愛しているよりもおおく私は君を愛している。",
-    "translation": "我愛你勝過你愛我。",
-    "surface": "おおく",
-    "evidence": {
-      "surface": "おおく",
-      "reading": "おおい",
-      "lemma": "おおい",
-      "method": "lemma+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "178975",
-      "zhId": "736283",
-      "jaAuthor": "\\N",
-      "zhAuthor": "yujianing",
-      "originalTranslation": "我爱你胜过你爱我。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
@@ -54169,7 +53033,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "大方",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54184,30 +53048,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "47648"
     }
   },
-  "n1-jmdict-1421990": {
-    "sentence": "遅くともやらないよりはまし。",
-    "translation": "遲做總比不做好。",
-    "surface": "遅くとも",
-    "evidence": {
-      "surface": "遅くとも",
-      "reading": "おそくとも",
-      "lemma": "遅くとも",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "126750",
-      "zhId": "332923",
-      "jaAuthor": "bunbuku",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "迟做总比不做好。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1228140": {
     "sentence": "素数とは、自分自身及び1という数でしか割り切れない、1より大きい自然数である。",
     "translation": "質數是大於一且只能被本身和一整除的自然數。",
@@ -54218,7 +53058,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "及び",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54242,7 +53082,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "海路",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54267,7 +53107,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "がっくり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54293,7 +53133,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "曾經"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54309,7 +53149,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1365870": {
     "sentence": "彼はかろうじて試験に受かった。",
-    "translation": "他勉強地透過了考試。",
+    "translation": "他勉強通過了考試。",
     "surface": "かろうじて",
     "evidence": {
       "surface": "かろうじて",
@@ -54319,7 +53159,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "勉強"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54330,7 +53170,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "他勉強地通過了考試。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "289591"
     }
   },
@@ -54344,7 +53184,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "気質",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54369,7 +53209,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "きっかり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54395,7 +53235,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "斷然"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54422,7 +53262,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "非常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54446,7 +53286,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "くっきり",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54470,7 +53310,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ぐっと",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54497,7 +53337,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "感覺"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54522,7 +53362,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ございます",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54548,7 +53388,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "看看"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54560,7 +53400,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "note": "「なさい」帶有指示語氣。適合對晚輩或親近對象使用；對上司、顧客宜改說「ご覧ください」。"
   },
   "n1-jmdict-1387280": {
     "sentence": "俺が帰る前に、先に寝てていいよ。",
@@ -54574,7 +53415,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "之前"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54600,7 +53441,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "一定很"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54625,7 +53466,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "さっと",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54649,7 +53490,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "さほど",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54673,7 +53514,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "さも",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54685,7 +53526,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "note": "「さもないと」表示「否則」；本句帶有強烈威嚇語氣，不宜用於一般請求。"
   },
   "n1-jmdict-1314050": {
     "sentence": "呼吸をする以外、なにをするにも、事前に妻の許可を必要とする人は女房の尻にしかれている夫だ。",
@@ -54697,7 +53539,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "事前",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54714,7 +53556,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1005860": {
     "sentence": "お母さん、彼のことをじっくり考えたんだけど、どうしても結婚する気になれないの。",
-    "translation": "媽媽，雖然我仔細考慮過他，但是我還是沒有勇氣結婚。",
+    "translation": "媽媽，我仔細考慮過他的事，卻怎麼也無法下定決心結婚。",
     "surface": "じっくり",
     "evidence": {
       "surface": "じっくり",
@@ -54724,7 +53566,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "仔細"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54735,7 +53577,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "媽媽，雖然我仔細考慮過他，但是我還是沒有勇氣結婚。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)"
     }
   },
   "n1-jmdict-1324330": {
@@ -54748,7 +53590,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "若干",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54775,7 +53617,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "整天"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54800,7 +53642,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "従来",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54825,7 +53667,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "諸君",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54838,7 +53680,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion",
       "pivotId": "267168"
-    }
+    },
+    "note": "對團體成員的較正式稱呼，常由主管、老師或領導者使用。"
   },
   "n1-jmdict-1005710": {
     "sentence": "ここには、しょっちゅう来るよ。",
@@ -54852,7 +53695,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "經常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54876,7 +53719,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "調べ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54901,7 +53744,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "整然",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54928,7 +53771,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "專用"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54953,7 +53796,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "即座に",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -54978,7 +53821,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "そこら",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55004,7 +53847,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "成長"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55029,7 +53872,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "揃い",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55055,7 +53898,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "另一方面"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55082,7 +53925,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "顯然"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55107,7 +53950,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "畜生",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55120,7 +53963,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion",
       "pivotId": "277418"
-    }
+    },
+    "note": "帶憤怒的粗俗感嘆，不適合正式場合。"
   },
   "n1-jmdict-1425160": {
     "sentence": "食中毒に罹ったことはありますか。",
@@ -55134,7 +53978,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "中毒"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55160,7 +54004,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "經常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55185,7 +54029,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "ちらっと",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55211,7 +54055,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "通常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55235,7 +54079,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "作り",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55259,7 +54103,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "手元",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55276,7 +54120,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1008320": {
     "sentence": "てんで見当がつきません。",
-    "translation": "我沒有絲毫的想法。",
+    "translation": "我完全摸不著頭緒。",
     "surface": "てんで",
     "evidence": {
       "surface": "てんで",
@@ -55284,7 +54128,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "てんで",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55295,7 +54139,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我沒有絲毫的想法。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "22089"
     }
   },
@@ -55309,7 +54153,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "到底",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55334,7 +54178,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "堂々",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55361,7 +54205,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "設法"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55386,7 +54230,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "どうやら",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55413,7 +54257,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "往往"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55439,7 +54283,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "偶爾"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55455,7 +54299,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-2009220": {
     "sentence": "彼女は彼を責めるどころか、彼に褒美をあげた。",
-    "translation": "她不僅沒責怪他，反而稱讚他。",
+    "translation": "她非但沒責備他，反而給了他獎賞。",
     "surface": "どころか",
     "evidence": {
       "surface": "どころか",
@@ -55465,7 +54309,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "反而"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55476,7 +54320,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "她不仅没责怪他，反而称赞他。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "459249"
     }
   },
@@ -55492,7 +54336,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "年紀"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55517,7 +54361,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "途上",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55541,7 +54385,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "土台",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55565,7 +54409,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "とりあえず",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55592,7 +54436,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "尤其"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55606,33 +54450,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-1008770": {
-    "sentence": "彼は非常に想像力にとんだ作家です。",
-    "translation": "他是非常有想像力的作家。",
-    "surface": "とんだ",
-    "evidence": {
-      "surface": "とんだ",
-      "reading": "とんだ",
-      "lemma": "とんだ",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "100711",
-      "zhId": "737167",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "他是非常有想像力的作家。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1458550": {
     "sentence": "政治家は決して内心を見せない。",
-    "translation": "政治家從來不告訴我們他們的別有用心。",
+    "translation": "政治人物從不表露內心的想法。",
     "surface": "内心",
     "evidence": {
       "surface": "内心",
@@ -55640,7 +54460,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "内心",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55651,7 +54471,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "政治家从来不告诉我们他们的别有用心。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "271385"
     }
   },
@@ -55667,7 +54487,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "更加"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55693,7 +54513,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "長長"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55720,7 +54540,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "最重要"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55735,31 +54555,6 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "pivotId": "1527933"
     }
   },
-  "n1-jmdict-1212660": {
-    "sentence": "この仕事は慣れの必要だ。",
-    "translation": "這個工作需要實踐。",
-    "surface": "慣れ",
-    "evidence": {
-      "surface": "慣れ",
-      "reading": "なれ",
-      "lemma": "慣れ",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "221816",
-      "zhId": "512896",
-      "jaAuthor": "\\N",
-      "zhAuthor": "fucongcong",
-      "originalTranslation": "这个工作需要实践。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
-      "pivotId": "59142"
-    }
-  },
   "n1-jmdict-1009500": {
     "sentence": "雑誌なんか読んで何の役に立つというのか。",
     "translation": "看雜誌有甚麼用？",
@@ -55770,7 +54565,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "なんか",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55796,7 +54591,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不知怎麼"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55821,7 +54616,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "なんだかんだ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55846,7 +54641,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "日夜",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55873,7 +54668,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "赤腳"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55889,7 +54684,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
   },
   "n1-jmdict-1096260": {
     "sentence": "ハラハラするような小説を読んだ。",
-    "translation": "我讀了一篇精彩的故事。",
+    "translation": "我讀了一本讓人捏把冷汗的小說。",
     "surface": "ハラハラ",
     "evidence": {
       "surface": "ハラハラ",
@@ -55897,7 +54692,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "はらはら",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55908,32 +54703,8 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "我讀了一篇精彩的故事。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "35074"
-    }
-  },
-  "n1-jmdict-1010470": {
-    "sentence": "テストでは辞書をひいてはいけません。",
-    "translation": "考試期間不允許查辭典。",
-    "surface": "ひいては",
-    "evidence": {
-      "surface": "ひいては",
-      "reading": "ひいては",
-      "lemma": "ひいては",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "7976748",
-      "zhId": "7976754",
-      "jaAuthor": "Leolaaziano",
-      "zhAuthor": "Leolaaziano",
-      "originalTranslation": "考試期間不允許查辭典。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
     }
   },
   "n1-jmdict-1010640": {
@@ -55948,7 +54719,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "也許"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -55974,7 +54745,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "熱潮"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56000,7 +54771,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "不在"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56024,7 +54795,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "誠に",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56051,7 +54822,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "正是"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56078,7 +54849,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "更不用說"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56102,7 +54873,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "丸ごと",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56129,7 +54900,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "完全"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56153,7 +54924,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "真ん前",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56177,7 +54948,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "身の上",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56202,7 +54973,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "身の回り",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56226,7 +54997,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "無断",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56253,7 +55024,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "當然"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56278,7 +55049,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "もしかして",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56303,7 +55074,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "もしくは",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56330,7 +55101,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "目前"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56356,7 +55127,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "已經"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56382,7 +55153,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "直接"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56408,7 +55179,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "非常"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56435,7 +55206,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "野生"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56449,33 +55220,9 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "modified": "Traditional Chinese conversion"
     }
   },
-  "n1-jmdict-2607690": {
-    "sentence": "爪を噛むのはよしなさい。",
-    "translation": "不要再咬指甲了。",
-    "surface": "よし",
-    "evidence": {
-      "surface": "よし",
-      "reading": "よし",
-      "lemma": "よし",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "125561",
-      "zhId": "1423346",
-      "jaAuthor": "small_snow",
-      "zhAuthor": "cienias",
-      "originalTranslation": "不要再咬指甲了。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion"
-    }
-  },
   "n1-jmdict-1394280": {
     "sentence": "結果良ければすべて良し。",
-    "translation": "為了正當目的可以不擇手段。",
+    "translation": "結果好，一切就好。",
     "surface": "良し",
     "evidence": {
       "surface": "良し",
@@ -56485,7 +55232,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "meaningAnchors": [
         "可以"
       ],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56496,7 +55243,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "originalTranslation": "為了正當目的可以不擇手段。",
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
-      "modified": "Traditional Chinese conversion",
+      "modified": "Traditional Chinese conversion; Japanese-to-Chinese translation corrected during N1 review (2026-11-03)",
       "pivotId": "26656"
     }
   },
@@ -56510,7 +55257,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "了解",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
@@ -56535,7 +55282,7 @@ window.JP_VOCABULARY_EXAMPLES.n1 = {
       "lemma": "わざわざ",
       "method": "token-boundaries+reading",
       "meaningAnchors": [],
-      "selection": "morphology-and-reading candidate; not individually reviewed"
+      "selection": "Japanese/Chinese text and target usage reviewed by Codex on 2026-11-03; not native-speaker certified"
     },
     "source": {
       "provider": "Tatoeba",
