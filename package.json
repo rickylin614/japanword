@@ -1,0 +1,20 @@
+{
+  "name": "japanword",
+  "version": "1.0.0",
+  "private": true,
+  "description": "N1–N5 日語詞彙、文法與 VOICEVOX 學習網站",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "build": "node scripts/build/build.cjs",
+    "build:grammar": "node scripts/build/build-grammar.cjs",
+    "build:pages": "node scripts/build/build-pages.cjs",
+    "build:dictionary": "node scripts/build/build-verified.cjs",
+    "audio:examples": "node scripts/audio/generate-vocabulary-voicevox.cjs",
+    "audio:words": "node scripts/audio/generate-word-voicevox.cjs",
+    "test:data": "node scripts/run-tests.cjs data",
+    "test:browser": "node scripts/run-tests.cjs browser"
+  }
+}

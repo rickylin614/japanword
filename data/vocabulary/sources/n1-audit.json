@@ -1,0 +1,197 @@
+{
+  "retrievedAt": "2026-11-02T20:17:36.105Z",
+  "jlptUrl": "https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n1.csv",
+  "jlptCommit": "1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0",
+  "jmdictUrl": "https://github.com/scriptin/jmdict-simplified/releases/download/3.6.2%2B20260928191014/jmdict-eng-3.6.2%2B20260928191014.json.zip",
+  "jmdictTag": "3.6.2+20260928191014",
+  "sourceRows": 2699,
+  "accepted": 2671,
+  "counts": {
+    "nouns": 1736,
+    "verbs": 402,
+    "i_adjectives": 60,
+    "na_adjectives": 228,
+    "others": 245
+  },
+  "excluded": [
+    {
+      "line": 22,
+      "word": "光",
+      "reading": "こう",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 640,
+      "word": "営",
+      "reading": "えい",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1262,
+      "word": "合せ",
+      "reading": "あわせ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 1655,
+      "word": "だと",
+      "reading": "だと",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    },
+    {
+      "line": 2452,
+      "word": "~薬",
+      "reading": "~やく",
+      "reason": "來源列的是藥物接尾讀音「やく」，精確候選僅有毒品俚語義，與原義不符；不強行收錄。"
+    },
+    {
+      "line": 2471,
+      "word": "油",
+      "reading": "ゆ",
+      "reason": "無唯一精確的詞條及讀音配對",
+      "matches": []
+    }
+  ],
+  "merged": [
+    {
+      "line": 279,
+      "word": "獣",
+      "into": "獣",
+      "jmdictId": "1335590"
+    },
+    {
+      "line": 301,
+      "word": "貴い",
+      "into": "尊い",
+      "jmdictId": "1598620"
+    },
+    {
+      "line": 689,
+      "word": "納まる",
+      "into": "収まる",
+      "jmdictId": "1330490"
+    },
+    {
+      "line": 819,
+      "word": "掛け",
+      "into": "掛",
+      "jmdictId": "1207600"
+    },
+    {
+      "line": 903,
+      "word": "肝腎",
+      "into": "肝心",
+      "jmdictId": "1590870"
+    },
+    {
+      "line": 1229,
+      "word": "宛",
+      "into": "当て",
+      "jmdictId": "1448820"
+    },
+    {
+      "line": 1331,
+      "word": "情緒",
+      "into": "情緒",
+      "jmdictId": "1580510"
+    },
+    {
+      "line": 1434,
+      "word": "清ます",
+      "into": "澄ます",
+      "jmdictId": "1373650"
+    },
+    {
+      "line": 1536,
+      "word": "早急",
+      "into": "早急",
+      "jmdictId": "1581270"
+    },
+    {
+      "line": 1571,
+      "word": "具わる",
+      "into": "備わる",
+      "jmdictId": "1596640"
+    },
+    {
+      "line": 1626,
+      "word": "堪える",
+      "into": "耐える",
+      "jmdictId": "1211310"
+    },
+    {
+      "line": 1628,
+      "word": "断える",
+      "into": "絶える",
+      "jmdictId": "1386710"
+    },
+    {
+      "line": 1779,
+      "word": "造り",
+      "into": "作り",
+      "jmdictId": "1297250"
+    },
+    {
+      "line": 1834,
+      "word": "手数",
+      "into": "手数",
+      "jmdictId": "1327970"
+    },
+    {
+      "line": 2005,
+      "word": "執着",
+      "into": "執着",
+      "jmdictId": "1594740"
+    },
+    {
+      "line": 2007,
+      "word": "重複",
+      "into": "重複",
+      "jmdictId": "1579980"
+    },
+    {
+      "line": 2033,
+      "word": "出生",
+      "into": "出生",
+      "jmdictId": "1580050"
+    },
+    {
+      "line": 2308,
+      "word": "真ん円い",
+      "into": "真ん丸い",
+      "jmdictId": "1363330"
+    },
+    {
+      "line": 2410,
+      "word": "面目",
+      "into": "面目",
+      "jmdictId": "1533590"
+    },
+    {
+      "line": 2442,
+      "word": "腿",
+      "into": "股",
+      "jmdictId": "1605310"
+    },
+    {
+      "line": 2494,
+      "word": "濯ぐ",
+      "into": "濯ぐ",
+      "jmdictId": "1581550"
+    },
+    {
+      "line": 2545,
+      "word": "世論",
+      "into": "世論",
+      "jmdictId": "1606150"
+    }
+  ],
+  "sha256": {
+    "jlpt": "120911636c019899552aa6d7bd64b036ecef4bedfe272a744f75735c46aae5cd",
+    "dictionary": "5f54504a62a7f45741e1bf6fd28f6e1e5add6405f2829748cc004a802839a3aa"
+  }
+}

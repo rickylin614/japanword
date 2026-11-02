@@ -1,0 +1,17 @@
+# 全詞彙 VOICEVOX 音檔
+
+署名：**VOICEVOX:四国めたん**（ノーマル）。全部為本機合成語音，並非真人錄音。
+
+- N5：698 筆；N4：652 筆；N3：2,091 筆；N2：1,792 筆，N1：2,671 筆，共 **7,904 筆**。
+- 另補 370 筆保留的舊收藏、100 個擬態語詞彙及其 100 個例句。
+- 相同字形與讀音可共用音檔，共 **8,058 個 MP3**。不會只按讀音合併「橋／箸」等不同詞，以便保留聲庫對不同字形的重音判讀。
+
+讀音優先依據詞表核對的假名。生成時先分析漢字詞；若其音素與核對假名的分析結果一致，保留漢字詞的聲庫重音；若不同（例如同字異讀），則使用核對假名。`speech/word-audio-audit.json` 記錄採用文字、音素比對、讀音模式、音檔雜湊、長度與音量。這個檢查核對的是生成輸入與音素，不等於母語者對全部聲調、重音或自然度的試聽認證。
+
+單字列表、讀音／中文測驗的題前單字朗讀及答案朗讀、舊收藏、擬態語表達和對話均播放預先生成音檔。舊 N3／N4／N5 動詞測驗中的原形朗讀也使用這些音檔；變形題的變形詞與文法空格提示／選項仍沿用既有朗讀方式，避免將原形音檔誤當變形答案播放。
+
+語速沿用例句的自然會話設定（話速 1.05、停頓比例 0.85），原始 WAV 檢查靜音、削波與格式後壓成 24 kHz 單聲道、64 kbps MP3。播放不呼叫生成服務，也不要求訪客安裝 VOICEVOX。署名與聲庫條款：https://www.zunko.jp/con_ongen_kiyaku.html 。
+
+重建：啟動本機 VOICEVOX Engine，設定 `VOICEVOX_URL`、`VOICEVOX_PYTHON`（依賴 `speech/requirements-examples.txt`），可用 `VOICEVOX_WORD_CACHE` 指定專案外快取，執行 `node scripts/audio/generate-word-voicevox.cjs`、`node scripts/build/build-pages.cjs`。
+
+驗證：`node tests/test-word-audio.cjs` 檢查全部資料與音檔。設定 `PLAYWRIGHT_PATH` 後，另逐一檢查全部 7,904 個單字卡按鈕、370 個舊收藏及 200 個擬態語按鈕，並在 Chrome 解碼全部 8,058 個 MP3。一般詞彙測驗與舊動詞測驗的播放行為另由 `test-learning.cjs` 驗證。

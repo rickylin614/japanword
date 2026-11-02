@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+.cache/
+.work/
+*.log
+__pycache__/
+*.pyc
+data/vocabulary/sources/jmdict/
+data/vocabulary/sources/jmdict.zip
