@@ -27,6 +27,9 @@ const manifest=context.window.JP_AIZUCHI_AUDIO;
 const audit=JSON.parse(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8'));
 const plan=JSON.parse(fs.readFileSync(resolveFile('speech/aizuchi-plan.json'),'utf8'));
 const pitchCheck=JSON.parse(fs.readFileSync(resolveFile('speech/prosody-check.json'),'utf8'));
+const vowelCheck=JSON.parse(fs.readFileSync(resolveFile('speech/aizuchi-vowel-check.json'),'utf8'));
+assert.equal(vowelCheck.auditSha256,hash(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8').replace(/\r\n/g,'\n')));
+assert.deepEqual(vowelCheck.records.map(r=>r.rank),[6,10,28]);
 assert.equal(pitchCheck.auditSha256,hash(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8').replace(/\r\n/g,'\n')));
 assert.equal(pitchCheck.checkedFiles,200);
 assert.ok(pitchCheck.checks.every(c=>c.segments.every(s=>s.passed)));
@@ -41,6 +44,18 @@ for(const [i,record] of audit.records.entries()){
   const word=context.window.JP_CONVERSATION.aizuchi[i];
   assert.equal(record.id,word.id);assert.equal(plan.entries[i].expression,word.word);
   assert.equal('A：'+record.dialogueInput.a+' B：'+record.dialogueInput.b,word.example);
+  assert.equal(record.contour,plan.entries[i].contour);
+  if(record.contour.startsWith('自然')){
+    assert.equal(record.rendering.word.postSynthesisPitchShift,false);
+    assert.ok(record.rendering.word.mode.startsWith('native'));
+    assert.deepEqual(record.acoustic.word.segments,[]);
+    if(record.rank!==100)assert.equal(record.rendering.b.postSynthesisPitchShift,false);
+  }
+  const renderer=record.renderer||audit.renderer;
+  assert.equal(renderer.generatorSha256,hash(fs.readFileSync(resolveFile(renderer.generatorSnapshot||'generate-aizuchi-voicevox.cjs'),'utf8').replace(/\r\n/g,'\n')));
+  assert.equal(renderer.shaperSha256,hash(fs.readFileSync(resolveFile(renderer.shaperSnapshot||'shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n')));
+  const checkedVowel=vowelCheck.records.find(r=>r.rank===record.rank);
+  if(checkedVowel){assert.equal(checkedVowel.sha256,record.word.sha256);assert.ok(checkedVowel.passed&&checkedVowel.voicedFrames>=25&&checkedVowel.medianPeriodicity>checkedVowel.minimumPeriodicity);}
   for(const [kind,key] of [['word','word'],['dialogue','example']]){
     const entry=record[kind];assert.match(entry.file,/^audio\/aizuchi\/\d{3}-(word|dialogue)\.wav$/);
     assert.equal(manifest.entries[word.id][key],entry.file+'?v='+entry.sha256.slice(0,12));
@@ -61,7 +76,7 @@ for(const [i,record] of audit.records.entries()){
     else assert.ok(segment.deltaSemitones< -1.5,word.word);
   }
 }
-console.log('VOICEVOX: all 100 phrase/100 dialogue files, source snapshots, hashes, independently measured WAV pitch contours and audio metadata passed.');
+console.log('VOICEVOX: 100 phrases/100 dialogues; native intonation, three vowel regressions, retained explicit contours, source snapshots and hashes passed.');
 if(!process.env.PLAYWRIGHT_PATH) { console.log('Set PLAYWRIGHT_PATH to include browser checks.'); process.exit(0); }
 const {chromium} = require(process.env.PLAYWRIGHT_PATH);
 (async()=>{
@@ -89,6 +104,10 @@ const {chromium} = require(process.env.PLAYWRIGHT_PATH);
       Object.defineProperty(window,'speechSynthesis',{value:{getVoices:()=>[],cancel(){},speak(u){window.spoken.push({text:u.text,lang:u.lang});}}});
     });
     const base=`http://127.0.0.1:${server.address().port}/`;
+    await page.goto(base+'aizuchi.html');
+    const decoded=await page.evaluate(async files=>{const context=new AudioContext();try{for(const item of files){const response=await fetch(item.file);if(!response.ok)throw Error(item.file);const audio=await context.decodeAudioData(await response.arrayBuffer());if(audio.numberOfChannels!==1||Math.abs(audio.duration-item.seconds)>.02)throw Error('Invalid WAV '+item.file);}return files.length;}finally{await context.close();}},audit.records.flatMap(r=>[r.word,r.dialogue]));
+    assert.equal(decoded,200);
+    console.log('Chrome decoded all 200 aizuchi WAV files.');
     for(const home of ['index.html','layout.html']){
       await page.goto(base+home);
       for(const kind of ['aizuchi','gitaigo']) assert.equal(await page.locator(`.conversation-home a[href="${kind}.html"]`).count(),1);

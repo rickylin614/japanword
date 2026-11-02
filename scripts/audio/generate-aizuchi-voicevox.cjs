@@ -24,6 +24,12 @@ const hesitant=new Set([68,69,70,71,72,97,98,99,100]);
 async function json(endpoint,method='GET',body){const r=await fetch(base+endpoint,{method,headers:body?{'Content-Type':'application/json'}:{},body:body?JSON.stringify(body):undefined,signal:AbortSignal.timeout(120000)});if(!r.ok)throw Error(endpoint+' HTTP '+r.status);return r.json();}
 function tune(q,e){
  const n=e.rank;
+ if(e.contour.startsWith('自然')){
+  Object.assign(q,{speedScale:1,pitchScale:0,intonationScale:1,volumeScale:1,
+   prePhonemeLength:.1,postPhonemeLength:.16,outputSamplingRate:24000,outputStereo:false});
+  for(const p of q.accent_phrases)p.is_interrogative=false;
+  return q;
+ }
  Object.assign(q,{speedScale:empathy.has(n)?.93:hesitant.has(n)?.94:bright.has(n)?1.03:1,
   pitchScale:empathy.has(n)?-.025:bright.has(n)?.015:0,
   intonationScale:empathy.has(n)?.9:bright.has(n)?1.12:1,
@@ -53,21 +59,49 @@ function wave(data){const h=Buffer.alloc(44);h.write('RIFF');h.writeUInt32LE(36+
 function stats(w){const p=pcm(w);let energy=0,clipped=0;for(let i=0;i<p.length;i+=2){const v=p.readInt16LE(i);energy+=v*v;if(Math.abs(v)>=32760)clipped++;}const duration=p.length/48000,rms=Math.sqrt(energy/(p.length/2));assert.ok(duration>.15&&duration<30,'Unexpected audio duration');assert.ok(rms>50,'Silent audio');assert.ok(clipped/(p.length/2)<.005,'Clipped audio');return{seconds:Number(duration.toFixed(3)),rms:Math.round(rms),sha256:hash(w),bytes:w.length};}
 async function synth(input,speaker,e){let q=await json('/audio_query?speaker='+speaker+'&text='+encodeURIComponent(input),'POST');
  if(e)q=tune(q,e);else Object.assign(q,{speedScale:1,outputSamplingRate:24000,outputStereo:false,prePhonemeLength:.1,postPhonemeLength:.1});
+ // A voiced carrier stabilizes these bare vowels in this voice bank. Keep the
+ // requested interjection's native pitches; remove the carrier consonant from
+ // PCM without pitch shifting or vocoder resynthesis.
+ const isolated=e&&input.replace(/[。？?…、\s]/gu,'')===e.expression.replace(/[。？?…、\s]/gu,'');
+ const carrier=isolated&&e.contour.startsWith('自然')&&({10:'ねえ。',28:'さあ。'})[e.rank];
+ let rendering={mode:e?.contour.startsWith('自然')?'native':'world-terminal-contour',postSynthesisPitchShift:!!e&&!e.contour.startsWith('自然')};
+ if(carrier){const reference=q;q=tune(await json('/audio_query?speaker='+speaker+'&text='+encodeURIComponent(carrier),'POST'),e);
+  assert.equal(q.accent_phrases.length,1);assert.equal(q.accent_phrases[0].moras.length,2);
+  q.accent_phrases[0].moras.forEach((m,i)=>{assert.equal(m.vowel,reference.accent_phrases[0].moras[i].vowel);m.pitch=reference.accent_phrases[0].moras[i].pitch;});
+  rendering={mode:'native-vowel-crop',postSynthesisPitchShift:false,synthesisInput:carrier,spokenInput:input};
+ }
  const r=await fetch(base+'/synthesis?speaker='+speaker+'&enable_interrogative_upspeak='+(!e),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(q),signal:AbortSignal.timeout(120000)});if(!r.ok)throw Error('Synthesis HTTP '+r.status);let wav=Buffer.from(await r.arrayBuffer());let acoustic=null;
- if(e){const shaped=shape(wav,q,e);wav=shaped.wav;acoustic=shaped.acoustic;}
- stats(wav);return{wav,query:q,acoustic};}
+ if(carrier){const data=pcm(wav),moras=q.accent_phrases[0].moras;
+  const length=moras.reduce((n,m)=>n+(m.consonant_length||0)+m.vowel_length,0);
+  const scale=(data.length/48000)/(q.prePhonemeLength+length+q.postPhonemeLength);
+  const start=(q.prePhonemeLength+moras[0].consonant_length+.02)*scale,end=(q.prePhonemeLength+length-.012)*scale;
+  const cut=Buffer.from(data.subarray(Math.round(start*24000)*2,Math.round(end*24000)*2));
+  const fade=Math.min(120,cut.length/4|0);for(let i=0;i<fade;i++){cut.writeInt16LE(Math.round(cut.readInt16LE(i*2)*i/(fade-1)),i*2);const j=cut.length-2-i*2;cut.writeInt16LE(Math.round(cut.readInt16LE(j)*i/(fade-1)),j);}
+  wav=wave(Buffer.concat([Buffer.alloc(4800),cut,Buffer.alloc(7200)]));rendering.trimSeconds={start,end};rendering.edgeFadeMs=5;
+ }
+ if(e&&!e.contour.startsWith('自然')){const shaped=shape(wav,q,e);wav=shaped.wav;acoustic=shaped.acoustic;}
+ else acoustic={method:'VOICEVOX native waveform; no imposed terminal pitch contour',segments:[]};
+ stats(wav);return{wav,query:q,acoustic,rendering};}
 (async()=>{
  const version=await json('/version');const speakers=await json('/speakers');
  const speakerId=name=>{const s=speakers.find(s=>s.name===name);assert.ok(s,'Missing voice '+name);const normal=s.styles.find(s=>s.name==='ノーマル');assert.ok(normal);return normal.id;};
  const bId=speakerId('四国めたん'),aId=speakerId('青山龍星');
  const preview=process.argv.includes('--preview');const previewIds=new Set([1,6,8,11,23,28,61,97,100]);
- const selected=plan.entries.filter(e=>!preview||previewIds.has(e.rank));
+ const rankArg=process.argv.find(a=>a.startsWith('--ranks='));
+ const ranks=rankArg?new Set(rankArg.slice(8).split(',').map(Number)):null;
+ if(ranks)assert.ok([...ranks].every(n=>Number.isInteger(n)&&n>=1&&n<=100),'Invalid ranks');
+ const previous=ranks?JSON.parse(fs.readFileSync(resolveFile('speech/voicevox-audit.json'),'utf8')):null;
+ const renderer={generatorSha256:hash(fs.readFileSync(__filename,'utf8').replace(/\r\n/g,'\n')),shaperSha256:hash(fs.readFileSync(resolveFile('shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n'))};
+ const selected=plan.entries.filter(e=>(!preview||previewIds.has(e.rank))&&(!ranks||ranks.has(e.rank)));
  const records=[];
  for(const e of selected){
   const wordInput=e.rank===9?'うん、うん。':e.rank===47?'わかる、わかる。':e.rank===49?'ある、ある。':e.input;
   const word=await synth(wordInput,bId,e);
   const match=e.context.match(/^A：(.+?)\s+B：(.+)$/u);assert.ok(match,e.id+' dialogue parsing');
-  const a=await synth(match[1],aId);
+  const old=previous?.records.find(r=>r.id===e.id);
+  let a;
+  if(old){assert.equal(old.dialogueInput.a,match[1]);const data=pcm(fs.readFileSync(resolveFile(old.dialogue.file)));a={wav:wave(data.subarray(0,Math.round(old.dialogueSegments.aSeconds*24000)*2)),query:old.queries.a};}
+  else a=await synth(match[1],aId);
   const bInput=match[2];
   const same=bInput.replace(/[。？?…、\s]/gu,'')===e.input.replace(/[。？?…、\s]/gu,'');
   // Full replies 72/97/100 continue beyond the headword: close agreement/thought naturally;
@@ -79,18 +113,19 @@ async function synth(input,speaker,e){let q=await json('/audio_query?speaker='+s
   const stem=String(e.rank).padStart(3,'0');
   fs.writeFileSync(path.join(out,stem+'-word.wav'),word.wav);fs.writeFileSync(path.join(out,stem+'-dialogue.wav'),dialogue);
   records.push({id:e.id,rank:e.rank,contour:e.contour,intent:e.intent,wordInput,dialogueInput:{a:match[1],b:bInput},
-   word:{file:'audio/aizuchi/'+stem+'-word.wav',...stats(word.wav)},dialogue:{file:'audio/aizuchi/'+stem+'-dialogue.wav',...stats(dialogue)},dialogueSegments:{aSeconds:pcm(a.wav).length/48000,pauseSeconds:.32,bSeconds:pcm(b.wav).length/48000},acoustic:{word:word.acoustic,b:b.acoustic},queries:{word:word.query,a:a.query,b:b.query}});
+   word:{file:'audio/aizuchi/'+stem+'-word.wav',...stats(word.wav)},dialogue:{file:'audio/aizuchi/'+stem+'-dialogue.wav',...stats(dialogue)},dialogueSegments:{aSeconds:pcm(a.wav).length/48000,pauseSeconds:.32,bSeconds:pcm(b.wav).length/48000},acoustic:{word:word.acoustic,b:b.acoustic},queries:{word:word.query,a:a.query,b:b.query},rendering:{word:word.rendering,b:b.rendering},renderer,generatedAt:new Date().toISOString()});
   console.log(e.id+' '+e.expression+' '+e.contour+' '+records.at(-1).word.seconds+'s');
  }
+ if(previous){for(const old of previous.records)if(!ranks.has(old.rank))records.push({...old,renderer:old.renderer||previous.renderer,generatedAt:old.generatedAt||previous.generatedAt});records.sort((a,b)=>a.rank-b.rank);}
  const audit={provider:'VOICEVOX',engineVersion:version,generatedAt:new Date().toISOString(),
   sourcePlanSha256:hash(fs.readFileSync(resolveFile('speech/aizuchi-plan.json'),'utf8').replace(/\r\n/g,'\n')),
   voices:{a:{name:'青山龍星',style:'ノーマル',id:aId},b:{name:'四国めたん',style:'ノーマル',id:bId}},
   credit:'VOICEVOX:四国めたん／VOICEVOX:青山龍星',license:'https://www.zunko.jp/con_ongen_kiyaku.html',
   aVoiceLicense:'https://www.virvoxproject.com/voicevoxの利用規約',
-  renderer:{generatorSha256:hash(fs.readFileSync(__filename,'utf8').replace(/\r\n/g,'\n')),shaperSha256:hash(fs.readFileSync(resolveFile('shape-aizuchi-prosody.py'),'utf8').replace(/\r\n/g,'\n'))},
-  validation:'Rendered final-vowel pitch measured with WORLD Harvest/StoneMask; all contours must pass before publication. WAV structure, duration, non-silence and clipping checked. Pitch does not certify emotion or native-speaker naturalness.',records};
+  renderer,
+  validation:'Natural responses bypass post-synthesis pitch shaping; remaining explicit contours retain WORLD measurements. WAV structure, duration, non-silence and clipping checked. Acoustic checks do not certify emotion or native-speaker naturalness.',records};
  fs.writeFileSync(resolveFile('speech',preview?'voicevox-preview.json':'voicevox-audit.json'),JSON.stringify(audit,null,2)+'\n');
  if(!preview){assert.equal(records.length,100);const publicData={provider:'VOICEVOX',credit:audit.credit,entries:Object.fromEntries(records.map(r=>[r.id,{word:r.word.file+'?v='+r.word.sha256.slice(0,12),example:r.dialogue.file+'?v='+r.dialogue.sha256.slice(0,12),contour:r.contour,intent:r.intent}]))};
   fs.writeFileSync(resolveFile('aizuchi-audio.js'),'/* Generated local VOICEVOX audio. See speech/voicevox-audit.json. */\nwindow.JP_AIZUCHI_AUDIO = '+JSON.stringify(publicData,null,2)+';\n');}
- console.log(`Generated ${records.length} phrases and ${records.length} dialogues locally.`);
+ console.log(`Regenerated ${selected.length} phrases/dialogues; manifest contains ${records.length} complete entries.`);
 })().catch(e=>{console.error(e);process.exitCode=1;});

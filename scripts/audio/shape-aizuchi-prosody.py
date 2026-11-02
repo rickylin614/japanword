@@ -37,8 +37,8 @@ f0 = pw.stonemask(x, f0, times, sr)
 target = f0.copy()
 regions = []
 requested = []
-if config['rank'] in [9,47,49,94,95,96,100]:
-    requested.extend((v, '緩降 ↘') for v in group_ends if v != vowels[-1])
+# Do not impose falling contours on intermediate clauses. Natural responses now
+# bypass this renderer entirely; explicit questions/arcs only shape their end.
 requested.append((vowels[-1],contour))
 for (begin,end,pitch),direction in requested:
     begin,end = begin*scale,end*scale

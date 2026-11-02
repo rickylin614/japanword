@@ -91,6 +91,8 @@ N1～N5 的詞彙分級出自固定版本 Open Anki JLPT Decks／Tanos；JMdict 
 
 引擎在專案外，網站使用預先生成音檔。四国めたん（ノーマル，speaker 2）、話速 1.05、停頓比例 0.85 是現有單字／例句設定。相づち另有 A／B 聲線與句尾音高處理，請讀 `data/speech/AIZUCHI-REVIEW.md`，不要套用一般例句設定覆寫它。
 
+相づち標示「自然回應／自然驚訝」的條目已移除強制降調，直接使用原生語音；短母音修正及局部重建方式見 `data/speech/AIZUCHI-NATURAL-REVIEW.md`。修改相づち音檔後，執行 `verify-aizuchi-prosody.py` 與 `verify-aizuchi-vowels.py` 更新對應紀錄，再執行會話測試。
+
 設定本機 `VOICEVOX_URL`、`VOICEVOX_PYTHON` 後：
 
 ```sh

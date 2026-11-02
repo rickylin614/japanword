@@ -40,7 +40,7 @@ const entries = reviews.map((line,index)=>{
 assert.equal(new Set(entries.map(e=>e.id)).size,100);
 assert.equal(new Set(entries.map(e=>e.instructions)).size,100);
 const sha256 = text=>crypto.createHash('sha256').update(text).digest('hex');
-const plan={schemaVersion:1,reviewDate:'2026-11-01',provider:'VOICEVOX',
+const plan={schemaVersion:1,reviewDate:'2026-11-03',provider:'VOICEVOX',
   status:'pre_generation_context_review',
   reviewScope:'Project-authored review of intended sentence intonation in each existing dialogue; not native-speaker certification or acoustic/listening validation.',
   voiceCandidate:'四国めたん（ノーマル）',voiceStatus:'selected_for_local_synthesis',
@@ -49,11 +49,12 @@ const plan={schemaVersion:1,reviewDate:'2026-11-01',provider:'VOICEVOX',
 const markdown=[
   '# 相づち 100 句：生成前語氣審查',
   '',
-  '審查日期：2026-11-01。已逐句依現有對話、中文意思、禮貌程度與使用說明整理演繹方向。',
+  '審查日期：2026-11-03。已依使用者回饋移除強制下降尾音，保留現有對話、中文意思、禮貌程度與情境說明。',
   '',
   '**本表記錄生成前的文字與情境審查。音檔生成及實際音高量測結果見 voicevox-audit.json、prosody-check.json；不等於母語者試聽認證。**',
   '',
   '箭頭表示本例的句尾走向，不是每個音節的音高曲線或日文高低重音標記。同一句話在別的情境可以採不同語氣。上揚不應套用到全部相づち；這份安排是專案的教學演繹，並非唯一標準或母語教師逐句認證。',
+  '標示「自然回應／自然驚訝」的音檔採 VOICEVOX 原生語調，不經 WORLD 降調或母音延長處理。「へえ、ええ、ああ」另處理短母音合成的雜音；詳見 AIZUCHI-NATURAL-REVIEW.md。',
   '',
   '「輕升後收」表示句尾有柔和起伏後收束，並非強烈疑問。「未完平持」保留思考或接續感。「そう言われると」「うーん」「なるほど、でも…」的單獨表達音檔只讀該片語，不添加對話中的後續句。',
   '',
@@ -69,7 +70,7 @@ const markdown=[
   '',
   ...entries.flatMap(e=>[`### ${e.rank}. ${e.expression}`,'',`- 情境：${e.context}`,`- 中文：${e.contextTranslation}`,`- 單獨發話文字：${e.input}`,`- 日文演繹指示：${e.direction}`,'']),
   '## 本機重建','',
-  '啟動 VOICEVOX Engine 後執行 node generate-aizuchi-voicevox.cjs。生成程式會先核對本表與原始對話快照，並保留每段調整後的查詢資料。',
+  '啟動 VOICEVOX Engine 後執行 node scripts/audio/generate-aizuchi-voicevox.cjs。可用 --ranks=6,10,28 更新指定條目；局部更新保留其他錄音與 A 情境的原始 PCM。生成程式會先核對本表與原始對話快照，並保留每段查詢資料。',
   '',
   '音檔使用署名：VOICEVOX:四国めたん／VOICEVOX:青山龍星。聲庫條款：https://www.zunko.jp/con_ongen_kiyaku.html 。引擎與模型放在專案外，不隨網站發布。',''
 ].join('\n');
