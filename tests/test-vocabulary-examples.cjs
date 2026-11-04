@@ -36,6 +36,9 @@ for(const level of levels){
       assert.deepEqual(Array.from(e.variants,v=>v.kind),['dictionary','te','common'],word.id);
       assert.equal(new Set(e.variants.map(v=>v.sentence)).size,3,word.id);
       for(const v of e.variants){assert.ok(v.sentence.includes(v.surface),word.id);assert.match(v.translation,/[\u3400-\u9fff]/u);}
+      const [dictionary,te,common]=e.variants;
+      const prefix=v=>v.sentence.slice(0,v.sentence.indexOf(v.surface));
+      assert.notEqual(prefix(dictionary),prefix(te),word.id+' repeats the dictionary context in te form');
       assert.match(e.variants[1].form,/[てで]$/u,word.id);
       assert.match(e.variants[1].reading,/^[ぁ-ゖー]+[てで]$/u,word.id);
       assert.equal(e.variants[2].sentence,e.sentence);
@@ -152,13 +155,17 @@ assert.equal(variants('n2','応ずる')[1].reading,'おうじて');
 assert.equal(variants('n3','愛する')[1].form,'愛して');
 assert.equal(variants('n2','する')[0].form,'刷る');
 assert.equal(variants('n2','する')[1].form,'刷って');
-assert.match(variants('n3','遭う')[0].sentence,/にわか雨/);
-assert.match(variants('n5','会う')[0].sentence,/友達/);
+assert.match(variants('n3','遭う')[0].sentence,/事故/);
+assert.match(variants('n5','会う')[0].sentence,/先生/);
 assert.match(variants('n3','明ける')[0].sentence,/梅雨/);
-assert.match(variants('n5','開ける')[0].sentence,/窓/);
-assert.match(variants('n4','空く','あく')[0].sentence,/予定/);
-assert.match(variants('n3','抱く','いだく')[0].sentence,/希望/);
-assert.match(variants('n3','抱く','だく')[0].sentence,/赤ちゃん/);
+assert.match(variants('n5','開ける')[0].sentence,/箱/);
+assert.match(variants('n4','空く','あく')[0].sentence,/会議室/);
+assert.match(variants('n3','抱く','いだく')[0].sentence,/親しみ/);
+assert.match(variants('n3','抱く','だく')[0].sentence,/泣いている子/);
+assert.equal(variants('n1','給う')[1].form,'給うて');
+assert.equal(variants('n1','給う')[1].reading,'たもうて');
+assert.match(variants('n3','得る','うる')[0].sentence,/起こり得る/);
+assert.match(variants('n3','得る','うる')[0].note,/可能/);
 console.log('N1–N5: all 7904 entries covered; readings, selected senses, attribution and reproducible builds passed.');
 if(!process.env.PLAYWRIGHT_PATH){console.log('Set PLAYWRIGHT_PATH for browser checks.');process.exit(0);}
 const {chromium}=require(process.env.PLAYWRIGHT_PATH);

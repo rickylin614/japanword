@@ -50,8 +50,10 @@ if(fs.existsSync(corpusPath)){
     sentences.add(example.sentence);
   }
 }
-const {examplesFor}=require('./build-verb-examples.cjs');
+const {examplesFor,commonFor}=require('./build-verb-examples.cjs');
 for(const word of banks.verbs){
+  const override=commonFor(word);
+  if(override)examples[word.id]=override;
   if(!examples[word.id])continue;
   const common={kind:'common',label:'常用用法',...examples[word.id]};
   examples[word.id].variants=[...examplesFor(word),common];

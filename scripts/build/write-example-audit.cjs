@@ -13,7 +13,7 @@ for(const level of ['n5','n4','n3','n2','n1']){
   report.levels[level].verbEntries=banks.verbs.length;
   report.levels[level].verbExamples=banks.verbs.reduce((n,w)=>n+(examples[w.id].variants?.length||0),0);
   report.levels[level].distinctSentencesWithVariants=new Set(Object.values(examples).flatMap(e=>(e.variants||[e]).map(v=>v.sentence))).size;
-  for(const name of [level+'-data.js',level+'-examples.js','vocabulary-examples/'+level+'.txt','vocabulary-examples/'+level+'-corpus.json','vocabulary-examples/verbs-'+level+'.txt','build-verb-examples.cjs']){
+  for(const name of [level+'-data.js',level+'-examples.js','vocabulary-examples/'+level+'.txt','vocabulary-examples/'+level+'-corpus.json','vocabulary-examples/verbs-'+level+'.json','build-verb-examples.cjs','build-verbs.cjs','build-vocabulary-examples.cjs']){
     if(fs.existsSync(resolveFile(name)))report.files[name]={sha256LF:crypto.createHash('sha256').update(read(name).replace(/\r\n/g,'\n')).digest('hex')};
   }
 }

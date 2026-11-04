@@ -22,8 +22,8 @@ for(const l of levels){
 }
 const inputs=plan.clips.map(c=>c.input);
 assert.ok(inputs.includes('日曜日にうちにきませんか？'),'来ません pronunciation');
-assert.ok(inputs.includes('将来への希望をいだいています。'),'抱く=いだく');
-assert.ok(inputs.includes('母は赤ちゃんをだいています。'),'抱く=だく');
+assert.ok(inputs.includes('子供たちは宇宙への興味をいだいて、図書館で星の本を探しています。'),'抱く=いだく');
+assert.ok(inputs.includes('少女は子猫をだいて、獣医の所へ走っていきました。'),'抱く=だく');
 console.log(`PASS: ${audit.records.length} MP3 files, ${Object.values(plan.banks).flatMap(b=>Object.values(b).flat()).length} vocabulary examples, ${Object.values(plan.grammar).flatMap(b=>Object.values(b).flat()).length} grammar examples; hashes, sources, readings, complete mappings, ${(bytes/1024/1024).toFixed(1)} MiB.`);
 if(!process.env.PLAYWRIGHT_PATH){console.log('Set PLAYWRIGHT_PATH to check every playback button and decode every MP3 in Chrome.');process.exit(0);}
 const {chromium}=require(process.env.PLAYWRIGHT_PATH);

@@ -8,13 +8,15 @@ const base=process.env.VOICEVOX_URL||'http://127.0.0.1:50021';
 assert.ok(['127.0.0.1','localhost','[::1]'].includes(new URL(base).hostname),'Local engine only');
 const ffmpeg=process.env.VOICEVOX_FFMPEG,python=process.env.VOICEVOX_PYTHON;
 assert.ok(python||(ffmpeg&&fs.existsSync(ffmpeg)),'Set VOICEVOX_PYTHON (lameenc) or VOICEVOX_FFMPEG');
-let encoder=null,sequence=0;const pending=new Map();
+let encoder=null,encoderFailure=null,sequence=0;const pending=new Map();
 if(python){
  encoder=spawn(python,['-u',resolveFile('encode-example-mp3.py')],{windowsHide:true,stdio:['pipe','pipe','pipe']});
  let buffer='',error='';encoder.stderr.on('data',b=>error+=b);
  encoder.stdout.on('data',b=>{buffer+=b;let split;while((split=buffer.indexOf('\n'))>=0){const line=buffer.slice(0,split);buffer=buffer.slice(split+1);if(!line.trim())continue;const result=JSON.parse(line);const job=pending.get(result.id);pending.delete(result.id);if(job){if(result.ok)job.resolve();else job.reject(Error(result.error));}}});
- encoder.on('error',e=>{for(const job of pending.values())job.reject(e);pending.clear();});
- encoder.on('close',code=>{if(code||pending.size){for(const job of pending.values())job.reject(Error('Encoder stopped: '+error));pending.clear();}});
+ const fail=e=>{encoderFailure=e;for(const job of pending.values())job.reject(e);pending.clear();};
+ encoder.on('error',fail);
+ encoder.stdin.on('error',fail);
+ encoder.on('close',code=>fail(Error('Encoder stopped ('+code+'): '+error)));
 }
 const cache=process.env.VOICEVOX_CACHE||path.join(require('node:os').tmpdir(),'japanword-example-cache');fs.mkdirSync(cache,{recursive:true});
 const plan=collect();
@@ -34,6 +36,7 @@ function wavStats(w){
  return{seconds:Number(seconds.toFixed(4)),rms:Math.round(rms),clippingRatio:Number(clippingRatio.toFixed(7))};
 }
 function encode(wav,target){return new Promise((resolve,reject)=>{
+ if(encoderFailure){reject(encoderFailure);return;}
  if(encoder){const id=++sequence;pending.set(id,{resolve,reject});encoder.stdin.write(JSON.stringify({id,wav:wav.toString('base64'),target})+'\n');return;}
  const tmp=target+'.tmp.mp3';const proc=spawn(ffmpeg,['-hide_banner','-loglevel','error','-f','wav','-i','pipe:0','-map_metadata','-1','-ac','1','-ar','24000','-codec:a','libmp3lame','-b:a','64k','-write_xing','1','-y',tmp],{windowsHide:true,stdio:['pipe','ignore','pipe']});let error='';
  proc.stderr.on('data',b=>error+=b);proc.on('error',reject);proc.stdin.on('error',()=>{});

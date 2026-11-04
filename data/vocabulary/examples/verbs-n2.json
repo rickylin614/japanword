@@ -1,0 +1,4091 @@
+{
+  "n2-jmdict-1609000": {
+    "dictionary": {
+      "sentence": "店主は煙を外へ出そうと、段ボールで扇ぐ。",
+      "translation": "店主想把煙趕到外面，用紙板搧風。",
+      "surface": "扇ぐ",
+      "reading": "あおぐ"
+    },
+    "te": {
+      "sentence": "父は炭をうちわで扇いで、火を強くしました。",
+      "translation": "爸爸用團扇搧炭，讓火燒得更旺。",
+      "surface": "扇いで",
+      "reading": "あおいで"
+    }
+  },
+  "n2-jmdict-1515580": {
+    "dictionary": {
+      "sentence": "彼の無責任な態度に呆れる。",
+      "translation": "對他不負責任的態度感到無言。",
+      "surface": "呆れる",
+      "reading": "あきれる"
+    },
+    "te": {
+      "sentence": "何度注意しても遅刻する同僚に呆れて、何も言えませんでした。",
+      "translation": "同事提醒了好幾次仍遲到，讓我無言以對。",
+      "surface": "呆れて",
+      "reading": "あきれて"
+    }
+  },
+  "n2-jmdict-1453810": {
+    "dictionary": {
+      "sentence": "子供が宇宙飛行士に憧れる。",
+      "translation": "孩子嚮往當太空人。",
+      "surface": "憧れる",
+      "reading": "あこがれる"
+    },
+    "te": {
+      "sentence": "姉はパリの暮らしに憧れて、フランス語を勉強し始めました。",
+      "translation": "姐姐嚮往巴黎的生活，開始學習法文。",
+      "surface": "憧れて",
+      "reading": "あこがれて"
+    }
+  },
+  "n2-jmdict-1527010": {
+    "dictionary": {
+      "sentence": "旅先で地元の料理を味わう。",
+      "translation": "在旅途品嚐當地料理。",
+      "surface": "味わう",
+      "reading": "あじわう"
+    },
+    "te": {
+      "sentence": "苦労を味わって初めて、親の気持ちが分かりました。",
+      "translation": "親身經歷辛苦後，我才明白父母的心情。",
+      "surface": "味わって",
+      "reading": "あじわって"
+    }
+  },
+  "n2-jmdict-1544970": {
+    "dictionary": {
+      "sentence": "友達の荷物を預かる。",
+      "translation": "替朋友保管行李。",
+      "surface": "預かる",
+      "reading": "あずかる"
+    },
+    "te": {
+      "sentence": "妹の子供を預かって、一緒に動物園へ行きました。",
+      "translation": "我幫忙照顧妹妹的孩子，一起去了動物園。",
+      "surface": "預かって",
+      "reading": "あずかって"
+    }
+  },
+  "n2-jmdict-1586430": {
+    "dictionary": {
+      "sentence": "スープを飲むと、おなかの中から温まる。",
+      "translation": "喝湯後，會從肚子裡暖和起來。",
+      "surface": "温まる",
+      "reading": "あたたまる"
+    },
+    "te": {
+      "sentence": "冷えたスープが温まってきたので、器を用意しました。",
+      "translation": "冷掉的湯漸漸熱了，我便準備好碗。",
+      "surface": "温まって",
+      "reading": "あたたまって"
+    }
+  },
+  "n2-jmdict-1448930": {
+    "dictionary": {
+      "sentence": "この条件に当てはまる人には、補助金が出る。",
+      "translation": "符合這個條件的人可以領補助金。",
+      "surface": "当てはまる",
+      "reading": "あてはまる"
+    },
+    "te": {
+      "sentence": "あなたの説明は私の経験にも当てはまっていて、納得できました。",
+      "translation": "你的說明也符合我的經驗，讓我能夠理解。",
+      "surface": "当てはまって",
+      "reading": "あてはまって"
+    }
+  },
+  "n2-jmdict-1586530": {
+    "dictionary": {
+      "sentence": "例に公式を当てはめる。",
+      "translation": "把公式套用到例子。",
+      "surface": "当てはめる",
+      "reading": "あてはめる"
+    },
+    "te": {
+      "sentence": "測定した数値を式に当てはめて、必要な長さを求めます。",
+      "translation": "把測量的數值代入公式，求出所需長度。",
+      "surface": "当てはめて",
+      "reading": "あてはめて"
+    }
+  },
+  "n2-jmdict-1519340": {
+    "dictionary": {
+      "sentence": "馬が突然暴れる。",
+      "translation": "馬突然亂跳。",
+      "surface": "暴れる",
+      "reading": "あばれる"
+    },
+    "te": {
+      "sentence": "子供たちが車内で暴れて、運転手に注意されました。",
+      "translation": "孩子們在車內胡鬧，受到司機提醒。",
+      "surface": "暴れて",
+      "reading": "あばれて"
+    }
+  },
+  "n2-jmdict-1568910": {
+    "dictionary": {
+      "sentence": "火で魚をあぶる。",
+      "translation": "用火烤魚。",
+      "surface": "あぶる",
+      "reading": "あぶる"
+    },
+    "te": {
+      "sentence": "のりをさっとあぶってから、ご飯に添えました。",
+      "translation": "我把海苔稍微烤過，再配飯食用。",
+      "surface": "あぶって",
+      "reading": "あぶって"
+    }
+  },
+  "n2-jmdict-1167610": {
+    "dictionary": {
+      "sentence": "大雨で川の水があふれる。",
+      "translation": "大雨使河水溢出。",
+      "surface": "あふれる",
+      "reading": "あふれる"
+    },
+    "te": {
+      "sentence": "祭りの日は通りに人があふれて、バスも通れません。",
+      "translation": "祭典當天街上擠滿了人，連公車也無法通行。",
+      "surface": "あふれて",
+      "reading": "あふれて"
+    }
+  },
+  "n2-jmdict-1213470": {
+    "dictionary": {
+      "sentence": "祖父は孫を甘やかす。",
+      "translation": "祖父溺愛孫子。",
+      "surface": "甘やかす",
+      "reading": "あまやかす"
+    },
+    "te": {
+      "sentence": "猫を甘やかしておやつを与えすぎると、太ってしまいます。",
+      "translation": "如果太寵貓，給牠太多零食，牠就會發胖。",
+      "surface": "甘やかして",
+      "reading": "あまやかして"
+    }
+  },
+  "n2-jmdict-1543910": {
+    "dictionary": {
+      "sentence": "この布なら、シャツを作っても少し余る。",
+      "translation": "這塊布做完襯衫後，還會剩下一點。",
+      "surface": "余る",
+      "reading": "あまる"
+    },
+    "te": {
+      "sentence": "招待券が二枚余っているので、友達を誘います。",
+      "translation": "還剩兩張招待券，所以我要邀朋友。",
+      "surface": "余って",
+      "reading": "あまって"
+    }
+  },
+  "n2-jmdict-1511950": {
+    "dictionary": {
+      "sentence": "毛糸でマフラーを編む。",
+      "translation": "用毛線織圍巾。",
+      "surface": "編む",
+      "reading": "あむ"
+    },
+    "te": {
+      "sentence": "職人は竹でかごを編んで、市場で売っています。",
+      "translation": "工匠用竹子編籃子，在市場販售。",
+      "surface": "編んで",
+      "reading": "あんで"
+    }
+  },
+  "n2-jmdict-1400620": {
+    "dictionary": {
+      "sentence": "二人が優勝を争う。",
+      "translation": "兩人爭奪冠軍。",
+      "surface": "争う",
+      "reading": "あらそう"
+    },
+    "te": {
+      "sentence": "兄弟が一つのおもちゃを争って、泣き出してしまいました。",
+      "translation": "兄弟爭搶同一個玩具，結果哭了起來。",
+      "surface": "争って",
+      "reading": "あらそって"
+    }
+  },
+  "n2-jmdict-1200750": {
+    "dictionary": {
+      "sentence": "自分の悪い習慣を改める。",
+      "translation": "改掉自己的壞習慣。",
+      "surface": "改める",
+      "reading": "あらためる"
+    },
+    "te": {
+      "sentence": "日を改めて、担当者からご連絡いたします。",
+      "translation": "我們將改天由負責人與您聯繫。",
+      "surface": "改めて",
+      "reading": "あらためて"
+    }
+  },
+  "n2-jmdict-1427080": {
+    "dictionary": {
+      "sentence": "研究者が歴史の本をあらわす。",
+      "translation": "研究者撰寫歷史書。",
+      "surface": "あらわす",
+      "reading": "あらわす"
+    },
+    "te": {
+      "sentence": "作家は故郷を舞台にした小説をあらわして、注目を集めました。",
+      "translation": "作家撰寫了以故鄉為舞台的小說，受到矚目。",
+      "surface": "あらわして",
+      "reading": "あらわして"
+    }
+  },
+  "n2-jmdict-1281490": {
+    "dictionary": {
+      "sentence": "台風が来ると、海が荒れる。",
+      "translation": "颱風來時海面變得洶湧。",
+      "surface": "荒れる",
+      "reading": "あれる"
+    },
+    "te": {
+      "sentence": "洗剤で手が荒れてしまい、手袋を使うようになりました。",
+      "translation": "洗潔劑使我的手變得粗糙，我開始使用手套。",
+      "surface": "荒れて",
+      "reading": "あれて"
+    }
+  },
+  "n2-jmdict-1278830": {
+    "dictionary": {
+      "sentence": "急な知らせに慌てる。",
+      "translation": "因突然的消息而慌張。",
+      "surface": "慌てる",
+      "reading": "あわてる"
+    },
+    "te": {
+      "sentence": "財布を忘れたことに気付き、慌てて家へ戻りました。",
+      "translation": "發現忘了帶錢包，我急忙回家。",
+      "surface": "慌てて",
+      "reading": "あわてて"
+    }
+  },
+  "n2-jmdict-1264080": {
+    "dictionary": {
+      "sentence": "弟は急に、学校を辞めたいと言い出すことがある。",
+      "translation": "弟弟有時會突然說想休學。",
+      "surface": "言い出す",
+      "reading": "いいだす"
+    },
+    "te": {
+      "sentence": "誰も本音を言い出してくれず、話し合いが進みませんでした。",
+      "translation": "沒有人肯說出真心話，討論無法進展。",
+      "surface": "言い出して",
+      "reading": "いいだして"
+    }
+  },
+  "n2-jmdict-1264230": {
+    "dictionary": {
+      "sentence": "校長は職員に、窓を確認するよう言い付ける。",
+      "translation": "校長吩咐職員確認窗戶。",
+      "surface": "言い付ける",
+      "reading": "いいつける"
+    },
+    "te": {
+      "sentence": "妹は私の失敗をすぐ母に言い付けて、私は叱られました。",
+      "translation": "妹妹馬上向媽媽告狀，說出我的過失，害我挨罵。",
+      "surface": "言い付けて",
+      "reading": "いいつけて"
+    }
+  },
+  "n2-jmdict-1156320": {
+    "dictionary": {
+      "sentence": "彼は部下の前で威張る。",
+      "translation": "他在部屬面前擺架子。",
+      "surface": "威張る",
+      "reading": "いばる"
+    },
+    "te": {
+      "sentence": "成績がよいからといって、友達の前で威張ってはいけません。",
+      "translation": "不能因為成績好，就在朋友面前擺架子。",
+      "surface": "威張って",
+      "reading": "いばって"
+    }
+  },
+  "n2-jmdict-1609260": {
+    "dictionary": {
+      "sentence": "息子は歯医者に行くのを嫌がる。",
+      "translation": "兒子不願意去看牙醫。",
+      "surface": "嫌がる",
+      "reading": "いやがる"
+    },
+    "te": {
+      "sentence": "祖母は写真を撮られるのを嫌がって、顔をそむけました。",
+      "translation": "祖母不喜歡被拍照，把臉轉向一旁。",
+      "surface": "嫌がって",
+      "reading": "いやがって"
+    }
+  },
+  "n2-jmdict-1391500": {
+    "dictionary": {
+      "sentence": "料理人はごまを弱火で煎る。",
+      "translation": "廚師用小火炒芝麻。",
+      "surface": "煎る",
+      "reading": "いる"
+    },
+    "te": {
+      "sentence": "コーヒー豆を煎っていると、部屋中によい香りが広がります。",
+      "translation": "烘咖啡豆時，香氣會瀰漫整個房間。",
+      "surface": "煎って",
+      "reading": "いって"
+    }
+  },
+  "n2-jmdict-1224080": {
+    "dictionary": {
+      "sentence": "食料がないと、人は飢える。",
+      "translation": "沒有食物時人會挨餓。",
+      "surface": "飢える",
+      "reading": "うえる"
+    },
+    "te": {
+      "sentence": "その少年は愛情に飢えていて、いつも誰かと一緒にいたがります。",
+      "translation": "那個少年渴望關愛，總想有人陪伴。",
+      "surface": "飢えて",
+      "reading": "うえて"
+    }
+  },
+  "n2-jmdict-1497430": {
+    "dictionary": {
+      "sentence": "よく眠った翌朝は、よい考えが浮かぶことが多い。",
+      "translation": "睡飽後的隔天早上，往往會浮現好點子。",
+      "surface": "浮かぶ",
+      "reading": "うかぶ"
+    },
+    "te": {
+      "sentence": "池に落ち葉が浮かんでいて、風でゆっくり動いていました。",
+      "translation": "池面漂著落葉，隨風緩緩移動。",
+      "surface": "浮かんで",
+      "reading": "うかんで"
+    }
+  },
+  "n2-jmdict-1497360": {
+    "dictionary": {
+      "sentence": "母が笑顔を浮かべる。",
+      "translation": "媽媽露出笑容。",
+      "surface": "浮かべる",
+      "reading": "うかべる"
+    },
+    "te": {
+      "sentence": "子供たちは紙の船を水に浮かべて、流れる様子を見ていました。",
+      "translation": "孩子們把紙船放到水上，看著它漂流。",
+      "surface": "浮かべて",
+      "reading": "うかべて"
+    }
+  },
+  "n2-jmdict-1497420": {
+    "dictionary": {
+      "sentence": "木の板が水に浮く。",
+      "translation": "木板浮在水上。",
+      "surface": "浮く",
+      "reading": "うく"
+    },
+    "te": {
+      "sentence": "プールの水面に浮いていられるように練習しています。",
+      "translation": "我正在練習，讓身體能持續浮在泳池水面上。",
+      "surface": "浮いて",
+      "reading": "ういて"
+    }
+  },
+  "n2-jmdict-1349440": {
+    "dictionary": {
+      "sentence": "ご注文を承る際に、お名前を確認いたします。",
+      "translation": "接受訂單時，我們會確認您的姓名。",
+      "surface": "承る",
+      "reading": "うけたまわる"
+    },
+    "te": {
+      "sentence": "ご要望を承っておりますので、担当者からご連絡いたします。",
+      "translation": "我們已收到您的需求，將由負責人與您聯繫。",
+      "surface": "承って",
+      "reading": "うけたまわって"
+    }
+  },
+  "n2-jmdict-1329640": {
+    "dictionary": {
+      "sentence": "先生が二つのクラスを受け持つ。",
+      "translation": "老師負責兩個班級。",
+      "surface": "受け持つ",
+      "reading": "うけもつ"
+    },
+    "te": {
+      "sentence": "姉は店の会計を受け持って、売り上げを毎日記録しています。",
+      "translation": "姐姐負責店裡的會計，每天記錄營業額。",
+      "surface": "受け持って",
+      "reading": "うけもって"
+    }
+  },
+  "n2-jmdict-1475500": {
+    "dictionary": {
+      "sentence": "水でジュースを薄める。",
+      "translation": "用水稀釋果汁。",
+      "surface": "薄める",
+      "reading": "うすめる"
+    },
+    "te": {
+      "sentence": "ペンキを専用の液で薄めて、壁に塗りやすくしました。",
+      "translation": "我用專用溶劑稀釋油漆，讓它更容易塗在牆上。",
+      "surface": "薄めて",
+      "reading": "うすめて"
+    }
+  },
+  "n2-jmdict-1609310": {
+    "dictionary": {
+      "sentence": "会社がうわさを打ち消す。",
+      "translation": "公司否認傳聞。",
+      "surface": "打ち消す",
+      "reading": "うちけす"
+    },
+    "te": {
+      "sentence": "選手は引退の可能性を打ち消して、来季への意欲を示しました。",
+      "translation": "選手否認退休的可能，展現對下個賽季的企圖心。",
+      "surface": "打ち消して",
+      "reading": "うちけして"
+    }
+  },
+  "n2-jmdict-1321820": {
+    "dictionary": {
+      "sentence": "写真に家族全員が写る。",
+      "translation": "全家都入鏡。",
+      "surface": "写る",
+      "reading": "うつる"
+    },
+    "te": {
+      "sentence": "鏡に背後の人が写っていて、少し驚きました。",
+      "translation": "鏡子裡映出背後的人，讓我嚇了一跳。",
+      "surface": "写って",
+      "reading": "うつって"
+    }
+  },
+  "n2-jmdict-1574310": {
+    "dictionary": {
+      "sentence": "説明を聞いて、ゆっくりうなずく。",
+      "translation": "聽說明後慢慢點頭。",
+      "surface": "うなずく",
+      "reading": "うなずく"
+    },
+    "te": {
+      "sentence": "子供は先生の質問にうなずいて答えました。",
+      "translation": "孩子以點頭回答老師的問題。",
+      "surface": "うなずいて",
+      "reading": "うなずいて"
+    }
+  },
+  "n2-jmdict-1524500": {
+    "dictionary": {
+      "sentence": "作業員は工事が終わると、地面の穴を埋める。",
+      "translation": "作業員在工程完成後，填平地面上的洞。",
+      "surface": "埋める",
+      "reading": "うめる"
+    },
+    "te": {
+      "sentence": "記入欄をすべて埋めてから、申込書を提出してください。",
+      "translation": "請填完所有欄位，再提交申請書。",
+      "surface": "埋めて",
+      "reading": "うめて"
+    }
+  },
+  "n2-jmdict-1250700": {
+    "dictionary": {
+      "sentence": "家族が祖父を敬う。",
+      "translation": "家人尊敬祖父。",
+      "surface": "敬う",
+      "reading": "うやまう"
+    },
+    "te": {
+      "sentence": "地域の人は長年村を守ってきた長老を敬っています。",
+      "translation": "當地居民尊敬長年守護村莊的長老。",
+      "surface": "敬って",
+      "reading": "うやまって"
+    }
+  },
+  "n2-jmdict-1550630": {
+    "dictionary": {
+      "sentence": "洗う前に服を裏返す。",
+      "translation": "洗衣服前把衣服翻面。",
+      "surface": "裏返す",
+      "reading": "うらがえす"
+    },
+    "te": {
+      "sentence": "肉を一度裏返して、反対の面も焼いてください。",
+      "translation": "請把肉翻一次面，把另一面也煎熟。",
+      "surface": "裏返して",
+      "reading": "うらがえして"
+    }
+  },
+  "n2-jmdict-1389430": {
+    "dictionary": {
+      "sentence": "占い師が将来を占う。",
+      "translation": "占卜師占卜未來。",
+      "surface": "占う",
+      "reading": "うらなう"
+    },
+    "te": {
+      "sentence": "専門家たちは調査の結果から景気の先行きを占っています。",
+      "translation": "專家們正根據調查結果，預測景氣走向。",
+      "surface": "占って",
+      "reading": "うらなって"
+    }
+  },
+  "n2-jmdict-1289780": {
+    "dictionary": {
+      "sentence": "彼は自分をだました人を恨む。",
+      "translation": "他怨恨騙他的人。",
+      "surface": "恨む",
+      "reading": "うらむ"
+    },
+    "te": {
+      "sentence": "過去の自分を恨んでも、やり直すことはできません。",
+      "translation": "即使怨恨過去的自己，也無法重來。",
+      "surface": "恨んで",
+      "reading": "うらんで"
+    }
+  },
+  "n2-jmdict-1391950": {
+    "dictionary": {
+      "sentence": "弟が兄の才能を羨む。",
+      "translation": "弟弟羨慕哥哥的才能。",
+      "surface": "羨む",
+      "reading": "うらやむ"
+    },
+    "te": {
+      "sentence": "都会の生活を羨んでいた友人も、今は田舎で満足しています。",
+      "translation": "曾經羨慕都市生活的朋友，現在也滿足於鄉間生活。",
+      "surface": "羨んで",
+      "reading": "うらやんで"
+    }
+  },
+  "n2-jmdict-1473880": {
+    "dictionary": {
+      "sentence": "人気のパンが売り切れる。",
+      "translation": "熱門麵包賣完。",
+      "surface": "売り切れる",
+      "reading": "うりきれる"
+    },
+    "te": {
+      "sentence": "限定の切手は朝のうちに売り切れて、買えませんでした。",
+      "translation": "限量郵票早上就賣完了，我沒能買到。",
+      "surface": "売り切れて",
+      "reading": "うりきれて"
+    }
+  },
+  "n2-jmdict-1608720": {
+    "dictionary": {
+      "sentence": "犬がボールを追いかける。",
+      "translation": "狗追球。",
+      "surface": "追いかける",
+      "reading": "おいかける"
+    },
+    "te": {
+      "sentence": "記者が走る選手を追いかけて、ゴール後に取材しました。",
+      "translation": "記者追著奔跑的選手，在抵達終點後採訪他。",
+      "surface": "追いかけて",
+      "reading": "おいかけて"
+    }
+  },
+  "n2-jmdict-1432280": {
+    "dictionary": {
+      "sentence": "速い車がバスを追い越す。",
+      "translation": "快車超過公車。",
+      "surface": "追い越す",
+      "reading": "おいこす"
+    },
+    "te": {
+      "sentence": "妹は兄の身長を追い越して、家族で一番背が高くなりました。",
+      "translation": "妹妹身高超過哥哥，成為家裡最高的人。",
+      "surface": "追い越して",
+      "reading": "おいこして"
+    }
+  },
+  "n2-jmdict-1609380": {
+    "dictionary": {
+      "sentence": "お客様の要望に応ずる。",
+      "translation": "回應顧客要求。",
+      "surface": "応ずる",
+      "reading": "おうずる"
+    },
+    "te": {
+      "sentence": "市は住民の求めに応じて、公園の照明を増やしました。",
+      "translation": "市政府回應居民的要求，增加了公園的照明。",
+      "surface": "応じて",
+      "reading": "おうじて"
+    }
+  },
+  "n2-jmdict-1472230": {
+    "dictionary": {
+      "sentence": "神社で神様を拝む。",
+      "translation": "在神社參拜神明。",
+      "surface": "拝む",
+      "reading": "おがむ"
+    },
+    "te": {
+      "sentence": "山頂から初日の出を拝んで、一年の健康を願いました。",
+      "translation": "我在山頂合掌迎接元旦日出，祈願一年健康。",
+      "surface": "拝んで",
+      "reading": "おがんで"
+    }
+  },
+  "n2-jmdict-1514460": {
+    "dictionary": {
+      "sentence": "足りない費用を貯金で補う。",
+      "translation": "用存款補足不夠的費用。",
+      "surface": "補う",
+      "reading": "おぎなう"
+    },
+    "te": {
+      "sentence": "足りない説明を図で補って、理解しやすくしました。",
+      "translation": "我用圖補足說明，讓人更容易理解。",
+      "surface": "補って",
+      "reading": "おぎなって"
+    }
+  },
+  "n2-jmdict-1410710": {
+    "dictionary": {
+      "sentence": "忙しさのために点検を怠る。",
+      "translation": "因忙碌而疏於檢查。",
+      "surface": "怠る",
+      "reading": "おこたる"
+    },
+    "te": {
+      "sentence": "毎日の練習を怠っていると、以前できたことも難しくなります。",
+      "translation": "疏於每天練習的話，連以前做得到的事也會變難。",
+      "surface": "怠って",
+      "reading": "おこたって"
+    }
+  },
+  "n2-jmdict-1589080": {
+    "dictionary": {
+      "sentence": "記者は取材の前に、事件の要点を押さえる。",
+      "translation": "記者採訪前，先掌握事件要點。",
+      "surface": "押さえる",
+      "reading": "おさえる"
+    },
+    "te": {
+      "sentence": "踊り手は胸を押さえて、深く礼をしました。",
+      "translation": "舞者按著胸口，深深行禮。",
+      "surface": "押さえて",
+      "reading": "おさえて"
+    }
+  },
+  "n2-jmdict-1589220": {
+    "dictionary": {
+      "sentence": "深呼吸をすると、気持ちが落ち着く。",
+      "translation": "深呼吸會讓心情平靜。",
+      "surface": "落ち着く",
+      "reading": "おちつく"
+    },
+    "te": {
+      "sentence": "引っ越しの荷物が片付いて、生活が落ち着いてきました。",
+      "translation": "搬家的行李整理好後，生活逐漸安定下來。",
+      "surface": "落ち着いて",
+      "reading": "おちついて"
+    }
+  },
+  "n2-jmdict-1578070": {
+    "dictionary": {
+      "sentence": "兄は、お化けの話で妹を脅かす。",
+      "translation": "哥哥用鬼故事嚇妹妹。",
+      "surface": "脅かす",
+      "reading": "おどかす"
+    },
+    "te": {
+      "sentence": "友達を脅かして喜ぶようないたずらはやめよう。",
+      "translation": "別再惡作劇，以嚇朋友為樂了。",
+      "surface": "脅かして",
+      "reading": "おどかして"
+    }
+  },
+  "n2-jmdict-1238650": {
+    "dictionary": {
+      "sentence": "新しい発見が人々を驚かす。",
+      "translation": "新發現讓人們吃驚。",
+      "surface": "驚かす",
+      "reading": "おどろかす"
+    },
+    "te": {
+      "sentence": "突然訪ねて両親を驚かしてしまい、申し訳なく思いました。",
+      "translation": "我突然登門讓父母嚇了一跳，感到很過意不去。",
+      "surface": "驚かして",
+      "reading": "おどろかして"
+    }
+  },
+  "n2-jmdict-1309230": {
+    "dictionary": {
+      "sentence": "彼は自分が正しいと思い込む。",
+      "translation": "他深信自己正確。",
+      "surface": "思い込む",
+      "reading": "おもいこむ"
+    },
+    "te": {
+      "sentence": "会議は明日だと思い込んでいて、今日の予定を空けていませんでした。",
+      "translation": "我一直以為會議在明天，沒把今天的時間空出來。",
+      "surface": "思い込んで",
+      "reading": "おもいこんで"
+    }
+  },
+  "n2-jmdict-1589880": {
+    "dictionary": {
+      "sentence": "この問題は安全に係わる。",
+      "translation": "這個問題涉及安全。",
+      "surface": "係わる",
+      "reading": "かかわる"
+    },
+    "te": {
+      "sentence": "この研究に係わってきた人たちを、式典に招待しました。",
+      "translation": "我們邀請了長期參與這項研究的人們出席典禮。",
+      "surface": "係わって",
+      "reading": "かかわって"
+    }
+  },
+  "n2-jmdict-1335830": {
+    "dictionary": {
+      "sentence": "机の上に皿を重ねる。",
+      "translation": "把盤子疊在桌上。",
+      "surface": "重ねる",
+      "reading": "かさねる"
+    },
+    "te": {
+      "sentence": "店主は何度も試作を重ねて、新しい菓子を完成させました。",
+      "translation": "店主反覆試做，完成了新款點心。",
+      "surface": "重ねて",
+      "reading": "かさねて"
+    }
+  },
+  "n2-jmdict-1610640": {
+    "dictionary": {
+      "sentence": "子犬が椅子の脚をかじるので、木が傷んでいる。",
+      "translation": "小狗會啃椅腳，木頭因此受損。",
+      "surface": "かじる",
+      "reading": "かじる"
+    },
+    "te": {
+      "sentence": "学生時代に中国語を少しかじって、今も簡単な会話ならできます。",
+      "translation": "學生時代略學過中文，現在還能做簡單對話。",
+      "surface": "かじって",
+      "reading": "かじって"
+    }
+  },
+  "n2-jmdict-1511770": {
+    "dictionary": {
+      "sentence": "夕方には仕事がかたづく。",
+      "translation": "傍晚時工作處理好。",
+      "surface": "かたづく",
+      "reading": "かたづく"
+    },
+    "te": {
+      "sentence": "台所がかたづいてから、ゆっくりお茶を飲みました。",
+      "translation": "廚房整理好後，我悠閒地喝了茶。",
+      "surface": "かたづいて",
+      "reading": "かたづいて"
+    }
+  },
+  "n2-jmdict-1266550": {
+    "dictionary": {
+      "sentence": "冷やすと、ゼリーが固まる。",
+      "translation": "冷卻後果凍凝固。",
+      "surface": "固まる",
+      "reading": "かたまる"
+    },
+    "te": {
+      "sentence": "方針が固まっていないので、発表は来週に延期しました。",
+      "translation": "方針尚未確定，所以發表延到下週。",
+      "surface": "固まって",
+      "reading": "かたまって"
+    }
+  },
+  "n2-jmdict-1578210": {
+    "dictionary": {
+      "sentence": "古い塔が少し傾く。",
+      "translation": "舊塔稍微傾斜。",
+      "surface": "傾く",
+      "reading": "かたむく"
+    },
+    "te": {
+      "sentence": "日が傾いてきたので、畑の仕事を終えました。",
+      "translation": "太陽漸漸西斜，所以我結束了田裡的工作。",
+      "surface": "傾いて",
+      "reading": "かたむいて"
+    }
+  },
+  "n2-jmdict-1590420": {
+    "dictionary": {
+      "sentence": "同じ物ばかり食べると、栄養が片寄る。",
+      "translation": "總吃同樣東西會營養失衡。",
+      "surface": "片寄る",
+      "reading": "かたよる"
+    },
+    "te": {
+      "sentence": "荷物が右側に片寄っていて、台車が押しにくくなっています。",
+      "translation": "貨物偏在右側，推車變得很難推。",
+      "surface": "片寄って",
+      "reading": "かたよって"
+    }
+  },
+  "n2-jmdict-1418140": {
+    "dictionary": {
+      "sentence": "作業員が木材を肩に担ぐ。",
+      "translation": "工人把木材扛肩上。",
+      "surface": "担ぐ",
+      "reading": "かつぐ"
+    },
+    "te": {
+      "sentence": "若者たちは祭りで神輿を担いで、町を練り歩きました。",
+      "translation": "年輕人在祭典中抬著神轎，在街上遊行。",
+      "surface": "担いで",
+      "reading": "かついで"
+    }
+  },
+  "n2-jmdict-1256520": {
+    "dictionary": {
+      "sentence": "このイベントは、新入社員の歓迎会も兼ねる。",
+      "translation": "這場活動也兼作新進員工的歡迎會。",
+      "surface": "兼ねる",
+      "reading": "かねる"
+    },
+    "te": {
+      "sentence": "旅行と仕事を兼ねて、一週間京都に滞在しました。",
+      "translation": "我兼顧旅行與工作，在京都住了一週。",
+      "surface": "兼ねて",
+      "reading": "かねて"
+    }
+  },
+  "n2-jmdict-1484320": {
+    "dictionary": {
+      "sentence": "料理人は、蒸らすために鍋にふたを被せる。",
+      "translation": "廚師為了悶蒸，把鍋蓋蓋上。",
+      "surface": "被せる",
+      "reading": "かぶせる"
+    },
+    "te": {
+      "sentence": "眠ってしまった子に毛布を被せてあげました。",
+      "translation": "我替睡著的孩子蓋上毛毯。",
+      "surface": "被せて",
+      "reading": "かぶせて"
+    }
+  },
+  "n2-jmdict-1567650": {
+    "dictionary": {
+      "sentence": "子供の夢をからかうようなことは言わないでください。",
+      "translation": "請不要說取笑孩子夢想的話。",
+      "surface": "からかう",
+      "reading": "からかう"
+    },
+    "te": {
+      "sentence": "人の話し方をからかって笑うのは失礼です。",
+      "translation": "取笑別人的說話方式很失禮。",
+      "surface": "からかって",
+      "reading": "からかって"
+    }
+  },
+  "n2-jmdict-1267220": {
+    "dictionary": {
+      "sentence": "水が足りないと、花が枯れる。",
+      "translation": "水不夠時花會枯萎。",
+      "surface": "枯れる",
+      "reading": "かれる"
+    },
+    "te": {
+      "sentence": "手入れを忘れて観葉植物が枯れてしまい、反省しました。",
+      "translation": "我忘了照料，讓觀葉植物枯死了，為此感到反省。",
+      "surface": "枯れて",
+      "reading": "かれて"
+    }
+  },
+  "n2-jmdict-1190730": {
+    "dictionary": {
+      "sentence": "祖母が孫を可愛がる。",
+      "translation": "祖母疼愛孫子。",
+      "surface": "可愛がる",
+      "reading": "かわいがる"
+    },
+    "te": {
+      "sentence": "弟は拾った猫を可愛がって、毎日一緒に遊んでいます。",
+      "translation": "弟弟疼愛撿來的貓，每天和牠一起玩。",
+      "surface": "可愛がって",
+      "reading": "かわいがって"
+    }
+  },
+  "n2-jmdict-1209630": {
+    "dictionary": {
+      "sentence": "染物の職人は、染めた布を屋外で乾かす。",
+      "translation": "染布師傅把染好的布拿到戶外晾乾。",
+      "surface": "乾かす",
+      "reading": "かわかす"
+    },
+    "te": {
+      "sentence": "洗った食器を十分に乾かしてから、棚に戻します。",
+      "translation": "洗好的餐具充分晾乾後，再放回架子。",
+      "surface": "乾かして",
+      "reading": "かわかして"
+    }
+  },
+  "n2-jmdict-1609650": {
+    "dictionary": {
+      "sentence": "朝の空気に春を感ずる。",
+      "translation": "從早晨空氣感受春天。",
+      "surface": "感ずる",
+      "reading": "かんずる"
+    },
+    "te": {
+      "sentence": "人の温かさを感じて、この町が好きになりました。",
+      "translation": "我感受到人情的溫暖，喜歡上了這座小鎮。",
+      "surface": "感じて",
+      "reading": "かんじて"
+    }
+  },
+  "n2-jmdict-1423170": {
+    "dictionary": {
+      "sentence": "外出の前に服を着替える。",
+      "translation": "外出前換衣服。",
+      "surface": "着替える",
+      "reading": "きがえる"
+    },
+    "te": {
+      "sentence": "制服に着替えてから、仕事場へ向かいました。",
+      "translation": "換上制服後，我前往工作場所。",
+      "surface": "着替えて",
+      "reading": "きがえて"
+    }
+  },
+  "n2-jmdict-1285890": {
+    "dictionary": {
+      "sentence": "包丁で野菜を細かく刻む。",
+      "translation": "用菜刀切碎蔬菜。",
+      "surface": "刻む",
+      "reading": "きざむ"
+    },
+    "te": {
+      "sentence": "石碑に名前を刻んで、功績を後世に伝えました。",
+      "translation": "人們在石碑上刻下姓名，將功績傳給後世。",
+      "surface": "刻んで",
+      "reading": "きざんで"
+    }
+  },
+  "n2-jmdict-1422990": {
+    "dictionary": {
+      "sentence": "撮影のために、係員が俳優に衣装を着せる。",
+      "translation": "為了拍攝，工作人員替演員穿上戲服。",
+      "surface": "着せる",
+      "reading": "きせる"
+    },
+    "te": {
+      "sentence": "人形に新しいドレスを着せて、窓辺に飾りました。",
+      "translation": "我幫娃娃穿上新洋裝，放在窗邊裝飾。",
+      "surface": "着せて",
+      "reading": "きせて"
+    }
+  },
+  "n2-jmdict-1304400": {
+    "dictionary": {
+      "sentence": "この作家は、侍が竹を斬る場面を細かく描いている。",
+      "translation": "這位作家仔細描寫了武士斬竹的場景。",
+      "surface": "斬る",
+      "reading": "きる"
+    },
+    "te": {
+      "sentence": "映画の主人公は縄を斬って、捕らわれた仲間を逃がしました。",
+      "translation": "電影主角斬斷繩索，讓被抓的同伴逃走。",
+      "surface": "斬って",
+      "reading": "きって"
+    }
+  },
+  "n2-jmdict-1591990": {
+    "dictionary": {
+      "sentence": "足元に気を付ける。",
+      "translation": "注意腳下。",
+      "surface": "気を付ける",
+      "reading": "きをつける"
+    },
+    "te": {
+      "sentence": "忘れ物に気を付けて、出発前に荷物を確認しましょう。",
+      "translation": "留意別忘帶東西，出發前確認一下行李吧。",
+      "surface": "気を付けて",
+      "reading": "きをつけて"
+    }
+  },
+  "n2-jmdict-1592130": {
+    "dictionary": {
+      "sentence": "一日の作業を時間で区切ると、集中しやすい。",
+      "translation": "把一天的工作按時間分段，會更容易專心。",
+      "surface": "区切る",
+      "reading": "くぎる"
+    },
+    "te": {
+      "sentence": "部屋をカーテンで区切って、着替える場所を作りました。",
+      "translation": "我用窗簾隔開房間，做出換衣服的空間。",
+      "surface": "区切って",
+      "reading": "くぎって"
+    }
+  },
+  "n2-jmdict-1516260": {
+    "dictionary": {
+      "sentence": "不規則な生活で体調を崩す。",
+      "translation": "作息不規律搞壞身體。",
+      "surface": "崩す",
+      "reading": "くずす"
+    },
+    "te": {
+      "sentence": "千円札を小銭に崩して、バス代を用意しました。",
+      "translation": "我把一千日圓紙鈔換成零錢，備好公車車資。",
+      "surface": "崩して",
+      "reading": "くずして"
+    }
+  },
+  "n2-jmdict-1516270": {
+    "dictionary": {
+      "sentence": "いつも笑わない祖父も、孫を見ると表情が崩れる。",
+      "translation": "平時不笑的祖父，看到孫子也會表情鬆動。",
+      "surface": "崩れる",
+      "reading": "くずれる"
+    },
+    "te": {
+      "sentence": "せっかく積んだ積み木が崩れて、子供が泣き出しました。",
+      "translation": "好不容易堆好的積木倒了，孩子哭了起來。",
+      "surface": "崩れて",
+      "reading": "くずれて"
+    }
+  },
+  "n2-jmdict-1295170": {
+    "dictionary": {
+      "sentence": "職人は石を砕く道具を使い分ける。",
+      "translation": "工匠依需要選用不同的碎石工具。",
+      "surface": "砕く",
+      "reading": "くだく"
+    },
+    "te": {
+      "sentence": "クッキーを細かく砕いて、ケーキの土台にしました。",
+      "translation": "我把餅乾搗碎，做成蛋糕底。",
+      "surface": "砕いて",
+      "reading": "くだいて"
+    }
+  },
+  "n2-jmdict-1295190": {
+    "dictionary": {
+      "sentence": "落とすと、ガラスが砕ける。",
+      "translation": "玻璃掉下會碎裂。",
+      "surface": "砕ける",
+      "reading": "くだける"
+    },
+    "te": {
+      "sentence": "彼の説明は砕けていて、初めて学ぶ人にも分かりやすいです。",
+      "translation": "他的說明淺顯易懂，初學者也能理解。",
+      "surface": "砕けて",
+      "reading": "くだけて"
+    }
+  },
+  "n2-jmdict-1003810": {
+    "dictionary": {
+      "sentence": "長い旅でくたびれる。",
+      "translation": "因長途旅行而疲累。",
+      "surface": "くたびれる",
+      "reading": "くたびれる"
+    },
+    "te": {
+      "sentence": "朝から買い物に歩き回ってくたびれて、喫茶店で休みました。",
+      "translation": "我從早上開始四處逛街，走累了便在咖啡店休息。",
+      "surface": "くたびれて",
+      "reading": "くたびれて"
+    }
+  },
+  "n2-jmdict-1184450": {
+    "dictionary": {
+      "sentence": "裁判所で判決が下る日を、関係者が待っている。",
+      "translation": "相關人士正等候法院判決下達的日子。",
+      "surface": "下る",
+      "reading": "くだる"
+    },
+    "te": {
+      "sentence": "観光客は坂を下って、港の市場へ向かいました。",
+      "translation": "遊客走下斜坡，前往港口的市場。",
+      "surface": "下って",
+      "reading": "くだって"
+    }
+  },
+  "n2-jmdict-1003860": {
+    "dictionary": {
+      "sentence": "磁石に鉄の釘がくっつく。",
+      "translation": "鐵釘會吸附在磁鐵上。",
+      "surface": "くっつく",
+      "reading": "くっつく"
+    },
+    "te": {
+      "sentence": "寒い夜は猫同士がくっついて寝ています。",
+      "translation": "寒冷的夜裡，貓會彼此依偎著睡。",
+      "surface": "くっついて",
+      "reading": "くっついて"
+    }
+  },
+  "n2-jmdict-1003870": {
+    "dictionary": {
+      "sentence": "工作では、段ボールに飾りをくっつける。",
+      "translation": "做手工時，把裝飾黏到紙板上。",
+      "surface": "くっつける",
+      "reading": "くっつける"
+    },
+    "te": {
+      "sentence": "机を二つくっつけて、大きな作業台にしました。",
+      "translation": "我把兩張桌子併在一起，做成大型工作台。",
+      "surface": "くっつけて",
+      "reading": "くっつけて"
+    }
+  },
+  "n2-jmdict-1472990": {
+    "dictionary": {
+      "sentence": "参加者に資料を配る。",
+      "translation": "發資料給參加者。",
+      "surface": "配る",
+      "reading": "くばる"
+    },
+    "te": {
+      "sentence": "旅行に行く前に、近所に気を配ってあいさつをしておきました。",
+      "translation": "去旅行前，我顧慮鄰里關係，事先向鄰居打了招呼。",
+      "surface": "配って",
+      "reading": "くばって"
+    }
+  },
+  "n2-jmdict-1397580": {
+    "dictionary": {
+      "sentence": "説明書を読んで、棚を組み立てる。",
+      "translation": "看說明書組裝架子。",
+      "surface": "組み立てる",
+      "reading": "くみたてる"
+    },
+    "te": {
+      "sentence": "話の順序を組み立ててから、発表の練習をしました。",
+      "translation": "安排好講述的順序後，我練習了發表。",
+      "surface": "組み立てて",
+      "reading": "くみたてて"
+    }
+  },
+  "n2-jmdict-1200450": {
+    "dictionary": {
+      "sentence": "彼は昔の失敗を悔やむ。",
+      "translation": "他懊悔以前的失敗。",
+      "surface": "悔やむ",
+      "reading": "くやむ"
+    },
+    "te": {
+      "sentence": "挑戦しなかったことを悔やんでも、時間は戻りません。",
+      "translation": "即使後悔當初沒有挑戰，時間也不會倒流。",
+      "surface": "悔やんで",
+      "reading": "くやんで"
+    }
+  },
+  "n2-jmdict-2831360": {
+    "dictionary": {
+      "sentence": "母は弁当箱を風呂敷でくるむ。",
+      "translation": "媽媽用包袱巾包便當盒。",
+      "surface": "くるむ",
+      "reading": "くるむ"
+    },
+    "te": {
+      "sentence": "割れやすい皿を新聞紙でくるんでから、箱に入れました。",
+      "translation": "我先用報紙包好易碎的盤子，再放進箱子。",
+      "surface": "くるんで",
+      "reading": "くるんで"
+    }
+  },
+  "n2-jmdict-1298090": {
+    "dictionary": {
+      "sentence": "鉛筆を削る。",
+      "translation": "削鉛筆。",
+      "surface": "削る",
+      "reading": "けずる"
+    },
+    "te": {
+      "sentence": "予算を削って、必要な設備だけ購入しました。",
+      "translation": "我們削減預算，只購買必要設備。",
+      "surface": "削って",
+      "reading": "けずって"
+    }
+  },
+  "n2-jmdict-1350710": {
+    "dictionary": {
+      "sentence": "初めての料理で、弟は玉ねぎを焦がすことが多い。",
+      "translation": "弟弟初學做菜，常把洋蔥炒焦。",
+      "surface": "焦がす",
+      "reading": "こがす"
+    },
+    "te": {
+      "sentence": "鍋の底を焦がしてしまい、洗うのに苦労しました。",
+      "translation": "我把鍋底燒焦了，洗起來很費力。",
+      "surface": "焦がして",
+      "reading": "こがして"
+    }
+  },
+  "n2-jmdict-1350730": {
+    "dictionary": {
+      "sentence": "焼き網に近すぎると、魚の皮が焦げる。",
+      "translation": "離烤網太近，魚皮就會焦。",
+      "surface": "焦げる",
+      "reading": "こげる"
+    },
+    "te": {
+      "sentence": "しょうゆが少し焦げて、香ばしいにおいがしました。",
+      "translation": "醬油稍微燒焦，散發出焦香。",
+      "surface": "焦げて",
+      "reading": "こげて"
+    }
+  },
+  "n2-jmdict-1446180": {
+    "dictionary": {
+      "sentence": "冷たい風で体が凍える。",
+      "translation": "寒風吹得身體凍僵。",
+      "surface": "凍える",
+      "reading": "こごえる"
+    },
+    "te": {
+      "sentence": "雪道で待つ間に手が凍えて、指がうまく動きませんでした。",
+      "translation": "在雪地等候時手凍僵了，手指無法靈活活動。",
+      "surface": "凍えて",
+      "reading": "こごえて"
+    }
+  },
+  "n2-jmdict-1360920": {
+    "dictionary": {
+      "sentence": "避難の際に何をすべきか、日頃から心得ることが大切だ。",
+      "translation": "平時就懂得避難時該做什麼，很重要。",
+      "surface": "心得る",
+      "reading": "こころえる"
+    },
+    "te": {
+      "sentence": "祖母は山菜の扱いを心得ていて、安全に調理できます。",
+      "translation": "祖母懂得處理野菜，可以安全地烹調。",
+      "surface": "心得て",
+      "reading": "こころえて"
+    }
+  },
+  "n2-jmdict-1288350": {
+    "dictionary": {
+      "sentence": "公園のベンチに腰掛ける。",
+      "translation": "坐公園長椅。",
+      "surface": "腰掛ける",
+      "reading": "こしかける"
+    },
+    "te": {
+      "sentence": "待合室の椅子に腰掛けて、診察の順番を待ちました。",
+      "translation": "我坐在候診室的椅子上，等候看診。",
+      "surface": "腰掛けて",
+      "reading": "こしかけて"
+    }
+  },
+  "n2-jmdict-1567390": {
+    "dictionary": {
+      "sentence": "夕食のおかずをこしらえる。",
+      "translation": "準備晚餐配菜。",
+      "surface": "こしらえる",
+      "reading": "こしらえる"
+    },
+    "te": {
+      "sentence": "父は庭に小さな池をこしらえて、金魚を飼い始めました。",
+      "translation": "爸爸在院子裡造了一個小池塘，開始養金魚。",
+      "surface": "こしらえて",
+      "reading": "こしらえて"
+    }
+  },
+  "n2-jmdict-1298910": {
+    "dictionary": {
+      "sentence": "手で目を擦る。",
+      "translation": "用手揉眼睛。",
+      "surface": "擦る",
+      "reading": "こする"
+    },
+    "te": {
+      "sentence": "消しゴムで紙を強く擦って、破いてしまいました。",
+      "translation": "我用橡皮擦用力擦紙，把紙擦破了。",
+      "surface": "擦って",
+      "reading": "こすって"
+    }
+  },
+  "n2-jmdict-1593330": {
+    "dictionary": {
+      "sentence": "出発時刻が変わったことを、兄に言付ける。",
+      "translation": "我託哥哥轉告出發時間變更的消息。",
+      "surface": "言付ける",
+      "reading": "ことづける"
+    },
+    "te": {
+      "sentence": "受付の方によろしくと言付けて、会場を後にしました。",
+      "translation": "我託人向接待人員問好後，離開了會場。",
+      "surface": "言付けて",
+      "reading": "ことづけて"
+    }
+  },
+  "n2-jmdict-2827352": {
+    "dictionary": {
+      "sentence": "悲しくても涙を堪える。",
+      "translation": "即使難過也忍住淚水。",
+      "surface": "堪える",
+      "reading": "こらえる"
+    },
+    "te": {
+      "sentence": "笑いを堪えていたのに、とうとう声が出てしまいました。",
+      "translation": "我一直忍著笑，最後還是笑出聲了。",
+      "surface": "堪えて",
+      "reading": "こらえて"
+    }
+  },
+  "n2-jmdict-1440980": {
+    "dictionary": {
+      "sentence": "子供がボールを転がす。",
+      "translation": "孩子滾球。",
+      "surface": "転がす",
+      "reading": "ころがす"
+    },
+    "te": {
+      "sentence": "台の上で粘土を転がして、細長い形にしました。",
+      "translation": "我在台面上滾動黏土，把它搓成細長形。",
+      "surface": "転がして",
+      "reading": "ころがして"
+    }
+  },
+  "n2-jmdict-1441000": {
+    "dictionary": {
+      "sentence": "坂の下へボールが転がる。",
+      "translation": "球往坡下滾。",
+      "surface": "転がる",
+      "reading": "ころがる"
+    },
+    "te": {
+      "sentence": "机から鉛筆が転がって、椅子の下に落ちました。",
+      "translation": "鉛筆從桌上滾落，掉到椅子下面。",
+      "surface": "転がって",
+      "reading": "ころがって"
+    }
+  },
+  "n2-jmdict-1593670": {
+    "dictionary": {
+      "sentence": "警察は、行方不明になった登山者を捜す。",
+      "translation": "警方尋找失蹤的登山者。",
+      "surface": "捜す",
+      "reading": "さがす"
+    },
+    "te": {
+      "sentence": "家族で迷子の猫を捜して、夜になってようやく見つけました。",
+      "translation": "全家一起找走失的貓，到晚上才終於找到。",
+      "surface": "捜して",
+      "reading": "さがして"
+    }
+  },
+  "n2-jmdict-1397830": {
+    "dictionary": {
+      "sentence": "歴史を百年前まで遡る。",
+      "translation": "把歷史追溯到百年前。",
+      "surface": "遡る",
+      "reading": "さかのぼる"
+    },
+    "te": {
+      "sentence": "川を上流へ遡っていくと、古い橋があります。",
+      "translation": "沿河溯流而上，會看到一座古橋。",
+      "surface": "遡って",
+      "reading": "さかのぼって"
+    }
+  },
+  "n2-jmdict-1418260": {
+    "dictionary": {
+      "sentence": "研究者が原因を探る。",
+      "translation": "研究者探查原因。",
+      "surface": "探る",
+      "reading": "さぐる"
+    },
+    "te": {
+      "sentence": "暗闇で壁を手で探って、電気のスイッチを見つけました。",
+      "translation": "我在黑暗中用手摸索牆壁，找到了電燈開關。",
+      "surface": "探って",
+      "reading": "さぐって"
+    }
+  },
+  "n2-jmdict-1565670": {
+    "dictionary": {
+      "sentence": "耳元で秘密を囁く。",
+      "translation": "在耳邊低聲說秘密。",
+      "surface": "囁く",
+      "reading": "ささやく"
+    },
+    "te": {
+      "sentence": "母は「大丈夫」と囁いて、娘の背中をなでました。",
+      "translation": "媽媽輕聲說「沒事的」，撫摸女兒的背。",
+      "surface": "囁いて",
+      "reading": "ささやいて"
+    }
+  },
+  "n2-jmdict-1306390": {
+    "dictionary": {
+      "sentence": "折れた鉛筆の芯が手に刺さると、取りにくい。",
+      "translation": "斷掉的鉛筆芯刺進手裡，會很難取出。",
+      "surface": "刺さる",
+      "reading": "ささる"
+    },
+    "te": {
+      "sentence": "紙に針が刺さっていたので、子供が触る前に取りました。",
+      "translation": "紙上插著針，所以我在孩子碰到前取走了。",
+      "surface": "刺さって",
+      "reading": "ささって"
+    }
+  },
+  "n2-jmdict-1306470": {
+    "dictionary": {
+      "sentence": "蚊が腕を刺す。",
+      "translation": "蚊子叮手臂。",
+      "surface": "刺す",
+      "reading": "さす"
+    },
+    "te": {
+      "sentence": "フォークでじゃがいもを刺して、火の通り具合を確かめました。",
+      "translation": "我用叉子戳馬鈴薯，確認熟度。",
+      "surface": "刺して",
+      "reading": "さして"
+    }
+  },
+  "n2-jmdict-1299640": {
+    "dictionary": {
+      "sentence": "雨にぬれると、鉄が錆びる。",
+      "translation": "鐵淋雨會生鏽。",
+      "surface": "錆びる",
+      "reading": "さびる"
+    },
+    "te": {
+      "sentence": "古い門の金具が錆びて、開けるたびに音がします。",
+      "translation": "舊門的金屬零件生鏽了，每次打開都會發出聲音。",
+      "surface": "錆びて",
+      "reading": "さびて"
+    }
+  },
+  "n2-jmdict-1519120": {
+    "dictionary": {
+      "sentence": "騒音が勉強を妨げる。",
+      "translation": "噪音妨礙讀書。",
+      "surface": "妨げる",
+      "reading": "さまたげる"
+    },
+    "te": {
+      "sentence": "厚い雲が日光を妨げて、地上は薄暗くなっていました。",
+      "translation": "厚雲遮住陽光，地面變得昏暗。",
+      "surface": "妨げて",
+      "reading": "さまたげて"
+    }
+  },
+  "n2-jmdict-1305130": {
+    "dictionary": {
+      "sentence": "夕方には作品が仕上がる。",
+      "translation": "傍晚時作品完成。",
+      "surface": "仕上がる",
+      "reading": "しあがる"
+    },
+    "te": {
+      "sentence": "注文したスーツが仕上がって、店へ受け取りに行きました。",
+      "translation": "訂製的西裝做好了，我到店裡領取。",
+      "surface": "仕上がって",
+      "reading": "しあがって"
+    }
+  },
+  "n2-jmdict-1497020": {
+    "dictionary": {
+      "sentence": "遠足では、芝生にシートを敷く。",
+      "translation": "遠足時，在草地上鋪野餐墊。",
+      "surface": "敷く",
+      "reading": "しく"
+    },
+    "te": {
+      "sentence": "布団を敷いておいたので、先に休んでください。",
+      "translation": "我已鋪好被褥，請先休息。",
+      "surface": "敷いて",
+      "reading": "しいて"
+    }
+  },
+  "n2-jmdict-1533740": {
+    "dictionary": {
+      "sentence": "雨が続くと、空き地の草が茂る。",
+      "translation": "連日下雨，空地上的草就會茂盛生長。",
+      "surface": "茂る",
+      "reading": "しげる"
+    },
+    "te": {
+      "sentence": "道の両側に竹が茂っていて、昼でも薄暗いです。",
+      "translation": "道路兩側竹林茂密，白天也很昏暗。",
+      "surface": "茂って",
+      "reading": "しげって"
+    }
+  },
+  "n2-jmdict-1594270": {
+    "dictionary": {
+      "sentence": "夜になると、町が静まる。",
+      "translation": "夜裡城鎮安靜下來。",
+      "surface": "静まる",
+      "reading": "しずまる"
+    },
+    "te": {
+      "sentence": "歓声が静まってから、司会者が次の選手を紹介しました。",
+      "translation": "歡呼聲平息後，主持人才介紹下一位選手。",
+      "surface": "静まって",
+      "reading": "しずまって"
+    }
+  },
+  "n2-jmdict-1476050": {
+    "dictionary": {
+      "sentence": "荷物をひもで縛る。",
+      "translation": "用繩子綁行李。",
+      "surface": "縛る",
+      "reading": "しばる"
+    },
+    "te": {
+      "sentence": "古新聞をひもで縛って、回収場所へ運びました。",
+      "translation": "我用繩子綁好舊報紙，搬到回收處。",
+      "surface": "縛って",
+      "reading": "しばって"
+    }
+  },
+  "n2-jmdict-1569620": {
+    "dictionary": {
+      "sentence": "長く座ると、足がしびれる。",
+      "translation": "坐久腳會麻。",
+      "surface": "しびれる",
+      "reading": "しびれる"
+    },
+    "te": {
+      "sentence": "歯の治療の後、唇がしびれていて話しにくかったです。",
+      "translation": "牙科治療後，嘴唇麻麻的，很難說話。",
+      "surface": "しびれて",
+      "reading": "しびれて"
+    }
+  },
+  "n2-jmdict-1427460": {
+    "dictionary": {
+      "sentence": "空気が抜けると、風船がしぼむ。",
+      "translation": "漏氣時氣球會癟。",
+      "surface": "しぼむ",
+      "reading": "しぼむ"
+    },
+    "te": {
+      "sentence": "夢が少しずつしぼんでいくようで、寂しくなりました。",
+      "translation": "夢想彷彿逐漸萎縮，讓我感到寂寞。",
+      "surface": "しぼんで",
+      "reading": "しぼんで"
+    }
+  },
+  "n2-jmdict-1594520": {
+    "dictionary": {
+      "sentence": "店長は、新商品の候補を三つに絞る。",
+      "translation": "店長把新產品的候選項目縮小到三個。",
+      "surface": "絞る",
+      "reading": "しぼる"
+    },
+    "te": {
+      "sentence": "レモンを絞って、焼いた魚にかけました。",
+      "translation": "我擠出檸檬汁，淋在烤魚上。",
+      "surface": "絞って",
+      "reading": "しぼって"
+    }
+  },
+  "n2-jmdict-1594600": {
+    "dictionary": {
+      "sentence": "出版社は、月末に作品の募集を締め切る。",
+      "translation": "出版社在月底截止作品徵件。",
+      "surface": "締め切る",
+      "reading": "しめきる"
+    },
+    "te": {
+      "sentence": "応募をすでに締め切っているため、追加の受け付けはできません。",
+      "translation": "徵件已截止，無法再受理追加申請。",
+      "surface": "締め切って",
+      "reading": "しめきって"
+    }
+  },
+  "n2-jmdict-1320390": {
+    "dictionary": {
+      "sentence": "霧の濃い朝は、薪がしめることがある。",
+      "translation": "濃霧的早晨，木柴有時會受潮。",
+      "surface": "しめる",
+      "reading": "しめる"
+    },
+    "te": {
+      "sentence": "マッチがしめってしまい、火がつきませんでした。",
+      "translation": "火柴受潮了，點不著火。",
+      "surface": "しめって",
+      "reading": "しめって"
+    }
+  },
+  "n2-jmdict-1005630": {
+    "dictionary": {
+      "sentence": "物を拾うためにしゃがむ。",
+      "translation": "為撿東西蹲下。",
+      "surface": "しゃがむ",
+      "reading": "しゃがむ"
+    },
+    "te": {
+      "sentence": "祖母は花壇の前にしゃがんで、雑草を抜いていました。",
+      "translation": "祖母蹲在花圃前拔雜草。",
+      "surface": "しゃがんで",
+      "reading": "しゃがんで"
+    }
+  },
+  "n2-jmdict-1005670": {
+    "dictionary": {
+      "sentence": "祖母は、喉が乾燥すると飴をしゃぶる。",
+      "translation": "祖母喉嚨乾燥時會含糖果。",
+      "surface": "しゃぶる",
+      "reading": "しゃぶる"
+    },
+    "te": {
+      "sentence": "小さな飴をしゃぶっている間は、走らないでください。",
+      "translation": "嘴裡含著小糖果時，請不要跑步。",
+      "surface": "しゃぶって",
+      "reading": "しゃぶって"
+    }
+  },
+  "n2-jmdict-1378660": {
+    "dictionary": {
+      "sentence": "二人の間に誤解が生ずる。",
+      "translation": "兩人之間產生誤會。",
+      "surface": "生ずる",
+      "reading": "しょうずる"
+    },
+    "te": {
+      "sentence": "支払いに差額が生じて、会計担当者が調べています。",
+      "translation": "付款金額出現差額，會計負責人正在調查。",
+      "surface": "生じて",
+      "reading": "しょうじて"
+    }
+  },
+  "n2-jmdict-1359070": {
+    "dictionary": {
+      "sentence": "友達の言葉を信ずる。",
+      "translation": "相信朋友的話。",
+      "surface": "信ずる",
+      "reading": "しんずる"
+    },
+    "te": {
+      "sentence": "無事を信じて、家族は連絡を待ち続けました。",
+      "translation": "家人相信他平安無事，一直等候聯絡。",
+      "surface": "信じて",
+      "reading": "しんじて"
+    }
+  },
+  "n2-jmdict-1450510": {
+    "dictionary": {
+      "sentence": "薄い布は、光に透き通ることがある。",
+      "translation": "薄布有時會透光。",
+      "surface": "透き通る",
+      "reading": "すきとおる"
+    },
+    "te": {
+      "sentence": "薄い花びらが光に透き通って、葉脈のような筋まで見えました。",
+      "translation": "薄薄的花瓣透著光，連像葉脈的紋路都看得見。",
+      "surface": "透き通って",
+      "reading": "すきとおって"
+    }
+  },
+  "n2-jmdict-1554380": {
+    "dictionary": {
+      "sentence": "夏祭りの帰りに、川辺で涼むのが楽しみです。",
+      "translation": "夏日祭典回程時，在河邊納涼是我的樂趣。",
+      "surface": "涼む",
+      "reading": "すずむ"
+    },
+    "te": {
+      "sentence": "風の通る縁側で涼んでから、午後の仕事に戻りました。",
+      "translation": "在通風的走廊乘涼後，我回去繼續下午的工作。",
+      "surface": "涼んで",
+      "reading": "すずんで"
+    }
+  },
+  "n2-jmdict-1006420": {
+    "dictionary": {
+      "sentence": "会議の時間を少しずらす。",
+      "translation": "稍微挪動會議時間。",
+      "surface": "ずらす",
+      "reading": "ずらす"
+    },
+    "te": {
+      "sentence": "額縁を右にずらして、壁の中央に合わせました。",
+      "translation": "我把畫框向右挪，對準牆壁中央。",
+      "surface": "ずらして",
+      "reading": "ずらして"
+    }
+  },
+  "n2-jmdict-1298670": {
+    "dictionary": {
+      "sentence": "版画家は一枚ずつ色を重ねて作品を刷る。",
+      "translation": "版畫家逐層疊色，印製作品。",
+      "surface": "刷る",
+      "reading": "する"
+    },
+    "te": {
+      "sentence": "割引券を刷って、開店記念に客へ配りました。",
+      "translation": "我們印製了折價券，在開幕紀念時發給客人。",
+      "surface": "刷って",
+      "reading": "すって"
+    }
+  },
+  "n2-jmdict-1472860": {
+    "dictionary": {
+      "sentence": "父が子供を背負う。",
+      "translation": "爸爸背孩子。",
+      "surface": "背負う",
+      "reading": "せおう"
+    },
+    "te": {
+      "sentence": "若い選手は国の期待を背負って、世界大会に出場しました。",
+      "translation": "年輕選手背負國人的期待，參加了世界大賽。",
+      "surface": "背負って",
+      "reading": "せおって"
+    }
+  },
+  "n2-jmdict-1385350": {
+    "dictionary": {
+      "sentence": "店員が笑顔で客に接する。",
+      "translation": "店員微笑接待顧客。",
+      "surface": "接する",
+      "reading": "せっする"
+    },
+    "te": {
+      "sentence": "毎日芸術に接していると、物の見方も変わります。",
+      "translation": "每天接觸藝術，看待事物的方式也會改變。",
+      "surface": "接して",
+      "reading": "せっして"
+    }
+  },
+  "n2-jmdict-1475720": {
+    "dictionary": {
+      "sentence": "試験の日が迫る。",
+      "translation": "考試日期逼近。",
+      "surface": "迫る",
+      "reading": "せまる"
+    },
+    "te": {
+      "sentence": "台風が町に迫っていて、住民は避難の準備をしています。",
+      "translation": "颱風正逼近城鎮，居民正在準備避難。",
+      "surface": "迫って",
+      "reading": "せまって"
+    }
+  },
+  "n2-jmdict-1279130": {
+    "dictionary": {
+      "sentence": "物語の軍隊は、夜明けに城を攻める。",
+      "translation": "故事中的軍隊在黎明時攻城。",
+      "surface": "攻める",
+      "reading": "せめる"
+    },
+    "te": {
+      "sentence": "最後まで攻めても得点できず、試合は引き分けでした。",
+      "translation": "即使進攻到最後仍未得分，比賽以平手結束。",
+      "surface": "攻めて",
+      "reading": "せめて"
+    }
+  },
+  "n2-jmdict-1405710": {
+    "dictionary": {
+      "sentence": "彼は研究チームに属する。",
+      "translation": "他屬於研究團隊。",
+      "surface": "属する",
+      "reading": "ぞくする"
+    },
+    "te": {
+      "sentence": "この植物はランの仲間に属していて、春に花を咲かせます。",
+      "translation": "這種植物屬於蘭科，春天開花。",
+      "surface": "属して",
+      "reading": "ぞくして"
+    }
+  },
+  "n2-jmdict-1581900": {
+    "dictionary": {
+      "sentence": "理容師は、客の顔に泡を塗ってからひげを剃る。",
+      "translation": "理髮師先在客人臉上塗泡沫，再刮鬍子。",
+      "surface": "剃る",
+      "reading": "そる"
+    },
+    "te": {
+      "sentence": "足の毛を剃ってから、保湿クリームを塗りました。",
+      "translation": "我剃掉腿毛後，塗了保濕乳霜。",
+      "surface": "剃って",
+      "reading": "そって"
+    }
+  },
+  "n2-jmdict-1576360": {
+    "dictionary": {
+      "sentence": "台風の進路が島から逸れることを願っています。",
+      "translation": "我希望颱風路徑能偏離這座島。",
+      "surface": "逸れる",
+      "reading": "それる"
+    },
+    "te": {
+      "sentence": "道を逸れて林に入ると、小さな池がありました。",
+      "translation": "偏離道路走進林中後，看到一個小池塘。",
+      "surface": "逸れて",
+      "reading": "それて"
+    }
+  },
+  "n2-jmdict-1406120": {
+    "dictionary": {
+      "sentence": "合唱では、全員の声を揃えることが大切です。",
+      "translation": "合唱時，全員聲音協調一致很重要。",
+      "surface": "揃える",
+      "reading": "そろえる"
+    },
+    "te": {
+      "sentence": "食器の色を揃えて、食卓に統一感を出しました。",
+      "translation": "我統一餐具的顏色，讓餐桌更有整體感。",
+      "surface": "揃えて",
+      "reading": "そろえて"
+    }
+  },
+  "n2-jmdict-1406140": {
+    "dictionary": {
+      "sentence": "事情を存じる者が、改めてご説明いたします。",
+      "translation": "了解情況的人員將另行向您說明。",
+      "surface": "存じる",
+      "reading": "ぞんじる"
+    },
+    "te": {
+      "sentence": "先生のご住所は存じておりますので、資料をお送りいたします。",
+      "translation": "我知道老師的地址，會把資料寄過去。",
+      "surface": "存じて",
+      "reading": "ぞんじて"
+    }
+  },
+  "n2-jmdict-1983710": {
+    "dictionary": {
+      "sentence": "私の存ずる限りでは、変更の予定はございません。",
+      "translation": "據我所知，目前沒有變更的計畫。",
+      "surface": "存ずる",
+      "reading": "ぞんずる"
+    },
+    "te": {
+      "sentence": "詳しい経緯を存じておりますので、私からご報告いたします。",
+      "translation": "我了解詳細經過，將由我向您報告。",
+      "surface": "存じて",
+      "reading": "ぞんじて"
+    }
+  },
+  "n2-jmdict-1283240": {
+    "dictionary": {
+      "sentence": "図書館は、子供の読書への関心を高める催しを開く。",
+      "translation": "圖書館舉辦活動，提高孩子對閱讀的興趣。",
+      "surface": "高める",
+      "reading": "たかめる"
+    },
+    "te": {
+      "sentence": "室内の湿度を高めて、喉の乾燥を防ぎましょう。",
+      "translation": "提高室內濕度，防止喉嚨乾燥吧。",
+      "surface": "高めて",
+      "reading": "たかめて"
+    }
+  },
+  "n2-jmdict-1280950": {
+    "dictionary": {
+      "sentence": "春に畑を耕す。",
+      "translation": "春天耕田。",
+      "surface": "耕す",
+      "reading": "たがやす"
+    },
+    "te": {
+      "sentence": "祖父は荒れた土地を耕して、野菜が育つ畑に変えました。",
+      "translation": "祖父耕作荒地，把它變成了能種菜的田地。",
+      "surface": "耕して",
+      "reading": "たがやして"
+    }
+  },
+  "n2-jmdict-1596860": {
+    "dictionary": {
+      "sentence": "木は夏の間に養分を蓄える。",
+      "translation": "樹木在夏季儲存養分。",
+      "surface": "蓄える",
+      "reading": "たくわえる"
+    },
+    "te": {
+      "sentence": "若い頃から知識を蓄えてきたことが、今の仕事に役立っています。",
+      "translation": "年輕時開始累積的知識，對現在的工作很有幫助。",
+      "surface": "蓄えて",
+      "reading": "たくわえて"
+    }
+  },
+  "n2-jmdict-1356780": {
+    "dictionary": {
+      "sentence": "洗った服を畳む。",
+      "translation": "摺洗好的衣服。",
+      "surface": "畳む",
+      "reading": "たたむ"
+    },
+    "te": {
+      "sentence": "引っ越す前に段ボール箱を畳んで、資源回収に出しました。",
+      "translation": "搬家前，我把紙箱摺平，送去資源回收。",
+      "surface": "畳んで",
+      "reading": "たたんで"
+    }
+  },
+  "n2-jmdict-1551350": {
+    "dictionary": {
+      "sentence": "横断歩道の前で立ち止まる。",
+      "translation": "在斑馬線前停下。",
+      "surface": "立ち止まる",
+      "reading": "たちどまる"
+    },
+    "te": {
+      "sentence": "山道で何度も立ち止まって、地図を確かめました。",
+      "translation": "我在山路上多次停下來確認地圖。",
+      "surface": "立ち止まって",
+      "reading": "たちどまって"
+    }
+  },
+  "n2-jmdict-1597045": {
+    "dictionary": {
+      "sentence": "駅前に新しいビルが建つ。",
+      "translation": "車站前蓋新大樓。",
+      "surface": "建つ",
+      "reading": "たつ"
+    },
+    "te": {
+      "sentence": "海辺に美術館が建って、町を訪れる人が増えました。",
+      "translation": "海邊建起美術館後，來訪小鎮的人增加了。",
+      "surface": "建って",
+      "reading": "たって"
+    }
+  },
+  "n2-jmdict-1597130": {
+    "dictionary": {
+      "sentence": "その詩は、人生を川に例える。",
+      "translation": "那首詩把人生比喻成河流。",
+      "surface": "例える",
+      "reading": "たとえる"
+    },
+    "te": {
+      "sentence": "先生は血管を水道管に例えて、血液の流れを説明しました。",
+      "translation": "老師把血管比喻成水管，解釋血液的流動。",
+      "surface": "例えて",
+      "reading": "たとえて"
+    }
+  },
+  "n2-jmdict-1573390": {
+    "dictionary": {
+      "sentence": "彼は返事をためらう。",
+      "translation": "他猶豫著是否答覆。",
+      "surface": "ためらう",
+      "reading": "ためらう"
+    },
+    "te": {
+      "sentence": "救助隊員は危険を前にしてもためらっていられませんでした。",
+      "translation": "救援人員即使面對危險，也無暇猶豫。",
+      "surface": "ためらって",
+      "reading": "ためらって"
+    }
+  },
+  "n2-jmdict-1404750": {
+    "dictionary": {
+      "sentence": "彼の仕事は信頼に足る。",
+      "translation": "他的工作值得信賴。",
+      "surface": "足る",
+      "reading": "たる"
+    },
+    "te": {
+      "sentence": "今の収入は生活に足っていますが、貯金をする余裕はありません。",
+      "translation": "目前收入足以維生，但沒有餘裕存錢。",
+      "surface": "足って",
+      "reading": "たって",
+      "note": "「足る」較書面；日常談足夠時，通常說「足りる／足りている」。"
+    }
+  },
+  "n2-jmdict-1381210": {
+    "dictionary": {
+      "sentence": "約束を守ると誓う。",
+      "translation": "發誓遵守約定。",
+      "surface": "誓う",
+      "reading": "ちかう"
+    },
+    "te": {
+      "sentence": "夫婦は互いに支え合うと誓って、新しい生活を始めました。",
+      "translation": "夫妻發誓互相扶持，開始新生活。",
+      "surface": "誓って",
+      "reading": "ちかって"
+    }
+  },
+  "n2-jmdict-1242520": {
+    "dictionary": {
+      "sentence": "椅子を机に近付ける。",
+      "translation": "把椅子移近桌子。",
+      "surface": "近付ける",
+      "reading": "ちかづける"
+    },
+    "te": {
+      "sentence": "花に顔を近付けて、甘い香りを楽しみました。",
+      "translation": "我把臉湊近花朵，享受甜美的花香。",
+      "surface": "近付けて",
+      "reading": "ちかづけて"
+    }
+  },
+  "n2-jmdict-1242230": {
+    "dictionary": {
+      "sentence": "子供が母に近寄る。",
+      "translation": "孩子靠近媽媽。",
+      "surface": "近寄る",
+      "reading": "ちかよる"
+    },
+    "te": {
+      "sentence": "知らない人が家に近寄ってきたので、犬がほえました。",
+      "translation": "陌生人靠近房子，所以狗叫了起來。",
+      "surface": "近寄って",
+      "reading": "ちかよって"
+    }
+  },
+  "n2-jmdict-1389020": {
+    "dictionary": {
+      "sentence": "子供は色紙をちぎるのが好きだ。",
+      "translation": "孩子喜歡撕色紙。",
+      "surface": "ちぎる",
+      "reading": "ちぎる"
+    },
+    "te": {
+      "sentence": "庭のバジルをちぎって、サラダに散らしました。",
+      "translation": "我摘下院子裡的羅勒，撒在沙拉上。",
+      "surface": "ちぎって",
+      "reading": "ちぎって"
+    }
+  },
+  "n2-jmdict-1337560": {
+    "dictionary": {
+      "sentence": "熱を加えると、このフィルムは縮む。",
+      "translation": "這種薄膜受熱後會收縮。",
+      "surface": "縮む",
+      "reading": "ちぢむ"
+    },
+    "te": {
+      "sentence": "両チームの点差が縮んで、試合が面白くなってきました。",
+      "translation": "兩隊分差縮小，比賽變得有趣起來。",
+      "surface": "縮んで",
+      "reading": "ちぢんで"
+    }
+  },
+  "n2-jmdict-1337570": {
+    "dictionary": {
+      "sentence": "選手は前回の記録を一秒縮めることを目指す。",
+      "translation": "選手以將上次紀錄縮短一秒為目標。",
+      "surface": "縮める",
+      "reading": "ちぢめる"
+    },
+    "te": {
+      "sentence": "名前を短く縮めて呼ぶと、親しみが感じられます。",
+      "translation": "把名字縮短來稱呼，會讓人感到親切。",
+      "surface": "縮めて",
+      "reading": "ちぢめて"
+    }
+  },
+  "n2-jmdict-1337590": {
+    "dictionary": {
+      "sentence": "彼の髪は自然に縮れる。",
+      "translation": "他的頭髮自然捲。",
+      "surface": "縮れる",
+      "reading": "ちぢれる"
+    },
+    "te": {
+      "sentence": "熱でリボンの端が縮れてしまい、切り直しました。",
+      "translation": "緞帶邊緣受熱捲曲，我重新剪齊了。",
+      "surface": "縮れて",
+      "reading": "ちぢれて"
+    }
+  },
+  "n2-jmdict-1303420": {
+    "dictionary": {
+      "sentence": "子供が部屋を散らかす。",
+      "translation": "孩子弄亂房間。",
+      "surface": "散らかす",
+      "reading": "ちらかす"
+    },
+    "te": {
+      "sentence": "資料を床に散らかしてしまったので、番号順に集め直しました。",
+      "translation": "我把資料散落在地上，所以按編號重新整理。",
+      "surface": "散らかして",
+      "reading": "ちらかして"
+    }
+  },
+  "n2-jmdict-1303430": {
+    "dictionary": {
+      "sentence": "遊んだ後は部屋が散らかる。",
+      "translation": "玩過後房間散亂。",
+      "surface": "散らかる",
+      "reading": "ちらかる"
+    },
+    "te": {
+      "sentence": "机の上に工具が散らかっていて、書く場所がありません。",
+      "translation": "桌上散亂地放著工具，沒有寫字的空間。",
+      "surface": "散らかって",
+      "reading": "ちらかって"
+    }
+  },
+  "n2-jmdict-1983740": {
+    "dictionary": {
+      "sentence": "この道は駅に通ずる。",
+      "translation": "這條路通往車站。",
+      "surface": "通ずる",
+      "reading": "つうずる"
+    },
+    "te": {
+      "sentence": "彼女は日本の法律に通じていて、契約の相談にも乗ってくれます。",
+      "translation": "她通曉日本法律，也願意提供合約方面的諮詢。",
+      "surface": "通じて",
+      "reading": "つうじて"
+    }
+  },
+  "n2-jmdict-1456780": {
+    "dictionary": {
+      "sentence": "道の先で壁に突き当たる。",
+      "translation": "走到路前方碰到牆。",
+      "surface": "突き当たる",
+      "reading": "つきあたる"
+    },
+    "te": {
+      "sentence": "研究で難題に突き当たって、別の方法を探し始めました。",
+      "translation": "研究碰上難題，我開始尋找其他方法。",
+      "surface": "突き当たって",
+      "reading": "つきあたって"
+    }
+  },
+  "n2-jmdict-1316400": {
+    "dictionary": {
+      "sentence": "今年の収穫量は、過去最高の年に次ぐ。",
+      "translation": "今年收穫量僅次於歷史最高的那一年。",
+      "surface": "次ぐ",
+      "reading": "つぐ"
+    },
+    "te": {
+      "sentence": "兄に次いで妹も医学部へ進みました。",
+      "translation": "繼哥哥之後，妹妹也進了醫學系。",
+      "surface": "次いで",
+      "reading": "ついで"
+    }
+  },
+  "n2-jmdict-1441900": {
+    "dictionary": {
+      "sentence": "町に知らせが伝わる。",
+      "translation": "消息傳到城鎮。",
+      "surface": "伝わる",
+      "reading": "つたわる"
+    },
+    "te": {
+      "sentence": "この地域には古い歌が伝わっていて、祭りで歌われます。",
+      "translation": "這個地區流傳著古老的歌謠，在祭典時演唱。",
+      "surface": "伝わって",
+      "reading": "つたわって"
+    }
+  },
+  "n2-jmdict-1456940": {
+    "dictionary": {
+      "sentence": "記者は曖昧な説明に突っ込む質問をした。",
+      "translation": "記者提出了深入追問模糊說明的問題。",
+      "surface": "突っ込む",
+      "reading": "つっこむ"
+    },
+    "te": {
+      "sentence": "車が店に突っ込んで、入り口が大きく壊れました。",
+      "translation": "車子衝進店裡，入口嚴重損壞。",
+      "surface": "突っ込んで",
+      "reading": "つっこんで"
+    }
+  },
+  "n2-jmdict-2872052": {
+    "dictionary": {
+      "sentence": "彼女は地域の防災委員を務めることになった。",
+      "translation": "她將擔任地方防災委員。",
+      "surface": "務める",
+      "reading": "つとめる"
+    },
+    "te": {
+      "sentence": "兄は主将を務めて、チームを優勝に導きました。",
+      "translation": "哥哥擔任隊長，帶領球隊奪冠。",
+      "surface": "務めて",
+      "reading": "つとめて"
+    }
+  },
+  "n2-jmdict-1240820": {
+    "dictionary": {
+      "sentence": "健康を保つように努める。",
+      "translation": "努力保持健康。",
+      "surface": "努める",
+      "reading": "つとめる"
+    },
+    "te": {
+      "sentence": "店は食品ロスを減らすよう努めています。",
+      "translation": "店家努力減少食物浪費。",
+      "surface": "努めて",
+      "reading": "つとめて"
+    }
+  },
+  "n2-jmdict-1251880": {
+    "dictionary": {
+      "sentence": "この道は隣の町に繋がる。",
+      "translation": "這條路連到隔壁城鎮。",
+      "surface": "繋がる",
+      "reading": "つながる"
+    },
+    "te": {
+      "sentence": "この道は海に繋がっていて、夕方は散歩する人が多いです。",
+      "translation": "這條路通往海邊，傍晚散步的人很多。",
+      "surface": "繋がって",
+      "reading": "つながって"
+    }
+  },
+  "n2-jmdict-1433820": {
+    "dictionary": {
+      "sentence": "ハンマーで空き缶を潰す。",
+      "translation": "用鐵鎚壓扁空罐。",
+      "surface": "潰す",
+      "reading": "つぶす"
+    },
+    "te": {
+      "sentence": "じゃがいもを潰して、牛乳と混ぜました。",
+      "translation": "我把馬鈴薯壓碎，和牛奶混合。",
+      "surface": "潰して",
+      "reading": "つぶして"
+    }
+  },
+  "n2-jmdict-1433830": {
+    "dictionary": {
+      "sentence": "重さで箱が潰れる。",
+      "translation": "重量把箱子壓扁。",
+      "surface": "潰れる",
+      "reading": "つぶれる"
+    },
+    "te": {
+      "sentence": "駅前の本屋が潰れて、今は空き店舗になっています。",
+      "translation": "車站前的書店倒閉了，現在成了空店面。",
+      "surface": "潰れて",
+      "reading": "つぶれて"
+    }
+  },
+  "n2-jmdict-1573400": {
+    "dictionary": {
+      "sentence": "段差につまずく。",
+      "translation": "被高低差絆倒。",
+      "surface": "つまずく",
+      "reading": "つまずく"
+    },
+    "te": {
+      "sentence": "新しい仕事でつまずいても、先輩に相談しながら続けます。",
+      "translation": "即使在新工作上受挫，我也會一邊請教前輩一邊繼續做。",
+      "surface": "つまずいて",
+      "reading": "つまずいて"
+    }
+  },
+  "n2-jmdict-1226480": {
+    "dictionary": {
+      "sentence": "緊張すると、言葉に詰まることがある。",
+      "translation": "緊張時，有時會說不出話。",
+      "surface": "詰まる",
+      "reading": "つまる"
+    },
+    "te": {
+      "sentence": "電車に乗客が詰まっていて、入り口まで進めませんでした。",
+      "translation": "電車擠滿乘客，我無法走到入口。",
+      "surface": "詰まって",
+      "reading": "つまって"
+    }
+  },
+  "n2-jmdict-1382970": {
+    "dictionary": {
+      "sentence": "料理人はさまざまな店で修業を積む。",
+      "translation": "廚師在各式各樣的店裡磨練廚藝。",
+      "surface": "積む",
+      "reading": "つむ"
+    },
+    "te": {
+      "sentence": "薪を軒下に積んで、雨にぬれないようにしました。",
+      "translation": "我把木柴堆在屋簷下，避免淋雨。",
+      "surface": "積んで",
+      "reading": "つんで"
+    }
+  },
+  "n2-jmdict-1434050": {
+    "dictionary": {
+      "sentence": "収入に釣り合う家賃の部屋を探しています。",
+      "translation": "我正在尋找租金與收入相稱的房間。",
+      "surface": "釣り合う",
+      "reading": "つりあう"
+    },
+    "te": {
+      "sentence": "左右の重さが釣り合って、天秤が水平になりました。",
+      "translation": "左右重量相等，天平恢復水平。",
+      "surface": "釣り合って",
+      "reading": "つりあって"
+    }
+  },
+  "n2-jmdict-1434020": {
+    "dictionary": {
+      "sentence": "ロープで荷物を吊る。",
+      "translation": "用繩子吊行李。",
+      "surface": "吊る",
+      "reading": "つる"
+    },
+    "te": {
+      "sentence": "川の上に橋を吊って、向こう岸へ渡れるようにしました。",
+      "translation": "人們在河上架起吊橋，讓人能通往對岸。",
+      "surface": "吊って",
+      "reading": "つって"
+    }
+  },
+  "n2-jmdict-1433980": {
+    "dictionary": {
+      "sentence": "壁に上着を吊す。",
+      "translation": "把外套掛牆上。",
+      "surface": "吊す",
+      "reading": "つるす"
+    },
+    "te": {
+      "sentence": "干し柿を軒下に吊して、乾くのを待っています。",
+      "translation": "我把柿子掛在屋簷下，等它乾成柿餅。",
+      "surface": "吊して",
+      "reading": "つるして"
+    }
+  },
+  "n2-jmdict-1340610": {
+    "dictionary": {
+      "sentence": "夕方には料理が出来上がる。",
+      "translation": "傍晚時料理完成。",
+      "surface": "出来上がる",
+      "reading": "できあがる"
+    },
+    "te": {
+      "sentence": "新しい制服が出来上がって、入学がますます楽しみになりました。",
+      "translation": "新制服做好了，讓我更加期待入學。",
+      "surface": "出来上がって",
+      "reading": "できあがって"
+    }
+  },
+  "n2-jmdict-1338720": {
+    "dictionary": {
+      "sentence": "駅で友達を出迎える。",
+      "translation": "在車站迎接朋友。",
+      "surface": "出迎える",
+      "reading": "でむかえる"
+    },
+    "te": {
+      "sentence": "空港で両親を出迎えて、ホテルまで案内しました。",
+      "translation": "我到機場迎接父母，帶他們前往飯店。",
+      "surface": "出迎えて",
+      "reading": "でむかえて"
+    }
+  },
+  "n2-jmdict-1350840": {
+    "dictionary": {
+      "sentence": "街灯が道を照らす。",
+      "translation": "街燈照亮道路。",
+      "surface": "照らす",
+      "reading": "てらす"
+    },
+    "te": {
+      "sentence": "規則に照らして判断すると、この申請は認められません。",
+      "translation": "對照規則判斷，這項申請無法獲准。",
+      "surface": "照らして",
+      "reading": "てらして"
+    }
+  },
+  "n2-jmdict-1350860": {
+    "dictionary": {
+      "sentence": "月が照る夜は、庭の石まで明るく見える。",
+      "translation": "月光照耀的夜裡，連庭院的石頭都清晰可見。",
+      "surface": "照る",
+      "reading": "てる"
+    },
+    "te": {
+      "sentence": "西日が強く照って、窓際の席は暑くなっていました。",
+      "translation": "西曬陽光強烈，靠窗的座位變得很熱。",
+      "surface": "照って",
+      "reading": "てって"
+    }
+  },
+  "n2-jmdict-1432940": {
+    "dictionary": {
+      "sentence": "買い物の途中、店の前を通り掛かる。",
+      "translation": "購物途中碰巧經過店前。",
+      "surface": "通り掛かる",
+      "reading": "とおりかかる"
+    },
+    "te": {
+      "sentence": "事故現場を通り掛かって、救急車を呼びました。",
+      "translation": "我碰巧經過事故現場，叫了救護車。",
+      "surface": "通り掛かって",
+      "reading": "とおりかかって"
+    }
+  },
+  "n2-jmdict-1546040": {
+    "dictionary": {
+      "sentence": "温かい牛乳で砂糖を溶かす。",
+      "translation": "用溫牛奶溶解砂糖。",
+      "surface": "溶かす",
+      "reading": "とかす"
+    },
+    "te": {
+      "sentence": "バターをフライパンで溶かしてから、きのこを炒めます。",
+      "translation": "先用平底鍋融化奶油，再炒蘑菇。",
+      "surface": "溶かして",
+      "reading": "とかして"
+    }
+  },
+  "n2-jmdict-1389970": {
+    "dictionary": {
+      "sentence": "怒ると声が尖る人もいる。",
+      "translation": "有人生氣時聲音會變得尖銳。",
+      "surface": "尖る",
+      "reading": "とがる"
+    },
+    "te": {
+      "sentence": "岩の先が尖っているので、登るときは注意してください。",
+      "translation": "岩石尖端很銳利，攀爬時請小心。",
+      "surface": "尖って",
+      "reading": "とがって"
+    }
+  },
+  "n2-jmdict-1546090": {
+    "dictionary": {
+      "sentence": "新しい学校に溶け込む。",
+      "translation": "融入新學校。",
+      "surface": "溶け込む",
+      "reading": "とけこむ"
+    },
+    "te": {
+      "sentence": "転校生はすぐにクラスに溶け込んで、毎日楽しそうです。",
+      "translation": "轉學生很快融入班級，每天看起來都很開心。",
+      "surface": "溶け込んで",
+      "reading": "とけこんで"
+    }
+  },
+  "n2-jmdict-1546070": {
+    "dictionary": {
+      "sentence": "春になると、雪が溶ける。",
+      "translation": "春天雪融化。",
+      "surface": "溶ける",
+      "reading": "とける"
+    },
+    "te": {
+      "sentence": "砂糖が紅茶に溶けて、底に何も残りませんでした。",
+      "translation": "糖溶進紅茶裡，杯底什麼都沒留下。",
+      "surface": "溶けて",
+      "reading": "とけて"
+    }
+  },
+  "n2-jmdict-2850084": {
+    "dictionary": {
+      "sentence": "通路の荷物を退ける。",
+      "translation": "移開通道的行李。",
+      "surface": "退ける",
+      "reading": "どける"
+    },
+    "te": {
+      "sentence": "机を端に退けて、子供たちの遊び場を作りました。",
+      "translation": "我把桌子移到一旁，騰出孩子們的遊戲空間。",
+      "surface": "退けて",
+      "reading": "どけて"
+    }
+  },
+  "n2-jmdict-1598800": {
+    "dictionary": {
+      "sentence": "旅行の準備が整う。",
+      "translation": "旅行準備妥當。",
+      "surface": "整う",
+      "reading": "ととのう"
+    },
+    "te": {
+      "sentence": "条件が整ってから、正式に契約を結ぶ予定です。",
+      "translation": "預計等條件齊備後，再正式簽約。",
+      "surface": "整って",
+      "reading": "ととのって"
+    }
+  },
+  "n2-jmdict-2657130": {
+    "dictionary": {
+      "sentence": "安全な場所に留まる。",
+      "translation": "留在安全的地方。",
+      "surface": "留まる",
+      "reading": "とどまる"
+    },
+    "te": {
+      "sentence": "大学に留まって研究を続けるか、就職するか迷っています。",
+      "translation": "我正猶豫要留在大學繼續研究，還是就業。",
+      "surface": "留まって",
+      "reading": "とどまって"
+    }
+  },
+  "n2-jmdict-1445740": {
+    "dictionary": {
+      "sentence": "彼が大きな声で怒鳴る。",
+      "translation": "他大聲吼叫。",
+      "surface": "怒鳴る",
+      "reading": "どなる"
+    },
+    "te": {
+      "sentence": "父は「早く逃げろ」と怒鳴って、家族を外へ誘導しました。",
+      "translation": "爸爸大喊「快逃」，引導家人到外面。",
+      "surface": "怒鳴って",
+      "reading": "どなって"
+    }
+  },
+  "n2-jmdict-1598890": {
+    "dictionary": {
+      "sentence": "少年がプールに飛び込む。",
+      "translation": "少年跳進泳池。",
+      "surface": "飛び込む",
+      "reading": "とびこむ"
+    },
+    "te": {
+      "sentence": "突然うれしい知らせが飛び込んできて、家族全員で喜びました。",
+      "translation": "好消息突然傳來，全家都很高興。",
+      "surface": "飛び込んで",
+      "reading": "とびこんで"
+    }
+  },
+  "n2-jmdict-1310620": {
+    "dictionary": {
+      "sentence": "強い風でも、洗濯物はピンチでしっかり留まる。",
+      "translation": "即使風很強，衣物也會被曬衣夾牢牢固定。",
+      "surface": "留まる",
+      "reading": "とまる"
+    },
+    "te": {
+      "sentence": "蝶が花に留まって、蜜を吸っていました。",
+      "translation": "蝴蝶停在花上吸蜜。",
+      "surface": "留まって",
+      "reading": "とまって"
+    }
+  },
+  "n2-jmdict-1474860": {
+    "dictionary": {
+      "sentence": "旅行に来た友達を家に泊める。",
+      "translation": "讓來旅行的朋友住家裡。",
+      "surface": "泊める",
+      "reading": "とめる"
+    },
+    "te": {
+      "sentence": "台風で帰れない客を近くの旅館に泊めてもらいました。",
+      "translation": "我請附近的旅館讓因颱風無法回家的客人留宿。",
+      "surface": "泊めて",
+      "reading": "とめて"
+    }
+  },
+  "n2-jmdict-1598960": {
+    "dictionary": {
+      "sentence": "網で魚を捕える。",
+      "translation": "用網捕魚。",
+      "surface": "捕える",
+      "reading": "とらえる"
+    },
+    "te": {
+      "sentence": "記者は決定的な瞬間を写真に捕えて、記事に載せました。",
+      "translation": "記者用照片捕捉關鍵瞬間，刊登在報導中。",
+      "surface": "捕えて",
+      "reading": "とらえて"
+    }
+  },
+  "n2-jmdict-1326880": {
+    "dictionary": {
+      "sentence": "農家は雨が降る前に、稲を取り入れる。",
+      "translation": "農家趁下雨前收割稻子。",
+      "surface": "取り入れる",
+      "reading": "とりいれる"
+    },
+    "te": {
+      "sentence": "朝の生活に散歩を取り入れてから、体調がよくなりました。",
+      "translation": "把散步納入晨間生活後，身體狀況變好了。",
+      "surface": "取り入れて",
+      "reading": "とりいれて"
+    }
+  },
+  "n2-jmdict-1326790": {
+    "dictionary": {
+      "sentence": "旅行の予約を取り消す。",
+      "translation": "取消旅行預約。",
+      "surface": "取り消す",
+      "reading": "とりけす"
+    },
+    "te": {
+      "sentence": "店に連絡して注文を取り消してもらいました。",
+      "translation": "我聯絡店家，請他們取消訂單。",
+      "surface": "取り消して",
+      "reading": "とりけして"
+    }
+  },
+  "n2-jmdict-1326770": {
+    "dictionary": {
+      "sentence": "かばんから本を取り出す。",
+      "translation": "從包包拿出書。",
+      "surface": "取り出す",
+      "reading": "とりだす"
+    },
+    "te": {
+      "sentence": "冷蔵庫から卵を取り出して、室温に戻しておきます。",
+      "translation": "把蛋從冰箱取出，先放到恢復室溫。",
+      "surface": "取り出して",
+      "reading": "とりだして"
+    }
+  },
+  "n2-jmdict-1599160": {
+    "dictionary": {
+      "sentence": "看護師は検査のために血液を採る。",
+      "translation": "護理師為了檢查而抽血。",
+      "surface": "採る",
+      "reading": "とる"
+    },
+    "te": {
+      "sentence": "畑で大根を採って、祖母に届けました。",
+      "translation": "我在田裡採了白蘿蔔，送給祖母。",
+      "surface": "採って",
+      "reading": "とって"
+    }
+  },
+  "n2-jmdict-1514140": {
+    "dictionary": {
+      "sentence": "川で魚を捕る。",
+      "translation": "在河裡捕魚。",
+      "surface": "捕る",
+      "reading": "とる"
+    },
+    "te": {
+      "sentence": "弟は虫を捕っても、観察した後は自然に返します。",
+      "translation": "弟弟即使捉了蟲，觀察後也會放回大自然。",
+      "surface": "捕って",
+      "reading": "とって"
+    }
+  },
+  "n2-jmdict-1610950": {
+    "dictionary": {
+      "sentence": "話し合いが長引く。",
+      "translation": "討論拖長。",
+      "surface": "長引く",
+      "reading": "ながびく"
+    },
+    "te": {
+      "sentence": "風邪が長引いて、旅行を延期しました。",
+      "translation": "感冒拖了很久，所以我延期了旅行。",
+      "surface": "長引いて",
+      "reading": "ながびいて"
+    }
+  },
+  "n2-jmdict-1156890": {
+    "dictionary": {
+      "sentence": "泣いている友達を慰める。",
+      "translation": "安慰正在哭的朋友。",
+      "surface": "慰める",
+      "reading": "なぐさめる"
+    },
+    "te": {
+      "sentence": "父は試合に負けた息子を慰めて、好きな料理を作りました。",
+      "translation": "爸爸安慰輸了比賽的兒子，做了他愛吃的菜。",
+      "surface": "慰めて",
+      "reading": "なぐさめて"
+    }
+  },
+  "n2-jmdict-1181390": {
+    "dictionary": {
+      "sentence": "映画の悪役が相手を殴る。",
+      "translation": "電影反派毆打對方。",
+      "surface": "殴る",
+      "reading": "なぐる"
+    },
+    "te": {
+      "sentence": "映画で主人公が壁を殴って、悔しさを表していました。",
+      "translation": "電影中主角捶打牆壁，表現出懊惱。",
+      "surface": "殴って",
+      "reading": "なぐって"
+    }
+  },
+  "n2-jmdict-2861111": {
+    "dictionary": {
+      "sentence": "人のためになることを為す。",
+      "translation": "做有益於人的事。",
+      "surface": "為す",
+      "reading": "なす"
+    },
+    "te": {
+      "sentence": "皆で大きな仕事を為して、達成感を味わいました。",
+      "translation": "大家一起完成了重大的工作，體會到成就感。",
+      "surface": "為して",
+      "reading": "なして"
+    }
+  },
+  "n2-jmdict-1498290": {
+    "dictionary": {
+      "sentence": "猫の頭を撫でる。",
+      "translation": "輕摸貓的頭。",
+      "surface": "撫でる",
+      "reading": "なでる"
+    },
+    "te": {
+      "sentence": "風が頬を撫でていくようで、気持ちのよい朝でした。",
+      "translation": "風彷彿輕撫臉頰，是個舒服的早晨。",
+      "surface": "撫でて",
+      "reading": "なでて"
+    }
+  },
+  "n2-jmdict-1599680": {
+    "dictionary": {
+      "sentence": "都市計画では、海外の成功例に倣うこともある。",
+      "translation": "都市規劃有時也會仿效國外的成功案例。",
+      "surface": "倣う",
+      "reading": "ならう"
+    },
+    "te": {
+      "sentence": "母に倣って、私も毎朝庭の花に水をやっています。",
+      "translation": "我仿效媽媽，每天早上也給院子裡的花澆水。",
+      "surface": "倣って",
+      "reading": "ならって"
+    }
+  },
+  "n2-jmdict-1611000": {
+    "dictionary": {
+      "sentence": "このぶどうは、植えてから三年目に実が生る。",
+      "translation": "這種葡萄種下後第三年會結果。",
+      "surface": "生る",
+      "reading": "なる"
+    },
+    "te": {
+      "sentence": "畑にすいかが生っているのを、子供たちが見つけました。",
+      "translation": "孩子們發現田裡結了西瓜。",
+      "surface": "生って",
+      "reading": "なって"
+    }
+  },
+  "n2-jmdict-1599780": {
+    "dictionary": {
+      "sentence": "焼きたてのパンは、店の外まで匂う。",
+      "translation": "剛出爐的麵包，香味會飄到店外。",
+      "surface": "匂う",
+      "reading": "におう"
+    },
+    "te": {
+      "sentence": "梅の花がほのかに匂って、春の訪れを感じました。",
+      "translation": "梅花散發淡淡香氣，讓我感受到春天到來。",
+      "surface": "匂って",
+      "reading": "におって"
+    }
+  },
+  "n2-jmdict-1450320": {
+    "dictionary": {
+      "sentence": "この機会を逃がすと、次の募集は来年だ。",
+      "translation": "錯過這次機會，下次徵選就是明年了。",
+      "surface": "逃がす",
+      "reading": "にがす"
+    },
+    "te": {
+      "sentence": "決勝進出の機会を逃がして、選手は悔しそうでした。",
+      "translation": "選手錯失晉級決賽的機會，看起來很懊惱。",
+      "surface": "逃がして",
+      "reading": "にがして"
+    }
+  },
+  "n2-jmdict-1403440": {
+    "dictionary": {
+      "sentence": "彼は争いを憎む。",
+      "translation": "他憎恨爭鬥。",
+      "surface": "憎む",
+      "reading": "にくむ"
+    },
+    "te": {
+      "sentence": "相手を憎んでばかりいると、自分も苦しくなります。",
+      "translation": "如果只是一味憎恨對方，自己也會痛苦。",
+      "surface": "憎んで",
+      "reading": "にくんで"
+    }
+  },
+  "n2-jmdict-1415960": {
+    "dictionary": {
+      "sentence": "泥が混ざると、池の水が濁る。",
+      "translation": "混進泥土後，池水就會混濁。",
+      "surface": "濁る",
+      "reading": "にごる"
+    },
+    "te": {
+      "sentence": "水槽の水が濁ってきたので、フィルターを洗いました。",
+      "translation": "魚缸的水逐漸混濁，所以我清洗了濾器。",
+      "surface": "濁って",
+      "reading": "にごって"
+    }
+  },
+  "n2-jmdict-1569880": {
+    "dictionary": {
+      "sentence": "猫は窓の外の鳥をじっと睨む。",
+      "translation": "貓緊盯著窗外的鳥。",
+      "surface": "睨む",
+      "reading": "にらむ"
+    },
+    "te": {
+      "sentence": "画面を睨んでいても間違いが見つからず、休憩することにしました。",
+      "translation": "我一直盯著螢幕仍找不到錯誤，決定先休息。",
+      "surface": "睨んで",
+      "reading": "にらんで"
+    }
+  },
+  "n2-jmdict-1322540": {
+    "dictionary": {
+      "sentence": "鍋で野菜を煮る。",
+      "translation": "用鍋煮蔬菜。",
+      "surface": "煮る",
+      "reading": "にる"
+    },
+    "te": {
+      "sentence": "豆を一晩水に浸してから、柔らかく煮てください。",
+      "translation": "請先把豆子泡水一晚，再煮軟。",
+      "surface": "煮て",
+      "reading": "にて"
+    }
+  },
+  "n2-jmdict-1517700": {
+    "dictionary": {
+      "sentence": "針と糸で服を縫う。",
+      "translation": "用針線縫衣服。",
+      "surface": "縫う",
+      "reading": "ぬう"
+    },
+    "te": {
+      "sentence": "妹は破れたかばんを縫って、また使えるようにしました。",
+      "translation": "妹妹縫好破掉的包包，讓它又能使用。",
+      "surface": "縫って",
+      "reading": "ぬって"
+    }
+  },
+  "n2-jmdict-1611090": {
+    "dictionary": {
+      "sentence": "針金を捩る。",
+      "translation": "扭轉鐵絲。",
+      "surface": "捩る",
+      "reading": "ねじる"
+    },
+    "te": {
+      "sentence": "タオルを捩って水を切り、窓を拭きました。",
+      "translation": "我扭毛巾擰乾水分，擦了窗戶。",
+      "surface": "捩って",
+      "reading": "ねじって"
+    }
+  },
+  "n2-jmdict-1467730": {
+    "dictionary": {
+      "sentence": "鍋で水を熱する。",
+      "translation": "用鍋加熱水。",
+      "surface": "熱する",
+      "reading": "ねっする"
+    },
+    "te": {
+      "sentence": "金属を熱してから、金づちで形を整えます。",
+      "translation": "先把金屬加熱，再用鐵鎚整形。",
+      "surface": "熱して",
+      "reading": "ねっして"
+    }
+  },
+  "n2-jmdict-1396590": {
+    "dictionary": {
+      "sentence": "選手が優勝を狙う。",
+      "translation": "選手以冠軍為目標。",
+      "surface": "狙う",
+      "reading": "ねらう"
+    },
+    "te": {
+      "sentence": "猫は魚を狙って、台所の入り口で待っていました。",
+      "translation": "貓盯上了魚，在廚房入口等著。",
+      "surface": "狙って",
+      "reading": "ねらって"
+    }
+  },
+  "n2-jmdict-1474200": {
+    "dictionary": {
+      "sentence": "虫が地面を這う。",
+      "translation": "蟲在地上爬。",
+      "surface": "這う",
+      "reading": "はう"
+    },
+    "te": {
+      "sentence": "つるが壁を這って、窓の近くまで伸びています。",
+      "translation": "藤蔓沿牆爬，已經延伸到窗戶附近。",
+      "surface": "這って",
+      "reading": "はって"
+    }
+  },
+  "n2-jmdict-1600670": {
+    "dictionary": {
+      "sentence": "職人は、張り替える前に古い壁紙を剥がす。",
+      "translation": "工匠在重新貼壁紙前，會先撕掉舊壁紙。",
+      "surface": "剥がす",
+      "reading": "はがす"
+    },
+    "te": {
+      "sentence": "傷口のテープをゆっくり剥がして、薬を塗り直しました。",
+      "translation": "我慢慢撕下傷口的膠帶，重新上藥。",
+      "surface": "剥がして",
+      "reading": "はがして"
+    }
+  },
+  "n2-jmdict-1399760": {
+    "dictionary": {
+      "sentence": "ほうきで庭を掃く。",
+      "translation": "用掃帚掃院子。",
+      "surface": "掃く",
+      "reading": "はく"
+    },
+    "te": {
+      "sentence": "玄関を掃いていると、近所の人が声をかけてくれました。",
+      "translation": "我掃玄關時，鄰居向我打了招呼。",
+      "surface": "掃いて",
+      "reading": "はいて"
+    }
+  },
+  "n2-jmdict-1236840": {
+    "dictionary": {
+      "sentence": "ドアに服が挟まる。",
+      "translation": "衣服被門夾住。",
+      "surface": "挟まる",
+      "reading": "はさまる"
+    },
+    "te": {
+      "sentence": "エレベーターにひもが挟まっていないか、確認してください。",
+      "translation": "請確認是否有繩子被電梯門夾住。",
+      "surface": "挟まって",
+      "reading": "はさまって"
+    }
+  },
+  "n2-jmdict-1600740": {
+    "dictionary": {
+      "sentence": "本の間にしおりを挟む。",
+      "translation": "把書籤夾進書裡。",
+      "surface": "挟む",
+      "reading": "はさむ"
+    },
+    "te": {
+      "sentence": "パンにチーズと野菜を挟んで、弁当にしました。",
+      "translation": "我把起司和蔬菜夾進麵包，當作便當。",
+      "surface": "挟んで",
+      "reading": "はさんで"
+    }
+  },
+  "n2-jmdict-1203310": {
+    "dictionary": {
+      "sentence": "古い時計のベルトが外れる。",
+      "translation": "舊手錶的錶帶脫落。",
+      "surface": "外れる",
+      "reading": "はずれる"
+    },
+    "te": {
+      "sentence": "天気予報が外れて、遠足の途中で雨が降り出しました。",
+      "translation": "天氣預報不準，遠足途中開始下雨。",
+      "surface": "外れて",
+      "reading": "はずれて"
+    }
+  },
+  "n2-jmdict-1562300": {
+    "dictionary": {
+      "sentence": "知らない人に日本語で話し掛ける。",
+      "translation": "用日文向陌生人搭話。",
+      "surface": "話し掛ける",
+      "reading": "はなしかける"
+    },
+    "te": {
+      "sentence": "迷っている観光客に話し掛けて、駅までの道を教えました。",
+      "translation": "我向迷路的遊客搭話，告訴他去車站的路。",
+      "surface": "話し掛けて",
+      "reading": "はなしかけて"
+    }
+  },
+  "n2-jmdict-1429620": {
+    "dictionary": {
+      "sentence": "池の魚が跳ねる。",
+      "translation": "池裡的魚跳躍。",
+      "surface": "跳ねる",
+      "reading": "はねる"
+    },
+    "te": {
+      "sentence": "子供たちはトランポリンで跳ねて、楽しそうに笑っていました。",
+      "translation": "孩子們在彈跳床上跳躍，開心地笑著。",
+      "surface": "跳ねて",
+      "reading": "はねて"
+    }
+  },
+  "n2-jmdict-1566420": {
+    "dictionary": {
+      "sentence": "指に指輪をはめる。",
+      "translation": "把戒指戴手上。",
+      "surface": "はめる",
+      "reading": "はめる"
+    },
+    "te": {
+      "sentence": "パズルの最後の一片をはめて、みんなで拍手しました。",
+      "translation": "嵌上拼圖最後一片後，大家一起拍手。",
+      "surface": "はめて",
+      "reading": "はめて"
+    }
+  },
+  "n2-jmdict-1501580": {
+    "dictionary": {
+      "sentence": "保護者は毎月、給食費を指定口座に払い込む。",
+      "translation": "家長每月把營養午餐費匯入指定帳戶。",
+      "surface": "払い込む",
+      "reading": "はらいこむ"
+    },
+    "te": {
+      "sentence": "参加費を払い込んでから、控えを大切に保管してください。",
+      "translation": "繳納參加費後，請妥善保管收據。",
+      "surface": "払い込んで",
+      "reading": "はらいこんで"
+    }
+  },
+  "n2-jmdict-1501610": {
+    "dictionary": {
+      "sentence": "店が客に代金を払い戻す。",
+      "translation": "店家退錢給客人。",
+      "surface": "払い戻す",
+      "reading": "はらいもどす"
+    },
+    "te": {
+      "sentence": "主催者は中止になった公演の入場料を払い戻しています。",
+      "translation": "主辦單位正在退還取消演出的門票費用。",
+      "surface": "払い戻して",
+      "reading": "はらいもどして"
+    }
+  },
+  "n2-jmdict-1427870": {
+    "dictionary": {
+      "sentence": "運動会の朝は、いつも弟が張り切る。",
+      "translation": "運動會當天早上，弟弟總是幹勁十足。",
+      "surface": "張り切る",
+      "reading": "はりきる"
+    },
+    "te": {
+      "sentence": "父は孫のために張り切って、朝からごちそうを作っています。",
+      "translation": "爸爸為了孫子興致勃勃，從早上就開始做佳餚。",
+      "surface": "張り切って",
+      "reading": "はりきって"
+    }
+  },
+  "n2-jmdict-1601520": {
+    "dictionary": {
+      "sentence": "姉は、捨てられた猫の世話を引き受けることにした。",
+      "translation": "姐姐決定接下照顧棄貓的工作。",
+      "surface": "引き受ける",
+      "reading": "ひきうける"
+    },
+    "te": {
+      "sentence": "難しい修理を引き受けてくださる職人が見つかりました。",
+      "translation": "我們找到願意接下這件困難維修的師傅了。",
+      "surface": "引き受けて",
+      "reading": "ひきうけて"
+    }
+  },
+  "n2-jmdict-1169140": {
+    "dictionary": {
+      "sentence": "忘れ物に気付き、家へ引き返す。",
+      "translation": "發現忘帶東西後折返家裡。",
+      "surface": "引き返す",
+      "reading": "ひきかえす"
+    },
+    "te": {
+      "sentence": "登山中に天候が悪化したので、頂上へ行かずに引き返してきました。",
+      "translation": "登山途中天氣惡化，所以我們沒有登頂就折返回來。",
+      "surface": "引き返して",
+      "reading": "ひきかえして"
+    }
+  },
+  "n2-jmdict-1601660": {
+    "dictionary": {
+      "sentence": "銀行でお金を引き出す。",
+      "translation": "在銀行提款。",
+      "surface": "引き出す",
+      "reading": "ひきだす"
+    },
+    "te": {
+      "sentence": "先生は質問を工夫して、生徒の意見を引き出しています。",
+      "translation": "老師用心設計問題，引出學生的想法。",
+      "surface": "引き出して",
+      "reading": "ひきだして"
+    }
+  },
+  "n2-jmdict-1601750": {
+    "dictionary": {
+      "sentence": "警備員は、不審な客を入り口で引き止める。",
+      "translation": "警衛在入口攔住可疑的客人。",
+      "surface": "引き止める",
+      "reading": "ひきとめる"
+    },
+    "te": {
+      "sentence": "店長は辞職を考えていた店員を引き止めて、働き方を一緒に見直しました。",
+      "translation": "店長挽留考慮辭職的店員，一起重新檢討工作方式。",
+      "surface": "引き止めて",
+      "reading": "ひきとめて"
+    }
+  },
+  "n2-jmdict-1169350": {
+    "dictionary": {
+      "sentence": "うまい話に引っ掛かる前に、家族に相談しよう。",
+      "translation": "在被好聽的話騙倒前，先和家人商量吧。",
+      "surface": "引っ掛かる",
+      "reading": "ひっかかる"
+    },
+    "te": {
+      "sentence": "説明の一言が心に引っ掛かって、後で先生に尋ねました。",
+      "translation": "說明中的一句話讓我心裡在意，之後我向老師詢問。",
+      "surface": "引っ掛かって",
+      "reading": "ひっかかって"
+    }
+  },
+  "n2-jmdict-1601870": {
+    "dictionary": {
+      "sentence": "最後の一点で試合の結果を引っ繰り返すこともある。",
+      "translation": "有時最後一分就能扭轉比賽結果。",
+      "surface": "引っ繰り返す",
+      "reading": "ひっくりかえす"
+    },
+    "te": {
+      "sentence": "鍋を引っ繰り返してしまい、スープが床にこぼれました。",
+      "translation": "我把鍋子打翻了，湯灑在地板上。",
+      "surface": "引っ繰り返して",
+      "reading": "ひっくりかえして"
+    }
+  },
+  "n2-jmdict-1169320": {
+    "dictionary": {
+      "sentence": "大勢が移動すると、会場の机が引っ繰り返るおそれがある。",
+      "translation": "大量人員移動，會場的桌子有翻倒之虞。",
+      "surface": "引っ繰り返る",
+      "reading": "ひっくりかえる"
+    },
+    "te": {
+      "sentence": "突風で小さな船が引っ繰り返って、乗っていた人が救助されました。",
+      "translation": "小船被強風吹翻，船上的人獲救了。",
+      "surface": "引っ繰り返って",
+      "reading": "ひっくりかえって"
+    }
+  },
+  "n2-jmdict-1169390": {
+    "dictionary": {
+      "sentence": "ボタンを押すと、このペンの先が引っ込む。",
+      "translation": "按下按鈕，這支筆的筆尖就會縮回去。",
+      "surface": "引っ込む",
+      "reading": "ひっこむ"
+    },
+    "te": {
+      "sentence": "猫は知らない客を見ると、奥の部屋に引っ込んでしまいました。",
+      "translation": "貓看到陌生客人，就躲進裡面的房間。",
+      "surface": "引っ込んで",
+      "reading": "ひっこんで"
+    }
+  },
+  "n2-jmdict-1469530": {
+    "dictionary": {
+      "sentence": "料理人はいつも頭を捻ることで、新しい味を生み出す。",
+      "translation": "廚師總是絞盡腦汁，創造出新口味。",
+      "surface": "捻る",
+      "reading": "ひねる"
+    },
+    "te": {
+      "sentence": "足首を捻ってしまい、しばらく走れません。",
+      "translation": "我扭傷了腳踝，暫時不能跑步。",
+      "surface": "捻って",
+      "reading": "ひねって"
+    }
+  },
+  "n2-jmdict-1238610": {
+    "dictionary": {
+      "sentence": "寝不足は翌日の仕事に響くので、早く寝よう。",
+      "translation": "睡眠不足會影響隔天的工作，早點睡吧。",
+      "surface": "響く",
+      "reading": "ひびく"
+    },
+    "te": {
+      "sentence": "トンネルに足音が響いて、少し怖く感じました。",
+      "translation": "腳步聲在隧道裡迴響，讓我覺得有點害怕。",
+      "surface": "響いて",
+      "reading": "ひびいて"
+    }
+  },
+  "n2-jmdict-1556770": {
+    "dictionary": {
+      "sentence": "冷蔵庫で飲み物を冷やす。",
+      "translation": "用冰箱冰飲料。",
+      "surface": "冷やす",
+      "reading": "ひやす"
+    },
+    "te": {
+      "sentence": "焼き菓子の生地を冷やしてから、型で抜きました。",
+      "translation": "我先把烘焙麵糰冷藏，再用模型壓出形狀。",
+      "surface": "冷やして",
+      "reading": "ひやして"
+    }
+  },
+  "n2-jmdict-1602370": {
+    "dictionary": {
+      "sentence": "机の上に地図を広げる。",
+      "translation": "把地圖攤在桌上。",
+      "surface": "広げる",
+      "reading": "ひろげる"
+    },
+    "te": {
+      "sentence": "新聞を広げて、気になる記事を読みました。",
+      "translation": "我攤開報紙，閱讀感興趣的報導。",
+      "surface": "広げて",
+      "reading": "ひろげて"
+    }
+  },
+  "n2-jmdict-1362660": {
+    "dictionary": {
+      "sentence": "冬が深まるにつれて、日の出が遅くなる。",
+      "translation": "隨著冬季漸深，日出時間越來越晚。",
+      "surface": "深まる",
+      "reading": "ふかまる"
+    },
+    "te": {
+      "sentence": "話し合いで友情が深まって、二人はよき相談相手になりました。",
+      "translation": "經過交談，友誼加深，兩人成了很好的商量對象。",
+      "surface": "深まって",
+      "reading": "ふかまって"
+    }
+  },
+  "n2-jmdict-1216890": {
+    "dictionary": {
+      "sentence": "計算に送料をふくめる。",
+      "translation": "計算時納入運費。",
+      "surface": "ふくめる",
+      "reading": "ふくめる"
+    },
+    "te": {
+      "sentence": "子供もふくめて、全部で六人分の席を予約しました。",
+      "translation": "包含孩子在內，我訂了六人份的座位。",
+      "surface": "ふくめて",
+      "reading": "ふくめて"
+    }
+  },
+  "n2-jmdict-1519970": {
+    "dictionary": {
+      "sentence": "空気で風船を膨らます。",
+      "translation": "用空氣吹大氣球。",
+      "surface": "膨らます",
+      "reading": "ふくらます"
+    },
+    "te": {
+      "sentence": "鳥は羽を膨らまして、寒さに耐えていました。",
+      "translation": "鳥蓬起羽毛，抵禦寒冷。",
+      "surface": "膨らまして",
+      "reading": "ふくらまして"
+    }
+  },
+  "n2-jmdict-1519990": {
+    "dictionary": {
+      "sentence": "パンの生地が膨らむ。",
+      "translation": "麵包麵糰膨脹。",
+      "surface": "膨らむ",
+      "reading": "ふくらむ"
+    },
+    "te": {
+      "sentence": "旅行への期待が膨らんで、なかなか眠れませんでした。",
+      "translation": "對旅行的期待越來越高，我久久無法入睡。",
+      "surface": "膨らんで",
+      "reading": "ふくらんで"
+    }
+  },
+  "n2-jmdict-1279290": {
+    "dictionary": {
+      "sentence": "山小屋では、夜が更けると外気が一段と冷たくなる。",
+      "translation": "在山屋裡，夜深後外面的空氣會更加寒冷。",
+      "surface": "更ける",
+      "reading": "ふける"
+    },
+    "te": {
+      "sentence": "夜が更けても、研究室には明かりがついていました。",
+      "translation": "即使夜已深，研究室仍亮著燈。",
+      "surface": "更けて",
+      "reading": "ふけて"
+    }
+  },
+  "n2-jmdict-1602570": {
+    "dictionary": {
+      "sentence": "倒れた木で道が塞がる。",
+      "translation": "倒樹堵住道路。",
+      "surface": "塞がる",
+      "reading": "ふさがる"
+    },
+    "te": {
+      "sentence": "傷口が塞がってきたので、包帯を外せるようになりました。",
+      "translation": "傷口逐漸癒合，已經可以拆掉繃帶了。",
+      "surface": "塞がって",
+      "reading": "ふさがって"
+    }
+  },
+  "n2-jmdict-1602590": {
+    "dictionary": {
+      "sentence": "大きな荷物が通路を塞ぐ。",
+      "translation": "大行李擋住通道。",
+      "surface": "塞ぐ",
+      "reading": "ふさぐ"
+    },
+    "te": {
+      "sentence": "子供は大きな音に驚いて、両手で耳を塞いでいました。",
+      "translation": "孩子被巨響嚇到，雙手摀住耳朵。",
+      "surface": "塞いで",
+      "reading": "ふさいで"
+    }
+  },
+  "n2-jmdict-1566450": {
+    "dictionary": {
+      "sentence": "休み時間に子供たちがふざける。",
+      "translation": "孩子們下課時嬉鬧。",
+      "surface": "ふざける",
+      "reading": "ふざける"
+    },
+    "te": {
+      "sentence": "階段でふざけていると、転ぶかもしれません。",
+      "translation": "在樓梯上嬉鬧，可能會跌倒。",
+      "surface": "ふざけて",
+      "reading": "ふざけて"
+    }
+  },
+  "n2-jmdict-1011250": {
+    "dictionary": {
+      "sentence": "子供は、首から水筒をぶらさげる。",
+      "translation": "孩子把水壺掛在脖子上。",
+      "surface": "ぶらさげる",
+      "reading": "ぶらさげる"
+    },
+    "te": {
+      "sentence": "軒先に風鈴をぶらさげて、夏の音を楽しんでいます。",
+      "translation": "我在屋簷下掛上風鈴，享受夏日的聲音。",
+      "surface": "ぶらさげて",
+      "reading": "ぶらさげて"
+    }
+  },
+  "n2-jmdict-1361190": {
+    "dictionary": {
+      "sentence": "名前を呼ばれて振り向く。",
+      "translation": "被叫名字後回頭。",
+      "surface": "振り向く",
+      "reading": "ふりむく"
+    },
+    "te": {
+      "sentence": "物音がして振り向いてみると、小さな犬がいました。",
+      "translation": "聽到聲響回頭一看，原來是一隻小狗。",
+      "surface": "振り向いて",
+      "reading": "ふりむいて"
+    }
+  },
+  "n2-jmdict-1603090": {
+    "dictionary": {
+      "sentence": "客の前で丁寧に振舞う。",
+      "translation": "在客人面前舉止有禮。",
+      "surface": "振舞う",
+      "reading": "ふるまう"
+    },
+    "te": {
+      "sentence": "店主は祭りの日に、客に料理を振舞っていました。",
+      "translation": "祭典當天，店主用料理款待客人。",
+      "surface": "振舞って",
+      "reading": "ふるまって"
+    }
+  },
+  "n2-jmdict-1179200": {
+    "dictionary": {
+      "sentence": "ぶつけると、車のドアが凹む。",
+      "translation": "撞到會讓車門凹陷。",
+      "surface": "凹む",
+      "reading": "へこむ"
+    },
+    "te": {
+      "sentence": "金属の箱が凹んでいて、ふたが閉まりません。",
+      "translation": "金屬盒凹了，蓋子關不上。",
+      "surface": "凹んで",
+      "reading": "へこんで"
+    }
+  },
+  "n2-jmdict-1206360": {
+    "dictionary": {
+      "sentence": "川が二つの町を隔てる。",
+      "translation": "河流隔開兩個城鎮。",
+      "surface": "隔てる",
+      "reading": "へだてる"
+    },
+    "te": {
+      "sentence": "二人は長い年月を隔てて、故郷の駅で再会しました。",
+      "translation": "兩人相隔多年，在故鄉的車站重逢。",
+      "surface": "隔てて",
+      "reading": "へだてて"
+    }
+  },
+  "n2-jmdict-1516530": {
+    "dictionary": {
+      "sentence": "後で困らないよう、仕事を途中で放るのはやめよう。",
+      "translation": "為了避免之後為難，別把工作丟在半途不管。",
+      "surface": "放る",
+      "reading": "ほうる"
+    },
+    "te": {
+      "sentence": "ぬれたタオルを床に放ってはいけません。",
+      "translation": "不可以把濕毛巾扔在地板上。",
+      "surface": "放って",
+      "reading": "ほうって"
+    }
+  },
+  "n2-jmdict-1603510": {
+    "dictionary": {
+      "sentence": "この村では、冬になると大根を干す。",
+      "translation": "這個村子一到冬天就會曬蘿蔔。",
+      "surface": "干す",
+      "reading": "ほす"
+    },
+    "te": {
+      "sentence": "洗ったシャツをベランダに干してから、仕事へ出かけました。",
+      "translation": "我在陽台晾好洗過的襯衫後，出門上班。",
+      "surface": "干して",
+      "reading": "ほして"
+    }
+  },
+  "n2-jmdict-1198900": {
+    "dictionary": {
+      "sentence": "店員は、商品を包んだリボンを解く。",
+      "translation": "店員解開包裝商品的緞帶。",
+      "surface": "解く",
+      "reading": "ほどく"
+    },
+    "te": {
+      "sentence": "絡まった糸を解いているうちに、時間が過ぎてしまいました。",
+      "translation": "我忙著解開纏在一起的線，時間不知不覺就過去了。",
+      "surface": "解いて",
+      "reading": "ほどいて"
+    }
+  },
+  "n2-jmdict-1246690": {
+    "dictionary": {
+      "sentence": "庭に穴を掘る。",
+      "translation": "在庭院挖洞。",
+      "surface": "掘る",
+      "reading": "ほる"
+    },
+    "te": {
+      "sentence": "子供たちは砂浜を掘って、貝を探していました。",
+      "translation": "孩子們挖著沙灘，尋找貝類。",
+      "surface": "掘って",
+      "reading": "ほって"
+    }
+  },
+  "n2-jmdict-1427950": {
+    "dictionary": {
+      "sentence": "観光地では、名前を彫る職人の店が人気だ。",
+      "translation": "觀光地裡，刻名字的工匠店很受歡迎。",
+      "surface": "彫る",
+      "reading": "ほる"
+    },
+    "te": {
+      "sentence": "職人は石に模様を彫って、庭の飾りを作りました。",
+      "translation": "工匠在石頭上雕出花紋，製作庭院裝飾。",
+      "surface": "彫って",
+      "reading": "ほって"
+    }
+  },
+  "n2-jmdict-1211200": {
+    "dictionary": {
+      "sentence": "料理人は、ご飯と具をのりでまく。",
+      "translation": "廚師用海苔捲起飯和配料。",
+      "surface": "まく",
+      "reading": "まく"
+    },
+    "te": {
+      "sentence": "傷めた手首に包帯をまいて、安静にしていました。",
+      "translation": "我在受傷的手腕纏上繃帶，靜養休息。",
+      "surface": "まいて",
+      "reading": "まいて"
+    }
+  },
+  "n2-jmdict-1239740": {
+    "dictionary": {
+      "sentence": "ひざを少し曲げる。",
+      "translation": "把膝蓋彎一點。",
+      "surface": "曲げる",
+      "reading": "まげる"
+    },
+    "te": {
+      "sentence": "針金を曲げて、小さな輪を作りました。",
+      "translation": "我把鐵絲彎成一個小環。",
+      "surface": "曲げて",
+      "reading": "まげて"
+    }
+  },
+  "n2-jmdict-1603920": {
+    "dictionary": {
+      "sentence": "二つの色がまざる。",
+      "translation": "兩種顏色混合。",
+      "surface": "まざる",
+      "reading": "まざる"
+    },
+    "te": {
+      "sentence": "録音に車の音がまざっていて、声が聞き取りにくいです。",
+      "translation": "錄音混進了車聲，很難聽清楚人聲。",
+      "surface": "まざって",
+      "reading": "まざって"
+    }
+  },
+  "n2-jmdict-1603930": {
+    "dictionary": {
+      "sentence": "白米に玄米がまじる。",
+      "translation": "白米裡混進糙米。",
+      "surface": "まじる",
+      "reading": "まじる"
+    },
+    "te": {
+      "sentence": "黒い髪に白髪がまじってきて、年齢を感じるようになりました。",
+      "translation": "黑髮中開始夾雜白髮，讓我感受到年齡的增長。",
+      "surface": "まじって",
+      "reading": "まじって"
+    }
+  },
+  "n2-jmdict-1290310": {
+    "dictionary": {
+      "sentence": "祖母は白米に玄米をまぜる。",
+      "translation": "祖母把糙米混進白米裡。",
+      "surface": "まぜる",
+      "reading": "まぜる"
+    },
+    "te": {
+      "sentence": "土に肥料をまぜてから、苗を植えました。",
+      "translation": "我先把肥料混進土裡，再種下幼苗。",
+      "surface": "まぜて",
+      "reading": "まぜて"
+    }
+  },
+  "n2-jmdict-1267830": {
+    "dictionary": {
+      "sentence": "大きな水たまりをまたぐ。",
+      "translation": "跨過大水窪。",
+      "surface": "またぐ",
+      "reading": "またぐ"
+    },
+    "te": {
+      "sentence": "自転車にまたいで、サドルの高さを確かめました。",
+      "translation": "我跨坐上腳踏車，確認坐墊高度。",
+      "surface": "またいで",
+      "reading": "またいで"
+    }
+  },
+  "n2-jmdict-1410520": {
+    "dictionary": {
+      "sentence": "週末は姉と映画館の前で待ち合わせる予定です。",
+      "translation": "週末預計和姐姐在電影院前碰面。",
+      "surface": "待ち合わせる",
+      "reading": "まちあわせる"
+    },
+    "te": {
+      "sentence": "取引先の人とホテルのロビーで待ち合わせて、会場へ向かいました。",
+      "translation": "我和客戶約在飯店大廳碰面，前往會場。",
+      "surface": "待ち合わせて",
+      "reading": "まちあわせて"
+    }
+  },
+  "n2-jmdict-1295250": {
+    "dictionary": {
+      "sentence": "この地方では、家を守る神を祭る習慣がある。",
+      "translation": "這個地區有供奉守護家宅之神的習俗。",
+      "surface": "祭る",
+      "reading": "まつる"
+    },
+    "te": {
+      "sentence": "村人は先祖を祭って、感謝の気持ちを伝えてきました。",
+      "translation": "村民長年祭祀祖先，表達感謝之意。",
+      "surface": "祭って",
+      "reading": "まつって"
+    }
+  },
+  "n2-jmdict-1363760": {
+    "dictionary": {
+      "sentence": "子供が大人の動きを真似る。",
+      "translation": "孩子模仿大人的動作。",
+      "surface": "真似る",
+      "reading": "まねる"
+    },
+    "te": {
+      "sentence": "初心者は師匠の筆使いを真似て、基本を身に付けます。",
+      "translation": "初學者模仿師傅的運筆方式，掌握基本功。",
+      "surface": "真似て",
+      "reading": "まねて"
+    }
+  },
+  "n2-jmdict-1259740": {
+    "dictionary": {
+      "sentence": "夜空を見上げる。",
+      "translation": "仰望夜空。",
+      "surface": "見上げる",
+      "reading": "みあげる"
+    },
+    "te": {
+      "sentence": "子供が背の高い兄を見上げて、何か話しかけていました。",
+      "translation": "孩子仰望高個子的哥哥，正和他說著什麼。",
+      "surface": "見上げて",
+      "reading": "みあげて"
+    }
+  },
+  "n2-jmdict-1259830": {
+    "dictionary": {
+      "sentence": "駅で友達を見送る。",
+      "translation": "在車站送朋友。",
+      "surface": "見送る",
+      "reading": "みおくる"
+    },
+    "te": {
+      "sentence": "会社は今年の値上げを見送って、経費の削減を進めています。",
+      "translation": "公司暫緩今年的漲價，正在推動削減經費。",
+      "surface": "見送って",
+      "reading": "みおくって"
+    }
+  },
+  "n2-jmdict-1259370": {
+    "dictionary": {
+      "sentence": "山の上から町を見下ろす。",
+      "translation": "從山上俯瞰城鎮。",
+      "surface": "見下ろす",
+      "reading": "みおろす"
+    },
+    "te": {
+      "sentence": "橋から川を見下ろして、泳いでいる魚を探しました。",
+      "translation": "我從橋上俯看河流，尋找游動的魚。",
+      "surface": "見下ろして",
+      "reading": "みおろして"
+    }
+  },
+  "n2-jmdict-1604580": {
+    "dictionary": {
+      "sentence": "選手は勝利だけを見詰めるのではなく、過程も大切にしている。",
+      "translation": "選手不只著眼於勝利，也重視過程。",
+      "surface": "見詰める",
+      "reading": "みつめる"
+    },
+    "te": {
+      "sentence": "祖父は古い家族写真を見詰めて、静かに笑いました。",
+      "translation": "祖父凝視著舊全家福，靜靜地笑了。",
+      "surface": "見詰めて",
+      "reading": "みつめて"
+    }
+  },
+  "n2-jmdict-1259900": {
+    "dictionary": {
+      "sentence": "提出前に作文を見直す。",
+      "translation": "提交前重新檢查作文。",
+      "surface": "見直す",
+      "reading": "みなおす"
+    },
+    "te": {
+      "sentence": "家計を見直して、毎月の支出を減らすことにしました。",
+      "translation": "我重新檢視家計，決定減少每月支出。",
+      "surface": "見直して",
+      "reading": "みなおして"
+    }
+  },
+  "n2-jmdict-1604650": {
+    "dictionary": {
+      "sentence": "新しい機械の画面も、毎日使えば見慣れる。",
+      "translation": "新機器的畫面，每天使用也會看慣。",
+      "surface": "見慣れる",
+      "reading": "みなれる"
+    },
+    "te": {
+      "sentence": "この模様は見慣れているので、偽物との違いにすぐ気付きました。",
+      "translation": "我看慣了這個花紋，所以立刻注意到和仿品的差異。",
+      "surface": "見慣れて",
+      "reading": "みなれて"
+    }
+  },
+  "n2-jmdict-1320850": {
+    "dictionary": {
+      "sentence": "秋には稲が実る。",
+      "translation": "秋天稻子成熟。",
+      "surface": "実る",
+      "reading": "みのる"
+    },
+    "te": {
+      "sentence": "長年の努力が実って、念願の店を開くことができました。",
+      "translation": "多年的努力有了成果，我終於開了夢寐以求的店。",
+      "surface": "実って",
+      "reading": "みのって"
+    }
+  },
+  "n2-jmdict-1259990": {
+    "dictionary": {
+      "sentence": "病院で友達を見舞う。",
+      "translation": "在醫院探望朋友。",
+      "surface": "見舞う",
+      "reading": "みまう"
+    },
+    "te": {
+      "sentence": "祖母を見舞ってから、帰りに薬局へ寄りました。",
+      "translation": "探望祖母後，我回程順道去了藥局。",
+      "surface": "見舞って",
+      "reading": "みまって"
+    }
+  },
+  "n2-jmdict-1365450": {
+    "dictionary": {
+      "sentence": "医師が患者を診る。",
+      "translation": "醫師診察病人。",
+      "surface": "診る",
+      "reading": "みる"
+    },
+    "te": {
+      "sentence": "専門医に膝を診てもらい、治療の計画を立てました。",
+      "translation": "我請專科醫師看了膝蓋，擬定治療計畫。",
+      "surface": "診て",
+      "reading": "みて"
+    }
+  },
+  "n2-jmdict-1531970": {
+    "dictionary": {
+      "sentence": "監督が選手に休憩を命ずる。",
+      "translation": "教練命令選手休息。",
+      "surface": "命ずる",
+      "reading": "めいずる"
+    },
+    "te": {
+      "sentence": "会社は社員に海外勤務を命じて、語学研修を行いました。",
+      "translation": "公司指派員工到海外任職，並進行語言培訓。",
+      "surface": "命じて",
+      "reading": "めいじて"
+    }
+  },
+  "n2-jmdict-1611980": {
+    "dictionary": {
+      "sentence": "この地域は豊かな自然に恵まれる。",
+      "translation": "這個地區有豐富天然環境。",
+      "surface": "恵まれる",
+      "reading": "めぐまれる"
+    },
+    "te": {
+      "sentence": "よい天気に恵まれて、運動会は無事に終わりました。",
+      "translation": "天公作美，運動會順利結束。",
+      "surface": "恵まれて",
+      "reading": "めぐまれて"
+    }
+  },
+  "n2-jmdict-1342050": {
+    "dictionary": {
+      "sentence": "季節が巡るたびに、庭の景色も変わる。",
+      "translation": "每當季節輪轉，庭院的景色也會改變。",
+      "surface": "巡る",
+      "reading": "めぐる"
+    },
+    "te": {
+      "sentence": "土地の利用を巡って、住民と市が話し合っています。",
+      "translation": "居民與市政府正就土地利用進行商談。",
+      "surface": "巡って",
+      "reading": "めぐって"
+    }
+  },
+  "n2-jmdict-1535440": {
+    "dictionary": {
+      "sentence": "選手が優勝を目指す。",
+      "translation": "選手以冠軍為目標。",
+      "surface": "目指す",
+      "reading": "めざす"
+    },
+    "te": {
+      "sentence": "歌手を目指して、妹は毎日歌の練習をしています。",
+      "translation": "妹妹以成為歌手為目標，每天練唱。",
+      "surface": "目指して",
+      "reading": "めざして"
+    }
+  },
+  "n2-jmdict-1535700": {
+    "dictionary": {
+      "sentence": "赤い服は人込みで目立つ。",
+      "translation": "紅衣在人群中顯眼。",
+      "surface": "目立つ",
+      "reading": "めだつ"
+    },
+    "te": {
+      "sentence": "庭の雑草が目立ってきたので、週末に抜くつもりです。",
+      "translation": "院子的雜草漸漸顯眼，我打算週末拔除。",
+      "surface": "目立って",
+      "reading": "めだって"
+    }
+  },
+  "n2-jmdict-1534490": {
+    "dictionary": {
+      "sentence": "手間と費用を考えると、この商売はあまり儲かるとは言えない。",
+      "translation": "考慮到工夫與費用，這門生意說不上很賺錢。",
+      "surface": "儲かる",
+      "reading": "もうかる"
+    },
+    "te": {
+      "sentence": "予想以上に儲かって、店主は設備を新しくしました。",
+      "translation": "獲利超出預期，店主更新了設備。",
+      "surface": "儲かって",
+      "reading": "もうかって"
+    }
+  },
+  "n2-jmdict-1534500": {
+    "dictionary": {
+      "sentence": "商売でお金を儲ける。",
+      "translation": "做生意賺錢。",
+      "surface": "儲ける",
+      "reading": "もうける"
+    },
+    "te": {
+      "sentence": "叔父は不動産で儲けて、小さな会社を始めました。",
+      "translation": "叔叔靠房地產賺了錢，開了一家小公司。",
+      "surface": "儲けて",
+      "reading": "もうけて"
+    }
+  },
+  "n2-jmdict-1609715": {
+    "dictionary": {
+      "sentence": "魚を見るために海に潜る。",
+      "translation": "為看魚潛入海裡。",
+      "surface": "潜る",
+      "reading": "もぐる"
+    },
+    "te": {
+      "sentence": "子供は布団に潜って、顔を出そうとしませんでした。",
+      "translation": "孩子鑽進被窩，不肯露出臉。",
+      "surface": "潜って",
+      "reading": "もぐって"
+    }
+  },
+  "n2-jmdict-1564380": {
+    "dictionary": {
+      "sentence": "疲れたので壁にもたれる。",
+      "translation": "因為累而倚牆。",
+      "surface": "もたれる",
+      "reading": "もたれる"
+    },
+    "te": {
+      "sentence": "食べすぎて胃がもたれて、夕食は軽く済ませました。",
+      "translation": "吃太多讓胃不舒服，晚餐便簡單吃了一點。",
+      "surface": "もたれて",
+      "reading": "もたれて"
+    }
+  },
+  "n2-jmdict-1502490": {
+    "dictionary": {
+      "sentence": "彼の表情が苦労を物語る。",
+      "translation": "他的表情說明辛勞。",
+      "surface": "物語る",
+      "reading": "ものがたる"
+    },
+    "te": {
+      "sentence": "古い道具が昔の暮らしを物語っていて、興味深い展示でした。",
+      "translation": "舊工具述說著昔日生活，是個有趣的展覽。",
+      "surface": "物語って",
+      "reading": "ものがたって"
+    }
+  },
+  "n2-jmdict-1567610": {
+    "dictionary": {
+      "sentence": "パン職人は生地を丁寧に揉む。",
+      "translation": "麵包師傅仔細揉麵糰。",
+      "surface": "揉む",
+      "reading": "もむ"
+    },
+    "te": {
+      "sentence": "袋の上から肉を揉んで、調味料をよくなじませます。",
+      "translation": "隔著袋子揉肉，讓調味料充分入味。",
+      "surface": "揉んで",
+      "reading": "もんで"
+    }
+  },
+  "n2-jmdict-1582900": {
+    "dictionary": {
+      "sentence": "たき火で薪をもやす。",
+      "translation": "生營火燒木柴。",
+      "surface": "もやす",
+      "reading": "もやす"
+    },
+    "te": {
+      "sentence": "選手は闘志をもやして、強敵に挑みました。",
+      "translation": "選手燃起鬥志，挑戰強敵。",
+      "surface": "もやして",
+      "reading": "もやして"
+    }
+  },
+  "n2-jmdict-1379740": {
+    "dictionary": {
+      "sentence": "この店では、かき氷を山のように盛る。",
+      "translation": "這家店會把刨冰堆得像山一樣高。",
+      "surface": "盛る",
+      "reading": "もる"
+    },
+    "te": {
+      "sentence": "土を盛って、花壇の高さを調整しました。",
+      "translation": "我堆高泥土，調整花圃的高度。",
+      "surface": "盛って",
+      "reading": "もって"
+    }
+  },
+  "n2-jmdict-1612950": {
+    "dictionary": {
+      "sentence": "ゲームでは、協力して大きな敵をやっつける。",
+      "translation": "在遊戲裡，大家合作打倒大型敵人。",
+      "surface": "やっつける",
+      "reading": "やっつける"
+    },
+    "te": {
+      "sentence": "面倒な用事をやっつけてから、ゆっくり映画を見ました。",
+      "translation": "處理掉麻煩事後，我悠閒地看了電影。",
+      "surface": "やっつけて",
+      "reading": "やっつけて"
+    }
+  },
+  "n2-jmdict-1983750": {
+    "dictionary": {
+      "sentence": "子猫が遊びながら、カーテンを破くことがある。",
+      "translation": "小貓玩耍時有時會撕破窗簾。",
+      "surface": "破く",
+      "reading": "やぶく"
+    },
+    "te": {
+      "sentence": "子供が絵本のページを破いてしまい、テープで直しました。",
+      "translation": "孩子撕破了繪本的書頁，我用膠帶修補。",
+      "surface": "破いて",
+      "reading": "やぶいて"
+    }
+  },
+  "n2-jmdict-1013140": {
+    "dictionary": {
+      "sentence": "彼が私に手紙をよこす。",
+      "translation": "他寄信給我。",
+      "surface": "よこす",
+      "reading": "よこす"
+    },
+    "te": {
+      "sentence": "兄が旅行先から写真をよこして、元気な様子が分かりました。",
+      "translation": "哥哥從旅行地傳來照片，讓我知道他過得很好。",
+      "surface": "よこして",
+      "reading": "よこして"
+    }
+  },
+  "n2-jmdict-1178960": {
+    "dictionary": {
+      "sentence": "遊んで服をよごす。",
+      "translation": "玩耍弄髒衣服。",
+      "surface": "よごす",
+      "reading": "よごす"
+    },
+    "te": {
+      "sentence": "泥で玄関をよごしてしまったので、すぐ掃除しました。",
+      "translation": "我用泥巴弄髒了玄關，立刻清理乾淨。",
+      "surface": "よごして",
+      "reading": "よごして"
+    }
+  },
+  "n2-jmdict-1219560": {
+    "dictionary": {
+      "sentence": "椅子を壁に寄せる。",
+      "translation": "把椅子移近牆壁。",
+      "surface": "寄せる",
+      "reading": "よせる"
+    },
+    "te": {
+      "sentence": "近所の人たちが食料を寄せて、困っている家族を支えました。",
+      "translation": "鄰居們送來食物，支持有困難的家庭。",
+      "surface": "寄せて",
+      "reading": "よせて"
+    }
+  },
+  "n2-jmdict-1266280": {
+    "dictionary": {
+      "sentence": "選挙の日は、駅前で投票を呼び掛ける人がいる。",
+      "translation": "選舉當天，有人在車站前呼籲投票。",
+      "surface": "呼び掛ける",
+      "reading": "よびかける"
+    },
+    "te": {
+      "sentence": "先生は生徒の名前を呼び掛けて、返事を待ちました。",
+      "translation": "老師呼喚學生的名字，等候回答。",
+      "surface": "呼び掛けて",
+      "reading": "よびかけて"
+    }
+  },
+  "n2-jmdict-1266350": {
+    "dictionary": {
+      "sentence": "緊急時には、病院が待機中の医師を呼び出す。",
+      "translation": "緊急時，醫院會召喚待命的醫師。",
+      "surface": "呼び出す",
+      "reading": "よびだす"
+    },
+    "te": {
+      "sentence": "店内放送で迷子の母親を呼び出してもらいました。",
+      "translation": "我請店家用廣播呼叫迷路孩子的母親。",
+      "surface": "呼び出して",
+      "reading": "よびだして"
+    }
+  },
+  "n2-jmdict-1606020": {
+    "dictionary": {
+      "sentence": "雨が降ると、乾いた大地が蘇る。",
+      "translation": "下雨後，乾涸的大地恢復生機。",
+      "surface": "蘇る",
+      "reading": "よみがえる"
+    },
+    "te": {
+      "sentence": "故郷の歌を聞くと、子供時代の記憶が蘇ってきます。",
+      "translation": "一聽到故鄉的歌，童年記憶就會湧現。",
+      "surface": "蘇って",
+      "reading": "よみがえって"
+    }
+  },
+  "n2-jmdict-1218760": {
+    "dictionary": {
+      "sentence": "プレゼントをもらうと、子供が慶ぶ。",
+      "translation": "收到禮物時孩子會開心。",
+      "surface": "慶ぶ",
+      "reading": "よろこぶ"
+    },
+    "te": {
+      "sentence": "町の人々は新しい橋の完成を慶んで、式典に集まりました。",
+      "translation": "鎮民慶賀新橋落成，聚集在典禮現場。",
+      "surface": "慶んで",
+      "reading": "よろこんで"
+    }
+  },
+  "n2-jmdict-1551960": {
+    "dictionary": {
+      "sentence": "議事録では、繰り返しの説明を略すことがある。",
+      "translation": "會議紀錄有時會省略重複的說明。",
+      "surface": "略す",
+      "reading": "りゃくす"
+    },
+    "te": {
+      "sentence": "あいさつを略して、すぐ本題に入りました。",
+      "translation": "我省略寒暄，直接進入正題。",
+      "surface": "略して",
+      "reading": "りゃくして"
+    }
+  },
+  "n2-jmdict-1561640": {
+    "dictionary": {
+      "sentence": "授業で環境問題を論ずる。",
+      "translation": "在課堂議論環境問題。",
+      "surface": "論ずる",
+      "reading": "ろんずる"
+    },
+    "te": {
+      "sentence": "経済学者は物価上昇の原因を論じて、対策を提案しました。",
+      "translation": "經濟學者論述物價上漲的原因，提出對策。",
+      "surface": "論じて",
+      "reading": "ろんじて"
+    }
+  },
+  "n2-jmdict-1606600": {
+    "dictionary": {
+      "sentence": "山道が二つに分かれる。",
+      "translation": "山路分岔成兩條。",
+      "surface": "分かれる",
+      "reading": "わかれる"
+    },
+    "te": {
+      "sentence": "参加者は三つの班に分かれて、公園を掃除しました。",
+      "translation": "參加者分成三組，清掃公園。",
+      "surface": "分かれて",
+      "reading": "わかれて"
+    }
+  },
+  "n2-jmdict-1606790": {
+    "dictionary": {
+      "sentence": "友達に遅刻を詫びる。",
+      "translation": "為遲到向朋友道歉。",
+      "surface": "詫びる",
+      "reading": "わびる"
+    },
+    "te": {
+      "sentence": "店員は商品の破損を詫びて、新しい物に交換しました。",
+      "translation": "店員為商品破損道歉，換了新品。",
+      "surface": "詫びて",
+      "reading": "わびて"
+    }
+  }
+}

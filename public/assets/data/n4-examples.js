@@ -325,19 +325,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "写す",
-        "reading": "うつす",
+        "sentence": "旅行の写真を、もう一枚写すことにした。",
+        "translation": "我決定把旅行照片再複印一張。",
         "surface": "写す",
-        "sentence": "黒板の文をノートに写す。",
-        "translation": "把黑板上的句子抄到筆記本。"
+        "reading": "うつす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "写して",
-        "reading": "うつして",
+        "sentence": "友達の住所を手帳に写して、手紙を書く準備をしました。",
+        "translation": "我把朋友的地址抄進記事本，準備寫信。",
         "surface": "写して",
-        "sentence": "黒板の文をノートに写してください。",
-        "translation": "請把黑板上的句子抄到筆記本。"
+        "reading": "うつして"
       },
       {
         "kind": "common",
@@ -357,19 +357,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "落ちる",
-        "reading": "おちる",
+        "sentence": "夏の終わりには、この木から実が落ちる。",
+        "translation": "夏末時，這棵樹的果實會掉下來。",
         "surface": "落ちる",
-        "sentence": "秋には葉が落ちる。",
-        "translation": "秋天葉子會落下。"
+        "reading": "おちる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "落ちて",
-        "reading": "おちて",
+        "sentence": "棚から本が落ちて、大きな音がしました。",
+        "translation": "書從架上掉下來，發出了很大的聲音。",
         "surface": "落ちて",
-        "sentence": "秋には葉が落ちて地面に積もります。",
-        "translation": "秋天葉子會落下並積在地上。"
+        "reading": "おちて"
       },
       {
         "kind": "common",
@@ -389,19 +389,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "落とす",
-        "reading": "おとす",
+        "sentence": "忙しいときほど、物を落とすことが多い。",
+        "translation": "越忙碌的時候，越常掉東西。",
         "surface": "落とす",
-        "sentence": "注意しないと、財布を落とす。",
-        "translation": "不小心就會掉錢包。"
+        "reading": "おとす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "落として",
-        "reading": "おとして",
+        "sentence": "弟は皿を落としてしまい、母に謝りました。",
+        "translation": "弟弟不小心摔了盤子，向媽媽道歉。",
         "surface": "落として",
-        "sentence": "注意しないと、財布を落としてしまいます。",
-        "translation": "不小心就會把錢包弄丟。"
+        "reading": "おとして"
       },
       {
         "kind": "common",
@@ -421,19 +421,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "ごらんになる",
-        "reading": "ごらんになる",
+        "sentence": "社長は明日、新しい工場をごらんになる。",
+        "translation": "社長明天要參觀新工廠。",
         "surface": "ごらんになる",
-        "sentence": "先生が私の絵をごらんになる。",
-        "translation": "老師看我的畫。"
+        "reading": "ごらんになる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "ごらんになって",
-        "reading": "ごらんになって",
+        "sentence": "先生、この写真をごらんになって、ご意見を聞かせてください。",
+        "translation": "老師，請您看這張照片，告訴我您的意見。",
         "surface": "ごらんになって",
-        "sentence": "先生、私の絵をごらんになってください。",
-        "translation": "請老師看我的畫。"
+        "reading": "ごらんになって"
       },
       {
         "kind": "common",
@@ -453,19 +453,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "下がる",
-        "reading": "さがる",
+        "sentence": "冬の終わりには、コートの値段が下がる。",
+        "translation": "冬天快結束時，大衣會降價。",
         "surface": "下がる",
-        "sentence": "薬を飲むと、熱が下がる。",
-        "translation": "吃藥後會退燒。"
+        "reading": "さがる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "下がって",
-        "reading": "さがって",
+        "sentence": "気温が下がってきたので、窓を閉めました。",
+        "translation": "氣溫漸漸下降了，我關上窗戶。",
         "surface": "下がって",
-        "sentence": "薬を飲むと、熱が下がって少し楽になります。",
-        "translation": "吃藥後退燒，身體舒服些。"
+        "reading": "さがって"
       },
       {
         "kind": "common",
@@ -485,19 +485,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "空く",
-        "reading": "すく",
+        "sentence": "夕食が遅いと、おなかが空く。",
+        "translation": "晚餐吃得晚，肚子就會餓。",
         "surface": "空く",
-        "sentence": "この時間の電車は空く。",
-        "translation": "這時段的電車乘客少。"
+        "reading": "すく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "空いて",
-        "reading": "すいて",
+        "sentence": "店が空いている時間に来たので、ゆっくり品物を見られました。",
+        "translation": "我在人少的時段來店裡，可以慢慢看商品。",
         "surface": "空いて",
-        "sentence": "この時間の電車は空いています。",
-        "translation": "這時段的電車很空。"
+        "reading": "すいて"
       },
       {
         "kind": "common",
@@ -517,19 +517,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "楽しむ",
-        "reading": "たのしむ",
+        "sentence": "週末は、家で映画を楽しむ。",
+        "translation": "週末，我在家享受看電影的時光。",
         "surface": "楽しむ",
-        "sentence": "友達と旅行を楽しむ。",
-        "translation": "和朋友享受旅行。"
+        "reading": "たのしむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "楽しんで",
-        "reading": "たのしんで",
+        "sentence": "春の景色を楽しんでから、駅前の店で休みました。",
+        "translation": "欣賞完春天的景色後，我在車站前的店裡休息。",
         "surface": "楽しんで",
-        "sentence": "友達と旅行を楽しんでいます。",
-        "translation": "正在和朋友享受旅行。"
+        "reading": "たのしんで"
       },
       {
         "kind": "common",
@@ -549,19 +549,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "漬ける",
-        "reading": "つける",
+        "sentence": "祖母は秋になると、大根を漬ける。",
+        "translation": "到了秋天，祖母就會醃蘿蔔。",
         "surface": "漬ける",
-        "sentence": "きゅうりを塩水に漬ける。",
-        "translation": "把小黃瓜浸在鹽水。"
+        "reading": "つける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "漬けて",
-        "reading": "つけて",
+        "sentence": "果物をお酒に漬けて、しばらく待ちます。",
+        "translation": "把水果泡在酒裡，再等一段時間。",
         "surface": "漬けて",
-        "sentence": "きゅうりを塩水に漬けています。",
-        "translation": "正把小黃瓜浸在鹽水。"
+        "reading": "つけて"
       },
       {
         "kind": "common",
@@ -581,19 +581,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "止める",
-        "reading": "やめる",
+        "sentence": "来月から、夜遅くまでゲームをするのを止めることにした。",
+        "translation": "我決定從下個月起不再玩遊戲到深夜。",
         "surface": "止める",
-        "sentence": "健康のためにたばこを止める。",
-        "translation": "為健康戒菸。"
+        "reading": "やめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "止めて",
-        "reading": "やめて",
+        "sentence": "雨が強くなったので、散歩を止めて家に帰りました。",
+        "translation": "雨變大了，所以我停止散步回家。",
         "surface": "止めて",
-        "sentence": "健康のためにたばこを止めて体調がよくなりました。",
-        "translation": "為健康戒菸之後，身體變好。"
+        "reading": "やめて"
       },
       {
         "kind": "common",
@@ -903,19 +903,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "申し上げる",
-        "reading": "もうしあげる",
+        "sentence": "お世話になった皆様に、感謝を申し上げる。",
+        "translation": "我要向照顧過我的各位致上謝意。",
         "surface": "申し上げる",
-        "sentence": "皆様にお礼を申し上げる。",
-        "translation": "向各位致謝。"
+        "reading": "もうしあげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "申し上げて",
-        "reading": "もうしあげて",
+        "sentence": "先に理由を申し上げてから、お願いをいたしました。",
+        "translation": "我先說明理由，再提出請求。",
         "surface": "申し上げて",
-        "sentence": "皆様にお礼を申し上げて挨拶を終えます。",
-        "translation": "向各位致謝後，結束致詞。"
+        "reading": "もうしあげて"
       },
       {
         "kind": "common",
@@ -995,19 +995,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "いただく",
-        "reading": "いただく",
+        "sentence": "昼休みに、お客様と一緒に食事をいただく。",
+        "translation": "午休時，我要和客人一起用餐。",
         "surface": "いただく",
-        "sentence": "先生から本をいただく。",
-        "translation": "從老師那裡收書，表達謙遜。"
+        "reading": "いただく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "いただいて",
-        "reading": "いただいて",
+        "sentence": "皆様に温かい言葉をいただいて、元気が出ました。",
+        "translation": "承蒙各位溫暖的話語，我打起了精神。",
         "surface": "いただいて",
-        "sentence": "先生から本をいただいてうれしいです。",
-        "translation": "從老師那裡收到書，感到很高興。"
+        "reading": "いただいて"
       },
       {
         "kind": "common",
@@ -1027,19 +1027,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "いらっしゃる",
-        "reading": "いらっしゃる",
+        "sentence": "明日の会議には、社長もいらっしゃる。",
+        "translation": "明天的會議，社長也會出席。",
         "surface": "いらっしゃる",
-        "sentence": "先生がこちらへいらっしゃる。",
-        "translation": "老師到這裡來。"
+        "reading": "いらっしゃる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "いらっしゃって",
-        "reading": "いらっしゃって",
+        "sentence": "先生が遠くからいらっしゃって、学生たちは喜んでいます。",
+        "translation": "老師遠道而來，學生們很高興。",
         "surface": "いらっしゃって",
-        "sentence": "先生、こちらへいらっしゃってください。",
-        "translation": "請老師到這裡來。"
+        "reading": "いらっしゃって"
       },
       {
         "kind": "common",
@@ -1059,19 +1059,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "うかがう",
-        "reading": "うかがう",
+        "sentence": "分からない点は、授業の後で先生にうかがう。",
+        "translation": "不懂的地方，下課後我會請教老師。",
         "surface": "うかがう",
-        "sentence": "先生のお宅にうかがう。",
-        "translation": "到老師府上拜訪。"
+        "reading": "うかがう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "うかがって",
-        "reading": "うかがって",
+        "sentence": "先週、店長にお話をうかがって、店の歴史を知りました。",
+        "translation": "上週向店長請教後，我了解了這間店的歷史。",
         "surface": "うかがって",
-        "sentence": "先生のお宅にうかがってから帰ります。",
-        "translation": "拜訪老師府上後回家。"
+        "reading": "うかがって"
       },
       {
         "kind": "common",
@@ -1091,19 +1091,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "おっしゃる",
-        "reading": "おっしゃる",
+        "sentence": "説明の後で、先生は「質問はありますか」とおっしゃる。",
+        "translation": "說明完後，老師會說「有問題嗎？」。",
         "surface": "おっしゃる",
-        "sentence": "先生がそうおっしゃる。",
-        "translation": "老師那樣說。"
+        "reading": "おっしゃる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "おっしゃって",
-        "reading": "おっしゃって",
+        "sentence": "店長は来月店を開くとおっしゃっていました。",
+        "translation": "店長說下個月要開店。",
         "surface": "おっしゃって",
-        "sentence": "先生がそうおっしゃって安心しました。",
-        "translation": "老師那樣說，讓我安心。"
+        "reading": "おっしゃって"
       },
       {
         "kind": "common",
@@ -1123,19 +1123,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "折る",
-        "reading": "おる",
+        "sentence": "弟は使った新聞を小さく折る。",
+        "translation": "弟弟把看過的報紙摺小。",
         "surface": "折る",
-        "sentence": "紙を半分に折る。",
-        "translation": "把紙對折。"
+        "reading": "おる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "折って",
-        "reading": "おって",
+        "sentence": "母は庭の枝を少し折って、花瓶に飾りました。",
+        "translation": "媽媽折了一小段庭院裡的樹枝，插在花瓶裡。",
         "surface": "折って",
-        "sentence": "紙を半分に折ってください。",
-        "translation": "請把紙對折。"
+        "reading": "おって"
       },
       {
         "kind": "common",
@@ -1155,19 +1155,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "おる",
-        "reading": "おる",
+        "sentence": "明日の午後は、私も会場におる予定です。",
+        "translation": "明天下午，我也預計會在會場。",
         "surface": "おる",
-        "sentence": "私は受付におる。",
-        "translation": "我在櫃檯。"
+        "reading": "おる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "おって",
-        "reading": "おって",
+        "sentence": "私は長く京都におって、この町のことをよく存じています。",
+        "translation": "我長期待在京都，對這個城市很熟悉。",
         "surface": "おって",
-        "sentence": "私は受付におってお客様をご案内します。",
-        "translation": "我在櫃檯，負責引導客人。"
+        "reading": "おって"
       },
       {
         "kind": "common",
@@ -1187,19 +1187,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "噛む",
-        "reading": "かむ",
+        "sentence": "固い物は、ゆっくり何度も噛む。",
+        "translation": "硬的食物要慢慢多咬幾次。",
         "surface": "噛む",
-        "sentence": "食べ物をよく噛む。",
-        "translation": "充分咀嚼食物。"
+        "reading": "かむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "噛んで",
-        "reading": "かんで",
+        "sentence": "犬に「人の手を噛んではいけない」と教えました。",
+        "translation": "我教狗不可以咬人的手。",
         "surface": "噛んで",
-        "sentence": "食べ物をよく噛んでください。",
-        "translation": "請充分咀嚼食物。"
+        "reading": "かんで"
       },
       {
         "kind": "common",
@@ -1219,19 +1219,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "乾く",
-        "reading": "かわく",
+        "sentence": "夏は、ベランダの布団が早く乾く。",
+        "translation": "夏天，陽台上的被子很快就乾。",
         "surface": "乾く",
-        "sentence": "晴れた日は洗濯物がよく乾く。",
-        "translation": "晴天洗好的衣物容易乾。"
+        "reading": "かわく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "乾いて",
-        "reading": "かわいて",
+        "sentence": "塗ったばかりの壁が乾いてから、机を戻してください。",
+        "translation": "請等剛刷過的牆壁乾了，再把桌子搬回去。",
         "surface": "乾いて",
-        "sentence": "晴れた日は洗濯物がよく乾いてうれしいです。",
-        "translation": "晴天洗好的衣物乾透，讓人很開心。"
+        "reading": "かわいて"
       },
       {
         "kind": "common",
@@ -1251,19 +1251,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "決まる",
-        "reading": "きまる",
+        "sentence": "新しい店の名前は、明日の会議で決まる。",
+        "translation": "新店的名字會在明天的會議上決定。",
         "surface": "決まる",
-        "sentence": "会議の日が決まる。",
-        "translation": "會議日期決定。"
+        "reading": "きまる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "決まって",
-        "reading": "きまって",
+        "sentence": "大学が決まってから、弟は近くの部屋を探し始めました。",
+        "translation": "確定就讀的大學後，弟弟開始找附近的房子。",
         "surface": "決まって",
-        "sentence": "会議の日が決まっています。",
-        "translation": "會議日期已經決定。"
+        "reading": "きまって"
       },
       {
         "kind": "common",
@@ -1283,19 +1283,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "くださる",
-        "reading": "くださる",
+        "sentence": "祖母は遊びに行くと、いつもお菓子をくださる。",
+        "translation": "每次去祖母家玩，她總是給我點心。",
         "surface": "くださる",
-        "sentence": "先生が私に本をくださる。",
-        "translation": "老師給我書。"
+        "reading": "くださる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "くださって",
-        "reading": "くださって",
+        "sentence": "先生が道を教えてくださって、とても助かりました。",
+        "translation": "老師告訴我路怎麼走，幫了我很大的忙。",
         "surface": "くださって",
-        "sentence": "先生が私に本をくださってうれしいです。",
-        "translation": "老師給我書，讓我很高興。"
+        "reading": "くださって"
       },
       {
         "kind": "common",
@@ -1315,19 +1315,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "下げる",
-        "reading": "さげる",
+        "sentence": "夕方、店員は売れ残ったパンの値段を下げる。",
+        "translation": "傍晚，店員調降剩餘麵包的價格。",
         "surface": "下げる",
-        "sentence": "音楽の音量を下げる。",
-        "translation": "降低音樂音量。"
+        "reading": "さげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "下げて",
-        "reading": "さげて",
+        "sentence": "少し頭を下げて、低い入口を通りました。",
+        "translation": "我稍微低下頭，穿過矮小的入口。",
         "surface": "下げて",
-        "sentence": "音楽の音量を下げてください。",
-        "translation": "請降低音樂音量。"
+        "reading": "さげて"
       },
       {
         "kind": "common",
@@ -1347,19 +1347,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "差し上げる",
-        "reading": "さしあげる",
+        "sentence": "お世話になった方に、花を差し上げる。",
+        "translation": "我要送花給曾照顧我的人。",
         "surface": "差し上げる",
-        "sentence": "先生にお土産を差し上げる。",
-        "translation": "送伴手禮給老師。"
+        "reading": "さしあげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "差し上げて",
-        "reading": "さしあげて",
+        "sentence": "卒業する先輩に寄せ書きを差し上げて、感謝を伝えました。",
+        "translation": "我送給畢業的前輩一份大家寫的祝福，表達感謝。",
         "surface": "差し上げて",
-        "sentence": "先生にお土産を差し上げてから帰ります。",
-        "translation": "送伴手禮給老師之後回家。"
+        "reading": "さしあげて"
       },
       {
         "kind": "common",
@@ -1379,19 +1379,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "止める",
-        "reading": "とめる",
+        "sentence": "お客様が来る前に、機械を止める。",
+        "translation": "客人到來之前，先讓機器停止運轉。",
         "surface": "止める",
-        "sentence": "駅の前に車を止める。",
-        "translation": "把車停在車站前。"
+        "reading": "とめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "止めて",
-        "reading": "とめて",
+        "sentence": "タクシーを止めて、道を尋ねました。",
+        "translation": "我攔下計程車，詢問怎麼走。",
         "surface": "止めて",
-        "sentence": "駅の前に車を止めてください。",
-        "translation": "請把車停在車站前。"
+        "reading": "とめて"
       },
       {
         "kind": "common",
@@ -1411,19 +1411,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "直る",
-        "reading": "なおる",
+        "sentence": "電池を新しくすれば、このラジオは直る。",
+        "translation": "換上新電池，這臺收音機就會恢復正常。",
         "surface": "直る",
-        "sentence": "壊れた時計が直る。",
-        "translation": "壞掉的手錶修好。"
+        "reading": "なおる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "直って",
-        "reading": "なおって",
+        "sentence": "エアコンが直って、部屋がやっと涼しくなりました。",
+        "translation": "冷氣修好了，房間終於涼快了。",
         "surface": "直って",
-        "sentence": "壊れた時計が直っています。",
-        "translation": "壞掉的手錶已經修好。"
+        "reading": "なおって"
       },
       {
         "kind": "common",
@@ -1443,19 +1443,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "なさる",
-        "reading": "なさる",
+        "sentence": "先生は休日も研究をなさるそうです。",
+        "translation": "聽說老師休假時也做研究。",
         "surface": "なさる",
-        "sentence": "先生は毎朝、運動をなさる。",
-        "translation": "老師每天早上運動。"
+        "reading": "なさる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "なさって",
-        "reading": "なさって",
+        "sentence": "社長が説明をなさって、社員の質問に答えました。",
+        "translation": "社長進行說明後，回答了員工的問題。",
         "surface": "なさって",
-        "sentence": "先生は毎朝、運動をなさっています。",
-        "translation": "老師每天早上都在運動。"
+        "reading": "なさって"
       },
       {
         "kind": "common",
@@ -1475,19 +1475,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "乗り換える",
-        "reading": "のりかえる",
+        "sentence": "空港へ行くときは、新宿でバスに乗り換える。",
+        "translation": "去機場時，我在新宿轉搭公車。",
         "surface": "乗り換える",
-        "sentence": "東京駅で地下鉄に乗り換える。",
-        "translation": "在東京車站轉乘地鐵。"
+        "reading": "のりかえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "乗り換えて",
-        "reading": "のりかえて",
+        "sentence": "京都で別の電車に乗り換えて、小さな町へ向かいました。",
+        "translation": "我在京都轉搭另一班電車，前往一個小鎮。",
         "surface": "乗り換えて",
-        "sentence": "東京駅で地下鉄に乗り換えてください。",
-        "translation": "請在東京車站轉乘地鐵。"
+        "reading": "のりかえて"
       },
       {
         "kind": "common",
@@ -1507,19 +1507,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "踏む",
-        "reading": "ふむ",
+        "sentence": "危ないと感じたら、早めにブレーキを踏む。",
+        "translation": "覺得危險時，要提早踩煞車。",
         "surface": "踏む",
-        "sentence": "ブレーキを踏む。",
-        "translation": "踩煞車。"
+        "reading": "ふむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "踏んで",
-        "reading": "ふんで",
+        "sentence": "水たまりを踏んでしまい、靴下までぬれました。",
+        "translation": "我不小心踩到水窪，連襪子都濕了。",
         "surface": "踏んで",
-        "sentence": "ブレーキを踏んでください。",
-        "translation": "請踩煞車。"
+        "reading": "ふんで"
       },
       {
         "kind": "common",
@@ -1539,19 +1539,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "焼ける",
-        "reading": "やける",
+        "sentence": "このオーブンなら、パンが十分で焼ける。",
+        "translation": "用這個烤箱，麵包十分鐘就烤好了。",
         "surface": "焼ける",
-        "sentence": "パンがきれいに焼ける。",
-        "translation": "麵包烤得漂亮。"
+        "reading": "やける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "焼けて",
-        "reading": "やけて",
+        "sentence": "魚が焼けている間に、母はお皿を並べました。",
+        "translation": "魚正在烤的時候，媽媽擺好了盤子。",
         "surface": "焼けて",
-        "sentence": "パンがきれいに焼けています。",
-        "translation": "麵包已經烤得很漂亮。"
+        "reading": "やけて"
       },
       {
         "kind": "common",
@@ -1571,19 +1571,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "痩せる",
-        "reading": "やせる",
+        "sentence": "毎日少しずつ歩けば、健康的に痩せることもできます。",
+        "translation": "每天一點一點走路，也能健康地瘦下來。",
         "surface": "痩せる",
-        "sentence": "運動すると、少し痩せる。",
-        "translation": "運動會稍微瘦一點。"
+        "reading": "やせる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "痩せて",
-        "reading": "やせて",
+        "sentence": "兄は去年より痩せて、前の服が大きくなりました。",
+        "translation": "哥哥比去年瘦了，以前的衣服變得太大。",
         "surface": "痩せて",
-        "sentence": "運動すると、少し痩せてうれしいです。",
-        "translation": "運動後瘦一點，讓人高興。"
+        "reading": "やせて"
       },
       {
         "kind": "common",
@@ -1603,19 +1603,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "沸く",
-        "reading": "わく",
+        "sentence": "温度を上げると、大きな鍋の水もやがて沸く。",
+        "translation": "提高溫度後，大鍋裡的水最終也會沸騰。",
         "surface": "沸く",
-        "sentence": "やかんのお湯が沸く。",
-        "translation": "水壺裡的水沸騰。"
+        "reading": "わく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "沸いて",
-        "reading": "わいて",
+        "sentence": "鍋の水が沸いてから、野菜を入れました。",
+        "translation": "鍋裡的水沸騰後，我放進了蔬菜。",
         "surface": "沸いて",
-        "sentence": "やかんのお湯が沸いています。",
-        "translation": "水壺裡的水正沸騰。"
+        "reading": "わいて"
       },
       {
         "kind": "common",
@@ -1670,19 +1670,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "祈る",
-        "reading": "いのる",
+        "sentence": "神社で、姉は旅行の安全を祈る。",
+        "translation": "姊姊在神社祈求旅行平安。",
         "surface": "祈る",
-        "sentence": "試験の成功を祈る。",
-        "translation": "祈願考試順利。"
+        "reading": "いのる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "祈って",
-        "reading": "いのって",
+        "sentence": "合格を祈って、弟に小さなお守りを送りました。",
+        "translation": "我祈願弟弟考試通過，寄給他一個小護身符。",
         "surface": "祈って",
-        "sentence": "試験の成功を祈っています。",
-        "translation": "正在祈願考試順利。"
+        "reading": "いのって"
       },
       {
         "kind": "common",
@@ -1702,19 +1702,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "頑張る",
-        "reading": "がんばる",
+        "sentence": "姉は来月の発表会に向けて頑張る。",
+        "translation": "姊姊為了下個月的發表會努力準備。",
         "surface": "頑張る",
-        "sentence": "試験に向けて頑張る。",
-        "translation": "為了考試而努力。"
+        "reading": "がんばる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "頑張って",
-        "reading": "がんばって",
+        "sentence": "みんなが頑張ってくれたので、祭りは大成功でした。",
+        "translation": "因為大家一起努力，祭典非常成功。",
         "surface": "頑張って",
-        "sentence": "試験に向けて頑張っています。",
-        "translation": "正在為考試而努力。"
+        "reading": "がんばって"
       },
       {
         "kind": "common",
@@ -1734,19 +1734,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "過ぎる",
-        "reading": "すぎる",
+        "sentence": "楽しい休日は、あっという間に過ぎる。",
+        "translation": "開心的假日轉眼就過去了。",
         "surface": "過ぎる",
-        "sentence": "約束の時間が過ぎる。",
-        "translation": "約定時間過了。"
+        "reading": "すぎる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "過ぎて",
-        "reading": "すぎて",
+        "sentence": "夏が過ぎて、朝は涼しくなりました。",
+        "translation": "夏天過後，早上變涼了。",
         "surface": "過ぎて",
-        "sentence": "約束の時間が過ぎています。",
-        "translation": "約定時間已經過了。"
+        "reading": "すぎて"
       },
       {
         "kind": "common",
@@ -1766,19 +1766,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "太る",
-        "reading": "ふとる",
+        "sentence": "甘い物ばかり食べると、体が太る。",
+        "translation": "總是吃甜食，身體就會變胖。",
         "surface": "太る",
-        "sentence": "食べすぎると太る。",
-        "translation": "吃太多會變胖。"
+        "reading": "ふとる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "太って",
-        "reading": "ふとって",
+        "sentence": "犬が少し太ってきたので、散歩の時間を長くしました。",
+        "translation": "狗漸漸胖了一點，我增加了散步時間。",
         "surface": "太って",
-        "sentence": "食べすぎると太ってしまいます。",
-        "translation": "吃太多就會變胖。"
+        "reading": "ふとって"
       },
       {
         "kind": "common",
@@ -1798,19 +1798,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "見つかる",
-        "reading": "みつかる",
+        "sentence": "よく探せば、なくした物はきっと見つかる。",
+        "translation": "仔細找，一定會找到弄丟的東西。",
         "surface": "見つかる",
-        "sentence": "なくしたかぎが見つかる。",
-        "translation": "遺失的鑰匙被找到。"
+        "reading": "みつかる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "見つかって",
-        "reading": "みつかって",
+        "sentence": "新しい仕事が見つかって、来週から働くことになりました。",
+        "translation": "找到新工作後，我決定從下週開始上班。",
         "surface": "見つかって",
-        "sentence": "なくしたかぎが見つかって安心しました。",
-        "translation": "遺失的鑰匙被找到，讓人安心。"
+        "reading": "みつかって"
       },
       {
         "kind": "common",
@@ -1830,19 +1830,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "向かう",
-        "reading": "むかう",
+        "sentence": "昼休みになると、学生たちは食堂へ向かう。",
+        "translation": "到了午休，學生們就前往餐廳。",
         "surface": "向かう",
-        "sentence": "駅に向かう。",
-        "translation": "前往車站。"
+        "reading": "むかう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "向かって",
-        "reading": "むかって",
+        "sentence": "バスは海に向かって、ゆっくり坂を下りました。",
+        "translation": "公車朝著海邊，慢慢駛下坡道。",
         "surface": "向かって",
-        "sentence": "駅に向かっています。",
-        "translation": "正在前往車站。"
+        "reading": "むかって"
       },
       {
         "kind": "common",
@@ -1862,19 +1862,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "届ける",
-        "reading": "とどける",
+        "sentence": "明日の朝、花屋が会場へ花を届ける。",
+        "translation": "明天早上，花店會送花到會場。",
         "surface": "届ける",
-        "sentence": "先生に書類を届ける。",
-        "translation": "把文件送給老師。"
+        "reading": "とどける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "届けて",
-        "reading": "とどけて",
+        "sentence": "忘れ物を交番に届けてから、家へ帰りました。",
+        "translation": "把失物送到派出所後，我回家去了。",
         "surface": "届けて",
-        "sentence": "先生に書類を届けてください。",
-        "translation": "請把文件送給老師。"
+        "reading": "とどけて"
       },
       {
         "kind": "common",
@@ -7780,19 +7780,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "合う",
-        "reading": "あう",
+        "sentence": "この仕事は、話すことが好きな姉に合う。",
+        "translation": "這份工作適合喜歡說話的姊姊。",
         "surface": "合う",
-        "sentence": "この服は体に合う。",
-        "translation": "這件衣服合身。"
+        "reading": "あう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "合って",
-        "reading": "あって",
+        "sentence": "箱とふたの大きさが合っていないので、閉まりません。",
+        "translation": "盒子和蓋子的大小不合，所以蓋不起來。",
         "surface": "合って",
-        "sentence": "この服は体に合っています。",
-        "translation": "這件衣服很合身。"
+        "reading": "あって"
       },
       {
         "kind": "common",
@@ -7854,19 +7854,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "上がる",
-        "reading": "あがる",
+        "sentence": "春から、バスの料金が少し上がる。",
+        "translation": "從春天起，公車票價會稍微提高。",
         "surface": "上がる",
-        "sentence": "エレベーターで二階へ上がる。",
-        "translation": "搭電梯上二樓。"
+        "reading": "あがる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "上がって",
-        "reading": "あがって",
+        "sentence": "午後になって気温が上がって、上着がいらなくなりました。",
+        "translation": "到了下午氣溫升高，不需要外套了。",
         "surface": "上がって",
-        "sentence": "エレベーターで二階へ上がってください。",
-        "translation": "請搭電梯上二樓。"
+        "reading": "あがって"
       },
       {
         "kind": "common",
@@ -7928,19 +7928,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "空く",
-        "reading": "あく",
+        "sentence": "昼過ぎには、こちらの会議室が空く。",
+        "translation": "過了中午，這間會議室就會空出來。",
         "surface": "空く",
-        "sentence": "午後の予定が空く。",
-        "translation": "下午行程空出來。"
+        "reading": "あく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "空いて",
-        "reading": "あいて",
+        "sentence": "窓のそばの席が空いていますから、どうぞ座ってください。",
+        "translation": "窗邊的座位空著，請坐。",
         "surface": "空いて",
-        "sentence": "午後の予定が空いて会えます。",
-        "translation": "下午行程空出來，可以見面。"
+        "reading": "あいて"
       },
       {
         "kind": "common",
@@ -8003,19 +8003,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "あげる",
-        "reading": "あげる",
+        "sentence": "姉は誕生日に、弟へ時計をあげる。",
+        "translation": "姊姊在弟弟生日時送他手錶。",
         "surface": "あげる",
-        "sentence": "右手をあげる。",
-        "translation": "舉起右手。"
+        "reading": "あげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "あげて",
-        "reading": "あげて",
+        "sentence": "庭の犬に水をあげてから、散歩に出ました。",
+        "translation": "先給院子裡的狗喝水後，我出門散步。",
         "surface": "あげて",
-        "sentence": "右手をあげてください。",
-        "translation": "請舉起右手。"
+        "reading": "あげて"
       },
       {
         "kind": "common",
@@ -8078,19 +8078,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "集まる",
-        "reading": "あつまる",
+        "sentence": "毎週金曜日、公園に近所の子供が集まる。",
+        "translation": "每個星期五，附近的孩子會聚集在公園。",
         "surface": "集まる",
-        "sentence": "駅前に人が集まる。",
-        "translation": "人們聚集在車站前。"
+        "reading": "あつまる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "集まって",
-        "reading": "あつまって",
+        "sentence": "会議の資料が集まってから、みんなで内容を確認しました。",
+        "translation": "會議資料收齊後，大家一起確認了內容。",
         "surface": "集まって",
-        "sentence": "駅前に人が集まっています。",
-        "translation": "人們正聚集在車站前。"
+        "reading": "あつまって"
       },
       {
         "kind": "common",
@@ -8152,19 +8152,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "集める",
-        "reading": "あつめる",
+        "sentence": "祖父は昔のお金を集めるのが趣味です。",
+        "translation": "祖父的興趣是收藏古錢。",
         "surface": "集める",
-        "sentence": "旅行の情報を集める。",
-        "translation": "收集旅行資訊。"
+        "reading": "あつめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "集めて",
-        "reading": "あつめて",
+        "sentence": "生徒から作文を集めて、教室の後ろに置きました。",
+        "translation": "我收齊學生的作文，放在教室後方。",
         "surface": "集めて",
-        "sentence": "旅行の情報を集めています。",
-        "translation": "正在收集旅行資訊。"
+        "reading": "あつめて"
       },
       {
         "kind": "common",
@@ -8226,19 +8226,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "謝る",
-        "reading": "あやまる",
+        "sentence": "約束を忘れたら、まず相手に謝る。",
+        "translation": "忘記約定時，首先要向對方道歉。",
         "surface": "謝る",
-        "sentence": "失敗したら、相手に謝る。",
-        "translation": "失誤後向對方道歉。"
+        "reading": "あやまる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "謝って",
-        "reading": "あやまって",
+        "sentence": "窓を割ったことを先生に謝って、一緒に片付けました。",
+        "translation": "我為打破窗戶向老師道歉，並和老師一起收拾。",
         "surface": "謝って",
-        "sentence": "失敗したら、相手に謝ってからやり直します。",
-        "translation": "失誤後向對方道歉再重新開始。"
+        "reading": "あやまって"
       },
       {
         "kind": "common",
@@ -8300,19 +8300,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "生きる",
-        "reading": "いきる",
+        "sentence": "この魚は、冷たい水の中で生きる。",
+        "translation": "這種魚生活在冷水裡。",
         "surface": "生きる",
-        "sentence": "人は助け合って生きる。",
-        "translation": "人們互相幫助地生活。"
+        "reading": "いきる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "生きて",
-        "reading": "いきて",
+        "sentence": "祖父は百歳まで生きて、たくさんの話を聞かせてくれました。",
+        "translation": "祖父活到一百歲，告訴了我們許多故事。",
         "surface": "生きて",
-        "sentence": "人は助け合って生きています。",
-        "translation": "人們互相幫助地生活著。"
+        "reading": "いきて"
       },
       {
         "kind": "common",
@@ -8374,19 +8374,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "いじめる",
-        "reading": "いじめる",
+        "sentence": "強い人が弱い人をいじめるのは、よくない。",
+        "translation": "強者欺負弱者是不好的。",
         "surface": "いじめる",
-        "sentence": "あの子は弱い子をいじめる。",
-        "translation": "那個孩子欺負弱小的孩子。"
+        "reading": "いじめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "いじめて",
-        "reading": "いじめて",
+        "sentence": "小さな犬をいじめてはいけません。優しくしてください。",
+        "translation": "不可以欺負小狗，請溫柔對待牠。",
         "surface": "いじめて",
-        "sentence": "あの子は弱い子をいじめています。",
-        "translation": "那個孩子正在欺負弱小的孩子。"
+        "reading": "いじめて"
       },
       {
         "kind": "common",
@@ -8448,19 +8448,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "急ぐ",
-        "reading": "いそぐ",
+        "sentence": "雨が降りそうなので、家までの道を急ぐ。",
+        "translation": "因為好像快下雨了，我加快腳步回家。",
         "surface": "急ぐ",
-        "sentence": "電車に間に合うように急ぐ。",
-        "translation": "為了趕上電車而加快腳步。"
+        "reading": "いそぐ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "急いで",
-        "reading": "いそいで",
+        "sentence": "急にお客様が来ると聞いて、母は急いで部屋を片付けました。",
+        "translation": "聽說有客人臨時要來，媽媽趕緊收拾房間。",
         "surface": "急いで",
-        "sentence": "電車に間に合うように急いでいます。",
-        "translation": "正在加快腳步趕電車。"
+        "reading": "いそいで"
       },
       {
         "kind": "common",
@@ -8520,19 +8520,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "致す",
-        "reading": "いたす",
+        "sentence": "詳しい説明は、後ほど私から致す。",
+        "translation": "詳細說明稍後由我來進行。",
         "surface": "致す",
-        "sentence": "私がご案内致す。",
-        "translation": "由我為您帶路。"
+        "reading": "いたす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "致して",
-        "reading": "いたして",
+        "sentence": "失礼を致して、申し訳ございません。",
+        "translation": "做了失禮的事，非常抱歉。",
         "surface": "致して",
-        "sentence": "私がご案内致してから説明いたします。",
-        "translation": "由我帶路，隨後說明。"
+        "reading": "いたして"
       },
       {
         "kind": "common",
@@ -8590,19 +8590,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "植える",
-        "reading": "うえる",
+        "sentence": "春には、校庭に桜の木を植える。",
+        "translation": "春天，我們要在校園裡種櫻花樹。",
         "surface": "植える",
-        "sentence": "庭に花を植える。",
-        "translation": "在庭院種花。"
+        "reading": "うえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "植えて",
-        "reading": "うえて",
+        "sentence": "ベランダにトマトを植えて、毎朝水をやっています。",
+        "translation": "我在陽台種了番茄，每天早上澆水。",
         "surface": "植えて",
-        "sentence": "庭に花を植えています。",
-        "translation": "正在庭院種花。"
+        "reading": "うえて"
       },
       {
         "kind": "common",
@@ -8662,19 +8662,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "受ける",
-        "reading": "うける",
+        "sentence": "弟は来月、運転免許の試験を受ける。",
+        "translation": "弟弟下個月要參加駕照考試。",
         "surface": "受ける",
-        "sentence": "大学の試験を受ける。",
-        "translation": "參加大學考試。"
+        "reading": "うける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "受けて",
-        "reading": "うけて",
+        "sentence": "先生の指導を受けて、作文がずっとよくなりました。",
+        "translation": "接受老師指導後，作文進步了很多。",
         "surface": "受けて",
-        "sentence": "大学の試験を受けています。",
-        "translation": "正在參加大學考試。"
+        "reading": "うけて"
       },
       {
         "kind": "common",
@@ -8736,19 +8736,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "動く",
-        "reading": "うごく",
+        "sentence": "この小さなおもちゃは、電池で動く。",
+        "translation": "這個小玩具靠電池運作。",
         "surface": "動く",
-        "sentence": "この機械は電気で動く。",
-        "translation": "這部機器靠電力運轉。"
+        "reading": "うごく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "動いて",
-        "reading": "うごいて",
+        "sentence": "カーテンが風で動いて、猫が不思議そうに見ています。",
+        "translation": "窗簾隨風晃動，貓好奇地看著。",
         "surface": "動いて",
-        "sentence": "この機械は電気で動いています。",
-        "translation": "這部機器正在靠電力運轉。"
+        "reading": "うごいて"
       },
       {
         "kind": "common",
@@ -8808,19 +8808,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "打つ",
-        "reading": "うつ",
+        "sentence": "父は庭の板に、くぎを打つ。",
+        "translation": "爸爸在院子裡的木板上釘釘子。",
         "surface": "打つ",
-        "sentence": "庭でボールを打つ。",
-        "translation": "在院子裡擊球。"
+        "reading": "うつ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "打って",
-        "reading": "うって",
+        "sentence": "姉はパソコンで文章を打ってから、印刷しました。",
+        "translation": "姊姊先用電腦打好文章，再印出來。",
         "surface": "打って",
-        "sentence": "庭でボールを打っています。",
-        "translation": "正在院子裡擊球。"
+        "reading": "うって"
       },
       {
         "kind": "common",
@@ -8878,19 +8878,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "移る",
-        "reading": "うつる",
+        "sentence": "姉は来月から、大阪の支店に移る。",
+        "translation": "姊姊從下個月起要調到大阪分店。",
         "surface": "移る",
-        "sentence": "仕事のために別の町へ移る。",
-        "translation": "因工作搬到別的城鎮。"
+        "reading": "うつる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "移って",
-        "reading": "うつって",
+        "sentence": "教室が二階に移って、窓から海が見えるようになりました。",
+        "translation": "教室搬到二樓後，可以從窗戶看見海了。",
         "surface": "移って",
-        "sentence": "仕事のために別の町へ移って新しい生活を始めます。",
-        "translation": "因工作搬到別的城鎮後開始新生活。"
+        "reading": "うつって"
       },
       {
         "kind": "common",
@@ -8950,19 +8950,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "選ぶ",
-        "reading": "えらぶ",
+        "sentence": "母は値段より、使いやすい物を選ぶ。",
+        "translation": "比起價格，媽媽更重視挑選好用的東西。",
         "surface": "選ぶ",
-        "sentence": "自分に合う本を選ぶ。",
-        "translation": "選適合自己的書。"
+        "reading": "えらぶ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "選んで",
-        "reading": "えらんで",
+        "sentence": "青いコートを選んで、店員に大きさを聞きました。",
+        "translation": "選了藍色大衣後，我向店員詢問尺寸。",
         "surface": "選んで",
-        "sentence": "自分に合う本を選んでください。",
-        "translation": "請選適合自己的書。"
+        "reading": "えらんで"
       },
       {
         "kind": "common",
@@ -9023,19 +9023,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "おいでになる",
-        "reading": "おいでになる",
+        "sentence": "明日、お客様が店においでになる。",
+        "translation": "明天，客人要來店裡。",
         "surface": "おいでになる",
-        "sentence": "先生が学校においでになる。",
-        "translation": "老師來學校。"
+        "reading": "おいでになる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "おいでになって",
-        "reading": "おいでになって",
+        "sentence": "先生もこちらへおいでになって、一緒に写真を撮りませんか。",
+        "translation": "老師也請來這裡，一起拍照好嗎？",
         "surface": "おいでになって",
-        "sentence": "先生、学校においでになってください。",
-        "translation": "請老師來學校。"
+        "reading": "おいでになって"
       },
       {
         "kind": "common",
@@ -9097,19 +9097,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "送る",
-        "reading": "おくる",
+        "sentence": "祖母は毎年、畑の野菜を送る。",
+        "translation": "祖母每年都會寄來田裡種的蔬菜。",
         "surface": "送る",
-        "sentence": "友達に荷物を送る。",
-        "translation": "寄包裹給朋友。"
+        "reading": "おくる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "送って",
-        "reading": "おくって",
+        "sentence": "写真をメールで送っておきましたから、見てください。",
+        "translation": "照片已經用電子郵件寄給你了，請看看。",
         "surface": "送って",
-        "sentence": "友達に荷物を送っています。",
-        "translation": "正在寄包裹給朋友。"
+        "reading": "おくって"
       },
       {
         "kind": "common",
@@ -9170,19 +9170,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "遅れる",
-        "reading": "おくれる",
+        "sentence": "雪の日は、バスの到着がよく遅れる。",
+        "translation": "下雪天，公車常常晚到。",
         "surface": "遅れる",
-        "sentence": "雪の日は電車が遅れる。",
-        "translation": "下雪時電車會延誤。"
+        "reading": "おくれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "遅れて",
-        "reading": "おくれて",
+        "sentence": "会議に遅れて、部長に理由を説明しました。",
+        "translation": "開會遲到了，我向部長說明原因。",
         "surface": "遅れて",
-        "sentence": "雪の日は電車が遅れています。",
-        "translation": "下雪時電車正在延誤。"
+        "reading": "おくれて"
       },
       {
         "kind": "common",
@@ -9242,19 +9242,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "起こす",
-        "reading": "おこす",
+        "sentence": "兄は休みの日、少し遅く弟を起こす。",
+        "translation": "哥哥休假時會晚一點叫醒弟弟。",
         "surface": "起こす",
-        "sentence": "朝、弟を起こす。",
-        "translation": "早上叫醒弟弟。"
+        "reading": "おこす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "起こして",
-        "reading": "おこして",
+        "sentence": "子供を起こしてしまわないように、静かに話しました。",
+        "translation": "為了不吵醒孩子，我們小聲說話。",
         "surface": "起こして",
-        "sentence": "朝、弟を起こしてください。",
-        "translation": "請早上叫醒弟弟。"
+        "reading": "おこして"
       },
       {
         "kind": "common",
@@ -9316,19 +9316,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "行う",
-        "reading": "おこなう",
+        "sentence": "病院では、朝から健康診断を行う。",
+        "translation": "醫院從早上開始進行健康檢查。",
         "surface": "行う",
-        "sentence": "学校で健康診断を行う。",
-        "translation": "在學校進行健康檢查。"
+        "reading": "おこなう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "行って",
-        "reading": "おこなって",
+        "sentence": "駅前でアンケートを行って、町の問題を調べました。",
+        "translation": "在車站前做了問卷調查後，我們了解了鎮上的問題。",
         "surface": "行って",
-        "sentence": "学校で健康診断を行っています。",
-        "translation": "正在學校進行健康檢查。"
+        "reading": "おこなって"
       },
       {
         "kind": "common",
@@ -9390,19 +9390,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "怒る",
-        "reading": "おこる",
+        "sentence": "弟はゲームに負けると、すぐに怒る。",
+        "translation": "弟弟玩遊戲輸了就馬上生氣。",
         "surface": "怒る",
-        "sentence": "父はうそをつくと怒る。",
-        "translation": "說謊時爸爸會生氣。"
+        "reading": "おこる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "怒って",
-        "reading": "おこって",
+        "sentence": "友達は約束を忘れられて怒っていましたが、話を聞いてくれました。",
+        "translation": "朋友因為約定被忘記而生氣，但仍願意聽我說。",
         "surface": "怒って",
-        "sentence": "父はうそをつくと怒って注意します。",
-        "translation": "說謊時爸爸會生氣，接著提醒我們。"
+        "reading": "おこって"
       },
       {
         "kind": "common",
@@ -9464,19 +9464,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "踊る",
-        "reading": "おどる",
+        "sentence": "夏祭りでは、祖母も音楽に合わせて踊る。",
+        "translation": "夏日祭典上，祖母也隨著音樂跳舞。",
         "surface": "踊る",
-        "sentence": "祭りでみんなと踊る。",
-        "translation": "在祭典上和大家跳舞。"
+        "reading": "おどる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "踊って",
-        "reading": "おどって",
+        "sentence": "子供たちは手をつないで踊って、とても楽しそうでした。",
+        "translation": "孩子們牽手跳舞，看起來非常開心。",
         "surface": "踊って",
-        "sentence": "祭りでみんなと踊っています。",
-        "translation": "正在祭典上和大家跳舞。"
+        "reading": "おどって"
       },
       {
         "kind": "common",
@@ -9538,19 +9538,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "驚く",
-        "reading": "おどろく",
+        "sentence": "初めてこの町を見る人は、坂の多さに驚く。",
+        "translation": "第一次來這個鎮的人，會驚訝有這麼多坡道。",
         "surface": "驚く",
-        "sentence": "大きな音に驚く。",
-        "translation": "被巨響嚇到。"
+        "reading": "おどろく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "驚いて",
-        "reading": "おどろいて",
+        "sentence": "弟の背が高くなったことに驚いて、祖父は何度も見ていました。",
+        "translation": "祖父驚訝弟弟長高了，反覆看了好幾眼。",
         "surface": "驚いて",
-        "sentence": "大きな音に驚いて立ち上がります。",
-        "translation": "被巨響嚇到，站了起來。"
+        "reading": "おどろいて"
       },
       {
         "kind": "common",
@@ -9612,19 +9612,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "思い出す",
-        "reading": "おもいだす",
+        "sentence": "この歌を聞くと、学生時代を思い出す。",
+        "translation": "聽到這首歌，我就想起學生時代。",
         "surface": "思い出す",
-        "sentence": "写真を見ると、旅行を思い出す。",
-        "translation": "看照片就想起旅行。"
+        "reading": "おもいだす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "思い出して",
-        "reading": "おもいだして",
+        "sentence": "かぎを置いた場所を思い出して、急いで部屋に戻りました。",
+        "translation": "想起放鑰匙的地方後，我趕緊回房間。",
         "surface": "思い出して",
-        "sentence": "写真を見ると、旅行を思い出して楽しい気分になります。",
-        "translation": "看照片想起旅行，心情變得開朗。"
+        "reading": "おもいだして"
       },
       {
         "kind": "common",
@@ -9686,19 +9686,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "思う",
-        "reading": "おもう",
+        "sentence": "妹は、大きくなったら医者になりたいと思う。",
+        "translation": "妹妹心想長大後要當醫生。",
         "surface": "思う",
-        "sentence": "彼の意見は正しいと思う。",
-        "translation": "認為他的意見正確。"
+        "reading": "おもう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "思って",
-        "reading": "おもって",
+        "sentence": "母は私が駅にいると思って、電話をくれました。",
+        "translation": "媽媽以為我在車站，打電話給我。",
         "surface": "思って",
-        "sentence": "彼の意見は正しいと思っています。",
-        "translation": "認為他的意見正確。"
+        "reading": "おもって"
       },
       {
         "kind": "common",
@@ -9760,19 +9760,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "下りる",
-        "reading": "おりる",
+        "sentence": "山から下りるときは、足元に気をつけてください。",
+        "translation": "下山時，請小心腳下。",
         "surface": "下りる",
-        "sentence": "次の駅で電車を下りる。",
-        "translation": "在下一站下電車。"
+        "reading": "おりる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "下りて",
-        "reading": "おりて",
+        "sentence": "祖母はバスを下りてから、ゆっくり病院へ歩きました。",
+        "translation": "祖母下公車後，慢慢走向醫院。",
         "surface": "下りて",
-        "sentence": "次の駅で電車を下りてください。",
-        "translation": "請在下一站下電車。"
+        "reading": "おりて"
       },
       {
         "kind": "common",
@@ -9834,19 +9834,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "折れる",
-        "reading": "おれる",
+        "sentence": "古い鉛筆は、強く書くと芯が折れる。",
+        "translation": "舊鉛筆用力寫時，筆芯會斷。",
         "surface": "折れる",
-        "sentence": "力を入れすぎると、枝が折れる。",
-        "translation": "太用力樹枝就會折斷。"
+        "reading": "おれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "折れて",
-        "reading": "おれて",
+        "sentence": "傘の骨が折れて、雨を防げなくなりました。",
+        "translation": "傘骨折斷了，無法再擋雨。",
         "surface": "折れて",
-        "sentence": "力を入れすぎると、枝が折れてしまいます。",
-        "translation": "太用力樹枝就會折斷。"
+        "reading": "おれて"
       },
       {
         "kind": "common",
@@ -9909,19 +9909,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "変える",
-        "reading": "かえる",
+        "sentence": "旅行中は、その日の天気で予定を変える。",
+        "translation": "旅行時，我會依當天的天氣改變行程。",
         "surface": "変える",
-        "sentence": "旅行の日程を変える。",
-        "translation": "更改旅行日程。"
+        "reading": "かえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "変えて",
-        "reading": "かえて",
+        "sentence": "部屋の電球を変えてみたら、明るくなりました。",
+        "translation": "試著換過房間的燈泡後，房間變亮了。",
         "surface": "変えて",
-        "sentence": "旅行の日程を変えてください。",
-        "translation": "請更改旅行日程。"
+        "reading": "かえて"
       },
       {
         "kind": "common",
@@ -9984,19 +9984,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "飾る",
-        "reading": "かざる",
+        "sentence": "妹は窓のそばに、小さな人形を飾る。",
+        "translation": "妹妹把小人偶擺在窗邊裝飾。",
         "surface": "飾る",
-        "sentence": "部屋に花を飾る。",
-        "translation": "在房間擺花裝飾。"
+        "reading": "かざる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "飾って",
-        "reading": "かざって",
+        "sentence": "会場を風船で飾って、お客様を待ちました。",
+        "translation": "我們用氣球裝飾會場，等候客人。",
         "surface": "飾って",
-        "sentence": "部屋に花を飾っています。",
-        "translation": "正在房間擺花裝飾。"
+        "reading": "かざって"
       },
       {
         "kind": "common",
@@ -10058,19 +10058,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "片付ける",
-        "reading": "かたづける",
+        "sentence": "弟は寝る前に、おもちゃを片付ける。",
+        "translation": "弟弟睡前收拾玩具。",
         "surface": "片付ける",
-        "sentence": "食事の後、机を片付ける。",
-        "translation": "飯後收拾桌子。"
+        "reading": "かたづける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "片付けて",
-        "reading": "かたづけて",
+        "sentence": "食器を片付けてから、母とお茶を飲みました。",
+        "translation": "收好餐具後，我和媽媽一起喝茶。",
         "surface": "片付けて",
-        "sentence": "食事の後、机を片付けてください。",
-        "translation": "請在飯後收拾桌子。"
+        "reading": "かたづけて"
       },
       {
         "kind": "common",
@@ -10132,19 +10132,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "勝つ",
-        "reading": "かつ",
+        "sentence": "明日の大会では、最後まであきらめずに勝つ。",
+        "translation": "明天的比賽，我要堅持到底、贏得勝利。",
         "surface": "勝つ",
-        "sentence": "練習を続けて、試合に勝つ。",
-        "translation": "持續練習贏得比賽。"
+        "reading": "かつ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "勝って",
-        "reading": "かって",
+        "sentence": "弱かったチームが強い相手に勝って、会場がわきました。",
+        "translation": "原本較弱的隊伍打敗強敵，會場沸騰了。",
         "surface": "勝って",
-        "sentence": "練習を続けて、試合に勝ってみんなで喜びます。",
-        "translation": "持續練習贏了比賽後，大家一起慶祝。"
+        "reading": "かって"
       },
       {
         "kind": "common",
@@ -10206,19 +10206,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "かまう",
-        "reading": "かまう",
+        "sentence": "姉は仕事中、服の汚れをあまりかまうことがない。",
+        "translation": "姊姊工作時不太在意衣服弄髒。",
         "surface": "かまう",
-        "sentence": "母はいつも弟ばかりかまう。",
-        "translation": "媽媽總是只照顧弟弟。"
+        "reading": "かまう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "かまって",
-        "reading": "かまって",
+        "sentence": "小さい子ばかりかまっていると、兄が寂しがります。",
+        "translation": "如果只顧著照顧小孩，哥哥會感到寂寞。",
         "surface": "かまって",
-        "sentence": "母はいつも弟ばかりかまっています。",
-        "translation": "媽媽總是只顧著弟弟。"
+        "reading": "かまって"
       },
       {
         "kind": "common",
@@ -10278,19 +10278,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "通う",
-        "reading": "かよう",
+        "sentence": "弟は週に二回、水泳教室に通う。",
+        "translation": "弟弟每週去兩次游泳課。",
         "surface": "通う",
-        "sentence": "毎日、学校に通う。",
-        "translation": "每天上學。"
+        "reading": "かよう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "通って",
-        "reading": "かよって",
+        "sentence": "母は仕事の後で大学に通って、歴史を勉強しています。",
+        "translation": "媽媽下班後到大學上課，學習歷史。",
         "surface": "通って",
-        "sentence": "毎日、学校に通っています。",
-        "translation": "每天都在上學。"
+        "reading": "かよって"
       },
       {
         "kind": "common",
@@ -10350,19 +10350,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "変わる",
-        "reading": "かわる",
+        "sentence": "引っ越すと、毎朝通る道も変わる。",
+        "translation": "搬家後，每天早上走的路也會改變。",
         "surface": "変わる",
-        "sentence": "季節が変わる。",
-        "translation": "季節轉變。"
+        "reading": "かわる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "変わって",
-        "reading": "かわって",
+        "sentence": "信号が青に変わって、子供たちは道を渡りました。",
+        "translation": "號誌轉綠後，孩子們過了馬路。",
         "surface": "変わって",
-        "sentence": "季節が変わっています。",
-        "translation": "季節正轉變。"
+        "reading": "かわって"
       },
       {
         "kind": "common",
@@ -10424,19 +10424,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "考える",
-        "reading": "かんがえる",
+        "sentence": "仕事を選ぶ前に、自分の将来を考える。",
+        "translation": "選工作前，先思考自己的將來。",
         "surface": "考える",
-        "sentence": "問題の解決方法を考える。",
-        "translation": "思考解決問題的方法。"
+        "reading": "かんがえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "考えて",
-        "reading": "かんがえて",
+        "sentence": "家族でよく考えてから、新しい車を買うことにしました。",
+        "translation": "全家仔細考慮後，決定買新車。",
         "surface": "考えて",
-        "sentence": "問題の解決方法を考えています。",
-        "translation": "正在思考解決問題的方法。"
+        "reading": "かんがえて"
       },
       {
         "kind": "common",
@@ -10498,19 +10498,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "聞こえる",
-        "reading": "きこえる",
+        "sentence": "この部屋では、夜に川の音が聞こえる。",
+        "translation": "在這個房間裡，晚上聽得到河水聲。",
         "surface": "聞こえる",
-        "sentence": "窓から鳥の声が聞こえる。",
-        "translation": "從窗戶聽見鳥叫聲。"
+        "reading": "きこえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "聞こえて",
-        "reading": "きこえて",
+        "sentence": "台所から母の歌が聞こえてきて、安心しました。",
+        "translation": "廚房傳來媽媽的歌聲，我安心了。",
         "surface": "聞こえて",
-        "sentence": "窓から鳥の声が聞こえて気持ちがいいです。",
-        "translation": "從窗戶聽見鳥叫，心情很好。"
+        "reading": "きこえて"
       },
       {
         "kind": "common",
@@ -10572,19 +10572,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "決める",
-        "reading": "きめる",
+        "sentence": "夕食のメニューは、家族で相談して決める。",
+        "translation": "晚餐菜色由全家商量決定。",
         "surface": "決める",
-        "sentence": "みんなで旅行先を決める。",
-        "translation": "大家一起決定旅行地點。"
+        "reading": "きめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "決めて",
-        "reading": "きめて",
+        "sentence": "ホテルを決めておけば、旅行の準備が楽になります。",
+        "translation": "先決定好飯店，旅行準備就會輕鬆一些。",
         "surface": "決めて",
-        "sentence": "みんなで旅行先を決めてください。",
-        "translation": "請大家一起決定旅行地點。"
+        "reading": "きめて"
       },
       {
         "kind": "common",
@@ -10646,19 +10646,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "比べる",
-        "reading": "くらべる",
+        "sentence": "買い物のときは、二つの店の値段を比べる。",
+        "translation": "買東西時，我會比較兩間店的價格。",
         "surface": "比べる",
-        "sentence": "二つの商品を比べる。",
-        "translation": "比較兩件商品。"
+        "reading": "くらべる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "比べて",
-        "reading": "くらべて",
+        "sentence": "去年と今年の写真を比べて、子供の成長に驚きました。",
+        "translation": "比較去年和今年的照片後，我驚訝孩子長得這麼快。",
         "surface": "比べて",
-        "sentence": "二つの商品を比べてください。",
-        "translation": "請比較兩件商品。"
+        "reading": "くらべて"
       },
       {
         "kind": "common",
@@ -10720,19 +10720,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "くれる",
-        "reading": "くれる",
+        "sentence": "兄は読み終わった本を、よく私にくれる。",
+        "translation": "哥哥常把看完的書給我。",
         "surface": "くれる",
-        "sentence": "友達が私に写真をくれる。",
-        "translation": "朋友給我照片。"
+        "reading": "くれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "くれて",
-        "reading": "くれて",
+        "sentence": "友達が駅まで迎えに来てくれて、うれしかったです。",
+        "translation": "朋友來車站接我，我很高興。",
         "surface": "くれて",
-        "sentence": "友達が私に写真をくれてうれしいです。",
-        "translation": "朋友給我照片，讓我很高興。"
+        "reading": "くれて"
       },
       {
         "kind": "common",
@@ -10794,19 +10794,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "暮れる",
-        "reading": "くれる",
+        "sentence": "冬は、夕方五時には日が暮れる。",
+        "translation": "冬天到了傍晚五點就天黑了。",
         "surface": "暮れる",
-        "sentence": "夕方になると、日が暮れる。",
-        "translation": "到了傍晚天就黑。"
+        "reading": "くれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "暮れて",
-        "reading": "くれて",
+        "sentence": "日が暮れて、海の色が青から黒に変わりました。",
+        "translation": "天黑後，海的顏色由藍轉黑。",
         "surface": "暮れて",
-        "sentence": "夕方になると、日が暮れて街灯がつきます。",
-        "translation": "到了傍晚天黑後，街燈亮起。"
+        "reading": "くれて"
       },
       {
         "kind": "common",
@@ -10869,19 +10869,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "込む",
-        "reading": "こむ",
+        "sentence": "雨の日の朝は、学校の前の道が込む。",
+        "translation": "下雨天早上，學校前的路會很擁擠。",
         "surface": "込む",
-        "sentence": "朝は電車が込む。",
-        "translation": "早上電車很擁擠。"
+        "reading": "こむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "込んで",
-        "reading": "こんで",
+        "sentence": "レストランが込んでいたので、お弁当を買いました。",
+        "translation": "因為餐廳人很多，我買了便當。",
         "surface": "込んで",
-        "sentence": "朝は電車が込んでいます。",
-        "translation": "早上電車正擠滿乘客。"
+        "reading": "こんで"
       },
       {
         "kind": "common",
@@ -10942,19 +10942,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "壊す",
-        "reading": "こわす",
+        "sentence": "弟はおもちゃを乱暴に使って、すぐ壊す。",
+        "translation": "弟弟粗魯地玩玩具，很快就弄壞了。",
         "surface": "壊す",
-        "sentence": "乱暴に扱うと、機械を壊す。",
-        "translation": "粗魯使用會弄壞機器。"
+        "reading": "こわす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "壊して",
-        "reading": "こわして",
+        "sentence": "借りたカメラを壊してしまい、友達に謝りました。",
+        "translation": "我把借來的相機弄壞了，向朋友道歉。",
         "surface": "壊して",
-        "sentence": "乱暴に扱うと、機械を壊してしまいます。",
-        "translation": "粗魯使用就會弄壞機器。"
+        "reading": "こわして"
       },
       {
         "kind": "common",
@@ -11014,19 +11014,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "壊れる",
-        "reading": "こわれる",
+        "sentence": "この古い自転車は、時々ブレーキが壊れる。",
+        "translation": "這輛舊腳踏車的煞車有時會壞掉。",
         "surface": "壊れる",
-        "sentence": "古い機械が壊れる。",
-        "translation": "舊機器壞掉。"
+        "reading": "こわれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "壊れて",
-        "reading": "こわれて",
+        "sentence": "エアコンが壊れて、昨夜はなかなか眠れませんでした。",
+        "translation": "冷氣壞了，昨晚一直睡不好。",
         "surface": "壊れて",
-        "sentence": "古い機械が壊れています。",
-        "translation": "舊機器已經壞了。"
+        "reading": "こわれて"
       },
       {
         "kind": "common",
@@ -11088,19 +11088,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "探す",
-        "reading": "さがす",
+        "sentence": "姉は駅に近いアパートを探す。",
+        "translation": "姊姊在找靠近車站的公寓。",
         "surface": "探す",
-        "sentence": "なくしたかぎを探す。",
-        "translation": "找遺失的鑰匙。"
+        "reading": "さがす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "探して",
-        "reading": "さがして",
+        "sentence": "旅行の写真を探していたら、古い手紙が見つかりました。",
+        "translation": "找旅行照片時，我發現了一封舊信。",
         "surface": "探して",
-        "sentence": "なくしたかぎを探しています。",
-        "translation": "正在找遺失的鑰匙。"
+        "reading": "さがして"
       },
       {
         "kind": "common",
@@ -11160,19 +11160,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "騒ぐ",
-        "reading": "さわぐ",
+        "sentence": "新しいおもちゃを見せると、弟たちは騒ぐ。",
+        "translation": "拿出新玩具時，弟弟們就會興奮地吵鬧。",
         "surface": "騒ぐ",
-        "sentence": "休み時間に子供たちが騒ぐ。",
-        "translation": "孩子們下課時吵鬧。"
+        "reading": "さわぐ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "騒いで",
-        "reading": "さわいで",
+        "sentence": "夜遅くまで騒いで、近所の人に注意されました。",
+        "translation": "我們吵到深夜，被鄰居提醒了。",
         "surface": "騒いで",
-        "sentence": "休み時間に子供たちが騒いでいます。",
-        "translation": "孩子們下課時正在吵鬧。"
+        "reading": "さわいで"
       },
       {
         "kind": "common",
@@ -11230,19 +11230,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "触る",
-        "reading": "さわる",
+        "sentence": "初めて見る機械に勝手に触るのはやめよう。",
+        "translation": "不要隨便碰第一次見到的機器。",
         "surface": "触る",
-        "sentence": "柔らかい布に触る。",
-        "translation": "摸柔軟的布。"
+        "reading": "さわる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "触って",
-        "reading": "さわって",
+        "sentence": "熱い鍋に触って、指をやけどしてしまいました。",
+        "translation": "我碰到熱鍋，不小心燙傷了手指。",
         "surface": "触って",
-        "sentence": "柔らかい布に触ってみてください。",
-        "translation": "請摸摸柔軟的布。"
+        "reading": "さわって"
       },
       {
         "kind": "common",
@@ -11303,19 +11303,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "叱る",
-        "reading": "しかる",
+        "sentence": "先生は、友達をいじめる生徒を叱る。",
+        "translation": "老師會責罵欺負同學的學生。",
         "surface": "叱る",
-        "sentence": "危ない遊びをする子を叱る。",
-        "translation": "責備玩危險遊戲的孩子。"
+        "reading": "しかる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "叱って",
-        "reading": "しかって",
+        "sentence": "母はうそをついた弟を叱ってから、理由を聞きました。",
+        "translation": "媽媽責罵說謊的弟弟後，詢問了原因。",
         "surface": "叱って",
-        "sentence": "危ない遊びをする子を叱って理由を説明します。",
-        "translation": "責備玩危險遊戲的孩子，並解釋原因。"
+        "reading": "しかって"
       },
       {
         "kind": "common",
@@ -11376,19 +11376,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "知らせる",
-        "reading": "しらせる",
+        "sentence": "旅行から戻ったら、家族に無事を知らせる。",
+        "translation": "旅行回來後，要向家人報平安。",
         "surface": "知らせる",
-        "sentence": "予定の変更を友達に知らせる。",
-        "translation": "通知朋友行程更改。"
+        "reading": "しらせる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "知らせて",
-        "reading": "しらせて",
+        "sentence": "集合場所の変更を全員に知らせておきました。",
+        "translation": "我已經事先通知所有人集合地點的變更。",
         "surface": "知らせて",
-        "sentence": "予定の変更を友達に知らせてください。",
-        "translation": "請通知朋友行程更改。"
+        "reading": "しらせて"
       },
       {
         "kind": "common",
@@ -11449,19 +11449,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "調べる",
-        "reading": "しらべる",
+        "sentence": "買う前に、商品の評判をインターネットで調べる。",
+        "translation": "購買之前，我會上網查商品評價。",
         "surface": "調べる",
-        "sentence": "辞書で単語を調べる。",
-        "translation": "用字典查單字。"
+        "reading": "しらべる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "調べて",
-        "reading": "しらべて",
+        "sentence": "電車の時間を調べてから、友達と約束をしました。",
+        "translation": "查過電車時間後，我和朋友約了見面時間。",
         "surface": "調べて",
-        "sentence": "辞書で単語を調べています。",
-        "translation": "正在用字典查單字。"
+        "reading": "しらべて"
       },
       {
         "kind": "common",
@@ -11524,19 +11524,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "進む",
-        "reading": "すすむ",
+        "sentence": "この道をまっすぐ進むと、川に出ます。",
+        "translation": "沿著這條路直走，就會到河邊。",
         "surface": "進む",
-        "sentence": "計画が順調に進む。",
-        "translation": "計畫順利推進。"
+        "reading": "すすむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "進んで",
-        "reading": "すすんで",
+        "sentence": "工事が予定どおり進んで、来月には橋が使えそうです。",
+        "translation": "工程按計畫進行，下個月似乎就能使用這座橋。",
         "surface": "進んで",
-        "sentence": "計画が順調に進んでいます。",
-        "translation": "計畫正順利推進。"
+        "reading": "すすんで"
       },
       {
         "kind": "common",
@@ -11596,19 +11596,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "捨てる",
-        "reading": "すてる",
+        "sentence": "引っ越しの前に、使わない服を捨てる。",
+        "translation": "搬家前，我會丟掉不穿的衣服。",
         "surface": "捨てる",
-        "sentence": "いらない紙を捨てる。",
-        "translation": "丟掉不要的紙。"
+        "reading": "すてる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "捨てて",
-        "reading": "すてて",
+        "sentence": "空き缶をここに捨ててはいけません。",
+        "translation": "不可以把空罐子丟在這裡。",
         "surface": "捨てて",
-        "sentence": "いらない紙を捨ててください。",
-        "translation": "請丟掉不要的紙。"
+        "reading": "すてて"
       },
       {
         "kind": "common",
@@ -11666,19 +11666,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "滑る",
-        "reading": "すべる",
+        "sentence": "このスケート場は、初めてでも楽しく滑ることができる。",
+        "translation": "這座溜冰場即使第一次來，也能開心地滑冰。",
         "surface": "滑る",
-        "sentence": "凍った道では足が滑る。",
-        "translation": "結冰路上腳會打滑。"
+        "reading": "すべる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "滑って",
-        "reading": "すべって",
+        "sentence": "ぬれた階段で滑って、足を痛めました。",
+        "translation": "我在濕樓梯上滑倒，弄傷了腳。",
         "surface": "滑って",
-        "sentence": "凍った道では足が滑って転びそうになります。",
-        "translation": "結冰路上腳打滑，差點跌倒。"
+        "reading": "すべって"
       },
       {
         "kind": "common",
@@ -11739,19 +11739,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "済む",
-        "reading": "すむ",
+        "sentence": "カードがあれば、手続きはすぐに済む。",
+        "translation": "有卡片的話，手續很快就辦好了。",
         "surface": "済む",
-        "sentence": "準備が済む。",
-        "translation": "準備結束。"
+        "reading": "すむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "済んで",
-        "reading": "すんで",
+        "sentence": "支払いが済んでから、商品を受け取ってください。",
+        "translation": "請付完款後再領取商品。",
         "surface": "済んで",
-        "sentence": "準備が済んでいます。",
-        "translation": "準備已經結束。"
+        "reading": "すんで"
       },
       {
         "kind": "common",
@@ -11815,19 +11815,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "育てる",
-        "reading": "そだてる",
+        "sentence": "妹は学校で、小さな花を育てる。",
+        "translation": "妹妹在學校種小花。",
         "surface": "育てる",
-        "sentence": "庭で野菜を育てる。",
-        "translation": "在院子裡種蔬菜。"
+        "reading": "そだてる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "育てて",
-        "reading": "そだてて",
+        "sentence": "この町で子供を育てている親たちと知り合いました。",
+        "translation": "我認識了在這個鎮上養育孩子的家長們。",
         "surface": "育てて",
-        "sentence": "庭で野菜を育てています。",
-        "translation": "正在院子裡種蔬菜。"
+        "reading": "そだてて"
       },
       {
         "kind": "common",
@@ -11890,19 +11890,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "倒れる",
-        "reading": "たおれる",
+        "sentence": "足の細い机は、強く押すと倒れる。",
+        "translation": "細腳桌用力推就會倒。",
         "surface": "倒れる",
-        "sentence": "強い風で木が倒れる。",
-        "translation": "強風吹倒樹。"
+        "reading": "たおれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "倒れて",
-        "reading": "たおれて",
+        "sentence": "弟が熱で倒れて、母は仕事を休みました。",
+        "translation": "弟弟發燒病倒，媽媽請了假。",
         "surface": "倒れて",
-        "sentence": "強い風で木が倒れています。",
-        "translation": "樹被強風吹倒在地。"
+        "reading": "たおれて"
       },
       {
         "kind": "common",
@@ -11962,19 +11962,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "足す",
-        "reading": "たす",
+        "sentence": "味が薄ければ、塩を少し足す。",
+        "translation": "味道太淡的話，就加一點鹽。",
         "surface": "足す",
-        "sentence": "スープに水を足す。",
-        "translation": "往湯裡加水。"
+        "reading": "たす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "足して",
-        "reading": "たして",
+        "sentence": "残ったお金に千円足して、ほしかった本を買いました。",
+        "translation": "我在剩下的錢裡再加上一千日圓，買了想要的書。",
         "surface": "足して",
-        "sentence": "スープに水を足してください。",
-        "translation": "請往湯裡加水。"
+        "reading": "たして"
       },
       {
         "kind": "common",
@@ -12034,19 +12034,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "尋ねる",
-        "reading": "たずねる",
+        "sentence": "会場への行き方は、受付の人に尋ねる。",
+        "translation": "去會場的路，我會問櫃檯人員。",
         "surface": "尋ねる",
-        "sentence": "先生に質問を尋ねる。",
-        "translation": "向老師提問。"
+        "reading": "たずねる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "尋ねて",
-        "reading": "たずねて",
+        "sentence": "祖母に昔の暮らしを尋ねて、学校で発表しました。",
+        "translation": "向祖母請教以前的生活後，我在學校做了報告。",
         "surface": "尋ねて",
-        "sentence": "先生に質問を尋ねてメモを取ります。",
-        "translation": "向老師提問後做筆記。"
+        "reading": "たずねて"
       },
       {
         "kind": "common",
@@ -12108,19 +12108,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "訪ねる",
-        "reading": "たずねる",
+        "sentence": "休みには、田舎の祖父母を訪ねる。",
+        "translation": "放假時，我會去看鄉下的祖父母。",
         "surface": "訪ねる",
-        "sentence": "友達の家を訪ねる。",
-        "translation": "拜訪朋友家。"
+        "reading": "たずねる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "訪ねて",
-        "reading": "たずねて",
+        "sentence": "京都の小さな寺を訪ねて、庭を見せてもらいました。",
+        "translation": "我造訪京都的一座小寺廟，參觀了庭院。",
         "surface": "訪ねて",
-        "sentence": "友達の家を訪ねて一緒に食事をします。",
-        "translation": "拜訪朋友家後，一起吃飯。"
+        "reading": "たずねて"
       },
       {
         "kind": "common",
@@ -12153,76 +12153,36 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
     ]
   },
   "n4-jmdict-1257330": {
-    "sentence": "この橋は二年前に建てられた。",
-    "translation": "這座橋是在兩年前建造的。",
-    "surface": "建て",
-    "evidence": {
-      "surface": "建て",
-      "reading": "たてる",
-      "lemma": "建てる",
-      "method": "lemma+reading",
-      "meaningAnchors": [
-        "建造"
-      ],
-      "review": "reading-and-gloss-anchor"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "222324",
-      "zhId": "905346",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "這座橋是在兩年前建造的。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "modified": "none"
-    },
+    "surface": "建てた",
+    "reading": "たてた",
+    "sentence": "祖父が三十年前に建てた家に、今も家族が住んでいます。",
+    "translation": "全家人至今仍住在祖父三十年前蓋的房子裡。",
     "variants": [
       {
         "kind": "dictionary",
         "label": "原型",
         "form": "建てる",
-        "reading": "たてる",
+        "sentence": "父はいつか、海の近くに家を建てると言っています。",
+        "translation": "爸爸說有一天要在海邊蓋房子。",
         "surface": "建てる",
-        "sentence": "町に新しい家を建てる。",
-        "translation": "在鎮上蓋新房子。"
+        "reading": "たてる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "建てて",
-        "reading": "たてて",
+        "sentence": "町の人は集会所を建てて、祭りの準備に使っています。",
+        "translation": "鎮民蓋了活動中心，用來準備祭典。",
         "surface": "建てて",
-        "sentence": "町に新しい家を建てています。",
-        "translation": "正在鎮上蓋新房子。"
+        "reading": "たてて"
       },
       {
         "kind": "common",
         "label": "常用用法",
-        "sentence": "この橋は二年前に建てられた。",
-        "translation": "這座橋是在兩年前建造的。",
-        "surface": "建て",
-        "evidence": {
-          "surface": "建て",
-          "reading": "たてる",
-          "lemma": "建てる",
-          "method": "lemma+reading",
-          "meaningAnchors": [
-            "建造"
-          ],
-          "review": "reading-and-gloss-anchor"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "222324",
-          "zhId": "905346",
-          "jaAuthor": "\\N",
-          "zhAuthor": "Martha",
-          "originalTranslation": "這座橋是在兩年前建造的。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "modified": "none"
-        }
+        "surface": "建てた",
+        "reading": "たてた",
+        "sentence": "祖父が三十年前に建てた家に、今も家族が住んでいます。",
+        "translation": "全家人至今仍住在祖父三十年前蓋的房子裡。"
       }
     ]
   },
@@ -12256,19 +12216,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "立てる",
-        "reading": "たてる",
+        "sentence": "週の初めに、勉強の予定を立てる。",
+        "translation": "每週開始時，我會訂讀書計畫。",
         "surface": "立てる",
-        "sentence": "旅行の計画を立てる。",
-        "translation": "制定旅行計畫。"
+        "reading": "たてる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "立てて",
-        "reading": "たてて",
+        "sentence": "自転車を壁に立ててかけて、かぎをかけました。",
+        "translation": "我把腳踏車立靠在牆邊，鎖上了鎖。",
         "surface": "立てて",
-        "sentence": "旅行の計画を立てています。",
-        "translation": "正在制定旅行計畫。"
+        "reading": "たてて"
       },
       {
         "kind": "common",
@@ -12328,19 +12288,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "足りる",
-        "reading": "たりる",
+        "sentence": "五人なら、この大きさのテーブルで足りる。",
+        "translation": "五個人的話，這個大小的桌子就夠用了。",
         "surface": "足りる",
-        "sentence": "このお金で足りる。",
-        "translation": "這些錢夠用。"
+        "reading": "たりる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "足りて",
-        "reading": "たりて",
+        "sentence": "材料が足りているか、料理の前に確認しましょう。",
+        "translation": "開始做菜前，先確認材料是否足夠吧。",
         "surface": "足りて",
-        "sentence": "このお金で足りて安心しました。",
-        "translation": "這些錢夠用，讓人安心。"
+        "reading": "たりて"
       },
       {
         "kind": "common",
@@ -12400,19 +12360,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "捕まえる",
-        "reading": "つかまえる",
+        "sentence": "子供たちは網を持って、池の虫を捕まえる。",
+        "translation": "孩子們拿著網子抓池塘裡的昆蟲。",
         "surface": "捕まえる",
-        "sentence": "警察が犯人を捕まえる。",
-        "translation": "警察抓犯人。"
+        "reading": "つかまえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "捕まえて",
-        "reading": "つかまえて",
+        "sentence": "店の外へ逃げた鳥を捕まえて、かごに戻しました。",
+        "translation": "我抓住逃到店外的鳥，把牠放回籠裡。",
         "surface": "捕まえて",
-        "sentence": "警察が犯人を捕まえてから調べます。",
-        "translation": "警察抓到犯人後，開始調查。"
+        "reading": "つかまえて"
       },
       {
         "kind": "common",
@@ -12473,19 +12433,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "点く",
-        "reading": "つく",
+        "sentence": "ボタンを押すと、小さな赤いランプが点く。",
+        "translation": "按下按鈕，小紅燈就會亮。",
         "surface": "点く",
-        "sentence": "部屋の電気が点く。",
-        "translation": "房間的燈亮起。"
+        "reading": "つく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "点いて",
-        "reading": "ついて",
+        "sentence": "隣の部屋に明かりが点いて、母が帰ったと分かりました。",
+        "translation": "隔壁房間的燈亮了，我知道媽媽回來了。",
         "surface": "点いて",
-        "sentence": "部屋の電気が点いています。",
-        "translation": "房間的燈亮著。"
+        "reading": "ついて"
       },
       {
         "kind": "common",
@@ -12544,19 +12504,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "伝える",
-        "reading": "つたえる",
+        "sentence": "父は出かける前に、帰る時間を母に伝える。",
+        "translation": "爸爸出門前會告訴媽媽回家的時間。",
         "surface": "伝える",
-        "sentence": "自分の気持ちを伝える。",
-        "translation": "傳達自己的感受。"
+        "reading": "つたえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "伝えて",
-        "reading": "つたえて",
+        "sentence": "友達に感謝の気持ちを伝えてから、空港へ向かいました。",
+        "translation": "向朋友表達感謝後，我前往機場。",
         "surface": "伝えて",
-        "sentence": "自分の気持ちを伝えてください。",
-        "translation": "請傳達自己的感受。"
+        "reading": "つたえて"
       },
       {
         "kind": "common",
@@ -12616,19 +12576,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "続く",
-        "reading": "つづく",
+        "sentence": "この道は、海まで長く続く。",
+        "translation": "這條路一直延伸到海邊。",
         "surface": "続く",
-        "sentence": "雨の日が続く。",
-        "translation": "雨天持續。"
+        "reading": "つづく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "続いて",
-        "reading": "つづいて",
+        "sentence": "暑い日が続いて、花に毎日水をやっています。",
+        "translation": "炎熱的日子持續著，我每天都替花澆水。",
         "surface": "続いて",
-        "sentence": "雨の日が続いています。",
-        "translation": "雨天正持續。"
+        "reading": "つづいて"
       },
       {
         "kind": "common",
@@ -12688,19 +12648,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "包む",
-        "reading": "つつむ",
+        "sentence": "店員は買ったお菓子を、きれいな紙で包む。",
+        "translation": "店員用漂亮的紙包裝買下的點心。",
         "surface": "包む",
-        "sentence": "プレゼントを紙で包む。",
-        "translation": "用紙包禮物。"
+        "reading": "つつむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "包んで",
-        "reading": "つつんで",
+        "sentence": "お弁当を布で包んで、かばんに入れました。",
+        "translation": "我用布包好便當，放進包包裡。",
         "surface": "包んで",
-        "sentence": "プレゼントを紙で包んでいます。",
-        "translation": "正在用紙包禮物。"
+        "reading": "つつんで"
       },
       {
         "kind": "common",
@@ -12758,19 +12718,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "釣る",
-        "reading": "つる",
+        "sentence": "祖父は休みの日、海で魚を釣る。",
+        "translation": "祖父休假時在海邊釣魚。",
         "surface": "釣る",
-        "sentence": "川で魚を釣る。",
-        "translation": "在河邊釣魚。"
+        "reading": "つる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "釣って",
-        "reading": "つって",
+        "sentence": "父が川で魚を釣って、夕食のおかずになりました。",
+        "translation": "爸爸在河裡釣了魚，成了晚餐的菜。",
         "surface": "釣って",
-        "sentence": "川で魚を釣っています。",
-        "translation": "正在河邊釣魚。"
+        "reading": "つって"
       },
       {
         "kind": "common",
@@ -12830,19 +12790,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "連れる",
-        "reading": "つれる",
+        "sentence": "旅行に子供を連れるかどうか、家族で相談した。",
+        "translation": "是否要帶孩子去旅行，全家商量過了。",
         "surface": "連れる",
-        "sentence": "子供を公園へ連れる。",
-        "translation": "帶孩子去公園。"
+        "reading": "つれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "連れて",
-        "reading": "つれて",
+        "sentence": "弟は犬を連れて、近くの公園へ行きました。",
+        "translation": "弟弟帶著狗去了附近的公園。",
         "surface": "連れて",
-        "sentence": "子供を公園へ連れて一緒に遊びます。",
-        "translation": "帶孩子去公園後，一起玩耍。"
+        "reading": "つれて"
       },
       {
         "kind": "common",
@@ -12904,19 +12864,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "手伝う",
-        "reading": "てつだう",
+        "sentence": "私は毎週、祖父の畑の仕事を手伝う。",
+        "translation": "我每週幫祖父做田裡的工作。",
         "surface": "手伝う",
-        "sentence": "母の料理を手伝う。",
-        "translation": "幫媽媽做菜。"
+        "reading": "てつだう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "手伝って",
-        "reading": "てつだって",
+        "sentence": "妹が引っ越しを手伝ってくれたので、一日で終わりました。",
+        "translation": "妹妹幫忙搬家，所以一天就搬完了。",
         "surface": "手伝って",
-        "sentence": "母の料理を手伝っています。",
-        "translation": "正在幫媽媽做菜。"
+        "reading": "てつだって"
       },
       {
         "kind": "common",
@@ -12978,19 +12938,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "通る",
-        "reading": "とおる",
+        "sentence": "このバスは、駅から病院の前を通る。",
+        "translation": "這班公車從車站出發，會經過醫院前面。",
         "surface": "通る",
-        "sentence": "学校へ行くとき、公園を通る。",
-        "translation": "上學時經過公園。"
+        "reading": "とおる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "通って",
-        "reading": "とおって",
+        "sentence": "細い橋を通って、川の向こうへ渡りました。",
+        "translation": "我通過一座小橋，到了河對岸。",
         "surface": "通って",
-        "sentence": "学校へ行くとき、公園を通って花を見ます。",
-        "translation": "上學時經過公園，看看花。"
+        "reading": "とおって"
       },
       {
         "kind": "common",
@@ -13050,19 +13010,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "泊まる",
-        "reading": "とまる",
+        "sentence": "今年の夏は、海辺の民宿に泊まる。",
+        "translation": "今年夏天，我要住在海邊的民宿。",
         "surface": "泊まる",
-        "sentence": "旅行中はホテルに泊まる。",
-        "translation": "旅行中住飯店。"
+        "reading": "とまる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "泊まって",
-        "reading": "とまって",
+        "sentence": "祖父母の家に泊まって、朝早く畑に出ました。",
+        "translation": "我住在祖父母家，隔天一早就去了田裡。",
         "surface": "泊まって",
-        "sentence": "旅行中はホテルに泊まっています。",
-        "translation": "旅行中正住在飯店。"
+        "reading": "とまって"
       },
       {
         "kind": "common",
@@ -13120,19 +13080,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "取り替える",
-        "reading": "とりかえる",
+        "sentence": "冬になる前に、車のタイヤを取り替える。",
+        "translation": "入冬前，我會更換車子的輪胎。",
         "surface": "取り替える",
-        "sentence": "古い電池を取り替える。",
-        "translation": "換掉舊電池。"
+        "reading": "とりかえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "取り替えて",
-        "reading": "とりかえて",
+        "sentence": "汚れたシーツを取り替えて、お客様を迎える準備をしました。",
+        "translation": "換掉髒床單後，我做好了迎接客人的準備。",
         "surface": "取り替えて",
-        "sentence": "古い電池を取り替えてください。",
-        "translation": "請換掉舊電池。"
+        "reading": "とりかえて"
       },
       {
         "kind": "common",
@@ -13192,19 +13152,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "直す",
-        "reading": "なおす",
+        "sentence": "兄は休みの日、壊れた自転車を直す。",
+        "translation": "哥哥休假時會修壞掉的腳踏車。",
         "surface": "直す",
-        "sentence": "作文の間違いを直す。",
-        "translation": "改正作文錯誤。"
+        "reading": "なおす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "直して",
-        "reading": "なおして",
+        "sentence": "先生に作文の間違いを直してもらいました。",
+        "translation": "我請老師替我改了作文中的錯誤。",
         "surface": "直して",
-        "sentence": "作文の間違いを直しています。",
-        "translation": "正在改正作文錯誤。"
+        "reading": "なおして"
       },
       {
         "kind": "common",
@@ -13264,19 +13224,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "治る",
-        "reading": "なおる",
+        "sentence": "この傷は、しばらくすれば治るでしょう。",
+        "translation": "這個傷再過一段時間應該就會好了。",
         "surface": "治る",
-        "sentence": "風邪が治る。",
-        "translation": "感冒痊癒。"
+        "reading": "なおる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "治って",
-        "reading": "なおって",
+        "sentence": "母の病気が治って、家族みんなで喜びました。",
+        "translation": "媽媽的病好了，全家都很高興。",
         "surface": "治って",
-        "sentence": "風邪が治っています。",
-        "translation": "感冒已經痊癒。"
+        "reading": "なおって"
       },
       {
         "kind": "common",
@@ -13336,19 +13296,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "泣く",
-        "reading": "なく",
+        "sentence": "妹は悲しい映画を見ると、よく泣く。",
+        "translation": "妹妹看悲傷的電影時常常會哭。",
         "surface": "泣く",
-        "sentence": "赤ちゃんが泣く。",
-        "translation": "寶寶哭泣。"
+        "reading": "なく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "泣いて",
-        "reading": "ないて",
+        "sentence": "道に迷って泣いている子供に、駅員が声をかけました。",
+        "translation": "站務人員上前關心因迷路而哭泣的孩子。",
         "surface": "泣いて",
-        "sentence": "赤ちゃんが泣いています。",
-        "translation": "寶寶正在哭。"
+        "reading": "ないて"
       },
       {
         "kind": "common",
@@ -13411,19 +13371,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "無くなる",
-        "reading": "なくなる",
+        "sentence": "この店は人気があるので、昼にはパンが無くなる。",
+        "translation": "這間店很受歡迎，中午麵包就會賣光。",
         "surface": "無くなる",
-        "sentence": "使い続けると、電池が無くなる。",
-        "translation": "一直使用電池就會耗盡。"
+        "reading": "なくなる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "無くなって",
-        "reading": "なくなって",
+        "sentence": "水が無くなってしまったので、近くの店で買いました。",
+        "translation": "水喝完了，我到附近的店裡買水。",
         "surface": "無くなって",
-        "sentence": "使い続けると、電池が無くなってしまいます。",
-        "translation": "一直使用電池就會耗盡。"
+        "reading": "なくなって"
       },
       {
         "kind": "common",
@@ -13486,19 +13446,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "亡くなる",
-        "reading": "なくなる",
+        "sentence": "この小説では、最後に王様が亡くなる。",
+        "translation": "這本小說最後，國王過世了。",
         "surface": "亡くなる",
-        "sentence": "物語の最後に、主人公が亡くなる。",
-        "translation": "故事最後主角過世。"
+        "reading": "なくなる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "亡くなって",
-        "reading": "なくなって",
+        "sentence": "祖母が亡くなってから、もう十年になります。",
+        "translation": "祖母過世至今，已經十年了。",
         "surface": "亡くなって",
-        "sentence": "物語の最後に、主人公が亡くなって家族が悲しみます。",
-        "translation": "故事最後主角過世，家人很悲傷。"
+        "reading": "なくなって"
       },
       {
         "kind": "common",
@@ -13558,19 +13518,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "投げる",
-        "reading": "なげる",
+        "sentence": "弟は犬に、小さなボールを投げる。",
+        "translation": "弟弟向狗扔小球。",
         "surface": "投げる",
-        "sentence": "友達にボールを投げる。",
-        "translation": "把球扔給朋友。"
+        "reading": "なげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "投げて",
-        "reading": "なげて",
+        "sentence": "遠くへ紙飛行機を投げて、子供たちは喜んでいました。",
+        "translation": "把紙飛機扔得很遠，孩子們高興極了。",
         "surface": "投げて",
-        "sentence": "友達にボールを投げてください。",
-        "translation": "請把球扔給朋友。"
+        "reading": "なげて"
       },
       {
         "kind": "common",
@@ -13631,19 +13591,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "鳴る",
-        "reading": "なる",
+        "sentence": "朝七時に、弟の目覚ましが鳴る。",
+        "translation": "早上七點，弟弟的鬧鐘會響。",
         "surface": "鳴る",
-        "sentence": "玄関のベルが鳴る。",
-        "translation": "玄關門鈴響起。"
+        "reading": "なる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "鳴って",
-        "reading": "なって",
+        "sentence": "授業の終わりのベルが鳴って、学生たちは立ち上がりました。",
+        "translation": "下課鐘響了，學生們站了起來。",
         "surface": "鳴って",
-        "sentence": "玄関のベルが鳴っています。",
-        "translation": "玄關門鈴正在響。"
+        "reading": "なって"
       },
       {
         "kind": "common",
@@ -13706,19 +13666,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "慣れる",
-        "reading": "なれる",
+        "sentence": "毎日練習すれば、この機械にも慣れる。",
+        "translation": "每天練習，就會習慣使用這臺機器。",
         "surface": "慣れる",
-        "sentence": "新しい仕事に慣れる。",
-        "translation": "習慣新工作。"
+        "reading": "なれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "慣れて",
-        "reading": "なれて",
+        "sentence": "新しい学校に慣れてきて、友達も増えました。",
+        "translation": "漸漸適應新學校後，朋友也變多了。",
         "surface": "慣れて",
-        "sentence": "新しい仕事に慣れています。",
-        "translation": "已經習慣新工作。"
+        "reading": "なれて"
       },
       {
         "kind": "common",
@@ -13780,19 +13740,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "逃げる",
-        "reading": "にげる",
+        "sentence": "地震のときは、安全な場所へ逃げる。",
+        "translation": "地震時要逃往安全的地方。",
         "surface": "逃げる",
-        "sentence": "猫が犬から逃げる。",
-        "translation": "貓從狗身邊逃跑。"
+        "reading": "にげる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "逃げて",
-        "reading": "にげて",
+        "sentence": "小鳥がかごから逃げてしまい、家族で探しました。",
+        "translation": "小鳥逃出了籠子，全家一起尋找。",
         "surface": "逃げて",
-        "sentence": "猫が犬から逃げています。",
-        "translation": "貓正在躲狗。"
+        "reading": "にげて"
       },
       {
         "kind": "common",
@@ -13854,19 +13814,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "似る",
-        "reading": "にる",
+        "sentence": "子供の顔は、成長すると親に似ることもあります。",
+        "translation": "孩子長大後，臉有時會變得像父母。",
         "surface": "似る",
-        "sentence": "子供は親に似る。",
-        "translation": "孩子像父母。"
+        "reading": "にる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "似て",
-        "reading": "にて",
+        "sentence": "この町の景色は故郷に似ていて、懐かしくなりました。",
+        "translation": "這個鎮的景色很像故鄉，讓我覺得懷念。",
         "surface": "似て",
-        "sentence": "子供は親に似ています。",
-        "translation": "孩子長得像父母。"
+        "reading": "にて"
       },
       {
         "kind": "common",
@@ -13926,19 +13886,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "盗む",
-        "reading": "ぬすむ",
+        "sentence": "人の物を盗むことは、決して許されません。",
+        "translation": "偷別人的東西絕不被容許。",
         "surface": "盗む",
-        "sentence": "物語の泥棒が宝物を盗む。",
-        "translation": "故事裡的小偷偷寶物。"
+        "reading": "ぬすむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "盗んで",
-        "reading": "ぬすんで",
+        "sentence": "店の商品を盗んではいけません。きちんとお金を払ってください。",
+        "translation": "不可以偷店裡的商品，請好好付錢。",
         "surface": "盗んで",
-        "sentence": "物語の泥棒が宝物を盗んでいます。",
-        "translation": "故事裡的小偷正在偷寶物。"
+        "reading": "ぬすんで"
       },
       {
         "kind": "common",
@@ -13996,19 +13956,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "塗る",
-        "reading": "ぬる",
+        "sentence": "父は古い机に、白いペンキを塗る。",
+        "translation": "爸爸替舊桌子刷上白漆。",
         "surface": "塗る",
-        "sentence": "壁にペンキを塗る。",
-        "translation": "在牆上刷油漆。"
+        "reading": "ぬる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "塗って",
-        "reading": "ぬって",
+        "sentence": "パンにバターを塗ってから、少し焼きました。",
+        "translation": "在麵包上塗好奶油後，我稍微烤了一下。",
         "surface": "塗って",
-        "sentence": "壁にペンキを塗っています。",
-        "translation": "正在牆上刷油漆。"
+        "reading": "ぬって"
       },
       {
         "kind": "common",
@@ -14068,19 +14028,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "濡れる",
-        "reading": "ぬれる",
+        "sentence": "雨が強いと、かばんの中まで濡れる。",
+        "translation": "雨很大時，連包包裡面都會濕。",
         "surface": "濡れる",
-        "sentence": "雨で服が濡れる。",
-        "translation": "衣服被雨淋濕。"
+        "reading": "ぬれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "濡れて",
-        "reading": "ぬれて",
+        "sentence": "海で靴が濡れて、しばらく裸足で歩きました。",
+        "translation": "鞋子在海邊弄濕了，我赤腳走了一會兒。",
         "surface": "濡れて",
-        "sentence": "雨で服が濡れています。",
-        "translation": "衣服已被雨淋濕。"
+        "reading": "ぬれて"
       },
       {
         "kind": "common",
@@ -14142,19 +14102,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "眠る",
-        "reading": "ねむる",
+        "sentence": "弟は毎晩、音楽を聞きながら眠る。",
+        "translation": "弟弟每晚聽著音樂入睡。",
         "surface": "眠る",
-        "sentence": "猫が椅子の上で眠る。",
-        "translation": "貓在椅子上睡覺。"
+        "reading": "ねむる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "眠って",
-        "reading": "ねむって",
+        "sentence": "犬が玄関で眠っている間に、荷物を車に運びました。",
+        "translation": "趁狗在玄關睡覺時，我把行李搬上車。",
         "surface": "眠って",
-        "sentence": "猫が椅子の上で眠っています。",
-        "translation": "貓正在椅子上睡覺。"
+        "reading": "ねむって"
       },
       {
         "kind": "common",
@@ -14216,19 +14176,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "残る",
-        "reading": "のこる",
+        "sentence": "この道を進むと、昔の建物がまだ残る町に着きます。",
+        "translation": "沿著這條路走，會到一個仍保留老建築的鎮。",
         "surface": "残る",
-        "sentence": "食事の後、おかずが残る。",
-        "translation": "飯後剩下配菜。"
+        "reading": "のこる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "残って",
-        "reading": "のこって",
+        "sentence": "ケーキが二つ残っていたので、妹と分けました。",
+        "translation": "因為還剩兩塊蛋糕，我和妹妹分著吃了。",
         "surface": "残って",
-        "sentence": "食事の後、おかずが残っています。",
-        "translation": "飯後還剩著配菜。"
+        "reading": "のこって"
       },
       {
         "kind": "common",
@@ -14290,19 +14250,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "運ぶ",
-        "reading": "はこぶ",
+        "sentence": "店員は朝、店の前に野菜を運ぶ。",
+        "translation": "店員早上把蔬菜搬到店前。",
         "surface": "運ぶ",
-        "sentence": "部屋に荷物を運ぶ。",
-        "translation": "把行李搬進房間。"
+        "reading": "はこぶ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "運んで",
-        "reading": "はこんで",
+        "sentence": "この箱を二人で運んでください。一人では重すぎます。",
+        "translation": "請兩個人一起搬這個箱子，一個人搬太重了。",
         "surface": "運んで",
-        "sentence": "部屋に荷物を運んでいます。",
-        "translation": "正在把行李搬進房間。"
+        "reading": "はこんで"
       },
       {
         "kind": "common",
@@ -14365,19 +14325,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "始める",
-        "reading": "はじめる",
+        "sentence": "祖母は来年、新しい趣味を始めると言っています。",
+        "translation": "祖母說明年要開始培養新的興趣。",
         "surface": "始める",
-        "sentence": "友達と日本語の勉強を始める。",
-        "translation": "和朋友開始學日文。"
+        "reading": "はじめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "始めて",
-        "reading": "はじめて",
+        "sentence": "兄は大学で中国語を始めて、毎日少しずつ練習しています。",
+        "translation": "哥哥在大學開始學中文，每天一點一點練習。",
         "surface": "始めて",
-        "sentence": "友達と日本語の勉強を始めて毎日練習します。",
-        "translation": "和朋友開始學日文後，每天練習。"
+        "reading": "はじめて"
       },
       {
         "kind": "common",
@@ -14440,19 +14400,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "払う",
-        "reading": "はらう",
+        "sentence": "旅行の代金は、出発の前に払う。",
+        "translation": "旅行費用要在出發前支付。",
         "surface": "払う",
-        "sentence": "店で代金を払う。",
-        "translation": "在店裡付款。"
+        "reading": "はらう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "払って",
-        "reading": "はらって",
+        "sentence": "家賃を払ってから、残ったお金を数えました。",
+        "translation": "付完房租後，我數了剩下的錢。",
         "surface": "払って",
-        "sentence": "店で代金を払ってください。",
-        "translation": "請在店裡付款。"
+        "reading": "はらって"
       },
       {
         "kind": "common",
@@ -14512,19 +14472,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "冷える",
-        "reading": "ひえる",
+        "sentence": "雨の夜は、山の空気がよく冷える。",
+        "translation": "下雨的夜晚，山裡的空氣會變得很冷。",
         "surface": "冷える",
-        "sentence": "冬は手が冷える。",
-        "translation": "冬天手會變冷。"
+        "reading": "ひえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "冷えて",
-        "reading": "ひえて",
+        "sentence": "お茶が冷えてしまったので、温め直しました。",
+        "translation": "茶已經涼了，我重新加熱了一下。",
         "surface": "冷えて",
-        "sentence": "冬は手が冷えています。",
-        "translation": "冬天手很冰冷。"
+        "reading": "ひえて"
       },
       {
         "kind": "common",
@@ -14584,19 +14544,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "光る",
-        "reading": "ひかる",
+        "sentence": "夜になると、橋のランプが光る。",
+        "translation": "到了晚上，橋上的燈就會亮。",
         "surface": "光る",
-        "sentence": "夜空に星が光る。",
-        "translation": "星星在夜空發光。"
+        "reading": "ひかる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "光って",
-        "reading": "ひかって",
+        "sentence": "水に朝日が当たって光って、とてもきれいでした。",
+        "translation": "水面映著晨光閃耀，非常美麗。",
         "surface": "光って",
-        "sentence": "夜空に星が光っています。",
-        "translation": "星星正在夜空發光。"
+        "reading": "ひかって"
       },
       {
         "kind": "common",
@@ -14659,19 +14619,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "引っ越す",
-        "reading": "ひっこす",
+        "sentence": "姉は結婚したら、駅の近くへ引っ越す。",
+        "translation": "姊姊結婚後要搬到車站附近。",
         "surface": "引っ越す",
-        "sentence": "仕事のために東京へ引っ越す。",
-        "translation": "因工作搬去東京。"
+        "reading": "ひっこす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "引っ越して",
-        "reading": "ひっこして",
+        "sentence": "この町に引っ越してきて、三か月になります。",
+        "translation": "搬到這個鎮上，已經三個月了。",
         "surface": "引っ越して",
-        "sentence": "仕事のために東京へ引っ越して新しい生活を始めます。",
-        "translation": "因工作搬去東京後，開始新生活。"
+        "reading": "ひっこして"
       },
       {
         "kind": "common",
@@ -14734,19 +14694,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "開く",
-        "reading": "ひらく",
+        "sentence": "図書館で本を開くときは、静かにしてください。",
+        "translation": "在圖書館翻開書本時，請保持安靜。",
         "surface": "開く",
-        "sentence": "ノートを開く。",
-        "translation": "打開筆記本。"
+        "reading": "ひらく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "開いて",
-        "reading": "ひらいて",
+        "sentence": "弟は大きな地図を開いて、旅行の道を調べました。",
+        "translation": "弟弟攤開大地圖，查了旅行路線。",
         "surface": "開いて",
-        "sentence": "ノートを開いてください。",
-        "translation": "請打開筆記本。"
+        "reading": "ひらいて"
       },
       {
         "kind": "common",
@@ -14806,19 +14766,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "拾う",
-        "reading": "ひろう",
+        "sentence": "公園でごみを拾う活動に参加しています。",
+        "translation": "我參加在公園撿垃圾的活動。",
         "surface": "拾う",
-        "sentence": "道に落ちたごみを拾う。",
-        "translation": "撿路上的垃圾。"
+        "reading": "ひろう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "拾って",
-        "reading": "ひろって",
+        "sentence": "道に落ちていた財布を拾って、交番に届けました。",
+        "translation": "我撿到掉在路上的錢包，送到了派出所。",
         "surface": "拾って",
-        "sentence": "道に落ちたごみを拾っています。",
-        "translation": "正在撿路上的垃圾。"
+        "reading": "ひろって"
       },
       {
         "kind": "common",
@@ -14878,19 +14838,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "増える",
-        "reading": "ふえる",
+        "sentence": "駅ができると、この町の人も増えるでしょう。",
+        "translation": "車站蓋好後，這個鎮的人口也會增加吧。",
         "surface": "増える",
-        "sentence": "町の人口が増える。",
-        "translation": "城鎮人口增加。"
+        "reading": "ふえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "増えて",
-        "reading": "ふえて",
+        "sentence": "雨の日が増えて、洗濯物が乾きにくくなりました。",
+        "translation": "下雨的日子變多了，衣服變得不容易乾。",
         "surface": "増えて",
-        "sentence": "町の人口が増えて新しい学校が必要になります。",
-        "translation": "城鎮人口增加後，需要新學校。"
+        "reading": "ふえて"
       },
       {
         "kind": "common",
@@ -14950,19 +14910,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "褒める",
-        "reading": "ほめる",
+        "sentence": "先生は生徒の小さな進歩も褒める。",
+        "translation": "老師連學生小小的進步都會稱讚。",
         "surface": "褒める",
-        "sentence": "頑張った子供を褒める。",
-        "translation": "稱讚努力的孩子。"
+        "reading": "ほめる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "褒めて",
-        "reading": "ほめて",
+        "sentence": "母は弟の料理を褒めて、もう一度作ってほしいと言いました。",
+        "translation": "媽媽稱讚弟弟做的菜，說希望他再做一次。",
         "surface": "褒めて",
-        "sentence": "頑張った子供を褒めてください。",
-        "translation": "請稱讚努力的孩子。"
+        "reading": "ほめて"
       },
       {
         "kind": "common",
@@ -15020,19 +14980,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "参る",
-        "reading": "まいる",
+        "sentence": "明日の朝九時に、会社へ参る予定です。",
+        "translation": "我預計明天早上九點到貴公司。",
         "surface": "参る",
-        "sentence": "私が先生のお宅へ参る。",
-        "translation": "我去老師府上。"
+        "reading": "まいる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "参って",
-        "reading": "まいって",
+        "sentence": "私は先月こちらに参って、町の様子を拝見しました。",
+        "translation": "我上個月來過這裡，參觀了城鎮的情況。",
         "surface": "参って",
-        "sentence": "私が先生のお宅へ参ってからご報告します。",
-        "translation": "我去老師府上之後，再向您報告。"
+        "reading": "まいって"
       },
       {
         "kind": "common",
@@ -15093,19 +15053,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "負ける",
-        "reading": "まける",
+        "sentence": "どんな相手でも、簡単には負けるつもりはありません。",
+        "translation": "不管對手是誰，我都不打算輕易認輸。",
         "surface": "負ける",
-        "sentence": "練習しないと、試合に負ける。",
-        "translation": "不練習就會輸掉比賽。"
+        "reading": "まける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "負けて",
-        "reading": "まけて",
+        "sentence": "試合に負けても、次に向けて練習を続けます。",
+        "translation": "就算比賽輸了，我仍會為下一場繼續練習。",
         "surface": "負けて",
-        "sentence": "練習しないと、試合に負けてしまいます。",
-        "translation": "不練習就會輸掉比賽。"
+        "reading": "まけて"
       },
       {
         "kind": "common",
@@ -15168,19 +15128,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "間違える",
-        "reading": "まちがえる",
+        "sentence": "同じ色のかさが多いと、人の物と間違える。",
+        "translation": "同顏色的傘很多時，容易拿錯別人的。",
         "surface": "間違える",
-        "sentence": "急ぐと、答えを間違える。",
-        "translation": "著急就會答錯。"
+        "reading": "まちがえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "間違えて",
-        "reading": "まちがえて",
+        "sentence": "電車を間違えて、反対の町に着いてしまいました。",
+        "translation": "我搭錯電車，到了反方向的城鎮。",
         "surface": "間違えて",
-        "sentence": "急ぐと、答えを間違えてしまいます。",
-        "translation": "著急就會答錯。"
+        "reading": "まちがえて"
       },
       {
         "kind": "common",
@@ -15243,19 +15203,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "間に合う",
-        "reading": "まにあう",
+        "sentence": "今出れば、病院の受付に間に合う。",
+        "translation": "現在出門，就趕得上醫院掛號。",
         "surface": "間に合う",
-        "sentence": "急げば、電車に間に合う。",
-        "translation": "快一點就趕得上電車。"
+        "reading": "まにあう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "間に合って",
-        "reading": "まにあって",
+        "sentence": "準備が出発に間に合って、無事に旅行に行けました。",
+        "translation": "準備趕上了出發時間，我順利去旅行了。",
         "surface": "間に合って",
-        "sentence": "急げば、電車に間に合って安心します。",
-        "translation": "快一點趕上電車，讓人安心。"
+        "reading": "まにあって"
       },
       {
         "kind": "common",
@@ -15316,19 +15276,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "回る",
-        "reading": "まわる",
+        "sentence": "この扇風機は、ボタンを押すと回る。",
+        "translation": "這臺電風扇按下按鈕就會轉。",
         "surface": "回る",
-        "sentence": "観覧車がゆっくり回る。",
-        "translation": "摩天輪慢慢轉。"
+        "reading": "まわる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "回って",
-        "reading": "まわって",
+        "sentence": "湖の周りを自転車で回って、写真をたくさん撮りました。",
+        "translation": "我騎腳踏車繞湖，拍了許多照片。",
         "surface": "回って",
-        "sentence": "観覧車がゆっくり回っています。",
-        "translation": "摩天輪正在慢慢轉。"
+        "reading": "まわって"
       },
       {
         "kind": "common",
@@ -15388,19 +15348,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "見える",
-        "reading": "みえる",
+        "sentence": "屋上に上れば、向こうの海が見える。",
+        "translation": "走上屋頂，就看得到對面的海。",
         "surface": "見える",
-        "sentence": "窓から山が見える。",
-        "translation": "從窗戶看得見山。"
+        "reading": "みえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "見えて",
-        "reading": "みえて",
+        "sentence": "遠くに船が見えてきたので、子供たちは手を振りました。",
+        "translation": "遠方漸漸看見船，孩子們揮起手來。",
         "surface": "見えて",
-        "sentence": "窓から山が見えて景色がきれいです。",
-        "translation": "從窗戶看得見山，景色很美。"
+        "reading": "みえて"
       },
       {
         "kind": "common",
@@ -15462,19 +15422,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "見つける",
-        "reading": "みつける",
+        "sentence": "旅行では、その町のおいしい店を見つけるのが楽しみです。",
+        "translation": "旅行時，發現當地好吃的店是一大樂趣。",
         "surface": "見つける",
-        "sentence": "問題の原因を見つける。",
-        "translation": "找出問題原因。"
+        "reading": "みつける"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "見つけて",
-        "reading": "みつけて",
+        "sentence": "弟は道で小さな猫を見つけて、家族に知らせました。",
+        "translation": "弟弟在路上發現一隻小貓，告訴了家人。",
         "surface": "見つけて",
-        "sentence": "問題の原因を見つけてから対処します。",
-        "translation": "找出問題原因後再處理。"
+        "reading": "みつけて"
       },
       {
         "kind": "common",
@@ -15536,19 +15496,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "迎える",
-        "reading": "むかえる",
+        "sentence": "春に、この学校は新入生を迎える。",
+        "translation": "春天，這間學校會迎接新生。",
         "surface": "迎える",
-        "sentence": "空港で友達を迎える。",
-        "translation": "在機場接朋友。"
+        "reading": "むかえる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "迎えて",
-        "reading": "むかえて",
+        "sentence": "友達を家に迎えて、一緒に夕食を作りました。",
+        "translation": "迎接朋友到家裡後，我們一起做了晚餐。",
         "surface": "迎えて",
-        "sentence": "空港で友達を迎えて一緒に帰ります。",
-        "translation": "在機場接到朋友後，一起回家。"
+        "reading": "むかえて"
       },
       {
         "kind": "common",
@@ -15608,19 +15568,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "召し上がる",
-        "reading": "めしあがる",
+        "sentence": "先生は朝、果物を召し上がるそうです。",
+        "translation": "聽說老師早上吃水果。",
         "surface": "召し上がる",
-        "sentence": "先生がお茶を召し上がる。",
-        "translation": "老師喝茶。"
+        "reading": "めしあがる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "召し上がって",
-        "reading": "めしあがって",
+        "sentence": "お客様はケーキを召し上がってから、庭をごらんになりました。",
+        "translation": "客人吃完蛋糕後，參觀了庭院。",
         "surface": "召し上がって",
-        "sentence": "先生、お茶を召し上がってください。",
-        "translation": "請老師喝茶。"
+        "reading": "めしあがって"
       },
       {
         "kind": "common",
@@ -15678,19 +15638,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "申す",
-        "reading": "もうす",
+        "sentence": "大切な点を申す前に、資料をお配りします。",
+        "translation": "說明重點之前，我先發資料。",
         "surface": "申す",
-        "sentence": "私の名前は田中と申す。",
-        "translation": "我的名字叫田中。"
+        "reading": "もうす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "申して",
-        "reading": "もうして",
+        "sentence": "失礼なことを申して、申し訳ございません。",
+        "translation": "說了失禮的話，非常抱歉。",
         "surface": "申して",
-        "sentence": "私の名前は田中と申してから挨拶します。",
-        "translation": "先謙稱自己的名字叫田中，再打招呼。"
+        "reading": "もうして"
       },
       {
         "kind": "common",
@@ -15748,19 +15708,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "戻る",
-        "reading": "もどる",
+        "sentence": "忘れ物に気づいたら、すぐに家へ戻る。",
+        "translation": "發現忘了東西時，我就馬上回家。",
         "surface": "戻る",
-        "sentence": "仕事の後、家に戻る。",
-        "translation": "工作後回家。"
+        "reading": "もどる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "戻って",
-        "reading": "もどって",
+        "sentence": "財布を取りに部屋へ戻って、もう一度出かけました。",
+        "translation": "我回房間拿錢包，又出門了。",
         "surface": "戻って",
-        "sentence": "仕事の後、家に戻って食事をします。",
-        "translation": "工作後回家，再吃飯。"
+        "reading": "もどって"
       },
       {
         "kind": "common",
@@ -15820,19 +15780,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "もらう",
-        "reading": "もらう",
+        "sentence": "弟は誕生日に、父から時計をもらう。",
+        "translation": "弟弟生日時會收到爸爸送的手錶。",
         "surface": "もらう",
-        "sentence": "友達から手紙をもらう。",
-        "translation": "收到朋友的信。"
+        "reading": "もらう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "もらって",
-        "reading": "もらって",
+        "sentence": "道を教えてもらって、駅に無事に着きました。",
+        "translation": "別人告訴我怎麼走後，我順利到了車站。",
         "surface": "もらって",
-        "sentence": "友達から手紙をもらってうれしいです。",
-        "translation": "收到朋友的信，感到很開心。"
+        "reading": "もらって"
       },
       {
         "kind": "common",
@@ -15893,19 +15853,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "焼く",
-        "reading": "やく",
+        "sentence": "父は休みの日、庭で肉を焼く。",
+        "translation": "爸爸休假時在院子裡烤肉。",
         "surface": "焼く",
-        "sentence": "オーブンでパンを焼く。",
-        "translation": "用烤箱烤麵包。"
+        "reading": "やく"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "焼いて",
-        "reading": "やいて",
+        "sentence": "朝、魚を焼いていると、いいにおいがしました。",
+        "translation": "早上烤魚時，傳來了好聞的味道。",
         "surface": "焼いて",
-        "sentence": "オーブンでパンを焼いています。",
-        "translation": "正在用烤箱烤麵包。"
+        "reading": "やいて"
       },
       {
         "kind": "common",
@@ -15937,78 +15897,36 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
     ]
   },
   "n4-jmdict-1537980": {
-    "sentence": "彼女は私たちに役に立つ情報をくれました。",
-    "translation": "她給了我們一些有用的訊息。",
     "surface": "役に立つ",
-    "evidence": {
-      "surface": "役に立つ",
-      "reading": "やくにたつ",
-      "lemma": "役に立つ",
-      "method": "token-boundaries+reading",
-      "meaningAnchors": [
-        "有用"
-      ],
-      "review": "reading-and-gloss-anchor"
-    },
-    "source": {
-      "provider": "Tatoeba",
-      "jaId": "89629",
-      "zhId": "805021",
-      "jaAuthor": "\\N",
-      "zhAuthor": "Martha",
-      "originalTranslation": "她給了我們一些有用的訊息。",
-      "license": "CC BY 2.0 FR",
-      "retrievedAt": "2026-10-31",
-      "pivotId": "314086",
-      "modified": "none"
-    },
+    "reading": "やくにたつ",
+    "sentence": "この本には、旅行の役に立つ情報がたくさんあります。",
+    "translation": "這本書有很多對旅行有幫助的資訊。",
     "variants": [
       {
         "kind": "dictionary",
         "label": "原型",
         "form": "役に立つ",
-        "reading": "やくにたつ",
+        "sentence": "この経験は、将来の仕事の役に立つ。",
+        "translation": "這個經驗對未來的工作有幫助。",
         "surface": "役に立つ",
-        "sentence": "この辞書は勉強に役に立つ。",
-        "translation": "這本字典對學習有幫助。"
+        "reading": "やくにたつ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "役に立って",
-        "reading": "やくにたって",
+        "sentence": "古い地図が役に立って、山道で迷わずにすみました。",
+        "translation": "舊地圖派上用場，讓我們在山路上沒有迷路。",
         "surface": "役に立って",
-        "sentence": "この辞書は勉強に役に立っています。",
-        "translation": "這本字典對學習有幫助。"
+        "reading": "やくにたって"
       },
       {
         "kind": "common",
         "label": "常用用法",
-        "sentence": "彼女は私たちに役に立つ情報をくれました。",
-        "translation": "她給了我們一些有用的訊息。",
         "surface": "役に立つ",
-        "evidence": {
-          "surface": "役に立つ",
-          "reading": "やくにたつ",
-          "lemma": "役に立つ",
-          "method": "token-boundaries+reading",
-          "meaningAnchors": [
-            "有用"
-          ],
-          "review": "reading-and-gloss-anchor"
-        },
-        "source": {
-          "provider": "Tatoeba",
-          "jaId": "89629",
-          "zhId": "805021",
-          "jaAuthor": "\\N",
-          "zhAuthor": "Martha",
-          "originalTranslation": "她給了我們一些有用的訊息。",
-          "license": "CC BY 2.0 FR",
-          "retrievedAt": "2026-10-31",
-          "pivotId": "314086",
-          "modified": "none"
-        }
+        "reading": "やくにたつ",
+        "sentence": "この本には、旅行の役に立つ情報がたくさんあります。",
+        "translation": "這本書有很多對旅行有幫助的資訊。"
       }
     ]
   },
@@ -16040,19 +15958,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "止む",
-        "reading": "やむ",
+        "sentence": "天気予報では、昼には雪が止むそうです。",
+        "translation": "天氣預報說，中午雪就會停。",
         "surface": "止む",
-        "sentence": "夕方には雨が止む。",
-        "translation": "傍晚時雨停。"
+        "reading": "やむ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "止んで",
-        "reading": "やんで",
+        "sentence": "風が止んでから、船が港を出ました。",
+        "translation": "風停後，船駛出了港口。",
         "surface": "止んで",
-        "sentence": "夕方には雨が止んでから散歩します。",
-        "translation": "傍晚雨停後，再去散步。"
+        "reading": "やんで"
       },
       {
         "kind": "common",
@@ -16112,19 +16030,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "揺れる",
-        "reading": "ゆれる",
+        "sentence": "このバスは、山道では大きく揺れる。",
+        "translation": "這班公車在山路上會大幅搖晃。",
         "surface": "揺れる",
-        "sentence": "風で木の枝が揺れる。",
-        "translation": "風吹得樹枝搖晃。"
+        "reading": "ゆれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "揺れて",
-        "reading": "ゆれて",
+        "sentence": "地震で本棚が揺れて、本が何冊か落ちました。",
+        "translation": "地震使書架搖晃，有幾本書掉了下來。",
         "surface": "揺れて",
-        "sentence": "風で木の枝が揺れています。",
-        "translation": "樹枝正在風中搖晃。"
+        "reading": "ゆれて"
       },
       {
         "kind": "common",
@@ -16184,19 +16102,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "汚れる",
-        "reading": "よごれる",
+        "sentence": "雨の日は、自転車のタイヤがよく汚れる。",
+        "translation": "下雨天，腳踏車輪胎很容易弄髒。",
         "surface": "汚れる",
-        "sentence": "遊ぶと、服が汚れる。",
-        "translation": "玩耍會弄髒衣服。"
+        "reading": "よごれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "汚れて",
-        "reading": "よごれて",
+        "sentence": "弟の手が土で汚れていたので、先に洗わせました。",
+        "translation": "弟弟的手沾滿泥土，所以我先讓他洗手。",
         "surface": "汚れて",
-        "sentence": "遊ぶと、服が汚れて洗濯が必要です。",
-        "translation": "玩耍後衣服髒了，得洗衣服。"
+        "reading": "よごれて"
       },
       {
         "kind": "common",
@@ -16254,19 +16172,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "寄る",
-        "reading": "よる",
+        "sentence": "仕事の帰りに、スーパーへ寄る。",
+        "translation": "我下班回家時會順道去超市。",
         "surface": "寄る",
-        "sentence": "帰りに店へ寄る。",
-        "translation": "回家途中順道去店裡。"
+        "reading": "よる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "寄って",
-        "reading": "よって",
+        "sentence": "祖母の家に寄って、作ったお菓子を渡しました。",
+        "translation": "我順道去祖母家，把做好的點心交給她。",
         "surface": "寄って",
-        "sentence": "帰りに店へ寄ってください。",
-        "translation": "請回家途中順道去店裡。"
+        "reading": "よって"
       },
       {
         "kind": "common",
@@ -16326,19 +16244,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "喜ぶ",
-        "reading": "よろこぶ",
+        "sentence": "好きな歌が流れると、赤ちゃんが喜ぶ。",
+        "translation": "放出喜歡的歌曲時，寶寶就會高興。",
         "surface": "喜ぶ",
-        "sentence": "プレゼントをもらうと、子供が喜ぶ。",
-        "translation": "收到禮物時孩子會開心。"
+        "reading": "よろこぶ"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "喜んで",
-        "reading": "よろこんで",
+        "sentence": "試験に受かって喜んでいる姉に、花を送りました。",
+        "translation": "我送花給因為通過考試而高興的姊姊。",
         "surface": "喜んで",
-        "sentence": "プレゼントをもらうと、子供が喜んでいます。",
-        "translation": "收到禮物時孩子很開心。"
+        "reading": "よろこんで"
       },
       {
         "kind": "common",
@@ -16399,19 +16317,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "沸かす",
-        "reading": "わかす",
+        "sentence": "キャンプでは、小さな鍋でお湯を沸かす。",
+        "translation": "露營時，我們用小鍋子燒熱水。",
         "surface": "沸かす",
-        "sentence": "やかんでお湯を沸かす。",
-        "translation": "用水壺燒水。"
+        "reading": "わかす"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "沸かして",
-        "reading": "わかして",
+        "sentence": "お風呂を沸かしておきましたから、先に入ってください。",
+        "translation": "洗澡水已經燒好了，請先去洗。",
         "surface": "沸かして",
-        "sentence": "やかんでお湯を沸かしています。",
-        "translation": "正在用水壺燒水。"
+        "reading": "わかして"
       },
       {
         "kind": "common",
@@ -16473,19 +16391,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "別れる",
-        "reading": "わかれる",
+        "sentence": "駅で友達と別れるとき、次に会う日を決めました。",
+        "translation": "在車站和朋友道別時，我們約好了下次見面的日子。",
         "surface": "別れる",
-        "sentence": "駅で友達と別れる。",
-        "translation": "在車站和朋友分別。"
+        "reading": "わかれる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "別れて",
-        "reading": "わかれて",
+        "sentence": "家族と別れて暮らすようになり、電話をよくするようになりました。",
+        "translation": "開始和家人分開生活後，我變得常打電話回家。",
         "surface": "別れて",
-        "sentence": "駅で友達と別れてから帰ります。",
-        "translation": "在車站和朋友分別後，回家。"
+        "reading": "わかれて"
       },
       {
         "kind": "common",
@@ -16546,19 +16464,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "笑う",
-        "reading": "わらう",
+        "sentence": "弟が動物のまねをすると、みんなが笑う。",
+        "translation": "弟弟模仿動物時，大家都會笑。",
         "surface": "笑う",
-        "sentence": "面白い話を聞いて、みんなが笑う。",
-        "translation": "聽有趣的故事後，大家發笑。"
+        "reading": "わらう"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "笑って",
-        "reading": "わらって",
+        "sentence": "失敗しても笑ってやり直せるような、楽しい教室です。",
+        "translation": "這是個即使失敗，也能笑著重來的快樂教室。",
         "surface": "笑って",
-        "sentence": "面白い話を聞いて、みんなが笑っています。",
-        "translation": "聽有趣的故事後，大家正在笑。"
+        "reading": "わらって"
       },
       {
         "kind": "common",
@@ -16617,19 +16535,19 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "kind": "dictionary",
         "label": "原型",
         "form": "割れる",
-        "reading": "われる",
+        "sentence": "この薄い皿は、落とすとすぐ割れる。",
+        "translation": "這個薄盤子一掉下去就很容易碎。",
         "surface": "割れる",
-        "sentence": "落とすと、コップが割れる。",
-        "translation": "杯子掉下就會破。"
+        "reading": "われる"
       },
       {
         "kind": "te",
         "label": "て形",
         "form": "割れて",
-        "reading": "われて",
+        "sentence": "氷が割れて、水の中に落ちました。",
+        "translation": "冰裂開了，掉進水裡。",
         "surface": "割れて",
-        "sentence": "落とすと、コップが割れてしまいます。",
-        "translation": "杯子掉下就會摔破。"
+        "reading": "われて"
       },
       {
         "kind": "common",

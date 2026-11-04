@@ -2,6 +2,10 @@ const { ROOT_DIR: PROJECT_ROOT, PUBLIC_DIR, resolveFile } = require('../lib/path
 /* Derive quiz CSVs from the exact published vocabulary banks, never from spelling guesses. */
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
 function forms(text,type){
+  // Literary honorific 給う uses the u-onbin form, not the generic *給って.
+  // See docs/VERB-CONTEXT-REVIEW.md for the dictionary review.
+  if(text==='給う')return ['給います','給うて','給わない','給うた'];
+  if(text==='たまう')return ['たまいます','たもうて','たまわない','たもうた'];
   const stem=text.slice(0,-1);
   if(type==='vk')return text==='来る'?['来ます','来て','来ない','来た']:['きます','きて','こない','きた'];
   if(type==='vs-i')return ['します','して','しない','した'];
