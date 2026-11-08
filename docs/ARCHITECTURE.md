@@ -23,6 +23,7 @@ japanword/
 │  ├─ vocabulary/sources/      固定 CSV、JMdict 證據、中文釋義、修正及核對紀錄
 │  ├─ vocabulary/guides/       N5～N1 名詞解釋、其他詞性的用法解說與追加案例
 │  ├─ vocabulary/examples/     原創日中例句、Tatoeba 選集、動詞情境及例句清單
+│  ├─ listening/               聽力選句、詞彙分級證據與 5,000 題建置紀錄
 │  ├─ grammar/                 各級文法原稿與保留的舊題庫
 │  └─ speech/                  發音計畫、生成紀錄、署名、音訊與聲調說明
 ├─ scripts/
@@ -61,6 +62,7 @@ HTML 先載入 `public/assets/data/`，再載入 `public/assets/js/learning.js`�
 | 基本例句 | `data/vocabulary/examples/nX.txt` 或 `nX-corpus.json` | `build-vocabulary-examples.cjs nX` |
 | 名詞解釋／非動詞用法案例 | `data/vocabulary/guides/nX.json` | `build-vocabulary-examples.cjs nX` 合併 `build-word-guides.cjs` |
 | 動詞原型／て形 | `data/vocabulary/examples/verbs-nX.json` | 上述例句建置會呼叫 `build-verb-examples.cjs` |
+| 聽力測驗與分級 | `data/listening/`、`scripts/review/grade-listening.py` | `build-listening.cjs`；見 `docs/LISTENING.md` |
 | 文法與解說 | `data/grammar/nX.txt` | `npm run build:grammar` |
 | 聲線、語速、發音輸入 | `scripts/audio/vocabulary-speech-plan.cjs` 等 | 重建計畫、合成、映射與紀錄 |
 | 開發與接手指引 | 本文件、`AGENTS.md`、專案 skill | 不需要重建網站 |
@@ -92,6 +94,8 @@ N1～N5 的詞彙分級出自固定版本 Open Anki JLPT Decks／Tanos；JMdict 
 N5～N1 動詞目前以完整獨立情境取代共用前文模板；改寫數量、特殊活用與驗證結果見 [動詞例句複查紀錄](VERB-CONTEXT-REVIEW.md)。
 
 名詞解釋與非動詞追加案例見 [非動詞解說複查紀錄](WORD-GUIDES-REVIEW.md)。`data/vocabulary/guides/nX.json` 以穩定詞條 ID 為鍵，每筆有 `explanation`；名詞保留原例句，其餘詞性另有一筆 `usageExamples`，包含完整日文、繁中、句中詞形 `surface` 與讀音 `reading`。建置要求全部非動詞覆蓋。卡片與收藏頁共用預設收合、展開後縮排的模板；播放索引 0 是原例句，索引 1 是追加案例。修改案例後須重新生成例句音檔並更新 review 來源雜湊。
+
+聽力頁 `listening.html?level=n5` 至 `n1` 每級 1,000 題，使用獨立 `jp-listening-v1`。分級採累積詞表，整句檢查未知與較高級內容詞；既有詞彙／例句變更後需要重跑分級複查，不能只改快照雜湊。題庫、解析、錄音重用與驗證詳見 [聽力測驗維護說明](LISTENING.md)。
 
 ## 音訊
 

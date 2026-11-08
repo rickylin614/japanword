@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "policy": "Cumulative pinned project vocabulary: N5 only; N4 includes N5; through N1. Particles, auxiliaries, punctuation and numeric literals are grammatical primitives. Unmatched lexical tokens are rejected.",
+  "sourceHashes": {
+    "public/assets/data/n5-data.js": "2bd9eb6f3b5159689676f90976aac776055fdcd41a097fe15f3f260aa64ac84e",
+    "public/assets/data/n5-examples.js": "4321f4f92672fc976de93ea7b0eba9935d6fd17b79c45ebad76e946306764d7b",
+    "public/assets/data/n4-data.js": "40ded9330c34ec4315297439715efd440d384bf2b593d85b09f3c5e59c04d611",
+    "public/assets/data/n4-examples.js": "a54c1b1adf57a0485596226833f11d640c07db03da57315ee15d18e96472472b",
+    "public/assets/data/n3-data.js": "891eeb911a74d8655ed0a5ad474ef08ed1ea0fe1bb65504bd3b52b9ab822e9d0",
+    "public/assets/data/n3-examples.js": "ea61f88d724d7c4e90683ec1ce293ab9508818948c4363c7352fc61c646346c4",
+    "public/assets/data/n2-data.js": "7fc2bd27e8aefd648b0b88bbeccc60e1e15e7130894f299adebe0ac67d1e2e36",
+    "public/assets/data/n2-examples.js": "1c26726c9c9ad939ff58161173732916a60b3ae3cff1dd134034d85af9f65222",
+    "public/assets/data/n1-data.js": "c2ccd3b129790e8ce00e87ba7c2aec06d67fbb13e300855a62c0a6a8d78cdf6b",
+    "public/assets/data/n1-examples.js": "ae0ff9580acc960ee25082be37f452ad9880f640b085f728f66a897a67f83371",
+    "public/assets/data/word-audio.js": "473de43e5b61fe26532f1d54d42df0dfbea3e4a6e7be77d108425fbfb61d364e",
+    "data/vocabulary/guides/n5.json": "66de13769510bff31b60d8e28124af847d0470a623a60e79f97f425abac9abb0",
+    "data/vocabulary/sources/n5-dictionary-evidence.json": "6b38c70004eea3f92c510ef54e28905ce7a2eadb36d2e48d3607c21fff0dacb9",
+    "public/assets/data/n5-example-audio.js": "6c8ef86e72396960ce37a54a3ba9287aeaefcc99fd9a2fc0ba52a98a012bbbd7",
+    "data/vocabulary/guides/n4.json": "6baa0acb3f9604afb437e276cc014f1a31264568e884071bde469f44c68155c6",
+    "data/vocabulary/sources/n4-dictionary-evidence.json": "6fd7191a42fdf5a97e6aaebfa1586a6a9171193da71ca3ca4950f0012ca92d4c",
+    "public/assets/data/n4-example-audio.js": "86ac20225d6ce35f0ff79bfb6a1f3014922b6d71d3a33dc5fd173df3b548ddb1",
+    "data/vocabulary/guides/n3.json": "21aebf0d9ffebae78969193f661515b66d8575d10b3f0d4c3b355c9e1af995cc",
+    "data/vocabulary/sources/n3-dictionary-evidence.json": "173d8e28407f5045e333b6d58c27489973eaa43956355348437b6bf8ddd11d00",
+    "public/assets/data/n3-example-audio.js": "fda5a637a868a0b9d9a2918bfbf7d56a8a330d02f2cf34e289f03f469f19a136",
+    "data/vocabulary/guides/n2.json": "29feb48e8c87087dcd82984eba2c9e2855d2d1509565901186afe14e29d56edc",
+    "data/vocabulary/sources/n2-dictionary-evidence.json": "1c6826bfd6fb330d27eb97657adde816cf79a5bc8a23f4b18bc93e434ea6341d",
+    "public/assets/data/n2-example-audio.js": "67eb845585a21250d5e33961e70559789108cbf94ae5398ba18f526923f3022b",
+    "data/vocabulary/guides/n1.json": "6118e40ca9c518f84eae189475add79919c256e65762c3214fbd6283956380be",
+    "data/vocabulary/sources/n1-dictionary-evidence.json": "3d4fd165bdb22aef94290f9e50e3fca02020aa126bf38fbe54328fcb5c8a8bc5",
+    "public/assets/data/n1-example-audio.js": "e5b4f0a5390ee36113affda64b78d4f43a2f3aaddc560c5bd6592bba362e5fdb"
+  },
+  "levels": {
+    "n5": {
+      "questions": 1000,
+      "words": 500,
+      "sentences": 500,
+      "sha256": "35b6d092e466ec29f699a684083db159af651a275b31ae381835261dd8ccf177"
+    },
+    "n4": {
+      "questions": 1000,
+      "words": 500,
+      "sentences": 500,
+      "sha256": "d5bb1935677fdbb53b662436c08ec826528e2312e1dd1376e4a003ebb2659cf9"
+    },
+    "n3": {
+      "questions": 1000,
+      "words": 500,
+      "sentences": 500,
+      "sha256": "730c04881fa8764a8859ec35ef6d5430db7f94cd3d783f94bfd9ad25e9578af5"
+    },
+    "n2": {
+      "questions": 1000,
+      "words": 500,
+      "sentences": 500,
+      "sha256": "6f3f04453337820cac7aaec06ab6a1d04aee7e3ad4f7ba98ef7da6f105c03e10"
+    },
+    "n1": {
+      "questions": 1000,
+      "words": 500,
+      "sentences": 500,
+      "sha256": "ae738f13b53431e18cd30d546165882f1c43a41c257604a50045837284cc694b"
+    }
+  },
+  "approvedSentencesSha256": "5a2d92ea66676e610638ff1657bf7e68d5ec0b11d487f54fc026a1e3c5f46b18"
+}

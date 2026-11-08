@@ -47,4 +47,6 @@ for(const [category,label] of Object.entries({nouns:'名詞',verbs:'動詞',i_ad
 
 page('grammar-overview.html','文法彙整','data-page="grammar-overview"');
 
+fs.writeFileSync(resolveFile('listening.html'),`<!DOCTYPE html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>聽力測驗｜日語練習室</title><link rel="stylesheet" href="learning.css"><script defer src="assets/js/listening.js"></script></head><body data-page="listening"><header class="site-header"><div class="header-inner"><a class="brand" href="layout.html">日語練習室<small>JAPANESE STUDY / N1 – N5</small></a><nav class="nav-links" aria-label="主要導覽"></nav></div></header><p id="audio-note" role="status"></p><main id="listening-main" class="page"><h1>聽力測驗</h1><noscript>請啟用 JavaScript 使用聽力測驗。</noscript></main><footer class="footer">VOICEVOX:四国めたん</footer></body></html>
+`);
 require('./build-shell.cjs')();

@@ -15,6 +15,7 @@
     "audio:examples": "node scripts/audio/generate-vocabulary-voicevox.cjs",
     "audio:words": "node scripts/audio/generate-word-voicevox.cjs",
     "test:data": "node scripts/run-tests.cjs data",
-    "test:browser": "node scripts/run-tests.cjs browser"
+    "test:browser": "node scripts/run-tests.cjs browser",
+    "build:listening": "node scripts/build/build-listening.cjs"
   }
 }
