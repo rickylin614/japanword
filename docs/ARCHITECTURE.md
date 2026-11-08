@@ -21,6 +21,7 @@ japanword/
 │  └─ audio/                   可發布音檔：words、examples、aizuchi
 ├─ data/
 │  ├─ vocabulary/sources/      固定 CSV、JMdict 證據、中文釋義、修正及核對紀錄
+│  ├─ vocabulary/guides/       N5～N1 名詞解釋、其他詞性的用法解說與追加案例
 │  ├─ vocabulary/examples/     原創日中例句、Tatoeba 選集、動詞情境及例句清單
 │  ├─ grammar/                 各級文法原稿與保留的舊題庫
 │  └─ speech/                  發音計畫、生成紀錄、署名、音訊與聲調說明
@@ -58,6 +59,7 @@ HTML 先載入 `public/assets/data/`，再載入 `public/assets/js/learning.js`�
 | HTML 載入與新增頁面 | `scripts/build/build-pages.cjs`、`build-shell.cjs` | `npm run build:pages` |
 | 詞形、中文釋義、義項 | `data/vocabulary/sources/nX-overrides.json`、`nX-zh.json` | `build-verified.cjs nX --publish` |
 | 基本例句 | `data/vocabulary/examples/nX.txt` 或 `nX-corpus.json` | `build-vocabulary-examples.cjs nX` |
+| 名詞解釋／非動詞用法案例 | `data/vocabulary/guides/nX.json` | `build-vocabulary-examples.cjs nX` 合併 `build-word-guides.cjs` |
 | 動詞原型／て形 | `data/vocabulary/examples/verbs-nX.json` | 上述例句建置會呼叫 `build-verb-examples.cjs` |
 | 文法與解說 | `data/grammar/nX.txt` | `npm run build:grammar` |
 | 聲線、語速、發音輸入 | `scripts/audio/vocabulary-speech-plan.cjs` 等 | 重建計畫、合成、映射與紀錄 |
@@ -88,6 +90,8 @@ node scripts/build/build-verified.cjs n1 --publish
 N1～N5 的詞彙分級出自固定版本 Open Anki JLPT Decks／Tanos；JMdict 不提供分級。字典 ID、讀音、適用義項與原始列號不可任意覆寫。Tatoeba 日中例句必須保留來源句 ID、作者、直接或共同譯文關係與 CC BY 2.0 FR 署名。原創例句、候選選集與已執行人工校訂的紀錄要分清楚；N1 選集經本次日中句意與用法複查，保留編輯校訂紀錄；沒有宣稱逐句外部審定。
 
 N5～N1 動詞目前以完整獨立情境取代共用前文模板；改寫數量、特殊活用與驗證結果見 [動詞例句複查紀錄](VERB-CONTEXT-REVIEW.md)。
+
+名詞解釋與非動詞追加案例見 [非動詞解說複查紀錄](WORD-GUIDES-REVIEW.md)。`data/vocabulary/guides/nX.json` 以穩定詞條 ID 為鍵，每筆有 `explanation`；名詞保留原例句，其餘詞性另有一筆 `usageExamples`，包含完整日文、繁中、句中詞形 `surface` 與讀音 `reading`。建置要求全部非動詞覆蓋。卡片與收藏頁共用預設收合、展開後縮排的模板；播放索引 0 是原例句，索引 1 是追加案例。修改案例後須重新生成例句音檔並更新 review 來源雜湊。
 
 ## 音訊
 

@@ -4,252 +4,302 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-1014210": {
     "sentence": "使いやすくするためのアイデアを、みんなで出し合いました。",
     "translation": "大家一起提出了讓使用更方便的點子。",
-    "surface": "アイデア"
+    "surface": "アイデア",
+    "explanation": "解決問題、創作或規劃時想到的點子；常說「アイデアを出す／思いつく」，不只指抽象想法。"
   },
   "n2-jmdict-1338710": {
     "sentence": "空港には、出迎えの人が大勢いました。",
     "translation": "機場有很多接機的人。",
-    "surface": "出迎え"
+    "surface": "出迎え",
+    "explanation": "前往車站、機場、門口等迎接到來的人；與送行的見送り方向相反，不只是原地打招呼。"
   },
   "n2-jmdict-1598590": {
     "sentence": "商品の問い合わせは、この番号へお願いします。",
     "translation": "商品相關詢問請撥打這個號碼。",
-    "surface": "問い合わせ"
+    "surface": "問い合わせ",
+    "explanation": "對不清楚的事項向相關單位查詢；「問い合わせ先」是洽詢窗口，不一定接受正式申請。"
   },
   "n2-jmdict-1254010": {
     "sentence": "眠くて、あくびが出ました。",
     "translation": "我睏得打了呵欠。",
-    "surface": "あくび"
+    "surface": "あくび",
+    "explanation": "因睏倦、疲勞等張口深呼吸的呵欠；常用「あくびをする／かみ殺す」，不等於嘆氣。"
   },
   "n2-jmdict-1588500": {
     "sentence": "新商品の売上が、先月より増えました。",
     "translation": "新商品的銷售額比上個月增加了。",
-    "surface": "売上"
+    "surface": "売上",
+    "explanation": "售出商品、服務取得的金額，常寫「売り上げ」；尚未扣除成本，不等於淨利潤。"
   },
   "n2-jmdict-1178260": {
     "sentence": "学校の遠足で、山へ行きました。",
     "translation": "我參加學校遠足，去了山上。",
-    "surface": "遠足"
+    "surface": "遠足",
+    "explanation": "學校等團體安排的外出郊遊、校外活動；不要求全程長途徒步，與泛稱旅行的旅行不同。"
   },
   "n2-jmdict-1179840": {
     "sentence": "試合に出る友人の応援に行きました。",
     "translation": "我去為參加比賽的朋友加油。",
-    "surface": "応援"
+    "surface": "応援",
+    "explanation": "聲援、鼓勵某人或隊伍，也可指派人協助工作；「応援に行く」不一定只是觀看比賽。"
   },
   "n2-jmdict-1607070": {
     "sentence": "父の兄である伯父は、京都に住んでいます。",
     "translation": "爸爸的哥哥，也就是伯父，住在京都。",
-    "surface": "伯父"
+    "surface": "伯父",
+    "explanation": "父母的哥哥，或父母姊姊的配偶等年長輩叔舅；比父母年幼的叔舅一般寫「叔父」。"
   },
   "n2-jmdict-2261490": {
     "sentence": "伯父さん、来週遊びに行ってもいいですか。",
     "translation": "伯伯，我下週可以去您家玩嗎？",
-    "surface": "伯父さん"
+    "surface": "伯父さん",
+    "explanation": "對伯父的稱呼或談及別人伯父的敬稱；說自己伯父給外人聽通常用伯父，不加さん。"
   },
   "n2-jmdict-1199520": {
     "sentence": "同じ区間を何度も利用するので、回数券を買いました。",
     "translation": "因為多次搭乘同一路段，我買了回數票。",
-    "surface": "回数券"
+    "surface": "回数券",
+    "explanation": "一次購買多次使用額度的套票，常見於交通、設施；折扣、有效期和是否仍販售依業者而定。"
   },
   "n2-jmdict-1200930": {
     "sentence": "規則の改正について、話し合いました。",
     "translation": "我們討論了規則修訂。",
-    "surface": "改正"
+    "surface": "改正",
+    "explanation": "修訂法律、制度、規章或時刻表；「法律を改正する」偏規則內容，不用來泛指修好機器。"
   },
   "n2-jmdict-1190810": {
     "sentence": "議会で新しい案が可決されました。",
     "translation": "議會表決通過了新方案。",
-    "surface": "可決"
+    "surface": "可決",
+    "explanation": "議案經投票等程序獲得通過；常說「法案が可決される」，反面是「否決」，不等於全員贊成。"
   },
   "n2-jmdict-1185640": {
     "sentence": "大事な言葉に下線を引いてください。",
     "translation": "請在重要詞語下畫底線。",
-    "surface": "下線"
+    "surface": "下線",
+    "explanation": "寫在文字下方以標示重點的線；「下線を引く」是畫底線，不是刪除文字的刪除線。"
   },
   "n2-jmdict-1208450": {
     "sentence": "若い選手の活躍が目立ちました。",
     "translation": "年輕選手活躍的表現很突出。",
-    "surface": "活躍"
+    "surface": "活躍",
+    "explanation": "充分發揮能力、有出色表現，適用人或事物；「海外で活躍する」不只是身體活動頻繁。"
   },
   "n2-jmdict-1230350": {
     "sentence": "今月の給与が、口座に振り込まれました。",
     "translation": "這個月的薪資匯入了帳戶。",
-    "surface": "給与"
+    "surface": "給与",
+    "explanation": "雇主支付給受雇者的薪酬，常見「給与明細」薪資明細；不泛指所有投資、營業收入。"
   },
   "n2-jmdict-1262460": {
     "sentence": "この機械が動く原理を説明します。",
     "translation": "我來說明這台機器的運作原理。",
-    "surface": "原理"
+    "surface": "原理",
+    "explanation": "事物運作依據的基本規律、道理；「仕組みの原理」談為何如此運作，不是具體操作步驟。"
   },
   "n2-jmdict-1283000": {
     "sentence": "必要な項目を、すべて記入してください。",
     "translation": "請填寫所有必要項目。",
-    "surface": "項目"
+    "surface": "項目",
+    "explanation": "依分類列出的個別事項；「必要な項目に記入する」是填寫所需欄目，不是整篇文章的標題。"
   },
   "n2-jmdict-1285390": {
     "sentence": "午後、駅で友人と合流しました。",
     "translation": "下午我在車站與朋友會合。",
-    "surface": "合流"
+    "surface": "合流",
+    "explanation": "河流、道路或人員從不同路徑匯聚；「駅で合流する」指在車站碰面加入同一行程。"
   },
   "n2-jmdict-1275250": {
     "sentence": "この切符は明日まで効力があります。",
     "translation": "這張票到明天都有效。",
-    "surface": "効力"
+    "surface": "効力",
+    "explanation": "規則、契約、措施等能發揮作用的力量；「効力を失う」是失效，不等於執行速度下降。"
   },
   "n2-jmdict-1048830": {
     "sentence": "昼食には、三品のコースを選びました。",
     "translation": "午餐我選了三道菜的套餐。",
-    "surface": "コース"
+    "surface": "コース",
+    "explanation": "路線、學習課程或套餐的組合流程；「コース料理」是依序提供的一套餐點，不是一道單點菜。"
   },
   "n2-jmdict-1288370": {
     "sentence": "木の腰掛けに座って、休みました。",
     "translation": "我坐在木凳上休息。",
-    "surface": "腰掛け"
+    "surface": "腰掛け",
+    "explanation": "供坐的凳子、座椅，亦可比喻暫時待的職位；「腰掛けのつもり」可能帶不願長做的意味。"
   },
   "n2-jmdict-1052330": {
     "sentence": "プラグをコンセントに差してください。",
     "translation": "請把插頭插進插座。",
-    "surface": "コンセント"
+    "surface": "コンセント",
+    "explanation": "牆上等供插頭接入的電源插座；插在插座上的插頭是プラグ，不要受英語 consent 影響。"
   },
   "n2-jmdict-1593780": {
     "sentence": "差し支えがなければ、理由を教えてください。",
     "translation": "若方便的話，請告訴我原因。",
-    "surface": "差し支え"
+    "surface": "差し支え",
+    "explanation": "會妨礙進行的問題、不便；「差し支えなければ」是若不介意、方便的話，常用於婉轉詢問。"
   },
   "n2-jmdict-1304330": {
     "sentence": "この液体は酸性です。",
     "translation": "這種液體是酸性的。",
-    "surface": "酸性"
+    "surface": "酸性",
+    "explanation": "與鹼性相對的化學性質，常談溶液酸鹼度；「酸性雨」是酸雨，不代表所有酸性物都能食用。"
   },
   "n2-jmdict-1178740": {
     "sentence": "夕食に、いかの塩辛を少し食べました。",
     "translation": "我晚餐吃了一點鹽漬發酵魷魚。",
-    "surface": "塩辛"
+    "surface": "塩辛",
+    "explanation": "魚貝肉、內臟等加鹽醃漬、發酵的食品；常見「いかの塩辛」，不是形容食物很鹹的塩辛い。"
   },
   "n2-jmdict-1332950": {
     "sentence": "バスは次が終点です。",
     "translation": "公車下一站是終點站。",
-    "surface": "終点"
+    "surface": "終点",
+    "explanation": "交通路線最後停靠的站點或路徑終處；「終点で降りる」不保證就是個人最終目的地。"
   },
   "n2-jmdict-1352090": {
     "sentence": "朝、障子を開けて、部屋に光を入れました。",
     "translation": "早上我打開紙拉門，讓光照進房間。",
-    "surface": "障子"
+    "surface": "障子",
+    "explanation": "以木格框架貼紙的日式拉門、隔扇；透光但通常不透明，與不透光的襖、外側雨戸不同。"
   },
   "n2-jmdict-1367870": {
     "sentence": "四月の人事で、部長が代わりました。",
     "translation": "四月的人事調整換了部長。",
-    "surface": "人事"
+    "surface": "人事",
+    "explanation": "組織中任用、調動、管理人員等事務；此讀じんじ不同於「人事／ひとごと」的別人的事。"
   },
   "n2-jmdict-1365480": {
     "sentence": "医師の診断を聞いてから、家族に連絡しました。",
     "translation": "聽完醫師診斷後，我聯絡了家人。",
-    "surface": "診断"
+    "surface": "診断",
+    "explanation": "依檢查、觀察等判斷病情、狀態；也可比喻設備診斷，與實際治療行為不同。"
   },
   "n2-jmdict-1070220": {
     "sentence": "祖母は若いころ、スチュワーデスとして働いていました。",
     "translation": "祖母年輕時曾擔任空服員。",
-    "surface": "スチュワーデス"
+    "surface": "スチュワーデス",
+    "explanation": "過去稱女性空服員的外來語；現一般稱客室乗務員、キャビンアテンダント，不宜當成現行唯一職稱。"
   },
   "n2-jmdict-1072240": {
     "sentence": "スピーカーの音を少し小さくしてください。",
     "translation": "請把揚聲器音量調小一點。",
-    "surface": "スピーカー"
+    "surface": "スピーカー",
+    "explanation": "把電氣訊號轉成聲音的揚聲器，也可指演講者；「外部スピーカー」通常是外接喇叭。"
   },
   "n2-jmdict-1390950": {
     "sentence": "この洗剤は、衣類の洗濯に使います。",
     "translation": "這種清潔劑用來洗衣服。",
-    "surface": "洗剤"
+    "surface": "洗剤",
+    "explanation": "清洗衣物、餐具等的洗劑；「洗剤を使う」不等同消毒，應依衣物、食器等用途辨識。"
   },
   "n2-jmdict-1391050": {
     "sentence": "朝の洗面を済ませて、朝食を食べました。",
     "translation": "早上洗完臉後，我吃了早餐。",
-    "surface": "洗面"
+    "surface": "洗面",
+    "explanation": "清洗臉部，亦常見於洗面台、洗面所等場所名稱；不等同全身洗澡的入浴。"
   },
   "n2-jmdict-1238460": {
     "sentence": "昼食に、温かいそばを食べました。",
     "translation": "午餐吃了熱蕎麥麵。",
-    "surface": "そば"
+    "surface": "そば",
+    "explanation": "此條指蕎麥植物、其粉或蕎麥麵；與旁邊的「そば」是不同詞義，常說「そばをゆでる」。"
   },
   "n2-jmdict-1076900": {
     "sentence": "ラジオのダイヤルを回しました。",
     "translation": "我轉動了收音機旋鈕。",
-    "surface": "ダイヤル"
+    "surface": "ダイヤル",
+    "explanation": "電話撥號盤、調整數值的旋鈕等；「ダイヤルを回す」原指旋轉式操作，現亦沿用於撥電話。"
   },
   "n2-jmdict-1255780": {
     "sentence": "この町を離れてから、長い月日が流れました。",
     "translation": "離開這個城鎮後，漫長歲月流逝了。",
-    "surface": "月日"
+    "surface": "月日",
+    "explanation": "經過的時間、歲月，常見「月日が流れる」；與日期的「月日／がっぴ」用法不同。"
   },
   "n2-jmdict-1435510": {
     "sentence": "通学のため、電車の定期券を買いました。",
     "translation": "我為了通學買了電車定期票。",
-    "surface": "定期券"
+    "surface": "定期券",
+    "explanation": "在指定期間、區間等條件內使用的交通票證；不是單次票，使用限制依票種規定。"
   },
   "n2-jmdict-1396550": {
     "sentence": "この活動の狙いを説明してください。",
     "translation": "請說明這項活動的目標。",
-    "surface": "狙い"
+    "surface": "狙い",
+    "explanation": "瞄準的目標、行動目的；「狙いを定める」可指實際瞄準或確定策略，不一定帶有惡意。"
   },
   "n2-jmdict-1477660": {
     "sentence": "新しい発想を大切にしたいです。",
     "translation": "我想重視新的構想。",
-    "surface": "発想"
+    "surface": "発想",
+    "explanation": "想出點子的思考方式、構想；「発想を変える」是換思路，不只是改變一句話的說法。"
   },
   "n2-jmdict-1463920": {
     "sentence": "京都へ日帰りで出かけました。",
     "translation": "我去了京都，當天往返。",
-    "surface": "日帰り"
+    "surface": "日帰り",
+    "explanation": "當天出發並於當天返回、不在外過夜；「日帰り旅行」不表示目的地很近。"
   },
   "n2-jmdict-1503210": {
     "sentence": "古い時計を分解して、中を調べました。",
     "translation": "我拆開舊手錶研究內部。",
-    "surface": "分解"
+    "surface": "分解",
+    "explanation": "把整體拆成部分，也指物質轉變成較簡單成分；「機械を分解する」不等於無法再組回。"
   },
   "n2-jmdict-1515530": {
     "sentence": "包丁で野菜を切りました。",
     "translation": "我用菜刀切了蔬菜。",
-    "surface": "包丁"
+    "surface": "包丁",
+    "explanation": "切、剁料理食材的刀具；「包丁で切る」不同於削鉛筆用刀，不泛指所有刃物。"
   },
   "n2-jmdict-1401420": {
     "sentence": "切符は、あちらの窓口で買えます。",
     "translation": "車票可在那邊的櫃檯購買。",
-    "surface": "窓口"
+    "surface": "窓口",
+    "explanation": "辦理售票、申請等的櫃台，也指負責聯繫的人、部門；不是所有建物窗戶都叫窓口。"
   },
   "n2-jmdict-1531810": {
     "sentence": "この町の名物は、甘いお菓子です。",
     "translation": "這個城鎮的特產是甜點。",
-    "surface": "名物"
+    "surface": "名物",
+    "explanation": "某地、店家特別知名的產品、食物，也可指代表人物；不一定是當地天然生產的原料。"
   },
   "n2-jmdict-1134480": {
     "sentence": "小さなモーターで、車輪を回します。",
     "translation": "用小馬達帶動車輪。",
-    "surface": "モーター"
+    "surface": "モーター",
+    "explanation": "將電能等轉為機械轉動的馬達；「モーターが回る」指運轉，不是所有引擎都直接如此稱呼。"
   },
   "n2-jmdict-1541690": {
     "sentence": "この駐車場は有料です。",
     "translation": "這個停車場要收費。",
-    "surface": "有料"
+    "surface": "有料",
+    "explanation": "使用、取得服務等需要付款；「有料道路」是收費道路，不表示費用一定很高。"
   },
   "n2-jmdict-1554750": {
     "sentence": "代金を領収しましたので、領収書をお渡しします。",
     "translation": "已收取款項，現在交給您收據。",
-    "surface": "領収"
+    "surface": "領収",
+    "explanation": "收到對方支付的款項，較正式，常見「領収書」收據；不只是收到一般信件、物品。"
   },
   "n2-jmdict-1557710": {
     "sentence": "答えを全部間違えて、零点でした。",
     "translation": "我把答案全答錯，得了零分。",
-    "surface": "零点"
+    "surface": "零点",
+    "explanation": "考試、評分得零分，也可泛指完全不及格的評價；與午夜零點常用的「零時」用法不同。"
   },
   "n2-jmdict-1558390": {
     "sentence": "日本列島は南北に長く延びています。",
     "translation": "日本列島南北狹長。",
-    "surface": "列島"
+    "surface": "列島",
+    "explanation": "多座島嶼連續分布形成的島群；「日本列島」不是只指單一的本州島。"
   },
   "n2-jmdict-1149240": {
     "sentence": "夏用の白いワンピースを買いました。",
     "translation": "我買了一件夏天穿的白色連身裙。",
-    "surface": "ワンピース"
+    "surface": "ワンピース",
+    "explanation": "上身與裙身連在一起的連身裙；與上衣、裙子分開的兩件式不同，也非只指泳衣。"
   },
   "n2-jmdict-1544970": {
     "sentence": "チェックインまで荷物を預かっていただけますか。",
@@ -1150,112 +1200,354 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-1382280": {
     "sentence": "あと一点で勝てたので、とても惜しいです。",
     "translation": "差一分就能贏，真可惜。",
-    "surface": "惜しい"
+    "surface": "惜しい",
+    "explanation": "差一點達成而可惜，也可表示捨不得失去；「時間が惜しい」是珍惜、不願浪費時間。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "帰る時間が惜しいほど、楽しい集まりでした。",
+        "translation": "聚會太開心，讓人捨不得到時間回家。",
+        "surface": "惜しい",
+        "reading": "おしい"
+      }
+    ]
   },
   "n2-jmdict-1608630": {
     "sentence": "友人の結婚は、めでたい知らせでした。",
     "translation": "朋友結婚是個可喜的消息。",
-    "surface": "めでたい"
+    "surface": "めでたい",
+    "explanation": "值得祝賀、慶幸的事情；可直接修飾名詞，形容人時也可能帶天真、輕信的諷刺。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "無事に卒業できたのは、めでたいことです。",
+        "translation": "能順利畢業，是值得慶賀的事。",
+        "surface": "めでたい",
+        "reading": "めでたい"
+      }
+    ]
   },
   "n2-jmdict-1211380": {
     "sentence": "工事の音がやかましいです。",
     "translation": "施工聲很吵。",
-    "surface": "やかましい"
+    "surface": "やかましい",
+    "explanation": "聲音吵得令人厭煩，也可指對規矩、品質要求嚴；「味にやかましい」是對味道挑剔。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "祖母は、料理の味にやかましい人です。",
+        "translation": "祖母是個對料理味道要求很嚴的人。",
+        "surface": "やかましい",
+        "reading": "やかましい"
+      }
+    ]
   },
   "n2-jmdict-1005030": {
     "sentence": "部長は仕事を終えた部下に「ご苦労様」と言いました。",
     "translation": "部長對完成工作的部屬說了「辛苦了」。",
-    "surface": "ご苦労様"
+    "surface": "ご苦労様",
+    "explanation": "對辛勞的慰問，多由上對下使用；對上司、客戶一般避免，非普通可加な修飾的形容詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "監督は選手に、「練習、ご苦労様」と声をかけました。",
+        "translation": "教練對選手說：「練習辛苦了。」",
+        "surface": "ご苦労様",
+        "reading": "ごくろうさま"
+      }
+    ]
   },
   "n2-jmdict-1341910": {
     "sentence": "彼は純情で、人の言葉をすぐ信じます。",
     "translation": "他很純真，很快就相信別人的話。",
-    "surface": "純情"
+    "surface": "純情",
+    "explanation": "感情純真、未經世故，常談戀愛心情；「純情な人」不等同智力不足或全無判斷力。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "純情な主人公の初恋が、丁寧に描かれています。",
+        "translation": "作品細膩地描寫了純情主角的初戀。",
+        "surface": "純情な",
+        "reading": "じゅんじょうな"
+      }
+    ]
   },
   "n2-jmdict-1354230": {
     "sentence": "祖母は上品な言葉遣いをします。",
     "translation": "祖母的用語很文雅。",
-    "surface": "上品"
+    "surface": "上品",
+    "explanation": "言行、外觀有格調、優雅，也可形容味道細緻；不是單純價格昂貴的高級。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "甘さを控えた、上品な味のお菓子です。",
+        "translation": "這是甜度較低、滋味細緻的點心。",
+        "surface": "上品な",
+        "reading": "じょうひんな"
+      }
+    ]
   },
   "n2-jmdict-1327660": {
     "sentence": "この店には手頃な値段の服があります。",
     "translation": "這家店有價格適中的衣服。",
-    "surface": "手頃"
+    "surface": "手頃",
+    "explanation": "大小、價格、難度等適合處理或取得；「手頃な価格」不一定是全市場最低價。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "初心者にも手頃な大きさの道具を選びました。",
+        "translation": "我挑選了連初學者也容易使用的合適尺寸工具。",
+        "surface": "手頃な",
+        "reading": "てごろな"
+      }
+    ]
   },
   "n2-jmdict-1322400": {
     "sentence": "紙を斜めに切りました。",
     "translation": "我把紙斜著剪開了。",
-    "surface": "斜め"
+    "surface": "斜め",
+    "explanation": "不水平、不垂直的傾斜方向；常用「斜めに」「斜めの」，不需每次都套な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "帽子を少し斜めにかぶっていました。",
+        "translation": "他把帽子稍微斜著戴。",
+        "surface": "斜めに",
+        "reading": "ななめに"
+      }
+    ]
   },
   "n2-jmdict-1471140": {
     "sentence": "今日は派手な色の服を着ています。",
     "translation": "我今天穿著鮮豔的衣服。",
-    "surface": "派手"
+    "surface": "派手",
+    "explanation": "顏色、行為顯眼、張揚，也可指場面盛大；與地味相對，不必然是漂亮的稱讚。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "発表会では、普段より派手に化粧しました。",
+        "translation": "發表會上，我化了比平常更醒目的妝。",
+        "surface": "派手に",
+        "reading": "はでに"
+      }
+    ]
   },
   "n2-jmdict-1482710": {
     "sentence": "相手の弱みを利用するのは、卑怯です。",
     "translation": "利用對方的弱點很卑鄙。",
-    "surface": "卑怯"
+    "surface": "卑怯",
+    "explanation": "用不公平手段、逃避責任，帶強烈道德批評；不只是單純膽小或謹慎。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "弱い立場の人だけを責めるのは、卑怯なやり方です。",
+        "translation": "只責怪弱勢者，是卑鄙的做法。",
+        "surface": "卑怯な",
+        "reading": "ひきょうな"
+      }
+    ]
   },
   "n2-jmdict-1580620": {
     "sentence": "雪で庭が真っ白になりました。",
     "translation": "積雪讓庭院變得雪白。",
-    "surface": "真っ白"
+    "surface": "真っ白",
+    "explanation": "完全白色、雪白，也可比喻腦中空白；「頭が真っ白になる」常用於緊張時。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "名前を呼ばれた瞬間、頭が真っ白になりました。",
+        "translation": "名字被叫到的瞬間，我腦中一片空白。",
+        "surface": "真っ白",
+        "reading": "まっしろ"
+      }
+    ]
   },
   "n2-jmdict-1533000": {
     "sentence": "強い風で、机の上の紙がめちゃくちゃになりました。",
     "translation": "強風吹得桌上的紙亂七八糟。",
-    "surface": "めちゃくちゃ"
+    "surface": "めちゃくちゃ",
+    "explanation": "混亂、不合理，也可口語強調非常；正式文章宜用更具體的混乱、非常に等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "急な変更で、予定がめちゃくちゃになりました。",
+        "translation": "臨時的變更讓計畫變得亂七八糟。",
+        "surface": "めちゃくちゃ",
+        "reading": "めちゃくちゃ"
+      }
+    ]
   },
   "n2-jmdict-1220060": {
     "sentence": "薬を飲んで、幾分楽になりました。",
     "translation": "吃藥後稍微舒服了一點。",
-    "surface": "幾分"
+    "surface": "幾分",
+    "explanation": "少許、某種程度，較「少し」正式；「幾分〜なった」表示與原先相比稍有變化。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "夕方になると、風が幾分涼しく感じられました。",
+        "translation": "到了傍晚，風感覺稍微涼了一些。",
+        "surface": "幾分",
+        "reading": "いくぶん"
+      }
+    ]
   },
   "n2-jmdict-1164650": {
     "sentence": "一旦家に帰ってから、また出かけます。",
     "translation": "我先暫時回家，再出門。",
-    "surface": "一旦"
+    "surface": "一旦",
+    "explanation": "暫且中斷、先做一步，也可表一旦條件成立；須依「一旦休む／一旦始めたら」區分。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一旦引き受けたら、最後まで責任を持ってください。",
+        "translation": "一旦答應承接，就請負責到底。",
+        "surface": "一旦",
+        "reading": "いったん"
+      }
+    ]
   },
   "n2-jmdict-1270220": {
     "sentence": "おかげさまで、無事に卒業できました。",
     "translation": "托您的福，我順利畢業了。",
-    "surface": "おかげさまで"
+    "surface": "おかげさまで",
+    "explanation": "在表達好結果時謙稱托福、承蒙照顧；不一定指對方直接造成，但常接感謝或近況。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "おかげさまで、店は開店一周年を迎えました。",
+        "translation": "托大家的福，店裡迎來了開幕一週年。",
+        "surface": "おかげさまで",
+        "reading": "おかげさまで"
+      }
+    ]
   },
   "n2-jmdict-1002050": {
     "sentence": "友人の家に入るとき、「お邪魔します」と言いました。",
     "translation": "進朋友家時，我說了「打擾了」。",
-    "surface": "お邪魔します"
+    "surface": "お邪魔します",
+    "explanation": "進入別人家、辦公空間等時說打擾了；離開後可說お邪魔しました，並非真的造成妨礙。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "研究室の扉を開けて、「お邪魔します」と挨拶しました。",
+        "translation": "我打開研究室的門，說了聲「打擾了」。",
+        "surface": "お邪魔します",
+        "reading": "おじゃまします"
+      }
+    ]
   },
   "n2-jmdict-1578110": {
     "sentence": "近々、引越しをする予定です。",
     "translation": "我近日預計搬家。",
-    "surface": "近々"
+    "surface": "近々",
+    "explanation": "距離現在不遠的將來，近日、不久；未指定確切日期，正式約定宜另確認日期。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "近々、新しい担当者を紹介します。",
+        "translation": "近日會向您介紹新的承辦人。",
+        "surface": "近々",
+        "reading": "ちかぢか"
+      }
+    ]
   },
   "n2-jmdict-1008950": {
     "sentence": "どうせ行くなら、朝早く出発しましょう。",
     "translation": "反正要去，不如早點出發吧。",
-    "surface": "どうせ"
+    "surface": "どうせ",
+    "explanation": "認為結果已確定、反正如此，可帶放棄或利用既有條件的語氣；對人使用須留意不耐煩。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "どうせ作るなら、長く使える物にしましょう。",
+        "translation": "反正都要做，就做成能長久使用的東西吧。",
+        "surface": "どうせ",
+        "reading": "どうせ"
+      }
+    ]
   },
   "n2-jmdict-1320570": {
     "sentence": "会議はとっくに終わりました。",
     "translation": "會議早就結束了。",
-    "surface": "とっくに"
+    "surface": "とっくに",
+    "explanation": "比現在或預期更早就已完成，口語色彩較強；常與過去、完成狀態搭配。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "そんなことは、とっくに知っています。",
+        "translation": "那種事，我早就知道了。",
+        "surface": "とっくに",
+        "reading": "とっくに"
+      }
+    ]
   },
   "n2-jmdict-1188330": {
     "sentence": "なにしろ初めての海外旅行なので、緊張しています。",
     "translation": "畢竟是第一次出國旅行，我很緊張。",
-    "surface": "なにしろ"
+    "surface": "なにしろ",
+    "explanation": "強調某個足以解釋情況的理由，畢竟、實在是；多與から、ので等形成理由語境。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "なにしろ人数が多いので、会場探しが大変です。",
+        "translation": "畢竟人數很多，找場地很不容易。",
+        "surface": "なにしろ",
+        "reading": "なにしろ"
+      }
+    ]
   },
   "n2-jmdict-1189310": {
     "sentence": "何分初めてですので、ご指導をお願いします。",
     "translation": "畢竟是第一次，還請您指導。",
-    "surface": "何分"
+    "surface": "何分",
+    "explanation": "提出需體諒的理由、條件，常寫なにぶん；此讀法不是詢問幾分鐘的なんぷん。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "なにぶん急な依頼なので、対応できるか分かりません。",
+        "translation": "畢竟是突然的委託，還不知道能否處理。",
+        "surface": "なにぶん",
+        "reading": "なにぶん"
+      }
+    ]
   },
   "n2-jmdict-1352510": {
     "sentence": "上りの電車は、このホームから出ます。",
     "translation": "上行電車從這個月台發車。",
-    "surface": "上り"
+    "surface": "上り",
+    "explanation": "向高處上去、上坡，也指前往主要中心方向的交通；列車上行定義依路線，不只地理往北。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "上り坂が続くので、少し休みましょう。",
+        "translation": "因為一直是上坡，我們稍微休息吧。",
+        "surface": "上り坂",
+        "reading": "のぼりざか"
+      }
+    ]
   },
   "n2-jmdict-1609000": {
     "sentence": "祖母は扇子で顔を扇いでいました。",
@@ -4044,2802 +4336,5842 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-1541560": {
     "sentence": "忙しいときに手伝ってもらえるのは、有難いことです。",
     "translation": "忙碌時有人幫忙，是令人感激的事。",
-    "surface": "有難い"
+    "surface": "有難い",
+    "explanation": "受到幫助、得到便利而感激，常寫ありがたい；不只表示東西昂貴或難得。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "駅まで送っていただけると、ありがたいです。",
+        "translation": "如果您能送我到車站，我會很感激。",
+        "surface": "ありがたい",
+        "reading": "ありがたい"
+      }
+    ]
   },
   "n2-jmdict-1278810": {
     "sentence": "引越しの前は、慌ただしい毎日でした。",
     "translation": "搬家前每天都忙亂。",
-    "surface": "慌ただしい"
+    "surface": "慌ただしい",
+    "explanation": "事情接連而來、忙得無法從容；「慌ただしく出かける」強調匆忙，不只是工作量多。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "出発の朝は慌ただしく、朝食も食べられませんでした。",
+        "translation": "出發那天早上很忙亂，連早餐也沒能吃。",
+        "surface": "慌ただしく",
+        "reading": "あわただしく"
+      }
+    ]
   },
   "n2-jmdict-1539660": {
     "sentence": "選手たちは勇ましい姿で入場しました。",
     "translation": "選手們以雄壯英勇的姿態入場。",
-    "surface": "勇ましい"
+    "surface": "勇ましい",
+    "explanation": "勇敢、充滿氣勢，也形容雄壯聲音、姿態；不只是單純音量大或肌肉強壯。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "祭の会場に、勇ましい太鼓の音が響きました。",
+        "translation": "祭典會場響起了雄壯的太鼓聲。",
+        "surface": "勇ましい",
+        "reading": "いさましい"
+      }
+    ]
   },
   "n2-jmdict-1155780": {
     "sentence": "長年研究を続けた先生は、偉い人だと思います。",
     "translation": "我覺得多年持續研究的老師很了不起。",
-    "surface": "偉い"
+    "surface": "偉い",
+    "explanation": "地位高、成就卓越，也可口語稱讚做得好；直接對成人說偉いね可能顯得居高臨下。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "苦手なことにも挑戦するなんて、偉いね。",
+        "translation": "連不擅長的事也願意挑戰，真了不起。",
+        "surface": "偉い",
+        "reading": "えらい"
+      }
+    ]
   },
   "n2-jmdict-1610630": {
     "sentence": "思い掛けない知らせに驚きました。",
     "translation": "出乎意料的消息讓我吃驚。",
-    "surface": "思い掛けない"
+    "surface": "思い掛けない",
+    "explanation": "原先沒有預料、想到，常寫思いがけない；可修飾好壞事件，不等同一定令人高興。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "思いがけない場所で、昔の写真を見つけました。",
+        "translation": "我在意想不到的地方找到了舊照片。",
+        "surface": "思いがけない",
+        "reading": "おもいがけない"
+      }
+    ]
   },
   "n2-jmdict-1572760": {
     "sentence": "同じ説明を何度もすると、くどい印象になります。",
     "translation": "同樣的說明重複多次，會給人囉嗦的印象。",
-    "surface": "くどい"
+    "surface": "くどい",
+    "explanation": "反覆過多而令人厭煩，也形容口味、色彩濃得過頭；通常帶負面感受。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "このソースは少しくどいので、量を減らしましょう。",
+        "translation": "這個醬汁味道有點太濃重，減少一點用量吧。",
+        "surface": "くどい",
+        "reading": "くどい"
+      }
+    ]
   },
   "n2-jmdict-1177190": {
     "sentence": "たき火の近くは煙いです。",
     "translation": "營火附近煙很嗆。",
-    "surface": "煙い"
+    "surface": "煙い",
+    "explanation": "煙霧使眼、喉嚨感到不舒服；較著重感官刺激，並非只看到遠處有煙。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "煙くて目を開けていられず、外へ出ました。",
+        "translation": "煙燻得我無法睜眼，只好到了外面。",
+        "surface": "煙くて",
+        "reading": "けむくて"
+      }
+    ]
   },
   "n2-jmdict-1307100": {
     "sentence": "四角い箱に道具をしまいました。",
     "translation": "我把工具收進四方形盒子。",
-    "surface": "四角い"
+    "surface": "四角い",
+    "explanation": "呈四邊形、方方的外形，日常不嚴格限正方形；嚴格幾何分類需用正方形、長方形等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "丸い皿ではなく、四角い皿に盛り付けました。",
+        "translation": "我把食物裝在方形盤子，而不是圓盤裡。",
+        "surface": "四角い",
+        "reading": "しかくい"
+      }
+    ]
   },
   "n2-jmdict-1595940": {
     "sentence": "初対面でお金を借りるのは、図々しいと思います。",
     "translation": "我覺得初次見面就借錢很厚臉皮。",
-    "surface": "図々しい"
+    "surface": "図々しい",
+    "explanation": "不顧他人困擾、毫不客氣，常寫ずうずうしい；是強烈負面評價，不宜直接稱讚人有自信。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "断られたのにまた頼むのは、ずうずうしいでしょうか。",
+        "translation": "明明被拒絕過卻又拜託一次，會不會太厚臉皮？",
+        "surface": "ずうずうしい",
+        "reading": "ずうずうしい"
+      }
+    ]
   },
   "n2-jmdict-1569240": {
     "sentence": "自分だけ順番を守らないのは、ずるいです。",
     "translation": "只有自己不遵守順序，太狡猾了。",
-    "surface": "ずるい"
+    "surface": "ずるい",
+    "explanation": "以不公平、取巧方式占便宜，常寫ずるい；亦可口語表達羨慕對方待遇，不必然是重大欺騙。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "答えを見てから解くなんて、ずるいですよ。",
+        "translation": "先看答案再作答，這樣不公平。",
+        "surface": "ずるい",
+        "reading": "ずるい"
+      }
+    ]
   },
   "n2-jmdict-1006740": {
     "sentence": "私はそそっかしいので、出かける前に持ち物を確認します。",
     "translation": "我很冒失，所以出門前會確認隨身物品。",
-    "surface": "そそっかしい"
+    "surface": "そそっかしい",
+    "explanation": "因慌張、性急而容易出小差錯的性格；不等於不具能力，也不是故意犯錯。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "そそっかしい弟は、左右違う靴下をはいていました。",
+        "translation": "冒失的弟弟穿了左右不同的襪子。",
+        "surface": "そそっかしい",
+        "reading": "そそっかしい"
+      }
+    ]
   },
   "n2-jmdict-1548380": {
     "sentence": "経験のある先輩が一緒で、頼もしいです。",
     "translation": "有經驗的前輩同行，讓人很放心。",
-    "surface": "頼もしい"
+    "surface": "頼もしい",
+    "explanation": "有能力、可依靠而讓人安心、期待；常形容人、支持，不只是客觀耐用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「後は任せて」と言う娘が、とても頼もしく見えました。",
+        "translation": "說著「剩下交給我」的女兒，看起來十分可靠。",
+        "surface": "頼もしく",
+        "reading": "たのもしく"
+      }
+    ]
   },
   "n2-jmdict-1007500": {
     "sentence": "服を床に脱いだままにするのは、だらしないです。",
     "translation": "衣服脫在地上就不管，很邋遢。",
-    "surface": "だらしない"
+    "surface": "だらしない",
+    "explanation": "服裝、生活習慣或處事散漫、不整潔，帶批評；不只是單純疲累而放鬆。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "約束の時間を何度も忘れるのは、だらしないと思います。",
+        "translation": "我覺得一再忘記約定時間，是很散漫的行為。",
+        "surface": "だらしない",
+        "reading": "だらしない"
+      }
+    ]
   },
   "n2-jmdict-1403450": {
     "sentence": "弟の憎らしい態度に、思わず怒ってしまいました。",
     "translation": "弟弟討厭的態度讓我忍不住生氣。",
-    "surface": "憎らしい"
+    "surface": "憎らしい",
+    "explanation": "使人覺得可恨、討厭，有時帶口語情緒；「憎らしいほど上手」可反襯技術好得令人嫉妒。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼女は、憎らしいほど落ち着いて答えました。",
+        "translation": "她回答得冷靜極了，讓人不禁有些嫉妒。",
+        "surface": "憎らしい",
+        "reading": "にくらしい"
+      }
+    ]
   },
   "n2-jmdict-1582430": {
     "sentence": "この包丁は切れ味が鈍いです。",
     "translation": "這把菜刀不鋒利。",
-    "surface": "鈍い"
+    "surface": "鈍い",
+    "explanation": "刀刃不利、感覺不敏銳、反應遲鈍或光暗淡；不只描述移動速度。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "疲れていると、判断が鈍くなります。",
+        "translation": "疲累時，判斷會變得遲鈍。",
+        "surface": "鈍く",
+        "reading": "にぶく"
+      }
+    ]
   },
   "n2-jmdict-2838553": {
     "sentence": "この古い機械は、動きが鈍いです。",
     "translation": "這台舊機器動作很慢。",
-    "surface": "鈍い"
+    "surface": "鈍い",
+    "explanation": "動作、進行速度慢，常寫のろい；比ゆっくり更可能帶嫌慢的負面語氣。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "仕事がのろいと言われ、手順を見直しました。",
+        "translation": "被說做事太慢後，我重新檢討了步驟。",
+        "surface": "のろい",
+        "reading": "のろい"
+      }
+    ]
   },
   "n2-jmdict-1612910": {
     "sentence": "そんな小さなことで争うのは、ばからしいです。",
     "translation": "為那麼小的事爭吵很愚蠢。",
-    "surface": "ばからしい"
+    "surface": "ばからしい",
+    "explanation": "覺得不值得花時間、力氣或荒謬，通常批評事情；比單純面白くない語氣更否定。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "使わない物のために家賃を払うのは、ばからしく感じます。",
+        "translation": "為了放不用的東西而付房租，讓我覺得很不值得。",
+        "surface": "ばからしく",
+        "reading": "ばからしく"
+      }
+    ]
   },
   "n2-jmdict-1370010": {
     "sentence": "規則違反も甚だしい行為です。",
     "translation": "這是嚴重違反規則的行為。",
-    "surface": "甚だしい"
+    "surface": "甚だしい",
+    "explanation": "某程度超出常態，較正式且多用於負面狀況；「被害が甚だしい」表示損害嚴重。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この地域は、気温の変化が甚だしいです。",
+        "translation": "這個地區的氣溫變化非常劇烈。",
+        "surface": "甚だしい",
+        "reading": "はなはだしい"
+      }
+    ]
   },
   "n2-jmdict-1533560": {
     "sentence": "毎回同じ情報を書くのは、面倒臭いです。",
     "translation": "每次寫同樣的資料很麻煩。",
-    "surface": "面倒臭い"
+    "surface": "面倒臭い",
+    "explanation": "覺得手續、行動麻煩而不想做，常寫面倒くさい；是主觀感受，不一定真的困難。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "面倒くさくても、確認の手順は省かないでください。",
+        "translation": "即使覺得麻煩，也請不要省略確認步驟。",
+        "surface": "面倒くさくても",
+        "reading": "めんどうくさくても"
+      }
+    ]
   },
   "n2-jmdict-1502630": {
     "sentence": "会場から物凄い歓声が上がりました。",
     "translation": "會場響起驚人的歡呼聲。",
-    "surface": "物凄い"
+    "surface": "物凄い",
+    "explanation": "程度非常強烈、驚人，亦可指可怕氣氛，常寫ものすごい；口語副詞用ものすごく。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この冬は、ものすごく雪が積もりました。",
+        "translation": "今年冬天積了非常厚的雪。",
+        "surface": "ものすごく",
+        "reading": "ものすごく"
+      }
+    ]
   },
   "n2-jmdict-1612100": {
     "sentence": "悪天候での中止は、やむをえない判断でした。",
     "translation": "因天氣惡劣而取消，是不得已的判斷。",
-    "surface": "やむをえない"
+    "surface": "やむをえない",
+    "explanation": "考量情況後別無辦法、不得已，較正式；「やむをえず」作副詞，不能理解為自願選擇。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "道路が閉鎖され、やむをえず予定を変更しました。",
+        "translation": "道路封閉，我們不得不更改計畫。",
+        "surface": "やむをえず",
+        "reading": "やむをえず"
+      }
+    ]
   },
   "n2-jmdict-1606610": {
     "sentence": "祖母は今も若々しい声で歌います。",
     "translation": "祖母現在仍以年輕有活力的聲音唱歌。",
-    "surface": "若々しい"
+    "surface": "若々しい",
+    "explanation": "外觀、精神或動作充滿年輕活力；不單指實際年齡小，也可稱讚年長者。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "新しいことを学び続ける姿が、若々しく見えます。",
+        "translation": "持續學習新事物的模樣，看起來很有活力。",
+        "surface": "若々しく",
+        "reading": "わかわかしく"
+      }
+    ]
   },
   "n2-jmdict-1153720": {
     "sentence": "確かめずに、安易な結論を出してはいけません。",
     "translation": "未經確認，不可以輕率地下結論。",
-    "surface": "安易"
+    "surface": "安易",
+    "explanation": "不充分考慮便選容易方法，常帶批評；「安易に引き受ける」是輕率答應，不只是簡單。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "事情を知らずに、安易に賛成するべきではありません。",
+        "translation": "不了解情況時，不應輕率贊成。",
+        "surface": "安易に",
+        "reading": "あんいに"
+      }
+    ]
   },
   "n2-jmdict-1412950": {
     "sentence": "細かいことは後にして、おおざっぱな予定を立てました。",
     "translation": "細節留待之後，先訂了粗略計畫。",
-    "surface": "おおざっぱ"
+    "surface": "おおざっぱ",
+    "explanation": "不拘細節、粗略，可能是先掌握全貌，也可能批評草率；依上下文判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "まず、おおざっぱに費用を計算してみました。",
+        "translation": "首先，我粗略算了一下費用。",
+        "surface": "おおざっぱに",
+        "reading": "おおざっぱに"
+      }
+    ]
   },
   "n2-jmdict-1236170": {
     "sentence": "相手の話を聞かずに進めるのは、強引です。",
     "translation": "不聽對方的話就進行，太蠻橫了。",
-    "surface": "強引"
+    "surface": "強引",
+    "explanation": "不顧別人意願、條件而硬推，通常帶批評；「強引に決める」不等於有說服力地協調。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "強引な勧誘を受けて、困ってしまいました。",
+        "translation": "遇到強硬的推銷，讓我很困擾。",
+        "surface": "強引な",
+        "reading": "ごういんな"
+      }
+    ]
   },
   "n2-jmdict-1277880": {
     "sentence": "休みに両親を旅行へ連れていき、親孝行をしました。",
     "translation": "休假時我帶父母旅行，盡了一份孝心。",
-    "surface": "孝行"
+    "surface": "孝行",
+    "explanation": "照顧、體貼父母等長輩，常見「親孝行をする」「孝行な子」；不只送昂貴禮物。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "こまめに電話をするのも、親孝行の一つです。",
+        "translation": "經常打電話，也是孝順父母的一種方式。",
+        "surface": "親孝行",
+        "reading": "おやこうこう"
+      }
+    ]
   },
   "n2-jmdict-1226970": {
     "sentence": "写真が逆さに貼られています。",
     "translation": "照片貼倒了。",
-    "surface": "逆さ"
+    "surface": "逆さ",
+    "explanation": "上下、前後等方向顛倒；常見「逆さにする」「逆さの」，非單純順序不同而已。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "地図を逆さに見ていたので、方向を間違えました。",
+        "translation": "因為把地圖倒著看，我弄錯了方向。",
+        "surface": "逆さに",
+        "reading": "さかさに"
+      }
+    ]
   },
   "n2-jmdict-1552390": {
     "sentence": "毎日練習しているだけあって、さすがに上手です。",
     "translation": "不愧每天練習，果然很擅長。",
-    "surface": "さすが"
+    "surface": "さすが",
+    "explanation": "稱讚表現符合期待，常寫さすが；「さすがに〜ない」也可表示再怎樣仍有極限。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "さすがに三日続けて徹夜するのは無理です。",
+        "translation": "再怎麼說，連續三天熬夜不睡也辦不到。",
+        "surface": "さすがに",
+        "reading": "さすがに"
+      }
+    ]
   },
   "n2-jmdict-1399520": {
     "sentence": "朝の風がさわやかです。",
     "translation": "早晨的風很清爽。",
-    "surface": "さわやか"
+    "surface": "さわやか",
+    "explanation": "氣候、感覺清新舒適，也形容人爽朗；「さわやかな笑顔」不是指溫度低。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼のさわやかな挨拶で、気持ちよく一日が始まりました。",
+        "translation": "他爽朗的問候，讓一天有了愉快的開始。",
+        "surface": "さわやかな",
+        "reading": "さわやかな"
+      }
+    ]
   },
   "n2-jmdict-1568640": {
     "sentence": "彼の洒落を聞いて、みんなが笑いました。",
     "translation": "聽了他的雙關笑話，大家都笑了。",
-    "surface": "洒落"
+    "surface": "洒落",
+    "explanation": "玩笑、雙關語，常寫しゃれ；「おしゃれ」另外可表示打扮時髦，不能把兩者用法完全混同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この店の名前は、野菜の名前を使ったしゃれです。",
+        "translation": "這家店的名字，是利用蔬菜名稱做的雙關。",
+        "surface": "しゃれ",
+        "reading": "しゃれ"
+      }
+    ]
   },
   "n2-jmdict-1341930": {
     "sentence": "この研究は純粋な好奇心から始まりました。",
     "translation": "這個研究出於純粹好奇心而開始。",
-    "surface": "純粋"
+    "surface": "純粋",
+    "explanation": "沒有混雜，或動機單純、不含其他目的；「純粋に楽しむ」是單純享受，不只物質純度。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は、純粋に音楽を楽しむために演奏しています。",
+        "translation": "他演奏純粹是為了享受音樂。",
+        "surface": "純粋に",
+        "reading": "じゅんすいに"
+      }
+    ]
   },
   "n2-jmdict-1370980": {
     "sentence": "壁に対して垂直に、棚を取り付けます。",
     "translation": "將架板與牆面呈垂直安裝。",
-    "surface": "垂直"
+    "surface": "垂直",
+    "explanation": "兩線、面互成九十度，也可指鉛直方向；「地面に垂直に立つ」是直立，不是平躺。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "棒を地面に垂直に立てて、影の長さを測りました。",
+        "translation": "我把棒子垂直立在地上，測量影子長度。",
+        "surface": "垂直に",
+        "reading": "すいちょくに"
+      }
+    ]
   },
   "n2-jmdict-1073570": {
     "sentence": "彼はスマートな着こなしで会場に現れました。",
     "translation": "他以俐落時髦的穿著出現在會場。",
-    "surface": "スマート"
+    "surface": "スマート",
+    "explanation": "苗條、俐落、處事得體，也有科技複合詞用法；不宜直接按英語理解為聰明。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "店員は、急な変更にもスマートに対応しました。",
+        "translation": "店員面對臨時變更，也處理得很俐落。",
+        "surface": "スマートに",
+        "reading": "すまーとに"
+      }
+    ]
   },
   "n2-jmdict-1596570": {
     "sentence": "率直な意見を聞かせてください。",
     "translation": "請讓我聽聽坦率的意見。",
-    "surface": "率直"
+    "surface": "率直",
+    "explanation": "坦率、不拐彎抹角，現通常寫「率直」；「率直に言う」是直說，仍可保持禮貌。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "率直に言うと、今の予算では難しいです。",
+        "translation": "坦白說，以目前的預算很難辦到。",
+        "surface": "率直に",
+        "reading": "そっちょくに"
+      }
+    ]
   },
   "n2-jmdict-1408540": {
     "sentence": "この値段は妥当だと思います。",
     "translation": "我認為這個價格很妥當。",
-    "surface": "妥当"
+    "surface": "妥当",
+    "explanation": "考慮條件後合理、適切；「妥当な判断」不表示唯一可能的答案或人人都喜歡。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "条件を比べると、この提案は妥当だと思います。",
+        "translation": "比較各項條件後，我認為這個提案很合理。",
+        "surface": "妥当",
+        "reading": "だとう"
+      }
+    ]
   },
   "n2-jmdict-1236230": {
     "sentence": "彼は最後まで強気の姿勢を崩しませんでした。",
     "translation": "他直到最後都維持強硬態度。",
-    "surface": "強気"
+    "surface": "強気",
+    "explanation": "態度自信、強硬而不退縮，可正可負；常用「強気の発言」，不一律改成な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "相手の強気な発言に、会場が静まりました。",
+        "translation": "對方強硬的發言，讓會場安靜了下來。",
+        "surface": "強気な",
+        "reading": "つよきな"
+      }
+    ]
   },
   "n2-jmdict-1437290": {
     "sentence": "問題点を的確に指摘しました。",
     "translation": "我準確指出了問題。",
-    "surface": "的確"
+    "surface": "的確",
+    "explanation": "準確抓住重點、符合需要；「的確な助言」不只是數值沒有算錯。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先生の的確な助言で、練習方法が分かりました。",
+        "translation": "老師恰當的建議，讓我明白了練習方法。",
+        "surface": "的確な",
+        "reading": "てきかくな"
+      }
+    ]
   },
   "n2-jmdict-1582410": {
     "sentence": "この道は凸凹で、歩きにくいです。",
     "translation": "這條路凹凸不平，很難走。",
-    "surface": "凸凹"
+    "surface": "凸凹",
+    "explanation": "表面高低不平，常寫でこぼこ；可用「でこぼこの道」「でこぼこしている」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "でこぼこの道では、車の速度を落としてください。",
+        "translation": "在凹凸不平的道路上，請降低車速。",
+        "surface": "でこぼこの",
+        "reading": "でこぼこの"
+      }
+    ]
   },
   "n2-jmdict-1443720": {
     "sentence": "山の中では、携帯電話の電波が届きません。",
     "translation": "山裡收不到手機訊號。",
-    "surface": "電波"
+    "surface": "電波",
+    "explanation": "電磁波中用於無線通信等的波，日常常指訊號；此義為名詞，不能用電波な形容收訊。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "電波の弱い場所では、通話が途切れることがあります。",
+        "translation": "在訊號弱的地方，通話有時會中斷。",
+        "surface": "電波",
+        "reading": "でんぱ"
+      }
+    ]
   },
   "n2-jmdict-1452000": {
     "sentence": "この二人は、会社では同格の立場です。",
     "translation": "這兩人在公司地位相同。",
-    "surface": "同格"
+    "surface": "同格",
+    "explanation": "身分、等級、文法位置等相等；「同格の相手」常用の，不是外貌相同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "文中の二つの名詞は、同格の関係です。",
+        "translation": "句中的兩個名詞是同位關係。",
+        "surface": "同格の",
+        "reading": "どうかくの"
+      }
+    ]
   },
   "n2-jmdict-1450590": {
     "sentence": "透明な袋に入れてください。",
     "translation": "請裝進透明袋子。",
-    "surface": "透明"
+    "surface": "透明",
+    "explanation": "光可透過、能看見另一側，也比喻程序公開；「透明な」不一定指完全無色。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この容器は、透明なので中身を確認しやすいです。",
+        "translation": "這個容器是透明的，因此容易確認內容物。",
+        "surface": "透明",
+        "reading": "とうめい"
+      }
+    ]
   },
   "n2-jmdict-1378790": {
     "sentence": "彼の生意気な返事に、先生は驚きました。",
     "translation": "他自以為是的回答讓老師吃驚。",
-    "surface": "生意気"
+    "surface": "生意気",
+    "explanation": "說話、態度超出旁人認為應有分寸，含批評；有自信不一定就等於生意気。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "知らないことを知ったように話すと、生意気に聞こえます。",
+        "translation": "把不懂的事說得好像很懂，聽起來會很自以為是。",
+        "surface": "生意気に",
+        "reading": "なまいきに"
+      }
+    ]
   },
   "n2-jmdict-1599920": {
     "sentence": "急に空が暗くなり、にわか雨が降りました。",
     "translation": "天空突然變暗，下起了驟雨。",
-    "surface": "にわか"
+    "surface": "にわか",
+    "explanation": "突然、短時間形成，常寫にわか；「にわかに」是突然，「にわかの」可指臨時、不熟練。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "その説明は、にわかには信じられませんでした。",
+        "translation": "那番說明，我一時無法相信。",
+        "surface": "にわかに",
+        "reading": "にわかに"
+      }
+    ]
   },
   "n2-jmdict-1600560": {
     "sentence": "彼はのんきに昼寝をしています。",
     "translation": "他悠閒地睡午覺。",
-    "surface": "のんき"
+    "surface": "のんき",
+    "explanation": "不憂慮、從容，亦可能批評未有危機感，常寫のんき；不一定是肯定悠閒。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "締切が明日なのに、のんきに構えてはいられません。",
+        "translation": "明天就是截止日，不能再悠哉以對了。",
+        "surface": "のんきに",
+        "reading": "のんきに"
+      }
+    ]
   },
   "n2-jmdict-1010900": {
     "sentence": "話が終わると、雨もぴたりとやみました。",
     "translation": "話說完時，雨也突然停了。",
-    "surface": "ぴたり"
+    "surface": "ぴたり",
+    "explanation": "恰好吻合、緊密貼合或突然完全停止；通常用「ぴたりと」，非一般な形容詞活用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "新しいふたは、容器にぴたりと合いました。",
+        "translation": "新蓋子和容器正好密合。",
+        "surface": "ぴたりと",
+        "reading": "ぴたりと"
+      }
+    ]
   },
   "n2-jmdict-1483900": {
     "sentence": "彼は失敗した相手に皮肉を言いました。",
     "translation": "他諷刺了失敗的對方。",
-    "surface": "皮肉"
+    "surface": "皮肉",
+    "explanation": "表面說法與真意相反的諷刺，也指諷刺性的結果；「皮肉にも」不一定是有人刻意挖苦。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "晴れを願っていたのに、皮肉にも旅行の日だけ雨でした。",
+        "translation": "明明盼望晴天，諷刺的是偏偏只有旅行那天下雨。",
+        "surface": "皮肉にも",
+        "reading": "ひにくにも"
+      }
+    ]
   },
   "n2-jmdict-1602380": {
     "sentence": "新しい公園は広々としています。",
     "translation": "新公園很寬敞。",
-    "surface": "広々"
+    "surface": "広々",
+    "explanation": "空間開闊、給人舒展感；典型形式是「広々とした」「広々としている」，不是只改成な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "広々とした部屋で、子供たちが遊んでいます。",
+        "translation": "孩子們正在寬敞的房間裡玩耍。",
+        "surface": "広々とした",
+        "reading": "ひろびろとした"
+      }
+    ]
   },
   "n2-jmdict-1502640": {
     "sentence": "この辺は夜になると物騒です。",
     "translation": "這附近到了晚上治安不好。",
-    "surface": "物騒"
+    "surface": "物騒",
+    "explanation": "有犯罪、暴力等風險而不安，也可形容危險言論；不只是工具操作難度高。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "物騒な事件が続いているので、戸締まりを確認しました。",
+        "translation": "因為接連發生危險案件，我確認了門窗是否鎖好。",
+        "surface": "物騒な",
+        "reading": "ぶっそうな"
+      }
+    ]
   },
   "n2-jmdict-1560710": {
     "sentence": "母は朗らかな声で笑いました。",
     "translation": "媽媽以爽朗的聲音笑了。",
-    "surface": "朗らか"
+    "surface": "朗らか",
+    "explanation": "性情、笑聲開朗明快，也可形容天候晴朗，常寫ほがらか；日常多用於人。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "朗らかな先生のおかげで、教室が明るくなります。",
+        "translation": "多虧開朗的老師，教室氣氛變得很活潑。",
+        "surface": "朗らかな",
+        "reading": "ほがらかな"
+      }
+    ]
   },
   "n2-jmdict-1572500": {
     "sentence": "古い布がぼろになりました。",
     "translation": "舊布變成了破布。",
-    "surface": "ぼろ"
+    "surface": "ぼろ",
+    "explanation": "破舊物、碎布，也指被掩蓋的缺點；「ぼろが出る」是露出破綻，不需真的布料破裂。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "詳しく質問すると、説明のぼろが出ました。",
+        "translation": "仔細追問後，說明就露出了破綻。",
+        "surface": "ぼろ",
+        "reading": "ぼろ"
+      }
+    ]
   },
   "n2-jmdict-1012070": {
     "sentence": "試験の結果は、まあまあでした。",
     "translation": "考試結果還算可以。",
-    "surface": "まあまあ"
+    "surface": "まあまあ",
+    "explanation": "程度尚可、勉強過得去，也可用來勸人冷靜；不是明確的非常好。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "初めて作ったケーキにしては、まあまあの出来でした。",
+        "translation": "以第一次做的蛋糕來說，成品還算可以。",
+        "surface": "まあまあの",
+        "reading": "まあまあの"
+      }
+    ]
   },
   "n2-jmdict-1604050": {
     "sentence": "泥で靴が真っ黒になりました。",
     "translation": "鞋子沾泥，變得烏黑。",
-    "surface": "真っ黒"
+    "surface": "真っ黒",
+    "explanation": "完全黑色、黑得明顯，也可指曬黑、弄髒；不能只依此詞確定變黑原因。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "日焼けして、腕が真っ黒になりました。",
+        "translation": "因為曬太陽，手臂變得黝黑。",
+        "surface": "真っ黒",
+        "reading": "まっくろ"
+      }
+    ]
   },
   "n2-jmdict-1604280": {
     "sentence": "この地方で雪が降るのは稀です。",
     "translation": "這個地方很少下雪。",
-    "surface": "稀"
+    "surface": "稀",
+    "explanation": "發生次數少、罕見，常用「稀な例」「稀に」；並非完全不可能發生。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この鳥は、稀に町の公園にも現れます。",
+        "translation": "這種鳥偶爾也會出現在市區公園。",
+        "surface": "稀に",
+        "reading": "まれに"
+      }
+    ]
   },
   "n2-jmdict-1303280": {
     "sentence": "何もできず、みじめな気持ちになりました。",
     "translation": "我什麼也做不了，覺得很淒慘。",
-    "surface": "みじめ"
+    "surface": "みじめ",
+    "explanation": "處境、心情可憐而難堪，常含自尊受損的感受；不是任何難過都如此強烈。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "人と比べ続けて、みじめな気分になりました。",
+        "translation": "不停和別人比較，讓我覺得自己很可悲。",
+        "surface": "みじめな",
+        "reading": "みじめな"
+      }
+    ]
   },
   "n2-jmdict-1134990": {
     "sentence": "古い町に、モダンな建物ができました。",
     "translation": "老城鎮蓋了一棟現代建築。",
-    "surface": "モダン"
+    "surface": "モダン",
+    "explanation": "具有現代風格、時髦的設計氣息；「モダンな家具」不一定是今年才製造的新家具。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "和室に、モダンな照明を取り付けました。",
+        "translation": "我在和室裝了現代風格的燈具。",
+        "surface": "モダンな",
+        "reading": "もだんな"
+      }
+    ]
   },
   "n2-jmdict-1605280": {
     "sentence": "ここは元々、学校でした。",
     "translation": "這裡原本是學校。",
-    "surface": "元々"
+    "surface": "元々",
+    "explanation": "原本、起初的狀態，常作副詞もともと；與現在情況對照，不用元々な修飾。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "私はもともと、絵を描くのが好きでした。",
+        "translation": "我原本就喜歡畫畫。",
+        "surface": "もともと",
+        "reading": "もともと"
+      }
+    ]
   },
   "n2-jmdict-1518320": {
     "sentence": "最後まで、あくまで自分の意見を守りました。",
     "translation": "我直到最後都堅持自己的意見。",
-    "surface": "あくまで"
+    "surface": "あくまで",
+    "explanation": "堅持到最後，或強調僅限某個立場、範圍，常寫あくまで；不能一律譯為徹底。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "これはあくまで私個人の意見です。",
+        "translation": "這終究只是我個人的意見。",
+        "surface": "あくまで",
+        "reading": "あくまで"
+      }
+    ]
   },
   "n2-jmdict-1532300": {
     "sentence": "明け方に目が覚めました。",
     "translation": "我在天快亮時醒了。",
-    "surface": "明け方"
+    "surface": "明け方",
+    "explanation": "夜將結束、天空開始發亮的時段；與日落後的夕方相反，也不等於所有早上時間。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "明け方まで雨が降り、その後ようやく晴れました。",
+        "translation": "雨下到天快亮，之後終於放晴了。",
+        "surface": "明け方",
+        "reading": "あけがた"
+      }
+    ]
   },
   "n2-jmdict-1200740": {
     "sentence": "明日、改めてご連絡します。",
     "translation": "我明天會再次正式聯絡您。",
-    "surface": "改めて"
+    "surface": "改めて",
+    "explanation": "另選時間重新做，或重新正式確認；「改めて気づく」是再度深切體會，非單純重複動作。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今回の経験で、準備の大切さを改めて感じました。",
+        "translation": "透過這次經驗，我再次體會到準備的重要。",
+        "surface": "改めて",
+        "reading": "あらためて"
+      }
+    ]
   },
   "n2-jmdict-2068010": {
     "sentence": "大会で三位になりました。",
     "translation": "我在比賽中得到第三名。",
-    "surface": "位"
+    "surface": "位",
+    "explanation": "表示名次、排序的量詞，如一位；不是數人數或距離位置時都能直接用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "売り上げは、今年初めて全国一位になりました。",
+        "translation": "銷售額今年首次登上了全國第一名。",
+        "surface": "一位",
+        "reading": "いちい"
+      }
+    ]
   },
   "n2-jmdict-1609130": {
     "sentence": "子供たちは生き生きと遊んでいます。",
     "translation": "孩子們充滿活力地玩耍。",
-    "surface": "生き生き"
+    "surface": "生き生き",
+    "explanation": "充滿生命力、精神飽滿，典型搭配「生き生きと」「生き生きした」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "仕事について語る彼女の目は、生き生きしていました。",
+        "translation": "談起工作時，她的眼睛充滿了神采。",
+        "surface": "生き生きしていました",
+        "reading": "いきいきしていました"
+      }
+    ]
   },
   "n2-jmdict-1219950": {
     "sentence": "完成までに、幾つもの試作品を作りました。",
     "translation": "完成之前，我做了好幾個試作品。",
-    "surface": "幾"
+    "surface": "幾",
+    "explanation": "放在量詞等前表示不確定的若干、多少；常見幾つ、幾人，實際讀法隨搭配改變。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "幾日も考えた末に、返事を書きました。",
+        "translation": "想了好幾天之後，我寫了回覆。",
+        "surface": "幾日",
+        "reading": "いくにち"
+      }
+    ]
   },
   "n2-jmdict-1161170": {
     "sentence": "一応、必要な物はそろいました。",
     "translation": "需要的東西大致上都備齊了。",
-    "surface": "一応"
+    "surface": "一応",
+    "explanation": "先做基本、暫時的處理，保留尚非完全的意思；不一定表示說話者沒認真。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "念のため、一応コピーを取っておきます。",
+        "translation": "為了保險起見，我先影印一份留著。",
+        "surface": "一応",
+        "reading": "いちおう"
+      }
+    ]
   },
   "n2-jmdict-1576050": {
     "sentence": "一昨日、お送りした書類をご確認ください。",
     "translation": "請確認我前天寄出的文件。",
-    "surface": "一昨日"
+    "surface": "一昨日",
+    "explanation": "前天的正式讀法，多用於商務、報告；日常會話通常讀おととい。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一昨日の会議で、担当者が決まりました。",
+        "translation": "前天的會議決定了承辦人。",
+        "surface": "一昨日",
+        "reading": "いっさくじつ"
+      }
+    ]
   },
   "n2-jmdict-1576060": {
     "sentence": "一昨年、この会社に入りました。",
     "translation": "我前年進了這家公司。",
-    "surface": "一昨年"
+    "surface": "一昨年",
+    "explanation": "前年、今年之前兩年的正式讀法；口語通常讀おととし，不是去年。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一昨年から、地域の調査を続けています。",
+        "translation": "我從前年開始，持續進行地方調查。",
+        "surface": "一昨年",
+        "reading": "いっさくねん"
+      }
+    ]
   },
   "n2-jmdict-2020140": {
     "sentence": "玄関で「いってきます」と言いました。",
     "translation": "我在玄關說了「我出門了」。",
-    "surface": "いってきます"
+    "surface": "いってきます",
+    "explanation": "離開家等並預期返回時的寒暄；對留在原處的人說，不只是描述行く的時態。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "母に「いってきます」と声をかけて、学校へ向かいました。",
+        "translation": "我對媽媽說了聲「我出門了」，便往學校去。",
+        "surface": "いってきます",
+        "reading": "いってきます"
+      }
+    ]
   },
   "n2-jmdict-2149180": {
     "sentence": "上司に「それでは、いってまいります」と伝えました。",
     "translation": "我向上司說了「那麼，我出發了」。",
-    "surface": "いってまいります"
+    "surface": "いってまいります",
+    "explanation": "いってきます的謙恭說法，常在工作場合向留守者告知外出；不表示永久離去。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「取引先へいってまいります」と伝えて、会社を出ました。",
+        "translation": "我告知「我到客戶那裡去一趟」後，離開了公司。",
+        "surface": "いってまいります",
+        "reading": "いってまいります"
+      }
+    ]
   },
   "n2-jmdict-1001060": {
     "sentence": "道が分からず、駅前をうろうろしました。",
     "translation": "我不認得路，在車站前徘徊。",
-    "surface": "うろうろ"
+    "surface": "うろうろ",
+    "explanation": "沒有明確目的、方向地走動，也可因不知所措徘徊；「うろうろする」不一定是悠閒散步。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "鍵が見つからず、玄関の前をうろうろしていました。",
+        "translation": "找不到鑰匙，我在玄關前徘徊。",
+        "surface": "うろうろしていました",
+        "reading": "うろうろしていました"
+      }
+    ]
   },
   "n2-jmdict-1001150": {
     "sentence": "ええと、次の会議は何時でしたか。",
     "translation": "呃，下次會議是幾點呢？",
-    "surface": "ええと"
+    "surface": "ええと",
+    "explanation": "思考、回想或整理話語時的填充語；正式發表中過度使用可能使語句拖長。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ええと、お名前をもう一度教えていただけますか。",
+        "translation": "呃，可以請您再告訴我一次姓名嗎？",
+        "surface": "ええと",
+        "reading": "ええと"
+      }
+    ]
   },
   "n2-jmdict-1202290": {
     "sentence": "赤と青の絵の具を混ぜました。",
     "translation": "我混合了紅色和藍色顏料。",
-    "surface": "絵の具"
+    "surface": "絵の具",
+    "explanation": "繪畫用顏料，常用「絵の具を溶く／混ぜる」；與一般牆面油漆的ペンキ用途不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "水彩絵の具を薄めて、空を描きました。",
+        "translation": "我把水彩顏料稀釋，畫出了天空。",
+        "surface": "絵の具",
+        "reading": "えのぐ"
+      }
+    ]
   },
   "n2-jmdict-2854424": {
     "sentence": "休日に植物園へ行きました。",
     "translation": "我假日去了植物園。",
-    "surface": "園"
+    "surface": "園",
+    "explanation": "附在設施名稱後表示園區、機構，如動物園；不是所有公園以外的場所都能自由接園。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "保育園の前で、子供を待っていました。",
+        "translation": "我在托兒所前等孩子。",
+        "surface": "保育園",
+        "reading": "ほいくえん"
+      }
+    ]
   },
   "n2-jmdict-1415050": {
     "sentence": "参加人数は、おおよそ百人です。",
     "translation": "參加人數大約一百人。",
-    "surface": "おおよそ"
+    "surface": "おおよそ",
+    "explanation": "大致、約略，也可概括整體，常寫おおよそ；「おおよその予定」並非確定到分鐘的行程。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "おおよその費用を、先に教えてください。",
+        "translation": "請先告訴我大致的費用。",
+        "surface": "おおよその",
+        "reading": "おおよその"
+      }
+    ]
   },
   "n2-jmdict-1001900": {
     "sentence": "どうぞ、おかまいなく。",
     "translation": "請您別費心。",
-    "surface": "おかまいなく"
+    "surface": "おかまいなく",
+    "explanation": "請對方不必費心招待、照料的客氣話；不表示拒絕對方所有關心或要求其離開。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "お茶なら、どうぞおかまいなく。すぐ失礼しますので。",
+        "translation": "茶就不用費心了，我馬上就告辭。",
+        "surface": "おかまいなく",
+        "reading": "おかまいなく"
+      }
+    ]
   },
   "n2-jmdict-2826190": {
     "sentence": "各々が自分の役割を果たしました。",
     "translation": "每個人都完成了自己的任務。",
-    "surface": "各々"
+    "surface": "各々",
+    "explanation": "每一個人、各自，常寫おのおの；較正式，多搭配「各々の」「各々が」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "応募者は、おのおのの作品を持参してください。",
+        "translation": "應徵者請攜帶各自的作品。",
+        "surface": "おのおのの",
+        "reading": "おのおのの"
+      }
+    ]
   },
   "n2-jmdict-1002360": {
     "sentence": "おまちどおさま、ご注文の品です。",
     "translation": "讓您久等了，這是您點的餐。",
-    "surface": "おまちどおさま"
+    "surface": "おまちどおさま",
+    "explanation": "服務時送上等待之物的招呼，可寫お待ち遠様；現多用お待たせしました，語感較傳統親切。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "おまちどおさま、焼きたてのパンができました。",
+        "translation": "讓您久等了，剛出爐的麵包好了。",
+        "surface": "おまちどおさま",
+        "reading": "おまちどおさま"
+      }
+    ]
   },
   "n2-jmdict-2834138": {
     "sentence": "広い公園で、思い切り走りました。",
     "translation": "我在寬闊公園盡情奔跑。",
-    "surface": "思い切り"
+    "surface": "思い切り",
+    "explanation": "把力量、心情充分發揮，或毫不保留地盡情做；與猶豫後下決心的思い切って不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "海に向かって、思い切り叫びました。",
+        "translation": "我朝著大海盡情吶喊。",
+        "surface": "思い切り",
+        "reading": "おもいきり"
+      }
+    ]
   },
   "n2-jmdict-1309310": {
     "sentence": "休日は思いっ切り遊びたいです。",
     "translation": "我想在假日痛痛快快玩一場。",
-    "surface": "思いっ切り"
+    "surface": "思いっ切り",
+    "explanation": "思い切り的口語強調形式，常寫思いっきり；可指用力，也可指盡情，不一定帶暴力。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "試合が終わって、思いっきり笑い合いました。",
+        "translation": "比賽結束後，大家一起開懷大笑。",
+        "surface": "思いっきり",
+        "reading": "おもいっきり"
+      }
+    ]
   },
   "n2-jmdict-2826528": {
     "sentence": "御社の製品についてお聞きしたいです。",
     "translation": "我想請教貴公司的產品。",
-    "surface": "御"
+    "surface": "御",
+    "explanation": "尊敬接頭語，常見御社おんしゃ；同一漢字在別詞中可讀お、ご，不能任意換讀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "御社の採用方針について、質問してもよろしいでしょうか。",
+        "translation": "可以請教貴公司的招募方針嗎？",
+        "surface": "御社",
+        "reading": "おんしゃ"
+      }
+    ]
   },
   "n2-jmdict-1270530": {
     "sentence": "封筒には「営業部御中」と書きました。",
     "translation": "我在信封上寫了「營業部 收」。",
-    "surface": "御中"
+    "surface": "御中",
+    "explanation": "信件寄給機構、部門且未指名個人時的收件敬稱；已寫某人様時通常不再並列御中。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "宛名は、「株式会社山田御中」としてください。",
+        "translation": "收件名稱請寫「株式會社山田收」。",
+        "surface": "御中",
+        "reading": "おんちゅう"
+      }
+    ]
   },
   "n2-jmdict-2083110": {
     "sentence": "休暇は四日間です。",
     "translation": "假期有四天。",
-    "surface": "日"
+    "surface": "日",
+    "explanation": "日期、天數部分搭配中的讀法，如二日ふつか；不是所有數字加か都能正確數天。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "荷物は、三日後に届く予定です。",
+        "translation": "包裹預計三天後送達。",
+        "surface": "三日",
+        "reading": "みっか"
+      }
+    ]
   },
   "n2-jmdict-2159100": {
     "sentence": "厳しい条件下でも、研究を続けました。",
     "translation": "即使在嚴苛條件下，仍持續研究。",
-    "surface": "下"
+    "surface": "下",
+    "explanation": "接在情況、條件等後表示處於其下，如管理下；不等於指物理下方時都讀か。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "専門家の指導下で、実験を行いました。",
+        "translation": "我們在專家的指導下進行實驗。",
+        "surface": "指導下",
+        "reading": "しどうか"
+      }
+    ]
   },
   "n2-jmdict-2056760": {
     "sentence": "作業の機械化を進めています。",
     "translation": "我們正在推動作業機械化。",
-    "surface": "化"
+    "surface": "化",
+    "explanation": "接名詞等後表示轉變成某狀態，如自動化；可配する，但不是所有詞都可隨意加化。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "手続きの電子化で、紙の使用量が減りました。",
+        "translation": "手續電子化後，紙張使用量減少了。",
+        "surface": "電子化",
+        "reading": "でんしか"
+      }
+    ]
   },
   "n2-jmdict-1192680": {
     "sentence": "病院の外科で診察を受けました。",
     "translation": "我在醫院外科接受診察。",
-    "surface": "科"
+    "surface": "科",
+    "explanation": "學科、醫療科別、生物分類等的單位；「眼科」「理科」的科不同於課的部門字。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "目の調子が悪くて、眼科を受診しました。",
+        "translation": "眼睛不舒服，所以我去看了眼科。",
+        "surface": "眼科",
+        "reading": "がんか"
+      }
+    ]
   },
   "n2-jmdict-2227930": {
     "sentence": "予定外の仕事が入りました。",
     "translation": "臨時多了一份計畫以外的工作。",
-    "surface": "外"
+    "surface": "外",
+    "explanation": "接範圍、規則等後表示其以外，如対象外；與單獨指外面的そと不同讀法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この商品は、割引の対象外です。",
+        "translation": "這件商品不在折扣適用範圍內。",
+        "surface": "対象外",
+        "reading": "たいしょうがい"
+      }
+    ]
   },
   "n2-jmdict-1226610": {
     "sentence": "急いだために、かえって時間がかかりました。",
     "translation": "因為太著急，反而花了更多時間。",
-    "surface": "かえって"
+    "surface": "かえって",
+    "explanation": "結果與原本目的、預期相反，常寫かえって；不是普通的相反方向轉身。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "親切のつもりが、かえって迷惑になってしまいました。",
+        "translation": "原本出於好意，結果反而造成了困擾。",
+        "surface": "かえって",
+        "reading": "かえって"
+      }
+    ]
   },
   "n2-jmdict-1204860": {
     "sentence": "各クラスで、各自の意見を発表します。",
     "translation": "各班要發表每個人的意見。",
-    "surface": "各"
+    "surface": "各",
+    "explanation": "接群體、地區、單位等前表示各個，如各国；不能像各自那樣單獨表示每個人自行做。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "各会場で、同じ説明資料を配ります。",
+        "translation": "各會場會發放相同的說明資料。",
+        "surface": "各会場",
+        "reading": "かくかいじょう"
+      }
+    ]
   },
   "n2-jmdict-1205010": {
     "sentence": "各クラスで、各自の意見を発表します。",
     "translation": "各班要發表每個人的意見。",
-    "surface": "各自"
+    "surface": "各自",
+    "explanation": "群體中的每個人各自處理，常見「各自で」「各自の」；不一定指每人做不同事情。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "昼食は、各自で用意してください。",
+        "translation": "午餐請各自準備。",
+        "surface": "各自",
+        "reading": "かくじ"
+      }
+    ]
   },
   "n2-jmdict-2867504": {
     "sentence": "この景色は忘れがたいです。",
     "translation": "這個景色令人難忘。",
-    "surface": "がたい"
+    "surface": "がたい",
+    "explanation": "接動詞ます形去ます後表示心理、性質上難以如此；「信じがたい」不只是技巧不足。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼の突然の辞任は、受け入れがたい知らせでした。",
+        "translation": "他突然辭職，是令人難以接受的消息。",
+        "surface": "受け入れがたい",
+        "reading": "うけいれがたい"
+      }
+    ]
   },
   "n2-jmdict-2525950": {
     "sentence": "月刊の雑誌を、一巻ずつ整理しました。",
     "translation": "我把月刊雜誌逐卷整理好了。",
-    "surface": "刊"
+    "surface": "刊",
+    "explanation": "表示出版週期、發行，如週刊、月刊；不能單獨當冊數量詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この雑誌は、月刊から季刊に変わりました。",
+        "translation": "這本雜誌從月刊改成了季刊。",
+        "surface": "季刊",
+        "reading": "きかん"
+      }
+    ]
   },
   "n2-jmdict-1955950": {
     "sentence": "月刊の雑誌を、一巻ずつ整理しました。",
     "translation": "我把月刊雜誌逐卷整理好了。",
-    "surface": "巻"
+    "surface": "巻",
+    "explanation": "計算成套書籍、影片等的卷數；「第一巻」是第一卷，不等於書的第一頁。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この漫画は、全十巻で完結しています。",
+        "translation": "這部漫畫全十卷，已經完結。",
+        "surface": "全十巻",
+        "reading": "ぜんじっかん"
+      }
+    ]
   },
   "n2-jmdict-2067900": {
     "sentence": "二週間、旅行をしました。",
     "translation": "我旅行了兩週。",
-    "surface": "間"
+    "surface": "間",
+    "explanation": "接時間單位後表示持續期間，如三年間；部分表達如二時間，與鐘點二時不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "停電は、約二時間続きました。",
+        "translation": "停電持續了約兩小時。",
+        "surface": "二時間",
+        "reading": "にじかん"
+      }
+    ]
   },
   "n2-jmdict-1929870": {
     "sentence": "図書館で本を借りました。",
     "translation": "我在圖書館借了書。",
-    "surface": "館"
+    "surface": "館",
+    "explanation": "附在建築、機構名稱後，如美術館；讀音在部分固有名詞中不同，需依完整名稱確認。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "科学館で、宇宙に関する展示を見ました。",
+        "translation": "我在科學館看了關於宇宙的展示。",
+        "surface": "科学館",
+        "reading": "かがくかん"
+      }
+    ]
   },
   "n2-jmdict-1955970": {
     "sentence": "仕事を終えて、達成感がありました。",
     "translation": "完成工作後，我有了成就感。",
-    "surface": "感"
+    "surface": "感",
+    "explanation": "接名詞後表示某種感受、印象，如安心感；不是所有感情詞都能自由再加感。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "木の香りに、安心感を覚えました。",
+        "translation": "木頭的香氣讓我產生了安心感。",
+        "surface": "安心感",
+        "reading": "あんしんかん"
+      }
+    ]
   },
   "n2-jmdict-1220540": {
     "sentence": "第一期の工事が始まりました。",
     "translation": "第一期工程開始了。",
-    "surface": "期"
+    "surface": "期",
+    "explanation": "表示時期、階段或分期，如成長期；也可數任期，實際用法依複合詞判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "成長期の子供には、十分な睡眠が大切です。",
+        "translation": "對成長期的孩子而言，充足的睡眠很重要。",
+        "surface": "成長期",
+        "reading": "せいちょうき"
+      }
+    ]
   },
   "n2-jmdict-2109010": {
     "sentence": "消火器の場所を確認してください。",
     "translation": "請確認滅火器的位置。",
-    "surface": "器"
+    "surface": "器",
+    "explanation": "附在名稱後表示器具、容器或裝置；常見計量器、消火器，與機的使用依固定詞彙。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "台所に、消火器を備えています。",
+        "translation": "廚房裡備有滅火器。",
+        "surface": "消火器",
+        "reading": "しょうかき"
+      }
+    ]
   },
   "n2-jmdict-2037700": {
     "sentence": "洗濯機を新しくしました。",
     "translation": "我換了新洗衣機。",
-    "surface": "機"
+    "surface": "機",
+    "explanation": "附在名稱後表示具有機械功能的設備；「掃除機」等依詞讀，不是所有器具都用機。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "掃除機のフィルターを、交換しました。",
+        "translation": "我更換了吸塵器的濾網。",
+        "surface": "掃除機",
+        "reading": "そうじき"
+      }
+    ]
   },
   "n2-jmdict-2866243": {
     "sentence": "大学で仏教の歴史を学びました。",
     "translation": "我在大學學了佛教歷史。",
-    "surface": "教"
+    "surface": "教",
+    "explanation": "宗教、教義名稱的後綴，如仏教；不是每個含教的字都讀きょう或表示宗教。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "宗教の授業で、キリスト教について学びました。",
+        "translation": "我在宗教課學了基督教的相關知識。",
+        "surface": "キリスト教",
+        "reading": "きりすときょう"
+      }
+    ]
   },
   "n2-jmdict-2153730": {
     "sentence": "父は建設業に就いています。",
     "translation": "爸爸從事建築業。",
-    "surface": "業"
+    "surface": "業",
+    "explanation": "表示某種產業、職業領域，如製造業；與一項具體作業的量詞不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "観光業は、この町の大切な産業です。",
+        "translation": "觀光業是這座城鎮的重要產業。",
+        "surface": "観光業",
+        "reading": "かんこうぎょう"
+      }
+    ]
   },
   "n2-jmdict-1191750": {
     "sentence": "田中家の皆さんが集まりました。",
     "translation": "田中家的各位都聚集了。",
-    "surface": "家"
+    "surface": "家",
+    "explanation": "接姓氏後表示該家族、家門，如山田家；與專家名稱後讀か的家不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "山田家には、昔から伝わる道具があります。",
+        "translation": "山田家有祖傳的器具。",
+        "surface": "山田家",
+        "reading": "やまだけ"
+      }
+    ]
   },
   "n2-jmdict-2254010": {
     "sentence": "丸い形を円形といいます。",
     "translation": "圓的形狀叫作圓形。",
-    "surface": "形"
+    "surface": "形",
+    "explanation": "表示形狀、形式的後綴，如三角形；不同於單獨形かたち，讀法依詞固定。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "紙を長方形に切ってから、半分に折りました。",
+        "translation": "我把紙切成長方形，再對折。",
+        "surface": "長方形",
+        "reading": "ちょうほうけい"
+      }
+    ]
   },
   "n2-jmdict-1251000": {
     "sentence": "彼は理系の学部を選びました。",
     "translation": "他選擇了理科系的學院。",
-    "surface": "系"
+    "surface": "系",
+    "explanation": "表示系統、類型、血統或傾向，如文系；不是一定有實體線路相連。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼女は、文系の学生向けに講演しました。",
+        "translation": "她對文科學生做了演講。",
+        "surface": "文系",
+        "reading": "ぶんけい"
+      }
+    ]
   },
   "n2-jmdict-1255840": {
     "sentence": "家賃は月末に払います。",
     "translation": "房租在月底支付。",
-    "surface": "月末"
+    "surface": "月末",
+    "explanation": "一個月最後的幾天或月底時點；「月末まで」是月底之前，通常不是月初。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "月末は、報告書の作成で忙しくなります。",
+        "translation": "月底會因為編寫報告而忙碌起來。",
+        "surface": "月末",
+        "reading": "げつまつ"
+      }
+    ]
   },
   "n2-jmdict-1257080": {
     "sentence": "首都圏では、電車が便利です。",
     "translation": "在首都圈搭電車很方便。",
-    "surface": "圏"
+    "surface": "圏",
+    "explanation": "表示某中心影響、涵蓋的範圍，如通勤圏；不必然有行政邊界。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "引っ越し先は、職場の通勤圏内で探しています。",
+        "translation": "我正在上班可通勤的範圍內尋找新住處。",
+        "surface": "通勤圏内",
+        "reading": "つうきんけんない"
+      }
+    ]
   },
   "n2-jmdict-2056720": {
     "sentence": "現社長は去年、就任しました。",
     "translation": "現任社長去年就任。",
-    "surface": "現"
+    "surface": "現",
+    "explanation": "接職稱等前表示現在在任、現行的；「現社長」與前社長相對，不是過去曾任。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "現制度では、この申請は受け付けられません。",
+        "translation": "依現行制度，無法受理這項申請。",
+        "surface": "現制度",
+        "reading": "げんせいど"
+      }
+    ]
   },
   "n2-jmdict-1263500": {
     "sentence": "彼は現にその場にいました。",
     "translation": "他實際上就在現場。",
-    "surface": "現に"
+    "surface": "現に",
+    "explanation": "以實際存在的事實支持論點，相當於事實上確實；不同於單純時間的今。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この方法は役立ちます。現に、多くの学校が使っています。",
+        "translation": "這個方法有幫助，事實上許多學校正在使用。",
+        "surface": "現に",
+        "reading": "げんに"
+      }
+    ]
   },
   "n2-jmdict-2153770": {
     "sentence": "小雨が降っています。",
     "translation": "正在下小雨。",
-    "surface": "小"
+    "surface": "小",
+    "explanation": "接名詞表示小、稍微等，如小声、小雨；讀こ不同於小学校中的しょう。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "図書館では、小声で話してください。",
+        "translation": "在圖書館請小聲說話。",
+        "surface": "小声",
+        "reading": "こごえ"
+      }
+    ]
   },
   "n2-jmdict-2259610": {
     "sentence": "近くには小学校が二校あります。",
     "translation": "附近有兩所小學。",
-    "surface": "校"
+    "surface": "校",
+    "explanation": "學校名稱成分或計算學校數的量詞；「三校」是三所學校，不是三間教室。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "大会には、県内の十校が参加しました。",
+        "translation": "縣內十所學校參加了大會。",
+        "surface": "十校",
+        "reading": "じっこう"
+      }
+    ]
   },
   "n2-jmdict-2085750": {
     "sentence": "神戸港で船を見ました。",
     "translation": "我在神戶港看了船。",
-    "surface": "港"
+    "surface": "港",
+    "explanation": "接地名等表示港口，如横浜港；單獨港也讀みなと，不可任意把固有名稱換讀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "横浜港には、大きな客船が入港していました。",
+        "translation": "橫濱港裡停進了一艘大型客輪。",
+        "surface": "横浜港",
+        "reading": "よこはまこう"
+      }
+    ]
   },
   "n2-jmdict-2183260": {
     "sentence": "高品質の商品を作ります。",
     "translation": "我們製作高品質商品。",
-    "surface": "高"
+    "surface": "高",
+    "explanation": "接名詞表示程度、數值等高，如高温；並非總是正面評價，高価格可能反而不利。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この植物は、高温に弱いので注意してください。",
+        "translation": "這種植物不耐高溫，請留意。",
+        "surface": "高温",
+        "reading": "こうおん"
+      }
+    ]
   },
   "n2-jmdict-1284220": {
     "sentence": "次の新幹線は、ひかり号です。",
     "translation": "下一班新幹線是光號。",
-    "surface": "号"
+    "surface": "号",
+    "explanation": "編號、交通工具名稱等的後綴；「三号室」是三號房，不同於樓層的階。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "次の会議は、三号室で開きます。",
+        "translation": "下一場會議在三號室舉行。",
+        "surface": "三号室",
+        "reading": "さんごうしつ"
+      }
+    ]
   },
   "n2-jmdict-2008040": {
     "sentence": "こうして、長い準備が終わりました。",
     "translation": "就這樣，漫長準備結束了。",
-    "surface": "こうして"
+    "surface": "こうして",
+    "explanation": "承接前面的做法、經過，表示就這樣、如此；不是與前文無關的新話題。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "何度も調整を重ね、こうして新製品が完成しました。",
+        "translation": "經過反覆調整，新產品就這樣完成了。",
+        "surface": "こうして",
+        "reading": "こうして"
+      }
+    ]
   },
   "n2-jmdict-1524640": {
     "sentence": "一時間毎に、短い休憩を取ります。",
     "translation": "我每隔一小時短暫休息。",
-    "surface": "毎"
+    "surface": "毎",
+    "explanation": "接名詞、數量後表示每個、每隔，常寫ごと；「一時間ごと」是每隔一小時，不是整小時持續。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ページごとに、番号を付けてください。",
+        "translation": "請逐頁加上編號。",
+        "surface": "ごと",
+        "reading": "ごと"
+      }
+    ]
   },
   "n2-jmdict-1270670": {
     "sentence": "遅れてごめん。",
     "translation": "抱歉遲到了。",
-    "surface": "ごめん"
+    "surface": "ごめん",
+    "explanation": "日常寫ごめん，表示抱歉、請原諒；對熟人使用，正式道歉宜用すみません等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "約束を忘れていて、ごめん。",
+        "translation": "對不起，我忘了約定。",
+        "surface": "ごめん",
+        "reading": "ごめん"
+      }
+    ]
   },
   "n2-jmdict-1270690": {
     "sentence": "玄関で「ごめんください」と声を掛けました。",
     "translation": "我在玄關喊了「請問有人在嗎」。",
-    "surface": "ごめんください"
+    "surface": "ごめんください",
+    "explanation": "到別人家、店門口時告知有人來訪、詢問是否有人；不等於一般犯錯後道歉。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "玄関で「ごめんください」と言うと、奥から返事がありました。",
+        "translation": "我在玄關喊了聲「請問有人嗎」，裡面便傳來回應。",
+        "surface": "ごめんください",
+        "reading": "ごめんください"
+      }
+    ]
   },
   "n2-jmdict-1270760": {
     "sentence": "こちらの資料をご覧ください。",
     "translation": "請看這份資料。",
-    "surface": "ご覧"
+    "surface": "ご覧",
+    "explanation": "見る的尊敬表達之一，常寫ご覧；「ご覧になる」「ご覧ください」不能換成自謙的拝見。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先生は、学生の作品をご覧になりました。",
+        "translation": "老師看了學生的作品。",
+        "surface": "ご覧になりました",
+        "reading": "ごらんになりました"
+      }
+    ]
   },
   "n2-jmdict-1288860": {
     "sentence": "今年度の計画を立てます。",
     "translation": "我們要制定本年度計畫。",
-    "surface": "今"
+    "surface": "今",
+    "explanation": "接期間等前表示本次、目前的，如今月；今年單獨常讀ことし，需按完整詞讀音。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今学期は、朝の授業が増えました。",
+        "translation": "這學期早上的課增加了。",
+        "surface": "今学期",
+        "reading": "こんがっき"
+      }
+    ]
   },
   "n2-jmdict-1292290": {
     "sentence": "内容を再確認してください。",
     "translation": "請再次確認內容。",
-    "surface": "再"
+    "surface": "再",
+    "explanation": "重新、再次的接頭語，如再開、再検討；不能把所有動作詞隨意直接加再。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "提出前に、数字を再確認しました。",
+        "translation": "提交之前，我再次確認了數字。",
+        "surface": "再確認しました",
+        "reading": "さいかくにんしました"
+      }
+    ]
   },
   "n2-jmdict-1956280": {
     "sentence": "最短の道を選びました。",
     "translation": "我選了最短路線。",
-    "surface": "最"
+    "surface": "最",
+    "explanation": "表示程度最高、最極端，如最大、最小；後續詞讀法固定，不直接接所有日語形容詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "荷物は、最小限にまとめました。",
+        "translation": "我把行李精簡到最低限度。",
+        "surface": "最小限",
+        "reading": "さいしょうげん"
+      }
+    ]
   },
   "n2-jmdict-1292760": {
     "sentence": "再三お願いしましたが、返事がありません。",
     "translation": "再三請求後，還是沒有回覆。",
-    "surface": "再三"
+    "surface": "再三",
+    "explanation": "同一行為反覆多次，較正式；常用於提醒、要求，不必恰好三次。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "再三の確認にもかかわらず、誤りが残っていました。",
+        "translation": "儘管再三確認，仍留下了錯誤。",
+        "surface": "再三",
+        "reading": "さいさん"
+      }
+    ]
   },
   "n2-jmdict-1576030": {
     "sentence": "一昨昨日、友人が来ました。",
     "translation": "大前天朋友來了。",
-    "surface": "一昨昨日"
+    "surface": "一昨昨日",
+    "explanation": "大前天，日常也可寫さきおととい；時間指今天之前第三天，不是三天後。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "さきおととい買った花が、もう開きました。",
+        "translation": "大前天買的花已經開了。",
+        "surface": "さきおととい",
+        "reading": "さきおととい"
+      }
+    ]
   },
   "n2-jmdict-2085690": {
     "sentence": "富士山に登りました。",
     "translation": "我爬了富士山。",
-    "surface": "山"
+    "surface": "山",
+    "explanation": "山名後綴常讀さん，也可能讀ざん、やま等；應依固有地名，不能把每座山一律讀さん。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "富士山は、遠くからでもよく見えました。",
+        "translation": "即使從遠處，也看得清楚富士山。",
+        "surface": "富士山",
+        "reading": "ふじさん"
+      }
+    ]
   },
   "n2-jmdict-2106250": {
     "sentence": "この米は新潟産です。",
     "translation": "這包米是新潟產的。",
-    "surface": "産"
+    "surface": "産",
+    "explanation": "接地名、來源後表示產地、生產來源；「国産」是國內生產，不表示品牌必定本國所有。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この店は、北海道産の野菜を使っています。",
+        "translation": "這家店使用北海道產的蔬菜。",
+        "surface": "北海道産",
+        "reading": "ほっかいどうさん"
+      }
+    ]
   },
   "n2-jmdict-2080900": {
     "sentence": "大学で日本史を学んでいます。",
     "translation": "我在大學學日本史。",
-    "surface": "史"
+    "surface": "史",
+    "explanation": "歷史領域、沿革的構詞後綴，如世界史；不是所有以時間排列的清單都屬史。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "世界史を学ぶと、国同士のつながりが見えてきます。",
+        "translation": "學習世界史，便能看出國家之間的關聯。",
+        "surface": "世界史",
+        "reading": "せかいし"
+      }
+    ]
   },
   "n2-jmdict-2787310": {
     "sentence": "記事を新聞紙から切り抜きました。",
     "translation": "我從報紙剪下了文章。",
-    "surface": "紙"
+    "surface": "紙",
+    "explanation": "表示紙類、報紙等的構詞成分，如用紙；讀音也可能為かみ、がみ，依固定詞判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "申込用紙は、受付に置いてあります。",
+        "translation": "報名表放在櫃台。",
+        "surface": "申込用紙",
+        "reading": "もうしこみようし"
+      }
+    ]
   },
   "n2-jmdict-2267560": {
     "sentence": "金閣寺を見学しました。",
     "translation": "我參觀了金閣寺。",
-    "surface": "寺"
+    "surface": "寺",
+    "explanation": "寺院名稱後綴，如清水寺；名稱可能讀じ、でら等，不能把每個寺名都照同一讀音。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "東大寺で、大仏を見ました。",
+        "translation": "我在東大寺看了大佛。",
+        "surface": "東大寺",
+        "reading": "とうだいじ"
+      }
+    ]
   },
   "n2-jmdict-1594050": {
     "sentence": "明明後日、旅行に出発します。",
     "translation": "我大後天出發旅行。",
-    "surface": "明明後日"
+    "surface": "明明後日",
+    "explanation": "通常指大後天，即今天之後第三天，常寫しあさって；部分方言用法不同，約定宜用日期確認。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "しあさっての午後に、荷物が届きます。",
+        "translation": "包裹會在大後天下午送達。",
+        "surface": "しあさって",
+        "reading": "しあさって"
+      }
+    ]
   },
   "n2-jmdict-1307570": {
     "sentence": "隣の部屋から始終、音楽が聞こえます。",
     "translation": "隔壁房間一直傳來音樂聲。",
-    "surface": "始終"
+    "surface": "始終",
+    "explanation": "從頭到尾、經常不斷地；「始終笑っている」不必然指一生每一刻都在笑。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は旅行中、始終楽しそうにしていました。",
+        "translation": "旅行期間，他一直顯得很開心。",
+        "surface": "始終",
+        "reading": "しじゅう"
+      }
+    ]
   },
   "n2-jmdict-1320300": {
     "sentence": "会議室を三室予約しました。",
     "translation": "我預約了三間會議室。",
-    "surface": "室"
+    "surface": "室",
+    "explanation": "房間名稱成分，也可計算房間數；「三室」是三間房，不等於第三號房。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "研修のため、ホテルを五室予約しました。",
+        "translation": "為了研習，我們訂了五間飯店客房。",
+        "surface": "五室",
+        "reading": "ごしつ"
+      }
+    ]
   },
   "n2-jmdict-1321670": {
     "sentence": "青と白の縞のシャツを着ています。",
     "translation": "我穿著藍白條紋襯衫。",
-    "surface": "縞"
+    "surface": "縞",
+    "explanation": "反覆平行排列的條紋；「縞模様」是條紋圖樣，不等同格子或圓點圖案。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "横の縞より、縦の縞の服が好きです。",
+        "translation": "比起橫條紋，我更喜歡直條紋衣服。",
+        "surface": "縞",
+        "reading": "しま"
+      }
+    ]
   },
   "n2-jmdict-1005610": {
     "sentence": "故郷のよさをしみじみ感じました。",
     "translation": "我深切感受到故鄉的美好。",
-    "surface": "しみじみ"
+    "surface": "しみじみ",
+    "explanation": "安靜、深切地體會某感受，常用於回顧、感慨；不是只表示音量或速度小。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "友人の手紙を読み、支えのありがたさをしみじみ感じました。",
+        "translation": "讀了朋友的信，我深深體會到有人支持的可貴。",
+        "surface": "しみじみ",
+        "reading": "しみじみ"
+      }
+    ]
   },
   "n2-jmdict-2773260": {
     "sentence": "自動車を修理に出しました。",
     "translation": "我把汽車送修了。",
-    "surface": "車"
+    "surface": "車",
+    "explanation": "表示車輛種類的構詞成分，如救急車；單獨車常讀くるま，不能任意替換。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "駅前に、救急車が到着しました。",
+        "translation": "救護車抵達了車站前。",
+        "surface": "救急車",
+        "reading": "きゅうきゅうしゃ"
+      }
+    ]
   },
   "n2-jmdict-2153760": {
     "sentence": "参加者は百人です。",
     "translation": "參加者有一百人。",
-    "surface": "者"
+    "surface": "者",
+    "explanation": "接行為、狀態等後表示相關的人，如利用者；部分詞讀じゃ，需依整詞讀音。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "施設の利用者には、アンケートをお願いしています。",
+        "translation": "我們請設施使用者填寫問卷。",
+        "surface": "利用者",
+        "reading": "りようしゃ"
+      }
+    ]
   },
   "n2-jmdict-2015400": {
     "sentence": "三社が合同で研究しています。",
     "translation": "三家公司正在共同研究。",
-    "surface": "社"
+    "surface": "社",
+    "explanation": "公司、組織名稱成分，也作計算公司的量詞；「二社」不是兩位員工或兩間辦公室。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今回は、五社から見積もりを取りました。",
+        "translation": "這次向五家公司索取了報價。",
+        "surface": "五社",
+        "reading": "ごしゃ"
+      }
+    ]
   },
   "n2-jmdict-2862909": {
     "sentence": "日本酒を少し飲みました。",
     "translation": "我喝了一點日本酒。",
-    "surface": "酒"
+    "surface": "酒",
+    "explanation": "酒類名稱後綴，如果実酒；單獨酒常讀さけ，不能按字一律讀しゅ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この果実酒は、地元の梅で作られています。",
+        "translation": "這款果酒用當地梅子釀製。",
+        "surface": "果実酒",
+        "reading": "かじつしゅ"
+      }
+    ]
   },
   "n2-jmdict-1956400": {
     "sentence": "好きな作家の作品集を買いました。",
     "translation": "我買了喜歡的作家的作品集。",
-    "surface": "集"
+    "surface": "集",
+    "explanation": "把作品、資料等匯聚成冊的集子，如写真集；不等同計算每本書的量詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "祖父の写真をまとめて、写真集を作りました。",
+        "translation": "我把祖父的照片整理成了相冊。",
+        "surface": "写真集",
+        "reading": "しゃしんしゅう"
+      }
+    ]
   },
   "n2-jmdict-2108240": {
     "sentence": "祖父は重病で入院しています。",
     "translation": "祖父因重病住院。",
-    "surface": "重"
+    "surface": "重",
+    "explanation": "接在詞前表示程度嚴重、份量重等，如重労働；與幾重に的層數用法不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この作業は重労働なので、交替で行います。",
+        "translation": "這項工作很耗體力，所以會輪流進行。",
+        "surface": "重労働",
+        "reading": "じゅうろうどう"
+      }
+    ]
   },
   "n2-jmdict-1342230": {
     "sentence": "名前を呼ばれたら、順々に入ってください。",
     "translation": "叫到名字時，請依序進去。",
-    "surface": "順々"
+    "surface": "順々",
+    "explanation": "依既定順序一個接一個，常用「順々に」；不同於大家同一時間的一斉に。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "作品を順々に回して、全員で見ました。",
+        "translation": "我們把作品依序傳閱，讓所有人都看過。",
+        "surface": "順々に",
+        "reading": "じゅんじゅんに"
+      }
+    ]
   },
   "n2-jmdict-2273780": {
     "sentence": "市役所で手続きをしました。",
     "translation": "我在市公所辦了手續。",
-    "surface": "所"
+    "surface": "所",
+    "explanation": "表示場所、機構的構詞後綴，如研究所；會依詞讀じょ、ところ等，需整詞記憶。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "父は、海の近くの研究所に勤めています。",
+        "translation": "父親在海邊的一所研究機構工作。",
+        "surface": "研究所",
+        "reading": "けんきゅうじょ"
+      }
+    ]
   },
   "n2-jmdict-1344210": {
     "sentence": "諸事情により、日程を変更しました。",
     "translation": "由於各種原因，我們更改了日期。",
-    "surface": "諸"
+    "surface": "諸",
+    "explanation": "各種、多項的接頭語，較書面；「諸問題」表示一系列問題，不強調單一問題。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "会議では、地域の諸問題を話し合いました。",
+        "translation": "會議中討論了當地的各項問題。",
+        "surface": "諸問題",
+        "reading": "しょもんだい"
+      }
+    ]
   },
   "n2-jmdict-1344940": {
     "sentence": "姉は三人姉妹の長女です。",
     "translation": "姐姐是三姐妹中的長女。",
-    "surface": "女"
+    "surface": "女",
+    "explanation": "在長女、次女等表示女兒排行，也見於其他女性相關複合詞；不等同單獨女おんな。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "次女は、姉と同じ学校に通っています。",
+        "translation": "二女兒和姊姊就讀同一所學校。",
+        "surface": "次女",
+        "reading": "じじょ"
+      }
+    ]
   },
   "n2-jmdict-2081540": {
     "sentence": "文部科学省の資料を読みました。",
     "translation": "我讀了文部科學省的資料。",
-    "surface": "省"
+    "surface": "省",
+    "explanation": "日本中央行政部門名稱的後綴，如外務省；不是中文地理行政區的省的所有用法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "外務省の資料で、渡航情報を確認しました。",
+        "translation": "我透過外務省資料確認了出國相關資訊。",
+        "surface": "外務省",
+        "reading": "がいむしょう"
+      }
+    ]
   },
   "n2-jmdict-2593990": {
     "sentence": "大会では三勝しました。",
     "translation": "我在大賽取得三勝。",
-    "surface": "勝"
+    "surface": "勝",
+    "explanation": "計算競賽獲勝場次的量詞；「一勝」讀いっしょう，與負場的敗對照。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "あと一勝すれば、決勝に進めます。",
+        "translation": "再贏一場，就能晉級決賽。",
+        "surface": "一勝",
+        "reading": "いっしょう"
+      }
+    ]
   },
   "n2-jmdict-2078550": {
     "sentence": "契約書の第三条を読んでください。",
     "translation": "請讀合約第三條。",
-    "surface": "条"
+    "surface": "条",
+    "explanation": "計算法規、契約條文的單位；「第二条」指第二條，並非第二頁或第二行。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "規則の第二条に、参加条件が書かれています。",
+        "translation": "規則第二條寫著參加條件。",
+        "surface": "第二条",
+        "reading": "だいにじょう"
+      }
+    ]
   },
   "n2-jmdict-2652950": {
     "sentence": "会場は駅の近くです。",
     "translation": "會場在車站附近。",
-    "surface": "場"
+    "surface": "場",
+    "explanation": "構成作業、活動場所名稱，如工場；不同詞可能讀ば、じょう等，須依詞記憶。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "飛行場の近くでは、大きな音が聞こえます。",
+        "translation": "機場附近可以聽見很大的聲音。",
+        "surface": "飛行場",
+        "reading": "ひこうじょう"
+      }
+    ]
   },
   "n2-jmdict-1356740": {
     "sentence": "この部屋は六畳です。",
     "translation": "這個房間有六疊大。",
-    "surface": "畳"
+    "surface": "畳",
+    "explanation": "以榻榻米張數表示房間大小的單位；一疊實際面積因地區、規格而異，不宜硬套唯一數值。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "六畳の部屋に、机と本棚を置きました。",
+        "translation": "我在六疊大小的房間放了書桌和書櫃。",
+        "surface": "六畳",
+        "reading": "ろくじょう"
+      }
+    ]
   },
   "n2-jmdict-1378030": {
     "sentence": "建物の正面で待っています。",
     "translation": "我在建築物正前方等候。",
-    "surface": "正面"
+    "surface": "正面",
+    "explanation": "物體朝前的一面、對面，也可指直接面對；「正面から向き合う」可比喻正視問題。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "問題に正面から向き合う姿勢が必要です。",
+        "translation": "需要有正面面對問題的態度。",
+        "surface": "正面",
+        "reading": "しょうめん"
+      }
+    ]
   },
   "n2-jmdict-2097830": {
     "sentence": "絵の具を三色買いました。",
     "translation": "我買了三種顏色的顏料。",
-    "surface": "色"
+    "surface": "色",
+    "explanation": "顏色的量詞或複合詞成分；「三色」是三種顏色，不表示三支畫筆。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "このペンは、一本で四色使えます。",
+        "translation": "這支筆一支就能使用四種顏色。",
+        "surface": "四色",
+        "reading": "よんしょく"
+      }
+    ]
   },
   "n2-jmdict-1335520": {
     "sentence": "温かい汁を飲みました。",
     "translation": "我喝了熱湯。",
-    "surface": "汁"
+    "surface": "汁",
+    "explanation": "液體、湯汁，也可指湯品；「肉の汁」與「みそ汁」意思依食材、料理語境改變。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "焼いた肉から、おいしそうな汁が出てきました。",
+        "translation": "烤肉流出了看起來很美味的肉汁。",
+        "surface": "汁",
+        "reading": "しる"
+      }
+    ]
   },
   "n2-jmdict-1006380": {
     "sentence": "ずうっと前から、この町に住んでいます。",
     "translation": "我很久以前就住在這個城鎮。",
-    "surface": "ずうっと"
+    "surface": "ずうっと",
+    "explanation": "ずっと的拉長強調，表示一直或程度差很遠；不宜把口語強調形式濫用於正式文章。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ここから見る景色の方が、ずうっときれいです。",
+        "translation": "從這裡看到的景色漂亮得多。",
+        "surface": "ずうっと",
+        "reading": "ずうっと"
+      }
+    ]
   },
   "n2-jmdict-2198630": {
     "sentence": "支払い済の印をつけました。",
     "translation": "我標上了已付款的記號。",
-    "surface": "済"
+    "surface": "済",
+    "explanation": "接名詞等表示已處理完畢，常寫済み；「予約済み」是已預約，與まだ未完成相對。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "確認済みの書類は、こちらの箱に入れてください。",
+        "translation": "確認完畢的文件，請放進這個箱子。",
+        "surface": "確認済み",
+        "reading": "かくにんずみ"
+      }
+    ]
   },
   "n2-jmdict-2008600": {
     "sentence": "店先に商品がずらりと並んでいます。",
     "translation": "店門口商品排成一長列。",
-    "surface": "ずらり"
+    "surface": "ずらり",
+    "explanation": "許多物件、人排成長列的樣子；常用「ずらりと並ぶ」，不是毫無順序堆在一起。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "歴代の受賞者の写真が、壁にずらりと並んでいます。",
+        "translation": "歷屆得獎者的照片，在牆上排成了長長一列。",
+        "surface": "ずらりと",
+        "reading": "ずらりと"
+      }
+    ]
   },
   "n2-jmdict-1596090": {
     "sentence": "せっかく来たのに、店が休みでした。",
     "translation": "難得來一趟，店卻沒開。",
-    "surface": "せっかく"
+    "surface": "せっかく",
+    "explanation": "難得得到的機會、花過的心力，常寫せっかく；可搭配のに表可惜，也可搭配だから珍惜機會。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "せっかく京都に来たのだから、寺も見ていきましょう。",
+        "translation": "難得來到京都，也去看看寺院吧。",
+        "surface": "せっかく",
+        "reading": "せっかく"
+      }
+    ]
   },
   "n2-jmdict-1610700": {
     "sentence": "ぜひとも、もう一度お越しください。",
     "translation": "務必請再來一次。",
-    "surface": "ぜひとも"
+    "surface": "ぜひとも",
+    "explanation": "比ぜひ更強調衷心希望、無論如何都想如此；常用於邀請、請求，不表示客觀必然。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ぜひとも、この計画に参加させてください。",
+        "translation": "請務必讓我參與這個計畫。",
+        "surface": "ぜひとも",
+        "reading": "ぜひとも"
+      }
+    ]
   },
   "n2-jmdict-2855971": {
     "sentence": "貨物船が港に入りました。",
     "translation": "貨船進港了。",
-    "surface": "船"
+    "surface": "船",
+    "explanation": "船舶種類名稱的後綴，如客船；部分複合詞讀ぶね、ふね，不能只照漢字猜音。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "客船に乗って、島を巡りました。",
+        "translation": "我搭客船遊覽了各座島。",
+        "surface": "客船",
+        "reading": "きゃくせん"
+      }
+    ]
   },
   "n2-jmdict-2080730": {
     "sentence": "次は決勝戦です。",
     "translation": "接下來是決賽。",
-    "surface": "戦"
+    "surface": "戦",
+    "explanation": "戰爭、戰役或競賽場次的構詞成分；「初戦」是首場比賽，不必然指軍事戰爭。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "初戦では緊張して、力を出せませんでした。",
+        "translation": "第一場比賽時我太緊張，沒能發揮實力。",
+        "surface": "初戦",
+        "reading": "しょせん"
+      }
+    ]
   },
   "n2-jmdict-1392570": {
     "sentence": "食前に薬を飲みます。",
     "translation": "我飯前吃藥。",
-    "surface": "前"
+    "surface": "前",
+    "explanation": "接名詞後表示某時間、事件之前，如開演前；與單獨前まえ的讀法不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "食前に手を洗う習慣を、子供に教えています。",
+        "translation": "我正在教孩子飯前洗手的習慣。",
+        "surface": "食前",
+        "reading": "しょくぜん"
+      }
+    ]
   },
   "n2-jmdict-1596200": {
     "sentence": "先々月は京都に、先々週は奈良に行きました。",
     "translation": "上上個月去了京都，上上週去了奈良。",
-    "surface": "先々月"
+    "surface": "先々月",
+    "explanation": "上上個月，即目前月份往前數兩個月；不是今年同月的上一年。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先々月から、毎月一冊本を紹介しています。",
+        "translation": "從上上個月開始，我每月介紹一本書。",
+        "surface": "先々月",
+        "reading": "せんせんげつ"
+      }
+    ]
   },
   "n2-jmdict-1888910": {
     "sentence": "先々月は京都に、先々週は奈良に行きました。",
     "translation": "上上個月去了京都，上上週去了奈良。",
-    "surface": "先々週"
+    "surface": "先々週",
+    "explanation": "上上週，即本週之前第二週；與上週的先週、兩週後的再来週不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先々週受けた検査の結果が、今日届きました。",
+        "translation": "上上週接受的檢查結果，今天送到了。",
+        "surface": "先々週",
+        "reading": "せんせんしゅう"
+      }
+    ]
   },
   "n2-jmdict-1396020": {
     "sentence": "生活全般について相談しました。",
     "translation": "我諮詢了整體生活方面的問題。",
-    "surface": "全般"
+    "surface": "全般",
+    "explanation": "事物各方面、整體範圍；常見「全般にわたる」「全般的に」，不只指其中一部分。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "研修では、業務全般の流れを学びます。",
+        "translation": "研習中會學習整體業務流程。",
+        "surface": "全般",
+        "reading": "ぜんぱん"
+      }
+    ]
   },
   "n2-jmdict-2077160": {
     "sentence": "港に船が三艘あります。",
     "translation": "港口有三艘船。",
-    "surface": "艘"
+    "surface": "艘",
+    "explanation": "計算船隻的量詞，常用於小船等；「一艘」讀いっそう，與人的數量詞不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "湖には、ボートが二艘浮かんでいました。",
+        "translation": "湖上浮著兩艘小船。",
+        "surface": "二艘",
+        "reading": "にそう"
+      }
+    ]
   },
   "n2-jmdict-1401470": {
     "sentence": "総人数は二百名です。",
     "translation": "總人數是兩百名。",
-    "surface": "総"
+    "surface": "総",
+    "explanation": "全部加總、整體的接頭語，如総額；不是每個總字都可單獨作副詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "修理にかかった総額を、教えてください。",
+        "translation": "請告訴我維修花費的總額。",
+        "surface": "総額",
+        "reading": "そうがく"
+      }
+    ]
   },
   "n2-jmdict-1006810": {
     "sentence": "赤ちゃんを起こさないように、そうっと歩きました。",
     "translation": "我輕輕走路，以免吵醒寶寶。",
-    "surface": "そうっと"
+    "surface": "そうっと",
+    "explanation": "そっと的加強、拉長形式，表示小心輕輕地；不是速度快，也不必然暗中做壞事。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "壊れやすい花瓶を、そうっと棚に戻しました。",
+        "translation": "我輕輕把易碎的花瓶放回架上。",
+        "surface": "そうっと",
+        "reading": "そうっと"
+      }
+    ]
   },
   "n2-jmdict-2412230": {
     "sentence": "靴下を二足買いました。",
     "translation": "我買了兩雙襪子。",
-    "surface": "足"
+    "surface": "足",
+    "explanation": "計算鞋、襪等一雙的量詞；一足いっそく、三足さんぞく等讀音有變化。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "旅行用に、歩きやすい靴を一足買いました。",
+        "translation": "為了旅行，我買了一雙好走的鞋。",
+        "surface": "一足",
+        "reading": "いっそく"
+      }
+    ]
   },
   "n2-jmdict-1006900": {
     "sentence": "名前と住所、その他必要な情報を書いてください。",
     "translation": "請填寫姓名、地址及其他必要資料。",
-    "surface": "その他"
+    "surface": "その他",
+    "explanation": "前面列舉項目以外的事物；讀そのほか，比公告中常見そのた更口語。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "飲み物は用意します。その他の物は、各自持参してください。",
+        "translation": "飲料由我們準備，其他物品請各自攜帶。",
+        "surface": "その他",
+        "reading": "そのほか"
+      }
+    ]
   },
   "n2-jmdict-2055520": {
     "sentence": "十分準備しました。それなのに、失敗しました。",
     "translation": "我準備得很充分，卻還是失敗了。",
-    "surface": "それなのに"
+    "surface": "それなのに",
+    "explanation": "前文成立卻出現相反、不符合期待的結果，常帶不滿、意外；不是因果順接。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "薬を飲んで休みました。それなのに、まだ熱が下がりません。",
+        "translation": "我吃了藥也休息了，但燒仍然沒退。",
+        "surface": "それなのに",
+        "reading": "それなのに"
+      }
+    ]
   },
   "n2-jmdict-1406070": {
     "sentence": "明日が暇ですか。それなら、一緒に出かけませんか。",
     "translation": "你明天有空嗎？如果有，要不要一起出門？",
-    "surface": "それなら"
+    "surface": "それなら",
+    "explanation": "接受對方剛說的條件，再提出判斷、建議；不一定只是對遠方事物作指示。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「今日は店が休みだそうです。」「それなら、明日行きましょう。」",
+        "translation": "「聽說店裡今天休息。」「那就明天去吧。」",
+        "surface": "それなら",
+        "reading": "それなら"
+      }
+    ]
   },
   "n2-jmdict-1415260": {
     "sentence": "第一の目標は、安全です。",
     "translation": "第一個目標是安全。",
-    "surface": "第"
+    "surface": "第",
+    "explanation": "放在數字前形成排序，如第二回；表示第幾個，不是單純計算總共多少。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "第二回の説明会は、来月開かれます。",
+        "translation": "第二場說明會將在下個月舉行。",
+        "surface": "第二回",
+        "reading": "だいにかい"
+      }
+    ]
   },
   "n2-jmdict-1409390": {
     "sentence": "文法の体系を整理しました。",
     "translation": "我整理了文法體系。",
-    "surface": "体系"
+    "surface": "体系",
+    "explanation": "不同知識、部分按關係組成的有序整體；「体系的に学ぶ」不只是零散背幾個資訊。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この本で、法律の体系を学びました。",
+        "translation": "我透過這本書學習了法律體系。",
+        "surface": "体系",
+        "reading": "たいけい"
+      }
+    ]
   },
   "n2-jmdict-1414920": {
     "sentence": "日本語がだいぶん分かるようになりました。",
     "translation": "我的日文已經懂得相當多了。",
-    "surface": "だいぶん"
+    "surface": "だいぶん",
+    "explanation": "相當、很多，與だいぶ近義；此讀法不是地名「大分／おおいた」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "練習したので、前よりだいぶん速く読めます。",
+        "translation": "因為練習過，現在能比以前讀得快很多。",
+        "surface": "だいぶん",
+        "reading": "だいぶん"
+      }
+    ]
   },
   "n2-jmdict-1416190": {
     "sentence": "参加は自由です。ただし、予約が必要です。",
     "translation": "可自由參加，但須預約。",
-    "surface": "ただし"
+    "surface": "ただし",
+    "explanation": "為前述敘述補充例外、限制，常寫ただし；不是一般前後情緒相反的但是。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "入場は無料です。ただし、飲食物の持ち込みは禁止です。",
+        "translation": "入場免費，不過禁止攜帶飲食入內。",
+        "surface": "ただし",
+        "reading": "ただし"
+      }
+    ]
   },
   "n2-jmdict-1007480": {
     "sentence": "作業の後は、服が泥だらけでした。",
     "translation": "工作後，衣服滿是泥巴。",
-    "surface": "だらけ"
+    "surface": "だらけ",
+    "explanation": "接名詞表示到處都是，通常用於不理想的東西、錯誤；與中性列舉的たくさん不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "提出された作文は、間違いだらけでした。",
+        "translation": "交來的作文滿是錯誤。",
+        "surface": "だらけ",
+        "reading": "だらけ"
+      }
+    ]
   },
   "n2-jmdict-2647180": {
     "sentence": "短期間で全部を覚えるのは難しいです。",
     "translation": "短期內全部記住很難。",
-    "surface": "短"
+    "surface": "短",
+    "explanation": "接期間、時間等前表示短，如短時間；不直接當所有和語形容詞的替代形式。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "短時間でも、毎日練習することが大切です。",
+        "translation": "即使時間短，每天練習仍很重要。",
+        "surface": "短時間",
+        "reading": "たんじかん"
+      }
+    ]
   },
   "n2-jmdict-1597470": {
     "sentence": "コートを一着買いました。",
     "translation": "我買了一件大衣。",
-    "surface": "着"
+    "surface": "着",
+    "explanation": "計算衣服件數，或比賽抵達名次；一着いっちゃく，可指一件衣服或第一名，依語境分辨。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "決勝では、三着までに入ることが目標です。",
+        "translation": "決賽的目標是進入前三名。",
+        "surface": "三着",
+        "reading": "さんちゃく"
+      }
+    ]
   },
   "n2-jmdict-1597480": {
     "sentence": "準備は着々と進んでいます。",
     "translation": "準備正穩步推進。",
-    "surface": "着々"
+    "surface": "着々",
+    "explanation": "依計畫穩定進展，常用「着々と」；不一定速度很快，更強調確實推進。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "新校舎の工事は、着々と進んでいます。",
+        "translation": "新校舍工程正在穩步推進。",
+        "surface": "着々と",
+        "reading": "ちゃくちゃくと"
+      }
+    ]
   },
   "n2-jmdict-1427590": {
     "sentence": "県庁で資料をもらいました。",
     "translation": "我在縣廳拿了資料。",
-    "surface": "庁"
+    "surface": "庁",
+    "explanation": "行政機構、官署名稱成分，如気象庁；不是所有公家建物都可任意接庁。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "気象庁が発表した情報を、確認しました。",
+        "translation": "我確認了氣象廳發布的資訊。",
+        "surface": "気象庁",
+        "reading": "きしょうちょう"
+      }
+    ]
   },
   "n2-jmdict-1427420": {
     "sentence": "住所は三丁目五番地です。",
     "translation": "地址是三丁目五番地。",
-    "surface": "丁目"
+    "surface": "丁目",
+    "explanation": "日本部分地址的街區編號單位；「二丁目」在區、町名後使用，不等於房屋樓層。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "店は、桜町二丁目の交差点にあります。",
+        "translation": "店位在櫻町二丁目的十字路口。",
+        "surface": "二丁目",
+        "reading": "にちょうめ"
+      }
+    ]
   },
   "n2-jmdict-1432840": {
     "sentence": "手紙を二通書きました。",
     "translation": "我寫了兩封信。",
-    "surface": "通"
+    "surface": "通",
+    "explanation": "計算信件、文件、通知等的量詞；「一通」讀いっつう，與道路通行的通不同用法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "招待状を、一通ずつ封筒に入れました。",
+        "translation": "我把邀請函一封一封放進信封。",
+        "surface": "一通",
+        "reading": "いっつう"
+      }
+    ]
   },
   "n2-jmdict-1583630": {
     "sentence": "家具付の部屋を借りました。",
     "translation": "我租了附家具的房間。",
-    "surface": "付"
+    "surface": "付",
+    "explanation": "表示附帶某物，常寫付き，如朝食付き；日期後的付則常讀づけ，須與本條讀音區分。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "朝食付きの宿泊プランを選びました。",
+        "translation": "我選了含早餐的住宿方案。",
+        "surface": "朝食付き",
+        "reading": "ちょうしょくつき"
+      }
+    ]
   },
   "n2-jmdict-1552890": {
     "sentence": "米の粒が袋からこぼれました。",
     "translation": "米粒從袋子灑了出來。",
-    "surface": "粒"
+    "surface": "粒",
+    "explanation": "小而呈顆粒狀的物件，也作其量詞；「一粒」讀ひとつぶ，不限於米粒或藥丸。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ぶどうを一粒、口に入れました。",
+        "translation": "我把一顆葡萄放進嘴裡。",
+        "surface": "一粒",
+        "reading": "ひとつぶ"
+      }
+    ]
   },
   "n2-jmdict-2847176": {
     "sentence": "低価格の商品が人気です。",
     "translation": "低價商品很受歡迎。",
-    "surface": "低"
+    "surface": "低",
+    "explanation": "接數值、狀態等前表示低，如低温、低価格；不是所有詞都能任意加低。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この食材は、低温で保存してください。",
+        "translation": "這種食材請低溫保存。",
+        "surface": "低温",
+        "reading": "ていおん"
+      }
+    ]
   },
   "n2-jmdict-2831955": {
     "sentence": "薬を水に一滴落としました。",
     "translation": "我把一滴藥滴進水裡。",
-    "surface": "滴"
+    "surface": "滴",
+    "explanation": "計算液滴的量詞，一滴いってき；與整杯液體的杯、毫升等體積單位不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "香り付けに、油を二滴加えました。",
+        "translation": "為了增添香氣，我加了兩滴油。",
+        "surface": "二滴",
+        "reading": "にてき"
+      }
+    ]
   },
   "n2-jmdict-1328030": {
     "sentence": "駅の手前にある店で待ちます。",
     "translation": "我在車站前方、尚未到車站的那家店等。",
-    "surface": "手前"
+    "surface": "手前",
+    "explanation": "某基準點之前、靠自己的一側，也可表示顧及面子、立場；本例為空間位置。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "橋の手前を左に曲がると、郵便局があります。",
+        "translation": "在橋前左轉，就有郵局。",
+        "surface": "手前",
+        "reading": "てまえ"
+      }
+    ]
   },
   "n2-jmdict-1704220": {
     "sentence": "仕事で各地を転々としました。",
     "translation": "我因工作而輾轉各地。",
-    "surface": "転々"
+    "surface": "転々",
+    "explanation": "不斷從一處移到另一處，常用「転々とする」；不表示物件只是靜止地散布。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は仕事を転々とした後、自分の店を開きました。",
+        "translation": "他輾轉換過幾份工作後，開了自己的店。",
+        "surface": "転々と",
+        "reading": "てんてんと"
+      }
+    ]
   },
   "n2-jmdict-1450690": {
     "sentence": "牧場に牛が十頭います。",
     "translation": "牧場有十頭牛。",
-    "surface": "頭"
+    "surface": "頭",
+    "explanation": "計算牛、馬等大型動物，也用於部分其他動物；不是所有動物都可不加區別使用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "動物園では、象を二頭飼育しています。",
+        "translation": "動物園裡飼養了兩頭象。",
+        "surface": "二頭",
+        "reading": "にとう"
+      }
+    ]
   },
   "n2-jmdict-1582305": {
     "sentence": "一等の賞をもらいました。",
     "translation": "我得到了一等獎。",
-    "surface": "等"
+    "surface": "等",
+    "explanation": "表示等級、獎項名次的後綴，如二等；與表示等等的等など不同讀法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "抽選で、二等の賞品が当たりました。",
+        "translation": "抽獎時，我抽中了二等獎。",
+        "surface": "二等",
+        "reading": "にとう"
+      }
+    ]
   },
   "n2-jmdict-2085760": {
     "sentence": "半島の先に、小さな島があります。",
     "translation": "半島前端有座小島。",
-    "surface": "島"
+    "surface": "島",
+    "explanation": "島嶼名稱、群島等複合詞中的讀法，如列島；單獨島多讀しま，不可每次讀とう。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "日本列島の地図を、教室に貼りました。",
+        "translation": "我把日本列島地圖貼在教室裡。",
+        "surface": "列島",
+        "reading": "れっとう"
+      }
+    ]
   },
   "n2-jmdict-1451730": {
     "sentence": "二人は同学年です。",
     "translation": "兩人同年級。",
-    "surface": "同"
+    "surface": "同",
+    "explanation": "表示同一、相同的接頭語，如同時、同年代；不等同單獨的同じ可直接自由接續。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "二つの映画は、同時に公開されました。",
+        "translation": "兩部電影同時上映了。",
+        "surface": "同時",
+        "reading": "どうじ"
+      }
+    ]
   },
   "n2-jmdict-1454420": {
     "sentence": "山の峠を越えました。",
     "translation": "我越過了山口。",
-    "surface": "峠"
+    "surface": "峠",
+    "explanation": "山路越過山脊的高處、山口，也比喻危機或高峰；「峠を越す」可指度過最困難時刻。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "熱は下がり、ようやく病状の峠を越したようです。",
+        "translation": "燒退了，病況似乎終於度過了最危急的時刻。",
+        "surface": "峠",
+        "reading": "とうげ"
+      }
+    ]
   },
   "n2-jmdict-1598730": {
     "sentence": "道の所々に花が咲いています。",
     "translation": "路上有些地方開著花。",
-    "surface": "所々"
+    "surface": "所々",
+    "explanation": "某範圍中的幾個分散地方，不是每個角落都如此；常寫ところどころ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "古い本には、所々に書き込みがありました。",
+        "translation": "舊書裡有些地方留有註記。",
+        "surface": "所々",
+        "reading": "ところどころ"
+      }
+    ]
   },
   "n2-jmdict-1442500": {
     "sentence": "通知の宛名は「山田太郎殿」でした。",
     "translation": "通知的收件人寫著「山田太郎殿」。",
-    "surface": "殿"
+    "surface": "殿",
+    "explanation": "附在姓名、職稱後的書信敬稱；現對一般客戶常用様，殿的使用依組織、文件慣例。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "表彰状には、「佐藤花子殿」と書かれていました。",
+        "translation": "獎狀上以敬稱寫著「佐藤花子」。",
+        "surface": "殿",
+        "reading": "どの"
+      }
+    ]
   },
   "n2-jmdict-2098290": {
     "sentence": "館内では静かにしてください。",
     "translation": "館內請保持安靜。",
-    "surface": "内"
+    "surface": "内",
+    "explanation": "接名詞後表示範圍裡面，如校内；單獨内常讀うち，不宜與全詞讀法混淆。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "校内では、自転車から降りてください。",
+        "translation": "在校內請下自行車牽行。",
+        "surface": "校内",
+        "reading": "こうない"
+      }
+    ]
   },
   "n2-jmdict-2647210": {
     "sentence": "長電話をしないようにしています。",
     "translation": "我盡量不講長電話。",
-    "surface": "長"
+    "surface": "長",
+    "explanation": "接和語名詞等表示長時間、長形，如長話；部分複合詞有濁音，需記完整讀法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "長話をして、帰るのが遅くなりました。",
+        "translation": "因為聊得太久，我晚回家了。",
+        "surface": "長話",
+        "reading": "ながばなし"
+      }
+    ]
   },
   "n2-jmdict-1599580": {
     "sentence": "名前を伏せて、「何々さん」と書きました。",
     "translation": "我隱去名字，寫成了「某某先生」。",
-    "surface": "何々"
+    "surface": "何々",
+    "explanation": "代替未明說的名稱、內容，像某某、什麼什麼；不是實際人名，可寫なになに。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ここには、「何々会社」と例が書いてあります。",
+        "translation": "這裡把「某某公司」寫作範例。",
+        "surface": "何々",
+        "reading": "なになに"
+      }
+    ]
   },
   "n2-jmdict-1468900": {
     "sentence": "弟は小学三年生です。",
     "translation": "弟弟是國小三年級學生。",
-    "surface": "年生"
+    "surface": "年生",
+    "explanation": "接數字表示在校年級，如一年生；與生物年齡的歳或學制年數不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "春から、娘は小学一年生になります。",
+        "translation": "春天開始，女兒就要成為小學一年級學生。",
+        "surface": "一年生",
+        "reading": "いちねんせい"
+      }
+    ]
   },
   "n2-jmdict-1469050": {
     "sentence": "新しい年度の予算を決めました。",
     "translation": "我們決定了新年度預算。",
-    "surface": "年度"
+    "surface": "年度",
+    "explanation": "依行政、會計、教育等需要劃分的一年；不一定從一月一日開始，日本常見四月至翌年三月。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今年度の予算は、すでに決まっています。",
+        "translation": "本年度的預算已經決定了。",
+        "surface": "今年度",
+        "reading": "こんねんど"
+      }
+    ]
   },
   "n2-jmdict-1010040": {
     "sentence": "車がのろのろ進んでいます。",
     "translation": "車子慢吞吞地前進。",
-    "surface": "のろのろ"
+    "surface": "のろのろ",
+    "explanation": "移動、進度慢吞吞，常帶覺得太慢的感受；不等同出於謹慎而從容。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "渋滞で、バスはのろのろとしか進めませんでした。",
+        "translation": "因為塞車，公車只能慢吞吞地前進。",
+        "surface": "のろのろと",
+        "reading": "のろのろと"
+      }
+    ]
   },
   "n2-jmdict-1983760": {
     "sentence": "子供が手を振って「バイバイ」と言いました。",
     "translation": "孩子揮手說了「拜拜」。",
-    "surface": "バイバイ"
+    "surface": "バイバイ",
+    "explanation": "熟人、孩子間的輕鬆道別；正式場合、對長輩通常改用失礼します等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "子供たちは、「バイバイ、また遊ぼうね」と手を振りました。",
+        "translation": "孩子們揮手說：「拜拜，下次再一起玩。」",
+        "surface": "バイバイ",
+        "reading": "ばいばい"
+      }
+    ]
   },
   "n2-jmdict-1010090": {
     "sentence": "面接では、はきはき答えてください。",
     "translation": "面試時請清楚爽快地回答。",
-    "surface": "はきはき"
+    "surface": "はきはき",
+    "explanation": "說話、態度清楚明快、果斷，常用「はきはきと」；不只是音量大。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "受付の人が、はきはきと道を教えてくれました。",
+        "translation": "櫃台人員清楚爽快地為我指路。",
+        "surface": "はきはきと",
+        "reading": "はきはきと"
+      }
+    ]
   },
   "n2-jmdict-1919550": {
     "sentence": "京都に二泊しました。",
     "translation": "我在京都住了兩晚。",
-    "surface": "泊"
+    "surface": "泊",
+    "explanation": "計算住宿夜數的量詞，一泊いっぱく、三泊さんぱく；不是計算白天旅遊的總天數。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今回は、一泊二日の旅行です。",
+        "translation": "這次是兩天一夜的旅行。",
+        "surface": "一泊",
+        "reading": "いっぱく"
+      }
+    ]
   },
   "n2-jmdict-1307520": {
     "sentence": "始めに、名前を書いてください。",
     "translation": "首先，請填寫姓名。",
-    "surface": "始めに"
+    "surface": "始めに",
+    "explanation": "開始時、第一步，常用於說明程序；文章開頭的前言也常寫「初めに」，依慣用選字。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "始めに材料を全部そろえてから、調理を始めます。",
+        "translation": "先備齊全部材料，再開始烹調。",
+        "surface": "始めに",
+        "reading": "はじめに"
+      }
+    ]
   },
   "n2-jmdict-1600780": {
     "sentence": "彼の話は、果たして本当でしょうか。",
     "translation": "他的話究竟是真的嗎？",
-    "surface": "果たして"
+    "surface": "果たして",
+    "explanation": "常寫果たして，可表示果然，也可在疑問中表示究竟；不是固定表示肯定結果。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "心配していましたが、果たして予算が不足しました。",
+        "translation": "本來就很擔心，結果預算果然不足了。",
+        "surface": "果たして",
+        "reading": "はたして"
+      }
+    ]
   },
   "n2-jmdict-1477120": {
     "sentence": "九時発の電車に乗ります。",
     "translation": "我搭九點出發的電車。",
-    "surface": "発"
+    "surface": "発",
+    "explanation": "交通時刻、出發地等後表示由此出發；「東京発」是從東京出發，不是抵達東京。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "東京発の最終列車に、何とか間に合いました。",
+        "translation": "我好不容易趕上了從東京出發的末班列車。",
+        "surface": "東京発",
+        "reading": "とうきょうはつ"
+      }
+    ]
   },
   "n2-jmdict-1480060": {
     "sentence": "反対意見も、よく聞きます。",
     "translation": "我們也會認真聽取反對意見。",
-    "surface": "反"
+    "surface": "反",
+    "explanation": "接名詞表示反對、反面立場，如反戦；不等同一般表示否定的不，搭配依固定用語。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は、反戦をテーマにした作品を発表しました。",
+        "translation": "他發表了以反戰為主題的作品。",
+        "surface": "反戦",
+        "reading": "はんせん"
+      }
+    ]
   },
   "n2-jmdict-1601350": {
     "sentence": "合格が分かると、みんなで万歳をしました。",
     "translation": "知道合格後，大家一起高喊萬歲。",
-    "surface": "万歳"
+    "surface": "万歳",
+    "explanation": "雙手高舉慶祝的口號、動作，也見於慶祝儀式；日常可寫ばんざい，不是數字萬歲的普通計數。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "優勝が決まると、選手たちは万歳をして喜びました。",
+        "translation": "確定奪冠後，選手們高舉雙手歡呼慶祝。",
+        "surface": "万歳",
+        "reading": "ばんざい"
+      }
+    ]
   },
   "n2-jmdict-1482410": {
     "sentence": "左から三番目の席です。",
     "translation": "是從左邊數第三個座位。",
-    "surface": "番目"
+    "surface": "番目",
+    "explanation": "接數字表示排列中的第幾個；「三番目」是第三個，不等於三個總量或第三名必然獲獎。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "受付は、右から二番目の窓口です。",
+        "translation": "受理櫃台是從右邊數來第二個窗口。",
+        "surface": "二番目",
+        "reading": "にばんめ"
+      }
+    ]
   },
   "n2-jmdict-1484590": {
     "sentence": "交通費は会社が払います。",
     "translation": "交通費由公司支付。",
-    "surface": "費"
+    "surface": "費",
+    "explanation": "接用途名稱表示所需費用，如生活費；與料可有搭配差異，應記固定詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "出張費は、後で会社に請求します。",
+        "translation": "出差費用之後會向公司申請。",
+        "surface": "出張費",
+        "reading": "しゅっちょうひ"
+      }
+    ]
   },
   "n2-jmdict-1484710": {
     "sentence": "今日は非公式の会議を開きました。",
     "translation": "今天舉行了非正式會議。",
-    "surface": "非"
+    "surface": "非",
+    "explanation": "表示不是、不屬於某性質的接頭語，如非公開；與未的尚未發生意義不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この会議は非公開なので、関係者以外は入れません。",
+        "translation": "這場會議不公開，所以相關人員以外不能進入。",
+        "surface": "非公開",
+        "reading": "ひこうかい"
+      }
+    ]
   },
   "n2-jmdict-2821500": {
     "sentence": "一口だけ味を見ました。",
     "translation": "我只嚐了一口。",
-    "surface": "一"
+    "surface": "一",
+    "explanation": "和語數詞構成成分，表示一個單位，如一口、一目；部分詞義延伸，需連同搭配學習。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一目見ただけで、誰の作品か分かりました。",
+        "translation": "只看了一眼，我就知道是誰的作品。",
+        "surface": "一目",
+        "reading": "ひとめ"
+      }
+    ]
   },
   "n2-jmdict-1164910": {
     "sentence": "必要な説明を一通り聞きました。",
     "translation": "我從頭到尾聽過了必要說明。",
-    "surface": "一通り"
+    "surface": "一通り",
+    "explanation": "把整個範圍大致過一遍，或一般、普通程度；不保證細節全部熟練。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "資料を一通り読んでから、質問をまとめました。",
+        "translation": "我把資料大致讀過一遍，再整理問題。",
+        "surface": "一通り",
+        "reading": "ひととおり"
+      }
+    ]
   },
   "n2-jmdict-1601990": {
     "sentence": "ひとまず、ここで休みましょう。",
     "translation": "暫且在這裡休息吧。",
-    "surface": "ひとまず"
+    "surface": "ひとまず",
+    "explanation": "先暫時採取一步，其他事情稍後再處理；與最終確定的決定不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "原因は後で調べて、ひとまず機械を止めましょう。",
+        "translation": "原因之後再查，我們先把機器停下來吧。",
+        "surface": "ひとまず",
+        "reading": "ひとまず"
+      }
+    ]
   },
   "n2-jmdict-2701230": {
     "sentence": "父は糖尿病の治療を受けています。",
     "translation": "爸爸正在接受糖尿病治療。",
-    "surface": "病"
+    "surface": "病",
+    "explanation": "疾病名稱後綴，如糖尿病；與一般痛い的症狀不同，不是所有病名都以病結尾。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "病院で、生活習慣病について説明を受けました。",
+        "translation": "我在醫院聽取了生活習慣病的說明。",
+        "surface": "生活習慣病",
+        "reading": "せいかつしゅうかんびょう"
+      }
+    ]
   },
   "n2-jmdict-1499290": {
     "sentence": "資料を二十部印刷しました。",
     "translation": "我印了二十份資料。",
-    "surface": "部"
+    "surface": "部",
+    "explanation": "文件、印刷品的一份，也可表示部門、部分；「三部印刷する」不等於只印三頁。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "会議資料を、三十部用意してください。",
+        "translation": "請準備三十份會議資料。",
+        "surface": "三十部",
+        "reading": "さんじゅうぶ"
+      }
+    ]
   },
   "n2-jmdict-1499730": {
     "sentence": "和風の部屋に泊まりました。",
     "translation": "我住了日式房間。",
-    "surface": "風"
+    "surface": "風",
+    "explanation": "接名詞表示某種風格、樣式，如洋風；「〜風に」是仿某風格，不保證來自該地。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今日は、中華風のスープを作りました。",
+        "translation": "今天做了中式風味的湯。",
+        "surface": "中華風",
+        "reading": "ちゅうかふう"
+      }
+    ]
   },
   "n2-jmdict-1500330": {
     "sentence": "副社長が会議に出席しました。",
     "translation": "副社長出席了會議。",
-    "surface": "副"
+    "surface": "副",
+    "explanation": "表示副手、次要或附加的接頭語，如副会長；不是所有職務都可隨意加副。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "会長が不在のため、副会長が挨拶しました。",
+        "translation": "因為會長不在，由副會長致詞。",
+        "surface": "副会長",
+        "reading": "ふくかいちょう"
+      }
+    ]
   },
   "n2-jmdict-1361140": {
     "sentence": "三年ぶりに友人と会いました。",
     "translation": "我和朋友隔了三年再見面。",
-    "surface": "ぶり"
+    "surface": "ぶり",
+    "explanation": "接期間表示隔了多久再次發生，也可表示動作樣態；「三年ぶり」不是持續了三年。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "久しぶりに会った友人と、一時間も話しました。",
+        "translation": "我和久未見面的朋友聊了足足一小時。",
+        "surface": "久しぶり",
+        "reading": "ひさしぶり"
+      }
+    ]
   },
   "n2-jmdict-1265060": {
     "sentence": "古新聞をまとめました。",
     "translation": "我把舊報紙整理在一起。",
-    "surface": "古"
+    "surface": "古",
+    "explanation": "接物品名表示舊、用過的，如古着；複合詞可能濁化，古新聞讀ふるしんぶん。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "週末に、古着の店を見て回りました。",
+        "translation": "週末我逛了幾家二手衣店。",
+        "surface": "古着",
+        "reading": "ふるぎ"
+      }
+    ]
   },
   "n2-jmdict-2208060": {
     "sentence": "同じ本を二遍読みました。",
     "translation": "我把同一本書讀了兩遍。",
-    "surface": "遍"
+    "surface": "遍",
+    "explanation": "計算反覆動作、閱讀等的次數；「一遍」讀いっぺん，與文章篇數的篇不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "説明をもう一遍、聞かせてください。",
+        "translation": "請讓我再聽一次說明。",
+        "surface": "一遍",
+        "reading": "いっぺん"
+      }
+    ]
   },
   "n2-jmdict-1512710": {
     "sentence": "祖母は関西弁を話します。",
     "translation": "祖母說關西腔。",
-    "surface": "弁"
+    "surface": "弁",
+    "explanation": "接地名表示當地方言，如大阪弁；與便びん等不同字，也不是說話能力的唯一用法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ドラマで、京都弁の言い回しを覚えました。",
+        "translation": "我從戲劇裡學會了京都腔的說法。",
+        "surface": "京都弁",
+        "reading": "きょうとべん"
+      }
+    ]
   },
   "n2-jmdict-1514300": {
     "sentence": "前へ一歩進んでください。",
     "translation": "請向前走一步。",
-    "surface": "歩"
+    "surface": "歩",
+    "explanation": "計算步行腳步，亦可比喻進度；一歩いっぽ、三歩さんぽ等有音變。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "目標に向かって、一歩ずつ進みます。",
+        "translation": "我會朝目標一步一步前進。",
+        "surface": "一歩",
+        "reading": "いっぽ"
+      }
+    ]
   },
   "n2-jmdict-1520570": {
     "sentence": "防犯のため、夜は戸締まりを確認します。",
     "translation": "為了防範犯罪，晚上會確認門窗上鎖。",
-    "surface": "防犯"
+    "surface": "防犯",
+    "explanation": "防備、預防犯罪，常見防犯カメラ；不同於一般火災、天然災害的防災。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "入口に、防犯カメラを設置しました。",
+        "translation": "我們在入口設置了監視攝影機，以防範犯罪。",
+        "surface": "防犯カメラ",
+        "reading": "ぼうはんかめら"
+      }
+    ]
   },
   "n2-jmdict-1524650": {
     "sentence": "毎週、家族に電話します。",
     "translation": "我每週打電話給家人。",
-    "surface": "毎"
+    "surface": "毎",
+    "explanation": "接時間單位前表示每一段期間，如毎月；部分常見詞讀法固定，如毎朝まいあさ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "毎月、収入と支出を確認しています。",
+        "translation": "我每個月都確認收入與支出。",
+        "surface": "毎月",
+        "reading": "まいつき"
+      }
+    ]
   },
   "n2-jmdict-1524860": {
     "sentence": "枕の高さを調整しました。",
     "translation": "我調整了枕頭高度。",
-    "surface": "枕"
+    "surface": "枕",
+    "explanation": "睡眠時承托頭頸的枕頭，也有演說開場等引申義；「枕が変わる」常談睡眠環境改變。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "自分に合う枕を探しています。",
+        "translation": "我正在尋找適合自己的枕頭。",
+        "surface": "枕",
+        "reading": "まくら"
+      }
+    ]
   },
   "n2-jmdict-1012110": {
     "sentence": "初めての駅で、まごまごしてしまいました。",
     "translation": "第一次到這個車站，我不知所措。",
-    "surface": "まごまご"
+    "surface": "まごまご",
+    "explanation": "因不清楚怎麼做而慌張、手忙腳亂；不只是出於懶散故意拖延。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "切符の買い方が分からず、機械の前でまごまごしました。",
+        "translation": "我不知道怎麼買票，在機器前手足無措。",
+        "surface": "まごまごしました",
+        "reading": "まごまごしました"
+      }
+    ]
   },
   "n2-jmdict-1215290": {
     "sentence": "間もなく、電車が到着します。",
     "translation": "電車即將進站。",
-    "surface": "間もなく"
+    "surface": "間もなく",
+    "explanation": "經過很短時間便發生、即將，常寫まもなく；常見於廣播、正式通知。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "まもなく閉店の時間です。お会計をお願いします。",
+        "translation": "即將到打烊時間，請辦理結帳。",
+        "surface": "まもなく",
+        "reading": "まもなく"
+      }
+    ]
   },
   "n2-jmdict-2242840": {
     "sentence": "未使用の切符があります。",
     "translation": "我有一張未使用的車票。",
-    "surface": "未"
+    "surface": "未",
+    "explanation": "接名詞表示尚未完成、未發生，如未提出；與非的不屬於某性質不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "未提出の書類があれば、今日中に出してください。",
+        "translation": "如果有尚未繳交的文件，請在今天內交出。",
+        "surface": "未提出",
+        "reading": "みていしゅつ"
+      }
+    ]
   },
   "n2-jmdict-2016410": {
     "sentence": "あの雲は魚みたいです。",
     "translation": "那片雲像魚一樣。",
-    "surface": "みたい"
+    "surface": "みたい",
+    "explanation": "口語表示像、看來似乎；名詞、普通形等後接，修飾名詞用みたいな，正式常改ようだ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "あの人は、何か困っているみたいです。",
+        "translation": "那個人好像遇到了什麼困難。",
+        "surface": "みたい",
+        "reading": "みたい"
+      }
+    ]
   },
   "n2-jmdict-1131830": {
     "sentence": "厚さは三ミリです。",
     "translation": "厚度三毫米。",
-    "surface": "ミリ"
+    "surface": "ミリ",
+    "explanation": "常為ミリメートル的簡稱、毫米，也可表示千分之一的單位接頭；一毫米為一千分之一公尺。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "部品の厚さを、一ミリ薄くしました。",
+        "translation": "我把零件的厚度減薄了一毫米。",
+        "surface": "ミリ",
+        "reading": "みり"
+      }
+    ]
   },
   "n2-jmdict-1277090": {
     "sentence": "子供向けの本を買いました。",
     "translation": "我買了適合兒童的書。",
-    "surface": "向け"
+    "surface": "向け",
+    "explanation": "接對象名詞，表示為該群體設計、提供；「初心者向け」不是朝某方位走。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "初心者向けの講座なので、経験がなくても参加できます。",
+        "translation": "因為是為初學者設計的課程，沒有經驗也能參加。",
+        "surface": "初心者向け",
+        "reading": "しょしんしゃむけ"
+      }
+    ]
   },
   "n2-jmdict-2153790": {
     "sentence": "参加者は二十名です。",
     "translation": "參加者有二十名。",
-    "surface": "名"
+    "surface": "名",
+    "explanation": "計算人數的較正式量詞；「三名」與三人數量相同，常見於預約、公告。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "予約は、大人二名でお願いします。",
+        "translation": "預約人數是兩位成人，麻煩您。",
+        "surface": "二名",
+        "reading": "にめい"
+      }
+    ]
   },
   "n2-jmdict-1532810": {
     "sentence": "銘々が自分の荷物を持ちました。",
     "translation": "每個人都拿了自己的行李。",
-    "surface": "銘々"
+    "surface": "銘々",
+    "explanation": "每一個人各自，常用銘々の、銘々が；不是人名或產品商標的名稱。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "昼休みは、銘々が好きな場所で過ごしました。",
+        "translation": "午休時，大家各自在喜歡的地方度過。",
+        "surface": "銘々",
+        "reading": "めいめい"
+      }
+    ]
   },
   "n2-jmdict-1012470": {
     "sentence": "朝晩はめっきり寒くなりました。",
     "translation": "早晚明顯變冷了。",
-    "surface": "めっきり"
+    "surface": "めっきり",
+    "explanation": "變化顯著，常用於氣候、體力、次數等與過去對照；不只是泛指非常。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "最近は、手紙を書く機会がめっきり減りました。",
+        "translation": "最近寫信的機會明顯減少了。",
+        "surface": "めっきり",
+        "reading": "めっきり"
+      }
+    ]
   },
   "n2-jmdict-1634040": {
     "sentence": "試験には十問出ます。",
     "translation": "考試會出十題。",
-    "surface": "問"
+    "surface": "問",
+    "explanation": "計算試題、問題的量詞；「一問」讀いちもん，與文章頁數、考試總分不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "最後の一問が、どうしても解けませんでした。",
+        "translation": "最後一題，我怎麼也解不出來。",
+        "surface": "一問",
+        "reading": "いちもん"
+      }
+    ]
   },
   "n2-jmdict-2827999": {
     "sentence": "三日三夜、雨が降り続きました。",
     "translation": "雨連續下了三天三夜。",
-    "surface": "夜"
+    "surface": "夜",
+    "explanation": "計算夜晚、構成夜間相關詞的讀音；「一夜」是いちや，不是日常夜よる的所有場合都可換讀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一夜明けると、町は雪に覆われていました。",
+        "translation": "過了一夜，城鎮已被雪覆蓋。",
+        "surface": "一夜",
+        "reading": "いちや"
+      }
+    ]
   },
   "n2-jmdict-1605700": {
     "sentence": "鳥が空を悠々と飛んでいます。",
     "translation": "鳥在空中悠然飛翔。",
-    "surface": "悠々"
+    "surface": "悠々",
+    "explanation": "從容、寬裕、不慌忙，常用悠々と；也可表示輕鬆超過標準，不只指速度慢。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は制限時間を悠々とクリアしました。",
+        "translation": "他輕輕鬆鬆就在限定時間內完成了。",
+        "surface": "悠々と",
+        "reading": "ゆうゆうと"
+      }
+    ]
   },
   "n2-jmdict-1394600": {
     "sentence": "長い工事が、ようやく終わりました。",
     "translation": "漫長工程終於結束了。",
-    "surface": "ようやく"
+    "surface": "ようやく",
+    "explanation": "經過等待、困難後終於，常寫ようやく；也可表示勉強才達成，不只是立刻就能做到。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "長く待って、ようやく順番が来ました。",
+        "translation": "等了很久，終於輪到我了。",
+        "surface": "ようやく",
+        "reading": "ようやく"
+      }
+    ]
   },
   "n2-jmdict-2064170": {
     "sentence": "翌朝、早く出発しました。",
     "translation": "隔天早上，我很早就出發了。",
-    "surface": "翌"
+    "surface": "翌",
+    "explanation": "以前述時間為基準的下一個期間，如翌日；不同於以現在為基準的明日、来年。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "金曜に出発し、翌日に目的地へ着きました。",
+        "translation": "我週五出發，隔天抵達目的地。",
+        "surface": "翌日",
+        "reading": "よくじつ"
+      }
+    ]
   },
   "n2-jmdict-2067770": {
     "sentence": "彼らは全員、この町の出身です。",
     "translation": "他們全都出身於這個城鎮。",
-    "surface": "ら"
+    "surface": "ら",
+    "explanation": "接人稱、人物名後表示複數，如彼ら；語氣因搭配而異，對上級不宜任意用某某ら。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼らの意見も、会議で紹介しました。",
+        "translation": "我也在會議上介紹了他們的意見。",
+        "surface": "彼ら",
+        "reading": "かれら"
+      }
+    ]
   },
   "n2-jmdict-1549350": {
     "sentence": "名前の欄に記入してください。",
     "translation": "請填寫姓名欄。",
-    "surface": "欄"
+    "surface": "欄",
+    "explanation": "表格、報紙等劃分的填寫、刊載區塊；「備考欄」是備註欄，不是整張表格。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "連絡先の欄には、電話番号を書いてください。",
+        "translation": "聯絡方式欄請填寫電話號碼。",
+        "surface": "欄",
+        "reading": "らん"
+      }
+    ]
   },
   "n2-jmdict-1554270": {
     "sentence": "入場料は千円です。",
     "translation": "入場費是一千日圓。",
-    "surface": "料"
+    "surface": "料",
+    "explanation": "接服務、物品等後表示費用，也可為原料等複合詞成分；不能把所有料都譯為價格。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この施設の使用料は、一時間五百円です。",
+        "translation": "這座設施的使用費是每小時五百日圓。",
+        "surface": "使用料",
+        "reading": "しようりょう"
+      }
+    ]
   },
   "n2-jmdict-2082260": {
     "sentence": "ここは昔、別の国の領地でした。",
     "translation": "這裡以前是別國的領地。",
-    "surface": "領"
+    "surface": "領",
+    "explanation": "接國名、地名等表示某方領有的地域；與領收款項的領収、首領等詞義不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この島は、かつてイギリス領でした。",
+        "translation": "這座島曾經是英國領地。",
+        "surface": "イギリス領",
+        "reading": "いぎりすりょう"
+      }
+    ]
   },
   "n2-jmdict-2080720": {
     "sentence": "両親と一緒に住んでいます。",
     "translation": "我和雙親同住。",
-    "surface": "両"
+    "surface": "両",
+    "explanation": "表示兩方、兩者都包含，如両手；不同於表示總數為二卻不強調雙方的數字。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "箱は重いので、両手で持ってください。",
+        "translation": "箱子很重，請用雙手拿。",
+        "surface": "両手",
+        "reading": "りょうて"
+      }
+    ]
   },
   "n2-jmdict-1554840": {
     "sentence": "読解力を高める練習をします。",
     "translation": "我們要做提升閱讀理解能力的練習。",
-    "surface": "力"
+    "surface": "力",
+    "explanation": "接能力、作用等名稱後表示力量，如集中力；其他複合詞可能讀りき，不可一律換讀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "短い休憩を取ると、集中力が戻りました。",
+        "translation": "短暫休息後，我恢復了專注力。",
+        "surface": "集中力",
+        "reading": "しゅうちゅうりょく"
+      }
+    ]
   },
   "n2-jmdict-1957110": {
     "sentence": "授業で進化論について学びました。",
     "translation": "我們在課堂學了進化論。",
-    "surface": "論"
+    "surface": "論",
+    "explanation": "表示理論、論述、討論領域的後綴，如方法論；並非所有個人看法都形成學說。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "授業では、研究の方法論も学びます。",
+        "translation": "課堂上也會學習研究方法論。",
+        "surface": "方法論",
+        "reading": "ほうほうろん"
+      }
+    ]
   },
   "n2-jmdict-1607310": {
     "sentence": "庭に鳥が二羽います。",
     "translation": "庭院有兩隻鳥。",
-    "surface": "羽"
+    "surface": "羽",
+    "explanation": "計算鳥類、兔子等的量詞；一羽いちわ、三羽さんば等讀音變化需按數字學習。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "木の枝に、スズメが一羽止まっています。",
+        "translation": "樹枝上停著一隻麻雀。",
+        "surface": "一羽",
+        "reading": "いちわ"
+      }
+    ]
   },
   "n2-jmdict-1561920": {
     "sentence": "和食の店で昼食を食べました。",
     "translation": "我在日式料理店吃午餐。",
-    "surface": "和"
+    "surface": "和",
+    "explanation": "接詞表示日本式、日式，如和食、和室；與中文和的連接詞用法不同，也不代表所有和字皆此義。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "旅行中は、和室のある宿に泊まりました。",
+        "translation": "旅行期間，我住在有和室的旅館。",
+        "surface": "和室",
+        "reading": "わしつ"
+      }
+    ]
   },
   "n2-jmdict-1612360": {
     "sentence": "この問題は割合に簡単です。",
     "translation": "這個問題比較簡單。",
-    "surface": "割合に"
+    "surface": "割合に",
+    "explanation": "相對於預期、其他情況而言比較如此；常寫わりあいに，不必解讀成數學比例。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "このかばんは大きいのに、割合に軽いです。",
+        "translation": "這個包雖然大，卻相對輕。",
+        "surface": "割合に",
+        "reading": "わりあいに"
+      }
+    ]
   },
   "n2-jmdict-1983690": {
     "sentence": "今日は割と涼しいです。",
     "translation": "今天相當涼爽。",
-    "surface": "割と"
+    "surface": "割と",
+    "explanation": "わりあいに的較口語近義表達，表示相當、比預期更；正式文章可改比較的。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "駅から遠いですが、バスは割と便利です。",
+        "translation": "雖然離車站遠，公車倒還算方便。",
+        "surface": "割と",
+        "reading": "わりと"
+      }
+    ]
   },
   "n2-jmdict-1428410": {
     "sentence": "朝寝坊をして、電車に乗り遅れました。",
     "translation": "我睡過頭，沒趕上電車。",
-    "surface": "朝寝坊"
+    "surface": "朝寝坊",
+    "explanation": "早上睡得太晚、起床過遲，也可指愛睡懶覺的人；常說「朝寝坊をする」，未必已造成遲到。"
   },
   "n2-jmdict-1153080": {
     "sentence": "写真のデータを圧縮して送りました。",
     "translation": "我把照片資料壓縮後寄出了。",
-    "surface": "圧縮"
+    "surface": "圧縮",
+    "explanation": "施壓減少體積，亦指縮減資料大小、工期或預算；「圧縮ファイル」是壓縮檔，不等於刪除內容。"
   },
   "n2-jmdict-1171970": {
     "sentence": "台風が来る前に、雨戸を閉めました。",
     "translation": "颱風來之前，我關好了防雨拉門。",
-    "surface": "雨戸"
+    "surface": "雨戸",
+    "explanation": "裝在窗外、可關閉以擋雨防風的門板；日本住宅常見，與一般布窗簾或室內紙拉門不同。"
   },
   "n2-jmdict-1396970": {
     "sentence": "映画を見る前に、粗筋を読みました。",
     "translation": "看電影前，我先讀了劇情梗概。",
-    "surface": "粗筋"
+    "surface": "粗筋",
+    "explanation": "故事主要情節的摘要、大綱，常寫「あらすじ」；交代主要發展，並非逐句翻譯或個人感想。"
   },
   "n2-jmdict-1160630": {
     "sentence": "姉は仕事と育児を両立するキャリアウーマンです。",
     "translation": "姐姐是兼顧工作與育兒的職業婦女。",
-    "surface": "育児"
+    "surface": "育児",
+    "explanation": "養育、照料幼兒的工作與過程；常見「育児休業」「育児に参加する」，不限於餵食或母親的工作。"
   },
   "n2-jmdict-1024950": {
     "sentence": "姉は仕事と育児を両立するキャリアウーマンです。",
     "translation": "姐姐是兼顧工作與育兒的職業婦女。",
-    "surface": "ウーマン"
+    "surface": "ウーマン",
+    "explanation": "英語 woman 的外來語，多見於複合詞、作品或宣傳語；日常一般指女性通常用「女性」。"
   },
   "n2-jmdict-1164950": {
     "sentence": "機械を一定の速さで動かします。",
     "translation": "讓機器以固定速度運作。",
-    "surface": "一定"
+    "surface": "一定",
+    "explanation": "數量、規則等固定不變，也可指某個範圍或程度；「一定の条件」不表示所有條件完全相同。"
   },
   "n2-jmdict-1158490": {
     "sentence": "緯度が高い地域では、冬の日が短くなります。",
     "translation": "高緯度地區冬天的白晝會變短。",
-    "surface": "緯度"
+    "surface": "緯度",
+    "explanation": "表示地點在赤道以北或以南的角度；常見「北緯」「南緯」，與衡量東西位置的經度相對。"
   },
   "n2-jmdict-1587840": {
     "sentence": "この入れ物には、ぴったり合う蓋があります。",
     "translation": "這個容器有尺寸剛好的蓋子。",
-    "surface": "入れ物"
+    "surface": "入れ物",
+    "explanation": "用來裝盛、收納東西的容器，泛指盒、罐、碗等；強調用途，不限定材質和形狀。"
   },
   "n2-jmdict-1204540": {
     "sentence": "この入れ物には、ぴったり合う蓋があります。",
     "translation": "這個容器有尺寸剛好的蓋子。",
-    "surface": "蓋"
+    "surface": "蓋",
+    "explanation": "蓋住容器開口的部件；「蓋をする／開ける」是蓋上、打開蓋子，不只限定鍋蓋。"
   },
   "n2-jmdict-1169720": {
     "sentence": "物が地面に落ちるのは、地球の引力によります。",
     "translation": "物體落到地面是地球引力所致。",
-    "surface": "引力"
+    "surface": "引力",
+    "explanation": "物體相互吸引的力，常談地球、月球等天體；「地球の引力」是地球的吸引力，非磁力的同義詞。"
   },
   "n2-jmdict-1025690": {
     "sentence": "ウエートレスが注文を取りに来ました。",
     "translation": "女服務生過來點餐了。",
-    "surface": "ウエートレス"
+    "surface": "ウエートレス",
+    "explanation": "餐飲場所的女性服務人員，亦見「ウェイトレス」寫法；不限定咖啡館，現亦常統稱スタッフ。"
   },
   "n2-jmdict-1587970": {
     "sentence": "毎朝、庭の植木に水をやります。",
     "translation": "我每天早上澆庭院的樹木。",
-    "surface": "植木"
+    "surface": "植木",
+    "explanation": "庭園、盆中為觀賞而種植的樹木；「植木の手入れ」指修剪照料，不泛指所有農作物。"
   },
   "n2-jmdict-1329770": {
     "sentence": "荷物の受取にサインが必要です。",
     "translation": "收取行李時需要簽名。",
-    "surface": "受取"
+    "surface": "受取",
+    "explanation": "接收物品、金錢，也可指收款證明，常寫「受け取り」；收據在日常也常用「領収書」。"
   },
   "n2-jmdict-1588140": {
     "sentence": "会議の前に、担当者と打合せをしました。",
     "translation": "開會前，我先和負責人碰面商量了。",
-    "surface": "打合せ"
+    "surface": "打合せ",
+    "explanation": "正式行動前針對分工、內容等協商，常寫「打ち合わせ」；可短暫碰面，不一定是大型會議。"
   },
   "n2-jmdict-1574470": {
     "sentence": "昼食には温かいうどんを食べました。",
     "translation": "午餐吃了熱烏龍麵。",
-    "surface": "うどん"
+    "surface": "うどん",
+    "explanation": "用小麥粉製作、通常較粗白的日式麵條；可熱食或冷食，與蕎麥麵、拉麵不同。"
   },
   "n2-jmdict-1588590": {
     "sentence": "新商品の売行きは好調です。",
     "translation": "新商品的銷路很好。",
-    "surface": "売行き"
+    "surface": "売行き",
+    "explanation": "商品銷售得快慢、受歡迎程度，常寫「売れ行き」；「売れ行きが好調」是銷售狀況良好。"
   },
   "n2-jmdict-1028990": {
     "sentence": "公共の場所では、周囲へのエチケットを守りましょう。",
     "translation": "在公共場所要遵守顧及他人的禮節。",
-    "surface": "エチケット"
+    "surface": "エチケット",
+    "explanation": "與他人相處時應遵守的禮節、體貼行為；常見「咳エチケット」，不只正式宴會規矩。"
   },
   "n2-jmdict-1176320": {
     "sentence": "宴会の時間を一時間延長しました。",
     "translation": "我們把宴會時間延長了一小時。",
-    "surface": "宴会"
+    "surface": "宴会",
+    "explanation": "多人聚餐、飲酒並交流的宴席；常見「宴会を開く」，較單純一起吃午餐有聚會性質。"
   },
   "n2-jmdict-1176510": {
     "sentence": "宴会の時間を一時間延長しました。",
     "translation": "我們把宴會時間延長了一小時。",
-    "surface": "延長"
+    "surface": "延長",
+    "explanation": "把時間、長度或期限加長，也可指比賽延長賽；「期限を延長する」不是改到較早日期。"
   },
   "n2-jmdict-1179930": {
     "sentence": "客間は応接にも使います。",
     "translation": "客房也用來接待客人。",
-    "surface": "応接"
+    "surface": "応接",
+    "explanation": "迎接來客、與其交談，常見「応接室」接待室；偏重接待場合，而非所有顧客問題處理。"
   },
   "n2-jmdict-1226710": {
     "sentence": "客間は応接にも使います。",
     "translation": "客房也用來接待客人。",
-    "surface": "客間"
+    "surface": "客間",
+    "explanation": "住宅中用來接待客人的房間；可作會客用途，不必然提供住宿，也非旅館所有房間的泛稱。"
   },
   "n2-jmdict-1179980": {
     "sentence": "受付では、丁寧な応対を心がけています。",
     "translation": "櫃檯人員用心做到有禮貌的接待。",
-    "surface": "応対"
+    "surface": "応対",
+    "explanation": "針對來客、電話等作出合宜回應，常見「電話応対」；強調應答的方式與態度。"
   },
   "n2-jmdict-1609390": {
     "sentence": "この製品は欧米にも輸出されています。",
     "translation": "這項產品也出口到歐美。",
-    "surface": "欧米"
+    "surface": "欧米",
+    "explanation": "歐洲與美洲，日常常概指歐美西方社會；不是所有外國的統稱，也不包含亞洲各國。"
   },
   "n2-jmdict-1414570": {
     "sentence": "大通りの街角に花屋があります。",
     "translation": "主要道路的街角有一家花店。",
-    "surface": "大通り"
+    "surface": "大通り",
+    "explanation": "城鎮中寬闊、主要的道路；「大通りに面する」是面向主要道路，不必然是高速公路。"
   },
   "n2-jmdict-1204580": {
     "sentence": "大通りの街角に花屋があります。",
     "translation": "主要道路的街角有一家花店。",
-    "surface": "街角"
+    "surface": "街角",
+    "explanation": "街道轉角、街邊某處；「街角で見かける」不一定精確在九十度路口。"
   },
   "n2-jmdict-1032180": {
     "sentence": "工場のオートメーションで、作業時間が短くなりました。",
     "translation": "工廠自動化縮短了作業時間。",
-    "surface": "オートメーション"
+    "surface": "オートメーション",
+    "explanation": "由機器、控制系統自動執行原需人力的作業；常用於工廠生產，不是所有機械化都完全自動。"
   },
   "n2-jmdict-1588930": {
     "sentence": "夕食のおかずを考えて、一週間の献立を作りました。",
     "translation": "我想好晚餐配菜，排出一週菜單。",
-    "surface": "おかず"
+    "surface": "おかず",
+    "explanation": "搭配米飯等主食吃的菜餚；魚、肉、蔬菜料理皆可，不一定是小配菜或醃菜。"
   },
   "n2-jmdict-1258500": {
     "sentence": "夕食のおかずを考えて、一週間の献立を作りました。",
     "translation": "我想好晚餐配菜，排出一週菜單。",
-    "surface": "献立"
+    "surface": "献立",
+    "explanation": "一餐或一段期間的菜色安排；「献立を考える」是規劃吃什麼，餐廳供選餐的單子常用メニュー。"
   },
   "n2-jmdict-1182680": {
     "sentence": "天気がよいので、屋外で昼食を食べました。",
     "translation": "因為天氣好，我在戶外吃午餐。",
-    "surface": "屋外"
+    "surface": "屋外",
+    "explanation": "建築物外的露天空間；「屋外で活動する」與室內相對，不一定是鄉野或自然環境。"
   },
   "n2-jmdict-1402640": {
     "sentence": "「読む」の「む」は送り仮名です。",
     "translation": "「読む」中的「む」是送假名。",
-    "surface": "送り仮名"
+    "surface": "送り仮名",
+    "explanation": "接在漢字後、表示活用或補足讀音的假名，如「書く」的く；不是寫在漢字上方的注音。"
   },
   "n2-jmdict-1338475": {
     "sentence": "今日はどちらへお出掛けですか。",
     "translation": "您今天要出門去哪裡？",
-    "surface": "お出掛け"
+    "surface": "お出掛け",
+    "explanation": "外出的美化、禮貌說法，常見「お出掛けになる」；不一定是遠遊，也可短暫上街。"
   },
   "n2-jmdict-1002110": {
     "sentence": "お手伝いさんに家の掃除をお願いしました。",
     "translation": "我請家務幫傭打掃家裡。",
-    "surface": "お手伝いさん"
+    "surface": "お手伝いさん",
+    "explanation": "受雇幫忙家務的人、家務幫傭；不同於偶爾自願幫忙的朋友，現也常用家事代行等名稱。"
   },
   "n2-jmdict-1589250": {
     "sentence": "駅で落し物を届けました。",
     "translation": "我在車站把撿到的遺失物交給站員。",
-    "surface": "落し物"
+    "surface": "落し物",
+    "explanation": "不小心掉落、遺失的物品，常寫「落とし物」；「落とし物を届ける」是把拾得物交給相關單位。"
   },
   "n2-jmdict-1607100": {
     "sentence": "母の姉は伯母で、近所の小母さんとは親戚ではありません。",
     "translation": "媽媽的姐姐是阿姨，鄰居阿姨則不是親戚。",
-    "surface": "伯母"
+    "surface": "伯母",
+    "explanation": "父母的姊姊或年長於父母的伯舅之配偶；年幼於父母的姑姨通常寫「叔母」，讀音相同。"
   },
   "n2-jmdict-2261510": {
     "sentence": "母の姉は伯母で、近所の小母さんとは親戚ではありません。",
     "translation": "媽媽的姐姐是阿姨，鄰居阿姨則不是親戚。",
-    "surface": "小母さん"
+    "surface": "小母さん",
+    "explanation": "對中年女性的稱呼，與親屬的伯母、叔母不同；直接稱陌生人おばさん可能顯得不禮貌。"
   },
   "n2-jmdict-1001950": {
     "sentence": "新年に家族で神社へお参りに行きます。",
     "translation": "新年時全家會去神社參拜。",
-    "surface": "お参り"
+    "surface": "お参り",
+    "explanation": "到神社、寺院或墓前參拜，常用「お参りに行く」；不只神社，也可祭拜祖先。"
   },
   "n2-jmdict-1589430": {
     "sentence": "三時のおやつに果物を食べました。",
     "translation": "我吃水果當下午三點的點心。",
-    "surface": "おやつ"
+    "surface": "おやつ",
+    "explanation": "正餐以外吃的點心或零食；常見「三時のおやつ」，可甜可鹹，不限定下午三點。"
   },
   "n2-jmdict-1365190": {
     "sentence": "親指と人差指で、小さな部品をつまみます。",
     "translation": "用拇指和食指捏起小零件。",
-    "surface": "親指"
+    "surface": "親指",
+    "explanation": "手的大拇指，也可指腳的大腳趾；需要區分時說「手の親指」「足の親指」。"
   },
   "n2-jmdict-1601940": {
     "sentence": "親指と人差指で、小さな部品をつまみます。",
     "translation": "用拇指和食指捏起小零件。",
-    "surface": "人差指"
+    "surface": "人差指",
+    "explanation": "拇指旁、常用來指示方向的食指，常寫人差し指；與中指、無名指不同。"
   },
   "n2-jmdict-1183140": {
     "sentence": "交通の発達による恩恵を受けています。",
     "translation": "我們受益於交通的發展。",
-    "surface": "恩恵"
+    "surface": "恩恵",
+    "explanation": "從人、制度或自然等獲得的好處；常用「恩恵を受ける」，不必然是對方刻意施恩。"
   },
   "n2-jmdict-1036560": {
     "sentence": "この先に急なカーブがあります。",
     "translation": "前方有急彎。",
-    "surface": "カーブ"
+    "surface": "カーブ",
+    "explanation": "彎曲的線、道路彎道，也指棒球曲球；「カーブを曲がる」是轉過彎道，依場合判斷。"
   },
   "n2-jmdict-1589660": {
     "sentence": "市民会館で、発表会の司会をしました。",
     "translation": "我在市民會館主持了發表會。",
-    "surface": "会館"
+    "surface": "会館",
+    "explanation": "供聚會、文化或組織活動使用的建築物；常見「市民会館」，不只是某一間會議室。"
   },
   "n2-jmdict-1306640": {
     "sentence": "市民会館で、発表会の司会をしました。",
     "translation": "我在市民會館主持了發表會。",
-    "surface": "司会"
+    "surface": "司会",
+    "explanation": "負責主持活動、安排發言進行的工作或主持人；「司会を務める」是擔任主持，不一定是主辦者。"
   },
   "n2-jmdict-1200840": {
     "sentence": "駅の改札で切符を見せました。",
     "translation": "我在車站驗票口出示了車票。",
-    "surface": "改札"
+    "surface": "改札",
+    "explanation": "檢查車票、進出站資格，也可簡稱驗票口；「改札を出る」是通過閘門離開付費區。"
   },
   "n2-jmdict-1200060": {
     "sentence": "今日は雲一つない快晴です。",
     "translation": "今天晴空萬里。",
-    "surface": "快晴"
+    "surface": "快晴",
+    "explanation": "天空非常晴朗、幾乎無雲的狀態；比一般的晴れ更強調晴空，與溫度高低無必然關係。"
   },
   "n2-jmdict-1199080": {
     "sentence": "難しい問題には、詳しい解説がついています。",
     "translation": "難題附有詳細解說。",
-    "surface": "解説"
+    "surface": "解説",
+    "explanation": "為使人理解而說明內容、背景或要點；常見「解説を読む」，與只給答案的解答不同。"
   },
   "n2-jmdict-1204070": {
     "sentence": "この情報を外部に出してはいけません。",
     "translation": "不可以把這項資訊洩漏到外部。",
-    "surface": "外部"
+    "surface": "外部",
+    "explanation": "某組織、物體或範圍的外面；「外部に漏れる」可指資訊流到組織之外，不只實體位置。"
   },
   "n2-jmdict-1201790": {
     "sentence": "海洋についての学術研究をしています。",
     "translation": "我正在進行海洋方面的學術研究。",
-    "surface": "海洋"
+    "surface": "海洋",
+    "explanation": "廣闊的海域、海洋整體，較正式，多見於學術和環境議題；如「海洋資源」「海洋汚染」。"
   },
   "n2-jmdict-1206870": {
     "sentence": "海洋についての学術研究をしています。",
     "translation": "我正在進行海洋方面的學術研究。",
-    "surface": "学術"
+    "surface": "学術",
+    "explanation": "有系統的專門學問、研究，常見「学術論文」「学術交流」；不限於自然科學或單一技術。"
   },
   "n2-jmdict-1204520": {
     "sentence": "大学で経済学の概論を学びました。",
     "translation": "我在大學學了經濟學概論。",
-    "surface": "概論"
+    "surface": "概論",
+    "explanation": "概括說明某學科基本輪廓、原理的內容或課程；「経済学概論」是概論課，非專題深入研究。"
   },
   "n2-jmdict-1589970": {
     "sentence": "授業で漢字の書き取りをしました。",
     "translation": "我在課堂做了漢字聽寫。",
-    "surface": "書き取り"
+    "surface": "書き取り",
+    "explanation": "聽到語句後寫下來的練習或測驗，常寫「書き取り」；不只是看著原文抄寫。"
   },
   "n2-jmdict-1205190": {
     "sentence": "利用者の増加に合わせて、設備の拡充を進めます。",
     "translation": "配合使用人數增加，我們將擴充設備。",
-    "surface": "拡充"
+    "surface": "拡充",
+    "explanation": "擴大規模並充實內容、設備；「制度を拡充する」不只數量增加，也包含功能完善。"
   },
   "n2-jmdict-1205950": {
     "sentence": "雨が降る確率は七十パーセントです。",
     "translation": "降雨機率是百分之七十。",
-    "surface": "確率"
+    "surface": "確率",
+    "explanation": "某事件發生的可能性，以零到一、百分比等表示；與保證達成的確約或實際發生次數不同。"
   },
   "n2-jmdict-1207180": {
     "sentence": "毎日の復習で、学力を高めます。",
     "translation": "透過每天複習提升學業能力。",
-    "surface": "学力"
+    "surface": "学力",
+    "explanation": "透過學習取得的知識與運用能力，常見「学力を伸ばす」；不限於單次考試分數。"
   },
   "n2-jmdict-1590080": {
     "sentence": "掛け算の前に、足し算と引算を習いました。",
     "translation": "學乘法前，先學了加法和減法。",
-    "surface": "掛け算"
+    "surface": "掛け算",
+    "explanation": "把數相乘的運算；「掛け算をする」是做乘法，與足し算、引き算、割り算並列。"
   },
   "n2-jmdict-1601610": {
     "sentence": "掛け算の前に、足し算と引算を習いました。",
     "translation": "學乘法前，先學了加法和減法。",
-    "surface": "引算"
+    "surface": "引算",
+    "explanation": "從某數減去另一數的運算，常寫「引き算」；與足し算、掛け算、割り算區別。"
   },
   "n2-jmdict-1193860": {
     "sentence": "火口の近くに、冷えて固まった溶岩がありました。",
     "translation": "火山口附近有冷卻凝固的熔岩。",
-    "surface": "火口"
+    "surface": "火口",
+    "explanation": "火山噴出熔岩、火山氣體等的開口；讀かこう時不是點火用的「火口／ほくち」。"
   },
   "n2-jmdict-1546120": {
     "sentence": "火口の近くに、冷えて固まった溶岩がありました。",
     "translation": "火山口附近有冷卻凝固的熔岩。",
-    "surface": "溶岩"
+    "surface": "溶岩",
+    "explanation": "噴出或到達地表的岩漿，也可指凝固後的岩石；與地下尚未噴出的マグマ區分。"
   },
   "n2-jmdict-1184940": {
     "sentence": "気温の下降に合わせて、暖房を入れました。",
     "translation": "隨著氣溫下降，我打開了暖氣。",
-    "surface": "下降"
+    "surface": "下降",
+    "explanation": "位置、數值或程度向下移動；常見「気温が下降する」，與上昇相對，可用於圖表趨勢。"
   },
   "n2-jmdict-1590240": {
     "sentence": "この図書館は、雑誌の貸し出しもしています。",
     "translation": "這間圖書館也出借雜誌。",
-    "surface": "貸し出し"
+    "surface": "貸し出し",
+    "explanation": "把物品、資金等借給他人使用；「図書の貸し出し」是圖書外借，與借入者的借りる相對。"
   },
   "n2-jmdict-1037400": {
     "sentence": "昔の歌が入ったカセットを見つけました。",
     "translation": "我找到了錄有老歌的卡式錄音帶。",
-    "surface": "カセット"
+    "surface": "カセット",
+    "explanation": "可裝入設備的匣式媒體、部件，常指卡式錄音帶；「カセットテープ」可明確指錄音帶。"
   },
   "n2-jmdict-1190390": {
     "sentence": "車の加速度を測定しました。",
     "translation": "我們測量了汽車的加速度。",
-    "surface": "加速度"
+    "surface": "加速度",
+    "explanation": "速度隨時間變化的比率，是物理量；與速度本身不同，方向改變也可能具有加速度。"
   },
   "n2-jmdict-1590410": {
     "sentence": "大きな氷の塊が川を流れています。",
     "translation": "大冰塊正順河水漂流。",
-    "surface": "塊"
+    "surface": "塊",
+    "explanation": "聚集成一團、一整塊的物體，也可比喻強烈特質；「氷の塊」是一塊冰，形狀不必規則。"
   },
   "n2-jmdict-1206610": {
     "sentence": "学会で講師として発表しました。",
     "translation": "我在學術會議上擔任講師發表了報告。",
-    "surface": "学会"
+    "surface": "学会",
+    "explanation": "同領域研究者的組織，也可指其舉行的學術會議；「学会で発表する」通常是於會議發表研究。"
   },
   "n2-jmdict-1282280": {
     "sentence": "学会で講師として発表しました。",
     "translation": "我在學術會議上擔任講師發表了報告。",
-    "surface": "講師"
+    "surface": "講師",
+    "explanation": "講課、授課的人，也可作教育機構的職位名稱；不必然是正式教授，也可受邀短期授課。"
   },
   "n2-jmdict-1208300": {
     "sentence": "小さな活字は読みづらいです。",
     "translation": "小字很難閱讀。",
-    "surface": "活字"
+    "surface": "活字",
+    "explanation": "印刷用的字模，也泛指印刷出的文字；「活字を読む」可指閱讀書報，並非只讀鉛製字模。"
   },
   "n2-jmdict-2096480": {
     "sentence": "小さな活字は読みづらいです。",
     "translation": "小字很難閱讀。",
-    "surface": "づらい"
+    "surface": "づらい",
+    "explanation": "接動詞ます形詞幹，表示做起來身心不便、難受；與い形容詞つらい不同接續。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "本当のことでも、本人には言いづらいです。",
+        "translation": "即使是實話，也很難對本人開口。",
+        "surface": "言いづらい",
+        "reading": "いいづらい"
+      }
+    ]
   },
   "n2-jmdict-1590540": {
     "sentence": "仮名で書くときも、正しい仮名遣いを確かめます。",
     "translation": "即使用假名書寫，也要確認拼寫規則。",
-    "surface": "仮名"
+    "surface": "仮名",
+    "explanation": "日語表音文字，包括平假名、片假名；此讀かな不同於匿名、化名的「仮名／かめい」。"
   },
   "n2-jmdict-1188100": {
     "sentence": "仮名で書くときも、正しい仮名遣いを確かめます。",
     "translation": "即使用假名書寫，也要確認拼寫規則。",
-    "surface": "仮名遣い"
+    "surface": "仮名遣い",
+    "explanation": "用假名書寫日語時的規則、表記方式；「現代仮名遣い」與歷史表記不同，不只是字寫得美不美。"
   },
   "n2-jmdict-1190470": {
     "sentence": "十分に加熱してから、食べてください。",
     "translation": "請充分加熱後再食用。",
-    "surface": "加熱"
+    "surface": "加熱",
+    "explanation": "對物品施加熱能、提高溫度；「十分に加熱する」是充分加熱，不保證一定達到沸騰。"
   },
   "n2-jmdict-1196380": {
     "sentence": "参加者の過半数が、この案に賛成しました。",
     "translation": "過半數參加者贊成這個方案。",
-    "surface": "過半数"
+    "surface": "過半数",
+    "explanation": "超過整體一半的數量，嚴格來說不包含恰好一半；「過半数の賛成」為超過半數支持。"
   },
   "n2-jmdict-1209080": {
     "sentence": "昔は釜で米を炊いていました。",
     "translation": "以前用大釜煮飯。",
-    "surface": "釜"
+    "surface": "釜",
+    "explanation": "傳統煮飯、燒水用的深鍋或釜狀器具；燒陶器的窯、窗框的框不是這個字。"
   },
   "n2-jmdict-1609610": {
     "sentence": "机の下の紙屑を集めました。",
     "translation": "我把桌下的廢紙收集起來。",
-    "surface": "紙屑"
+    "surface": "紙屑",
+    "explanation": "無用、丟棄的碎紙或廢紙；「紙屑を拾う」是撿紙屑，不代表所有可回收紙製品。"
   },
   "n2-jmdict-1435180": {
     "sentence": "新しい剃刀でひげをそりました。",
     "translation": "我用新刮鬍刀刮了鬍子。",
-    "surface": "剃刀"
+    "surface": "剃刀",
+    "explanation": "剃除鬍鬚、毛髮用的刀具，常寫「かみそり」；「剃刀でそる」不同於用剪刀剪。"
   },
   "n2-jmdict-1209580": {
     "sentence": "台風で屋根の瓦が落ちました。",
     "translation": "颱風把屋瓦吹落了。",
-    "surface": "瓦"
+    "surface": "瓦",
+    "explanation": "鋪在屋頂上防風雨的建材；常說「瓦をふく」，不等於貼在牆面、地面的所有瓷磚。"
   },
   "n2-jmdict-1212360": {
     "sentence": "温かい歓迎に感激しました。",
     "translation": "熱情歡迎讓我深受感動。",
-    "surface": "感激"
+    "surface": "感激",
+    "explanation": "因深受觸動、喜悅等產生強烈感動；「温かい言葉に感激する」不只是一般感謝。"
   },
   "n2-jmdict-1215910": {
     "sentence": "関東と関西では、言葉の使い方が少し違います。",
     "translation": "關東和關西的用語稍有不同。",
-    "surface": "関西"
+    "surface": "関西",
+    "explanation": "日本以大阪、京都等為中心的西部地區稱呼，涵蓋範圍依慣例而異；不可直接等同整個西日本。"
   },
   "n2-jmdict-1216010": {
     "sentence": "関東と関西では、言葉の使い方が少し違います。",
     "translation": "關東和關西的用語稍有不同。",
-    "surface": "関東"
+    "surface": "関東",
+    "explanation": "日本以東京及周邊為中心的區域，通常指一都六縣；不等於整個東日本。"
   },
   "n2-jmdict-1215520": {
     "sentence": "この経験が、間接的に今の仕事に役立っています。",
     "translation": "這個經驗間接幫助了我現在的工作。",
-    "surface": "間接"
+    "surface": "間接",
+    "explanation": "透過中間的人、事物才發生作用，而非直接接觸；常用「間接的に伝える」。"
   },
   "n2-jmdict-1210460": {
     "sentence": "寒帯では、厳しい寒さに耐える動物が生きています。",
     "translation": "寒帶生活著能耐嚴寒的動物。",
-    "surface": "寒帯"
+    "surface": "寒帯",
+    "explanation": "高緯度等全年寒冷地區的氣候帶分類；與某一地點冬天很冷的短期天氣不同。"
   },
   "n2-jmdict-1211730": {
     "sentence": "官庁で働く役人に、手続きを尋ねました。",
     "translation": "我向政府機關的官員詢問了手續。",
-    "surface": "官庁"
+    "surface": "官庁",
+    "explanation": "執行國家行政事務的政府機關；常見「中央官庁」，不泛指民間公司或所有公共建築。"
   },
   "n2-jmdict-1538050": {
     "sentence": "官庁で働く役人に、手続きを尋ねました。",
     "translation": "我向政府機關的官員詢問了手續。",
-    "surface": "役人"
+    "surface": "役人",
+    "explanation": "在政府機關從事公務的人員；較一般稱法，正式可用公務員，與民間会社員區別。"
   },
   "n2-jmdict-1210100": {
     "sentence": "時計の乾電池を交換しました。",
     "translation": "我更換了時鐘的乾電池。",
-    "surface": "乾電池"
+    "surface": "乾電池",
+    "explanation": "常見的一次性乾式電池，如鹼性電池；「乾電池を交換する」是換電池，不可任意替非充電型充電。"
   },
   "n2-jmdict-1577620": {
     "sentence": "劇の王様は金色の冠をかぶっていました。",
     "translation": "戲中的國王戴著金色王冠。",
-    "surface": "冠"
+    "surface": "冠",
+    "explanation": "戴在頭上的冠冕，也可指類似冠的裝飾；「冠をかぶる」常用於王冠，不是一般帽子的泛稱。"
   },
   "n2-jmdict-1213260": {
     "sentence": "分からない漢字を漢和辞典で調べました。",
     "translation": "我用漢日字典查了不懂的漢字。",
-    "surface": "漢和"
+    "surface": "漢和",
+    "explanation": "以漢字為項目、用日語解釋讀音、意思等的字典方向；「漢和辞典」不是現代漢語日語詞典的同義詞。"
   },
   "n2-jmdict-1220880": {
     "sentence": "古い蒸気機関車が展示されています。",
     "translation": "這裡展示著古老的蒸汽火車頭。",
-    "surface": "機関車"
+    "surface": "機関車",
+    "explanation": "牽引車廂的動力車頭，蒸汽、柴油、電力型皆有；並非所有列車都設獨立機関車。"
   },
   "n2-jmdict-1591080": {
     "sentence": "長い日照りが飢饉を引き起こしました。",
     "translation": "長期乾旱造成了飢荒。",
-    "surface": "飢饉"
+    "surface": "飢饉",
+    "explanation": "因糧食嚴重不足導致群體飢餓的災害；與個人一時沒吃飯的空腹不同。"
   },
   "n2-jmdict-1219170": {
     "sentence": "地域の産業の基盤を整えます。",
     "translation": "我們要健全地方產業的基礎。",
-    "surface": "基盤"
+    "surface": "基盤",
+    "explanation": "使組織、生活、活動得以成立的穩固基底；常見「生活の基盤」，比單一入門知識範圍更廣。"
   },
   "n2-jmdict-1226760": {
     "sentence": "客席から子供たちのコーラスを聞きました。",
     "translation": "我在觀眾席聆聽了孩子們的合唱。",
-    "surface": "客席"
+    "surface": "客席",
+    "explanation": "劇場、會場等供觀眾、顧客坐的區域；與演員所在舞台相對，不是旅館客房。"
   },
   "n2-jmdict-1049340": {
     "sentence": "客席から子供たちのコーラスを聞きました。",
     "translation": "我在觀眾席聆聽了孩子們的合唱。",
-    "surface": "コーラス"
+    "surface": "コーラス",
+    "explanation": "多人一起歌唱的合唱或歌曲中的合唱部分；「コーラスに参加する」不只是獨唱。"
   },
   "n2-jmdict-1227780": {
     "sentence": "今日は休講になったので、図書館で自習します。",
     "translation": "今天停課，所以我到圖書館自習。",
-    "surface": "休講"
+    "surface": "休講",
+    "explanation": "原定的一堂或若干堂課取消、不上課；與學校整體放假的休校、假期不同。"
   },
   "n2-jmdict-1317900": {
     "sentence": "今日は休講になったので、図書館で自習します。",
     "translation": "今天停課，所以我到圖書館自習。",
-    "surface": "自習"
+    "surface": "自習",
+    "explanation": "不由教師即時講授、自己進行學習；「自習室」是自習空間，不限定在家學習。"
   },
   "n2-jmdict-1282220": {
     "sentence": "人気の店の前に、長い行列ができています。",
     "translation": "熱門店家前排著長長的隊伍。",
-    "surface": "行列"
+    "surface": "行列",
+    "explanation": "依次排成的隊伍，也指數學矩陣；「行列ができる」常說店外排隊，並非普通散落的人群。"
   },
   "n2-jmdict-1239970": {
     "sentence": "曲線と直線を使って、図形を描きました。",
     "translation": "我用曲線和直線畫了圖形。",
-    "surface": "曲線"
+    "surface": "曲線",
+    "explanation": "連續彎曲的線，也可指圖表呈現的變化軌跡；與直線相對，不只圓形的一部分。"
   },
   "n2-jmdict-1370380": {
     "sentence": "曲線と直線を使って、図形を描きました。",
     "translation": "我用曲線和直線畫了圖形。",
-    "surface": "図形"
+    "surface": "図形",
+    "explanation": "由點、線、面形成的幾何形狀；「図形の面積」談圖形面積，與展示數值的圖表不同。"
   },
   "n2-jmdict-1223120": {
     "sentence": "集団生活では、規律を守ることが大切です。",
     "translation": "團體生活中，遵守紀律很重要。",
-    "surface": "規律"
+    "surface": "規律",
+    "explanation": "團體生活、行動中應遵循的秩序、規範；「規律を守る」比單一規則更強調整體紀律。"
   },
   "n2-jmdict-2229960": {
     "sentence": "中国の琴（きん）は、七本の弦を持つ楽器です。",
     "translation": "中國古琴是有七條弦的樂器。",
-    "surface": "琴"
+    "surface": "琴",
+    "explanation": "讀きん時通常指古琴、七弦琴等古代弦樂器；日式箏常稱こと，不能把所有琴一律讀きん。"
   },
   "n2-jmdict-1436840": {
     "sentence": "壁に釘を打って、絵を掛けました。",
     "translation": "我在牆上釘釘子，把畫掛起來。",
-    "surface": "釘"
+    "surface": "釘",
+    "explanation": "敲入木材等固定物件的釘子；常說「釘を打つ」，螺絲則常用ねじ，不宜混為同一固定方式。"
   },
   "n2-jmdict-1246490": {
     "sentence": "櫛で髪を整えました。",
     "translation": "我用梳子整理了頭髮。",
-    "surface": "櫛"
+    "surface": "櫛",
+    "explanation": "有齒、用來梳理頭髮的梳子；「櫛で髪をとかす」指梳頭，與成束刷毛的ブラシ形制不同。"
   },
   "n2-jmdict-1244530": {
     "sentence": "苦心して作った作品が、ようやく完成しました。",
     "translation": "費心製作的作品終於完成了。",
-    "surface": "苦心"
+    "surface": "苦心",
+    "explanation": "為完成某事費盡心思、辛苦設法；常說「苦心して作る」，著重思考與努力，不只身體疲勞。"
   },
   "n2-jmdict-1246510": {
     "sentence": "工作で出た木の屑を片付けました。",
     "translation": "我清理了手作產生的木屑。",
-    "surface": "屑"
+    "surface": "屑",
+    "explanation": "切剩、破碎或失去用途的碎屑、廢料；用來罵人時非常貶抑，學習物品用法即可。"
   },
   "n2-jmdict-1538250": {
     "sentence": "指輪は薬指につけ、小指と中指には何もつけていません。",
     "translation": "戒指戴在無名指，小指和中指沒有戴東西。",
-    "surface": "薬指"
+    "surface": "薬指",
+    "explanation": "位於中指與小指之間的無名指；常說「薬指に指輪をはめる」，不是醫療專用的手指。"
   },
   "n2-jmdict-1348170": {
     "sentence": "指輪は薬指につけ、小指と中指には何もつけていません。",
     "translation": "戒指戴在無名指，小指和中指沒有戴東西。",
-    "surface": "小指"
+    "surface": "小指",
+    "explanation": "手最外側、通常最細的小指，也可指腳的小趾；需要時可說「足の小指」明確區分。"
   },
   "n2-jmdict-1581690": {
     "sentence": "指輪は薬指につけ、小指と中指には何もつけていません。",
     "translation": "戒指戴在無名指，小指和中指沒有戴東西。",
-    "surface": "中指"
+    "surface": "中指",
+    "explanation": "手的五指中位於正中央的手指；也可指腳的中趾，通常需以足の中指明確說明。"
   },
   "n2-jmdict-1359940": {
     "sentence": "乾燥して、唇が荒れました。",
     "translation": "因為乾燥，嘴唇乾裂了。",
-    "surface": "唇"
+    "surface": "唇",
+    "explanation": "嘴巴上下邊緣的嘴唇；「唇が乾く」指嘴唇乾燥，與口腔內部或整張嘴不同。"
   },
   "n2-jmdict-1278220": {
     "sentence": "狭い部屋を広く使う工夫をしました。",
     "translation": "我設法讓小房間能充分運用空間。",
-    "surface": "工夫"
+    "surface": "工夫",
+    "explanation": "為了改善結果而思考、調整方法的巧思；「工夫を凝らす」是費心設計，不同於中文武術功夫。"
   },
   "n2-jmdict-1244230": {
     "sentence": "ごみの分類では、材質による区分を確かめます。",
     "translation": "垃圾分類時，要確認材質區分。",
-    "surface": "区分"
+    "surface": "区分",
+    "explanation": "按性質、規則劃分，也指劃分出的類別；「年齢で区分する」以年齡分類，重點是界定範圍。"
   },
   "n2-jmdict-1504460": {
     "sentence": "ごみの分類では、材質による区分を確かめます。",
     "translation": "垃圾分類時，要確認材質區分。",
-    "surface": "分類"
+    "surface": "分類",
+    "explanation": "根據共同性質分成不同類別；「種類ごとに分類する」不是單純依大小順序排列。"
   },
   "n2-jmdict-1592290": {
     "sentence": "服の色の組合せを考えました。",
     "translation": "我想好了衣服的配色。",
-    "surface": "組合せ"
+    "surface": "組合せ",
+    "explanation": "把不同事物配在一起的組合，常寫「組み合わせ」；可談顏色、衣服、隊伍或數學組合。"
   },
   "n2-jmdict-1250750": {
     "sentence": "お客様には、適切な敬語を使います。",
     "translation": "對客人使用適當敬語。",
-    "surface": "敬語"
+    "surface": "敬語",
+    "explanation": "依人物關係、場合表達尊敬與禮貌的語言形式，包括尊敬語、謙讓語、丁寧語等。"
   },
   "n2-jmdict-1592540": {
     "sentence": "古い蛍光灯を取り替えました。",
     "translation": "我更換了舊日光燈。",
-    "surface": "蛍光灯"
+    "surface": "蛍光灯",
+    "explanation": "利用放電與螢光物質發光的燈具、燈管；與白熾燈、LED原理不同，不是所有長條燈的泛稱。"
   },
   "n2-jmdict-1533860": {
     "sentence": "祖母が毛糸で手袋を編んでくれました。",
     "translation": "祖母用毛線織了手套給我。",
-    "surface": "毛糸"
+    "surface": "毛糸",
+    "explanation": "用來編織的毛線，傳統以獸毛為主，也有混紡、合成纖維製品；與縫紉用細線用途不同。"
   },
   "n2-jmdict-1251030": {
     "sentence": "この二つの言語は、同じ系統に属します。",
     "translation": "這兩種語言屬於相同系統。",
-    "surface": "系統"
+    "surface": "系統",
+    "explanation": "相互關聯形成的脈絡、血統、分類或路線；「同じ系統の色」指同類色，不是同一個顏色。"
   },
   "n2-jmdict-1234210": {
     "sentence": "叔父は休日に競馬を見に行きます。",
     "translation": "叔叔假日會去看賽馬。",
-    "surface": "競馬"
+    "surface": "競馬",
+    "explanation": "騎手騎馬競速的運動、賽事，也包含相關投注；「競馬を見る」不必然表示有下注。"
   },
   "n2-jmdict-1250450": {
     "sentence": "「静かだ」は形容動詞の例です。",
     "translation": "「静かだ」是形容動詞的例子。",
-    "surface": "形容動詞"
+    "surface": "形容動詞",
+    "explanation": "以「静かだ」等為代表、修飾名詞常接な的詞類，教學常稱な形容詞；不是動作動詞。"
   },
   "n2-jmdict-1253690": {
     "sentence": "休日になると、この町の観光客は激増します。",
     "translation": "到了假日，這個城鎮的觀光客就激增。",
-    "surface": "激増"
+    "surface": "激増",
+    "explanation": "數量在短時間內大幅增加；「利用者が激増する」比単純な増加語氣更強，反面為激減。"
   },
   "n2-jmdict-1185330": {
     "sentence": "申込みは上旬までで、発表は下旬です。",
     "translation": "報名到上旬截止，下旬公布結果。",
-    "surface": "下旬"
+    "surface": "下旬",
+    "explanation": "一個月二十一日至月底的期間；與一至十日的上旬、十一至二十日的中旬對照。"
   },
   "n2-jmdict-1353410": {
     "sentence": "申込みは上旬までで、発表は下旬です。",
     "translation": "報名到上旬截止，下旬公布結果。",
-    "surface": "上旬"
+    "surface": "上旬",
+    "explanation": "每月一日至十日的期間；與中旬、下旬對照，「来月上旬」不是整個月初到十五日。"
   },
   "n2-jmdict-1253800": {
     "sentence": "番号の桁を間違えないようにしてください。",
     "translation": "請不要弄錯號碼的位數。",
-    "surface": "桁"
+    "surface": "桁",
+    "explanation": "數字的位數、量級，也有樑的意思；「三桁の数」是三位數，「桁が違う」比喻差距極大。"
   },
   "n2-jmdict-1185780": {
     "sentence": "祭りでは下駄を履き、普段の着物には草履を合わせます。",
     "translation": "祭典穿木屐，平常的和服則搭配草履。",
-    "surface": "下駄"
+    "surface": "下駄",
+    "explanation": "木底、以鼻緒固定腳的傳統鞋；穿著可發出聲響，與平底草履或一般拖鞋不同。"
   },
   "n2-jmdict-1402060": {
     "sentence": "祭りでは下駄を履き、普段の着物には草履を合わせます。",
     "translation": "祭典穿木屐，平常的和服則搭配草履。",
-    "surface": "草履"
+    "surface": "草履",
+    "explanation": "以鼻緒夾在腳趾間、通常為平底的日式鞋；可配和服，不等同有木齒的下駄。"
   },
   "n2-jmdict-1261470": {
     "sentence": "この果物は南米原産です。",
     "translation": "這種水果原產於南美洲。",
-    "surface": "原産"
+    "surface": "原産",
+    "explanation": "動植物最初產生、自然分布的來源地；「南米原産」是原產南美，不表示每件商品都在南美製造。"
   },
   "n2-jmdict-1261500": {
     "sentence": "博物館で原始時代の生活を学びました。",
     "translation": "我在博物館學到了原始時代的生活。",
-    "surface": "原始"
+    "surface": "原始",
+    "explanation": "事物最初、尚未發展的階段；常見「原始社会」，與未經加工的食品「生」不同。"
   },
   "n2-jmdict-1258660": {
     "sentence": "研修の後、現場で実習をします。",
     "translation": "培訓後會到現場實習。",
-    "surface": "研修"
+    "surface": "研修",
+    "explanation": "為工作所需知識、技能而安排的學習訓練；「新人研修」是新人培訓，不一定出國進修。"
   },
   "n2-jmdict-1321200": {
     "sentence": "研修の後、現場で実習をします。",
     "translation": "培訓後會到現場實習。",
-    "surface": "実習"
+    "surface": "実習",
+    "explanation": "透過實際操作學習專業技能的課程、活動；「教育実習」是教學實習，與只觀看的見学不同。"
   },
   "n2-jmdict-1264690": {
     "sentence": "無理をせず、自分の体力の限度を知りましょう。",
     "translation": "不要勉強，要了解自己體力的限度。",
-    "surface": "限度"
+    "surface": "限度",
+    "explanation": "所能容許、達到的最高界限；「限度を超える」是超出限度，不單指物體邊界。"
   },
   "n2-jmdict-1277980": {
     "sentence": "父は工員として、この工場で働いています。",
     "translation": "爸爸以工廠工人的身分在這裡工作。",
-    "surface": "工員"
+    "surface": "工員",
+    "explanation": "在工廠從事生產作業的工作人員；偏傳統職稱，不泛指公司所有職員或所有工匠。"
   },
   "n2-jmdict-1283060": {
     "sentence": "出かける前に、香水を少しつけました。",
     "translation": "出門前我噴了一點香水。",
-    "surface": "香水"
+    "surface": "香水",
+    "explanation": "含香料、用來增添香氣的液體化妝品；「香水をつける」是擦、噴香水，不等同清潔劑。"
   },
   "n2-jmdict-1275070": {
     "sentence": "長年の功績が認められ、賞を受けました。",
     "translation": "多年功績受到肯定，獲頒獎項。",
-    "surface": "功績"
+    "surface": "功績",
+    "explanation": "對社會、組織等作出的有價值貢獻；「功績をたたえる」是表揚功績，不只比賽名次。"
   },
   "n2-jmdict-1273030": {
     "sentence": "窓から強い光線が入ります。",
     "translation": "強烈光線從窗外射入。",
-    "surface": "光線"
+    "surface": "光線",
+    "explanation": "光的傳播路徑、照射的光束；常見「太陽の光線」，不同於電線或單純抽象的希望之光。"
   },
   "n2-jmdict-1280990": {
     "sentence": "この地域では、耕地が少なくなっています。",
     "translation": "這個地區的耕地正在減少。",
-    "surface": "耕地"
+    "surface": "耕地",
+    "explanation": "經過耕作、用於種植農作物的土地；「耕地面積」是耕地面積，不包含所有森林、荒地。"
   },
   "n2-jmdict-1279600": {
     "sentence": "子供たちは校庭で遊んでいます。",
     "translation": "孩子們正在校園操場玩。",
-    "surface": "校庭"
+    "surface": "校庭",
+    "explanation": "學校建築物外、供活動等使用的校內空地、操場；與校舎的建物部分區別。"
   },
   "n2-jmdict-1281180": {
     "sentence": "彼は私の意見を肯定しました。",
     "translation": "他肯定了我的意見。",
-    "surface": "肯定"
+    "surface": "肯定",
+    "explanation": "承認某判斷、事實或價值成立；與否定相對，「肯定的な意見」是持正面認可的意見。"
   },
   "n2-jmdict-1285140": {
     "sentence": "二つの学校が合同で交流会を開きました。",
     "translation": "兩所學校聯合舉辦了交流會。",
-    "surface": "合同"
+    "surface": "合同",
+    "explanation": "多個團體一起舉辦、行動，也有數學全等之意；「合同説明会」不表示各團體已合併成一家公司。"
   },
   "n2-jmdict-1272580": {
     "sentence": "二つの学校が合同で交流会を開きました。",
     "translation": "兩所學校聯合舉辦了交流會。",
-    "surface": "交流"
+    "surface": "交流",
+    "explanation": "人群、文化等互相往來，也指電流方向週期變化的交流電；須依國際交流、交流電源等搭配判斷。"
   },
   "n2-jmdict-1360890": {
     "sentence": "鍵を落とした場所に、心当たりはありますか。",
     "translation": "你對掉鑰匙的地點有線索嗎？",
-    "surface": "心当たり"
+    "surface": "心当たり",
+    "explanation": "對某事可能原因、人物、位置心中有線索；「心当たりがない」表示沒有頭緒，不是沒有心情。"
   },
   "n2-jmdict-1268300": {
     "sentence": "名簿は五十音の順に並んでいます。",
     "translation": "名冊依五十音順序排列。",
-    "surface": "五十音"
+    "surface": "五十音",
+    "explanation": "日語假名按母音、子音排列的基本系統；「五十音順」是依此排序，現行表不必恰有五十個獨立音。"
   },
   "n2-jmdict-1264980": {
     "sentence": "同じ種類でも、個体によって色が違います。",
     "translation": "即使同一種類，各個個體的顏色也不同。",
-    "surface": "個体"
+    "surface": "個体",
+    "explanation": "可與同類區別、具有獨立性的單一生物或物體；「個体差」是同類各個個體之間的差異。"
   },
   "n2-jmdict-1270650": {
     "sentence": "長い御無沙汰をおわびし、無沙汰の理由を説明しました。",
     "translation": "我為久未問候致歉，並說明了疏於聯絡的原因。",
-    "surface": "御無沙汰"
+    "surface": "御無沙汰",
+    "explanation": "長時間未聯絡、拜訪的謙恭表達，常寫「ご無沙汰」；「ご無沙汰しております」適合久未問候。"
   },
   "n2-jmdict-1672130": {
     "sentence": "長い御無沙汰をおわびし、無沙汰の理由を説明しました。",
     "translation": "我為久未問候致歉，並說明了疏於聯絡的原因。",
-    "surface": "無沙汰"
+    "surface": "無沙汰",
+    "explanation": "未去問候、聯絡的疏遠狀態，通常加ご表示禮貌；「無沙汰をわびる」是為久未聯絡致歉。"
   },
   "n2-jmdict-1051540": {
     "sentence": "祖父の切手のコレクションを見せてもらいました。",
     "translation": "祖父讓我看了他的郵票收藏。",
-    "surface": "コレクション"
+    "surface": "コレクション",
+    "explanation": "依興趣、主題蒐集物品的活動或收藏群，也可指時裝系列；不只是隨意堆放的雜物。"
   },
   "n2-jmdict-1290590": {
     "sentence": "面接には、紺の無地の服を着ます。",
     "translation": "面試時穿深藍色素面衣服。",
-    "surface": "紺"
+    "surface": "紺",
+    "explanation": "帶深藍、藏青色的顏色名稱；「紺の制服」是深藍制服，與黑色或所有藍色不同。"
   },
   "n2-jmdict-1530650": {
     "sentence": "面接には、紺の無地の服を着ます。",
     "translation": "面試時穿深藍色素面衣服。",
-    "surface": "無地"
+    "surface": "無地",
+    "explanation": "沒有花紋、圖案的表面、布料；「無地のシャツ」通常是素面，仍可有各種顏色。"
   },
   "n2-jmdict-1051860": {
     "sentence": "この建物はコンクリートでできています。",
     "translation": "這棟建築是混凝土造的。",
-    "surface": "コンクリート"
+    "surface": "コンクリート",
+    "explanation": "水泥、水、砂石等混合硬化的建材；水泥是其原料之一，兩者並非完全同義。"
   },
   "n2-jmdict-1054850": {
     "sentence": "大学に在学している間、音楽のサークルに入りました。",
     "translation": "大學在學期間，我加入了音樂社團。",
-    "surface": "サークル"
+    "surface": "サークル",
+    "explanation": "因共同興趣組成的社團、圈子，尤其大學社團；不一定是學校正式運動校隊。"
   },
   "n2-jmdict-1296440": {
     "sentence": "大学に在学している間、音楽のサークルに入りました。",
     "translation": "大學在學期間，我加入了音樂社團。",
-    "surface": "在学"
+    "surface": "在学",
+    "explanation": "具有某學校學生身分、就讀中的狀態；「在学中」不表示每一刻都人在校園內。"
   },
   "n2-jmdict-1292200": {
     "sentence": "返事の催促をする前に、少し待ちましょう。",
     "translation": "催促回覆之前，先等一下吧。",
-    "surface": "催促"
+    "surface": "催促",
+    "explanation": "要求對方盡快完成原已期待的事情，如付款、答覆；「返事を催促する」比單純首次請求更帶催促感。"
   },
   "n2-jmdict-1295110": {
     "sentence": "旅行中に大きな災難に遭いました。",
     "translation": "我在旅行中遇到了大災難。",
-    "surface": "災難"
+    "surface": "災難",
+    "explanation": "突然遭遇的不幸、事故或災害；「災難に遭う」可大可小，不只指大規模天然災害。"
   },
   "n2-jmdict-1296200": {
     "sentence": "祖母に裁縫の基本を教わりました。",
     "translation": "我跟祖母學了裁縫基礎。",
-    "surface": "裁縫"
+    "surface": "裁縫",
+    "explanation": "用針線縫製、修補衣物等的工作；「裁縫が得意」是擅長縫紉，與毛線編織不同。"
   },
   "n2-jmdict-1056150": {
     "sentence": "遠くから救急車のサイレンが聞こえました。",
     "translation": "遠處傳來救護車的警笛聲。",
-    "surface": "サイレン"
+    "surface": "サイレン",
+    "explanation": "緊急車輛、設施用的長鳴警報聲或發聲裝置；「サイレンが鳴る」不同於人吹口哨。"
   },
   "n2-jmdict-1329110": {
     "sentence": "仕事の後、近くの酒場で友人に会いました。",
     "translation": "下班後，我在附近酒館和朋友見面。",
-    "surface": "酒場"
+    "surface": "酒場",
+    "explanation": "供客人飲酒、交流的店鋪；可泛指酒館、酒吧等，不一定有正式餐廳的完整餐點。"
   },
   "n2-jmdict-1298320": {
     "sentence": "本の目次で全体を見て、索引で言葉を探します。",
     "translation": "先看目錄掌握全書，再用索引找詞。",
-    "surface": "索引"
+    "surface": "索引",
+    "explanation": "將關鍵詞依次序列出、標示所在頁碼或位置的查找工具；與依章節排列的目次不同。"
   },
   "n2-jmdict-1535460": {
     "sentence": "本の目次で全体を見て、索引で言葉を探します。",
     "translation": "先看目錄掌握全書，再用索引找詞。",
-    "surface": "目次"
+    "surface": "目次",
+    "explanation": "依書籍、文件章節順序列出的內容目錄；與依詞語排序查位置的索引不同。"
   },
   "n2-jmdict-1297790": {
     "sentence": "展示用の模型の作製を担当しました。",
     "translation": "我負責製作展示模型。",
-    "surface": "作製"
+    "surface": "作製",
+    "explanation": "製作機械、樣品等具體實物；常見「模型を作製する」，文書、計畫一般多用作成。"
   },
   "n2-jmdict-1585630": {
     "sentence": "塩を小さな匙で量ります。",
     "translation": "用小湯匙量鹽。",
-    "surface": "匙"
+    "surface": "匙",
+    "explanation": "盛舀食物、調味料的匙，口語也常稱スプーン；「匙を投げる」是放棄處理的慣用語。"
   },
   "n2-jmdict-1291990": {
     "sentence": "座敷に座布団を並べました。",
     "translation": "我在榻榻米房間排好了坐墊。",
-    "surface": "座敷"
+    "surface": "座敷",
+    "explanation": "鋪榻榻米的日式房間、供人跪坐的用餐區；與西式桌椅席、單純地板空間不同。"
   },
   "n2-jmdict-1291980": {
     "sentence": "座敷に座布団を並べました。",
     "translation": "我在榻榻米房間排好了坐墊。",
-    "surface": "座布団"
+    "surface": "座布団",
+    "explanation": "放在地板、榻榻米等處坐的墊子；與睡覺蓋的掛け布団、鋪的敷き布団用途不同。"
   },
   "n2-jmdict-1291090": {
     "sentence": "費用を引くと、差し引き一万円残ります。",
     "translation": "扣除費用後，淨剩一萬日圓。",
-    "surface": "差し引き"
+    "surface": "差し引き",
+    "explanation": "從總額扣除一部分的計算，也指收支相抵後的餘額；與單純加總相對。"
   },
   "n2-jmdict-1593820": {
     "sentence": "古い自転車の錆を落としました。",
     "translation": "我除去了舊自行車上的鐵鏽。",
-    "surface": "錆"
+    "surface": "錆",
+    "explanation": "金屬氧化、腐蝕形成的鏽；「錆が出る／錆を落とす」常用，不泛指所有表面污垢。"
   },
   "n2-jmdict-1303820": {
     "sentence": "この米の産地を確認しました。",
     "translation": "我確認了這包米的產地。",
-    "surface": "産地"
+    "surface": "産地",
+    "explanation": "農漁產品、原料等生產、採集的地方；「産地直送」是產地直送，不等於銷售店所在地。"
   },
   "n2-jmdict-1303230": {
     "sentence": "村の周りには、広い山林があります。",
     "translation": "村莊周圍有廣大的山林。",
-    "surface": "山林"
+    "surface": "山林",
+    "explanation": "山地與林地，或山中的森林；常見「山林を保全する」，不是一株樹或市區小公園。"
   },
   "n2-jmdict-1317400": {
     "sentence": "自衛のための基本的な知識を学びました。",
     "translation": "我學了自衛的基本知識。",
-    "surface": "自衛"
+    "surface": "自衛",
+    "explanation": "為保護自己而防備、反擊；「自衛のため」是為了自我防衛，不等於先行攻擊的任何行為。"
   },
   "n2-jmdict-1307250": {
     "sentence": "小数第一位を四捨五入してください。",
     "translation": "請將小數第一位四捨五入。",
-    "surface": "四捨五入"
+    "surface": "四捨五入",
+    "explanation": "在指定位置看下一位數，四以下捨去、五以上進位的近似處理；須說清楚取到哪一位。"
   },
   "n2-jmdict-1348370": {
     "sentence": "小数第一位を四捨五入してください。",
     "translation": "請將小數第一位四捨五入。",
-    "surface": "小数"
+    "surface": "小数",
+    "explanation": "以小數點表示、包含小數部分的數；不要與表示數量少的「少数」混寫，兩者同音。"
   },
   "n2-jmdict-1307740": {
     "sentence": "正しい姿勢で椅子に座りましょう。",
     "translation": "請用正確姿勢坐在椅子上。",
-    "surface": "姿勢"
+    "surface": "姿勢",
+    "explanation": "身體擺出的狀態，也指面對事情的態度；「前向きな姿勢」是積極態度，不只是身體前傾。"
   },
   "n2-jmdict-1307990": {
     "sentence": "子孫に先祖の話を伝え、祖先を敬う心を育てます。",
     "translation": "向子孫傳述先人的故事，培養敬重祖先的心。",
-    "surface": "子孫"
+    "surface": "子孫",
+    "explanation": "某人的後代，也可泛指生物繁衍的後裔；「子孫に伝える」不限只傳給親生子女一代。"
   },
   "n2-jmdict-1388030": {
     "sentence": "子孫に先祖の話を伝え、祖先を敬う心を育てます。",
     "translation": "向子孫傳述先人的故事，培養敬重祖先的心。",
-    "surface": "先祖"
+    "surface": "先祖",
+    "explanation": "家族中比祖父母更早的前人、祖先；「先祖の墓」常談家族祭祀，與子孫方向相反。"
   },
   "n2-jmdict-1396820": {
     "sentence": "子孫に先祖の話を伝え、祖先を敬う心を育てます。",
     "translation": "向子孫傳述先人的故事，培養敬重祖先的心。",
-    "surface": "祖先"
+    "surface": "祖先",
+    "explanation": "某人、家族或物種較早的前代；可用於生物演化，比談家族祭祀的先祖適用範圍更廣。"
   },
   "n2-jmdict-1185940": {
     "sentence": "下町には、昔からの店が残っています。",
     "translation": "老城區保留著開業多年的店家。",
-    "surface": "下町"
+    "surface": "下町",
+    "explanation": "歷史上城鎮低地的商工、平民生活區，亦指保有此生活氣氛的街區；不只是年代老的地方。"
   },
   "n2-jmdict-1317810": {
     "sentence": "住民の自治によって、地域を運営しています。",
     "translation": "透過居民自治經營這個社區。",
-    "surface": "自治"
+    "surface": "自治",
+    "explanation": "由住民、成員自己處理團體或地區事務；「地方自治」與國家直接統一管理有所區別。"
   },
   "n2-jmdict-1321240": {
     "sentence": "この会社には、長年の実績があります。",
     "translation": "這家公司有多年的實績。",
-    "surface": "実績"
+    "surface": "実績",
+    "explanation": "實際做出、累積的成果與紀錄；「実績がある」重視過去表現，不是未來計畫或承諾。"
   },
   "n2-jmdict-1311340": {
     "sentence": "この町へは、私鉄を利用すると便利です。",
     "translation": "搭私營鐵路到這個城鎮很方便。",
-    "surface": "私鉄"
+    "surface": "私鉄",
+    "explanation": "由民間業者經營的鐵路，與公營鐵路等對照；日常分類中的JR通常另外看待。"
   },
   "n2-jmdict-1311600": {
     "sentence": "新しい紙幣に、人物の肖像が印刷されています。",
     "translation": "新紙鈔上印有人物肖像。",
-    "surface": "紙幣"
+    "surface": "紙幣",
+    "explanation": "由國家貨幣制度發行、以紙等材料製成的鈔票；與金屬製的硬貨不同，不是一般票券。"
   },
   "n2-jmdict-1594590": {
     "sentence": "原稿の締切は、今月末です。",
     "translation": "稿件截止期限是這個月底。",
-    "surface": "締切"
+    "surface": "締切",
+    "explanation": "停止受理稿件、申請等的期限，常寫「締め切り」；「締切に間に合う」是趕在截止前。"
   },
   "n2-jmdict-1322720": {
     "sentence": "大学には、社会科学と人文科学を学ぶ学部があります。",
     "translation": "大學設有研究社會科學與人文科學的學院。",
-    "surface": "社会科学"
+    "surface": "社会科学",
+    "explanation": "研究人類社會、制度與行為的學術領域，如經濟、政治、社會學；與自然科學區別。"
   },
   "n2-jmdict-1369140": {
     "sentence": "大学には、社会科学と人文科学を学ぶ学部があります。",
     "translation": "大學設有研究社會科學與人文科學的學院。",
-    "surface": "人文科学"
+    "surface": "人文科学",
+    "explanation": "研究人類文化、思想、語言、歷史等的領域；日語分類中常與自然科学、社会科学並列。"
   },
   "n2-jmdict-1323170": {
     "sentence": "車掌に乗換の駅を尋ねました。",
     "translation": "我向列車長詢問了轉乘車站。",
-    "surface": "車掌"
+    "surface": "車掌",
+    "explanation": "列車上負責旅客服務、安全確認等的人員；不等於實際駕駛列車的運転士。"
   },
   "n2-jmdict-1322890": {
     "sentence": "新聞の社説を読んで、意見をまとめました。",
     "translation": "我讀了報紙社論，整理了自己的意見。",
-    "surface": "社説"
+    "surface": "社説",
+    "explanation": "報紙等以媒體機構立場針對議題發表的評論；與一般事實報導、讀者投書區別。"
   },
   "n2-jmdict-1061440": {
     "sentence": "写真を撮るとき、静かにシャッターを押しました。",
     "translation": "拍照時，我輕輕按下快門。",
-    "surface": "シャッター"
+    "surface": "シャッター",
+    "explanation": "相機控制曝光的快門，也可指店門、窗的捲門；「シャッターを切る」拍照，「下ろす」關捲門。"
   },
   "n2-jmdict-1333620": {
     "sentence": "会費の集金を担当しています。",
     "translation": "我負責收取會費。",
-    "surface": "集金"
+    "surface": "集金",
+    "explanation": "向多個對象收取應付款項；「集金に回る」是逐一收款，不同於募捐的寄付を募る。"
   },
   "n2-jmdict-1333110": {
     "sentence": "習字の時間に、自分の名前を書きました。",
     "translation": "習字課時，我寫了自己的名字。",
-    "surface": "習字"
+    "surface": "習字",
+    "explanation": "練習正確、美觀地書寫文字，常與毛筆書法相關；不等於學習某字的意思或閱讀。"
   },
   "n2-jmdict-1331780": {
     "sentence": "新しい社長の就任が発表されました。",
     "translation": "新社長就任的消息公布了。",
-    "surface": "就任"
+    "surface": "就任",
+    "explanation": "正式開始擔任某職務，常說「社長に就任する」；與取得普通工作機會的就職側重不同。"
   },
   "n2-jmdict-1337830": {
     "sentence": "漢字二字の熟語を覚えました。",
     "translation": "我記住了兩個漢字組成的複合詞。",
-    "surface": "熟語"
+    "surface": "熟語",
+    "explanation": "多個詞、漢字結合成固定表達，日語常指漢字複合詞，也可指外語慣用語；不是熟悉的單字之意。"
   },
   "n2-jmdict-1340840": {
     "sentence": "この文の主語と述語を探してください。",
     "translation": "請找出這個句子的主詞和述語。",
-    "surface": "述語"
+    "surface": "述語",
+    "explanation": "說明主體動作、狀態、性質等的句子核心部分；日語可由動詞、形容詞、名詞加だ等形成。"
   },
   "n2-jmdict-1341340": {
     "sentence": "血液の循環をよくするため、軽く運動します。",
     "translation": "為了促進血液循環，我做輕度運動。",
-    "surface": "循環"
+    "surface": "循環",
+    "explanation": "沿一定路徑不斷往復運行，如血液、資源；「血液の循環」不是只有一次單向移動。"
   },
   "n2-jmdict-1342110": {
     "sentence": "巡査が地域を見回っています。",
     "translation": "巡警正在巡視轄區。",
-    "surface": "巡査"
+    "surface": "巡査",
+    "explanation": "日本警察的職階名稱，也可一般稱基層警員；不能把所有職階的警察嚴格都叫巡査。"
   },
   "n2-jmdict-1347640": {
     "sentence": "友達と将棋を指しました。",
     "translation": "我和朋友下了將棋。",
-    "surface": "将棋"
+    "surface": "将棋",
+    "explanation": "日本將棋棋盤遊戲，可使用吃到的對方棋子；常說「将棋を指す」，與圍棋的碁を打つ不同。"
   },
   "n2-jmdict-1350270": {
     "sentence": "傷口を消毒してから、包帯を巻きました。",
     "translation": "傷口消毒後，我纏上了繃帶。",
-    "surface": "消毒"
+    "surface": "消毒",
+    "explanation": "透過方法減少、抑制致病微生物的作用；與清洗、完全滅菌概念不同，不宜視作完全無菌的保證。"
   },
   "n2-jmdict-1346220": {
     "sentence": "試合は引分けで、勝敗はつきませんでした。",
     "translation": "比賽平手，沒有分出勝負。",
-    "surface": "勝敗"
+    "surface": "勝敗",
+    "explanation": "勝與敗、比賽的結果；「勝敗が決まる」表示分出輸贏，不說明獲勝的是哪一方。"
   },
   "n2-jmdict-1169120": {
     "sentence": "試合は引分けで、勝敗はつきませんでした。",
     "translation": "比賽平手，沒有分出勝負。",
-    "surface": "引分け"
+    "surface": "引分け",
+    "explanation": "比賽雙方未分勝負、平手，常寫引き分け；不等於雙方都輸，也不是比賽取消。"
   },
   "n2-jmdict-1580280": {
     "sentence": "子供が小便に行きたいと言っています。",
     "translation": "孩子說想去小便。",
-    "surface": "小便"
+    "surface": "小便",
+    "explanation": "尿液或排尿的較直接說法，口語可能顯粗俗；禮貌場合常說お手洗い、醫療可用尿、排尿。"
   },
   "n2-jmdict-1377980": {
     "sentence": "この箱の中身は、正味一キログラムです。",
     "translation": "這個箱子內容物淨重一公斤。",
-    "surface": "正味"
+    "surface": "正味",
+    "explanation": "扣除包裝、空耗等後的淨量、實際內容；「正味一時間」是實際一小時，不含其他等待。"
   },
   "n2-jmdict-1580310": {
     "sentence": "長い作業で、体力の消耗が激しくなりました。",
     "translation": "長時間作業，體力消耗加劇了。",
-    "surface": "消耗"
+    "surface": "消耗",
+    "explanation": "物品、體力、精神因使用而耗減；「消耗品」指會逐漸用完、需更換的用品。"
   },
   "n2-jmdict-1342710": {
     "sentence": "初級のクラスで、日本語の初歩を学びます。",
     "translation": "在初級班學習日文入門知識。",
-    "surface": "初級"
+    "surface": "初級",
+    "explanation": "入門後的基礎等級；「初級の教材」適合初階，不一定表示完全沒學過，與中級、上級對照。"
   },
   "n2-jmdict-1343050": {
     "sentence": "初級のクラスで、日本語の初歩を学びます。",
     "translation": "在初級班學習日文入門知識。",
-    "surface": "初歩"
+    "surface": "初歩",
+    "explanation": "某領域最基本、最開始的知識或階段；「初歩から学ぶ」是從入門學，不等於小學程度。"
   },
   "n2-jmdict-1344550": {
     "sentence": "この本が出た当時、著者は大学の助教授でした。",
     "translation": "這本書出版時，作者是大學助教授。",
-    "surface": "助教授"
+    "surface": "助教授",
+    "explanation": "日本大學過去使用的教員職稱；現行制度多改為准教授，但歷史、海外職稱不宜直接等同。"
   },
   "n2-jmdict-1358410": {
     "sentence": "料理に使う食塩の量を減らしました。",
     "translation": "我減少了做菜使用的食鹽量。",
-    "surface": "食塩"
+    "surface": "食塩",
+    "explanation": "供食用的鹽，主要成分為氯化鈉；「食塩を加える」是加食鹽，不泛指所有化學上的鹽類。"
   },
   "n2-jmdict-1583050": {
     "sentence": "祖父の髪には、白髪が増えました。",
     "translation": "祖父的白髮變多了。",
-    "surface": "白髪"
+    "surface": "白髪",
+    "explanation": "失去色素而變白的頭髮；「白髪が増える」常用，不表示所有白色動物毛髮都如此稱呼。"
   },
   "n2-jmdict-1595120": {
     "sentence": "鉛筆の芯が折れました。",
     "translation": "鉛筆芯斷了。",
-    "surface": "芯"
+    "surface": "芯",
+    "explanation": "物體中心的細長部分、筆芯等，也可比喻內在意志；「芯が強い」指內心堅定，不只身體結實。"
   },
   "n2-jmdict-1363600": {
     "sentence": "食品を真空の袋に入れて保存します。",
     "translation": "把食品裝進真空袋保存。",
-    "surface": "真空"
+    "surface": "真空",
+    "explanation": "幾乎沒有物質、氣體的空間狀態；實際設備中的真空程度有差別，不是單純看不見物體。"
   },
   "n2-jmdict-1580570": {
     "sentence": "夜行列車の寝台で眠りました。",
     "translation": "我在夜行列車的臥鋪睡了。",
-    "surface": "寝台"
+    "surface": "寝台",
+    "explanation": "供睡臥的床鋪，常指列車、船內臥鋪；「寝台列車」有睡眠設備，不是一般座席列車。"
   },
   "n2-jmdict-1584820": {
     "sentence": "夜行列車の寝台で眠りました。",
     "translation": "我在夜行列車的臥鋪睡了。",
-    "surface": "夜行"
+    "surface": "夜行",
+    "explanation": "在夜間行動、行駛，常見「夜行バス」；不一定整晚不睡，也不同於生物特性的夜行性。"
   },
   "n2-jmdict-1366280": {
     "sentence": "船は島の方へ針路を変えました。",
     "translation": "船朝島的方向改變了航向。",
-    "surface": "針路"
+    "surface": "針路",
+    "explanation": "船、飛機等前進的方向，也可比喻未來方針；「針路を変える」不同於時鐘指針位置。"
   },
   "n2-jmdict-1609990": {
     "sentence": "この町では、水産業が盛んです。",
     "translation": "這個城鎮的水產業很興盛。",
-    "surface": "水産"
+    "surface": "水産",
+    "explanation": "從海、河、湖等水域取得、養殖水生資源的生產領域；常見「水産物」，不只海魚。"
   },
   "n2-jmdict-1372350": {
     "sentence": "寮では交代で炊事をします。",
     "translation": "在宿舍輪流下廚。",
-    "surface": "炊事"
+    "surface": "炊事",
+    "explanation": "煮飯、準備餐食等家務；「炊事を担当する」偏料理工作，不包含所有清掃、洗衣。"
   },
   "n2-jmdict-1371660": {
     "sentence": "水蒸気が冷えると、水滴になります。",
     "translation": "水蒸氣冷卻後會形成水滴。",
-    "surface": "水蒸気"
+    "surface": "水蒸気",
+    "explanation": "水的氣態，純粹水蒸氣本身不可見；日常看見的白色湯氣主要是凝結的小水滴。"
   },
   "n2-jmdict-1371880": {
     "sentence": "水蒸気が冷えると、水滴になります。",
     "translation": "水蒸氣冷卻後會形成水滴。",
-    "surface": "水滴"
+    "surface": "水滴",
+    "explanation": "少量水聚成的小滴；「水滴が付く」可因冷凝、濺水等形成，不必然是雨滴。"
   },
   "n2-jmdict-1371910": {
     "sentence": "遠足には、水筒を持っていきます。",
     "translation": "遠足時我會帶水壺。",
-    "surface": "水筒"
+    "surface": "水筒",
+    "explanation": "便於攜帶飲用水、茶等的容器；可保溫也可不保溫，不是所有水筒都限裝白開水。"
   },
   "n2-jmdict-1372790": {
     "sentence": "旅行について書かれた随筆を読みました。",
     "translation": "我讀了寫旅行的隨筆。",
-    "surface": "随筆"
+    "surface": "随筆",
+    "explanation": "以個人見聞、思考自由書寫的散文體裁；較少受固定論證形式限制，但不是任意未整理筆記。"
   },
   "n2-jmdict-1370370": {
     "sentence": "図鑑を見ながら、虫の標本を調べました。",
     "translation": "我一邊看圖鑑，一邊研究昆蟲標本。",
-    "surface": "図鑑"
+    "surface": "図鑑",
+    "explanation": "以圖片配合說明、便於辨認分類事物的書；「植物図鑑」可查植物，與一般插畫故事書不同。"
   },
   "n2-jmdict-1488820": {
     "sentence": "図鑑を見ながら、虫の標本を調べました。",
     "translation": "我一邊看圖鑑，一邊研究昆蟲標本。",
-    "surface": "標本"
+    "surface": "標本",
+    "explanation": "保存以供研究、展示的生物、物件，也指統計樣本；「昆虫の標本」與統計調查的樣本要分辨。"
   },
   "n2-jmdict-1253780": {
     "sentence": "相手に隙を見せないよう、注意しました。",
     "translation": "我注意不讓對方看見破綻。",
-    "surface": "隙"
+    "surface": "隙",
+    "explanation": "物理空隙、行動上的可乘之機或防備破綻；「隙を見せる」多為露出弱點，而非展示窗縫。"
   },
   "n2-jmdict-1373520": {
     "sentence": "山には、大きな杉が並んでいます。",
     "translation": "山上排列著高大的日本杉。",
-    "surface": "杉"
+    "surface": "杉",
+    "explanation": "日本杉一類的常綠針葉樹，常用作木材；「杉の花粉」為花粉症常見相關詞，不泛指所有杉科樹木。"
   },
   "n2-jmdict-1277460": {
     "sentence": "食べ物の好き嫌いは、人それぞれの好き好きです。",
     "translation": "食物的喜惡，各人各有所好。",
-    "surface": "好き嫌い"
+    "surface": "好き嫌い",
+    "explanation": "對事物的喜歡與不喜歡，也常指飲食挑食；「好き嫌いが多い」不只表示喜好多。"
   },
   "n2-jmdict-1595570": {
     "sentence": "食べ物の好き嫌いは、人それぞれの好き好きです。",
     "translation": "食物的喜惡，各人各有所好。",
-    "surface": "好き好き"
+    "surface": "好き好き",
+    "explanation": "每個人的喜好不同，常用「人それぞれの好き好き」；不是把好き重複來表示非常喜歡。"
   },
   "n2-jmdict-1253790": {
     "sentence": "窓の隙間から、冷たい風が入ります。",
     "translation": "冷風從窗縫吹進來。",
-    "surface": "隙間"
+    "surface": "隙間",
+    "explanation": "物體之間、內部的縫隙，也可指空檔；「隙間から風が入る」是風從縫裡進來。"
   },
   "n2-jmdict-1557580": {
     "sentence": "猫の首輪には、小さな鈴がついています。",
     "translation": "貓的項圈上有個小鈴鐺。",
-    "surface": "鈴"
+    "surface": "鈴",
+    "explanation": "通常內有小物、搖動便發聲的小鈴；「鈴を鳴らす」是搖鈴，與大型寺鐘的鐘不同。"
   },
   "n2-jmdict-1071000": {
     "sentence": "寒いので、厚いストッキングを履きました。",
     "translation": "因為天冷，我穿了厚絲襪。",
-    "surface": "ストッキング"
+    "surface": "ストッキング",
+    "explanation": "貼身、通常較薄的長絲襪，也可泛指長襪類；與褲襪、短襪的具體區分依服飾用語。"
   },
   "n2-jmdict-1071100": {
     "sentence": "危ないと思って、「ストップ」と叫びました。",
     "translation": "覺得危險，我大喊「停」。",
-    "surface": "ストップ"
+    "surface": "ストップ",
+    "explanation": "停止、中斷；「ストップをかける」是叫停，不保證永久結束，亦常作口頭指令。"
   },
   "n2-jmdict-1370490": {
     "sentence": "発表のスライドには、分かりやすい図表を入れます。",
     "translation": "報告投影片會加入易懂的圖表。",
-    "surface": "図表"
+    "surface": "図表",
+    "explanation": "圖與表的總稱，用來整理、呈現關係或數據；「図表で示す」不只以文字長篇說明。"
   },
   "n2-jmdict-1073760": {
     "sentence": "発表のスライドには、分かりやすい図表を入れます。",
     "translation": "報告投影片會加入易懂的圖表。",
-    "surface": "スライド"
+    "surface": "スライド",
+    "explanation": "滑動、平移，也指簡報投影片；「次のスライド」在演講中通常指下一張簡報。"
   },
   "n2-jmdict-1373810": {
     "sentence": "家具を買う前に、部屋の寸法を測りました。",
     "translation": "買家具前，我量了房間尺寸。",
-    "surface": "寸法"
+    "surface": "寸法",
+    "explanation": "長、寬、高等具體尺寸，也可比喻安排、計畫；「寸法を測る」是量尺寸，不只是估外觀。"
   },
   "n2-jmdict-1382090": {
     "sentence": "空港の税関で、荷物を確認されました。",
     "translation": "機場海關檢查了我的行李。",
-    "surface": "税関"
+    "surface": "税関",
+    "explanation": "管理進出口貨物、徵收關稅及查驗的機關；機場護照查驗則由入國管理相關機關負責。"
   },
   "n2-jmdict-1378240": {
     "sentence": "下書きを直してから、清書しました。",
     "translation": "修改草稿後，我謄寫了清稿。",
-    "surface": "清書"
+    "surface": "清書",
+    "explanation": "將草稿整理後重新工整寫成正式文本；「作文を清書する」不是打掃書本或只改一個錯字。"
   },
   "n2-jmdict-1378320": {
     "sentence": "教室の清掃で、雑巾を使って床を拭きました。",
     "translation": "打掃教室時，我用抹布擦了地板。",
-    "surface": "清掃"
+    "surface": "清掃",
+    "explanation": "清除垃圾、污物使環境乾淨，較正式；「道路を清掃する」與殺菌用的消毒不同。"
   },
   "n2-jmdict-1299370": {
     "sentence": "教室の清掃で、雑巾を使って床を拭きました。",
     "translation": "打掃教室時，我用抹布擦了地板。",
-    "surface": "雑巾"
+    "surface": "雑巾",
+    "explanation": "用來擦拭、清潔的布；「雑巾で拭く」是用抹布擦，不是洗臉、擦身的毛巾。"
   },
   "n2-jmdict-1375470": {
     "sentence": "新しい機械の性能を比べました。",
     "translation": "我們比較了新機器的性能。",
-    "surface": "性能"
+    "surface": "性能",
+    "explanation": "機器、設備等能發揮的功能、能力水準；「性能が高い」不保證售價高或外觀漂亮。"
   },
   "n2-jmdict-1381140": {
     "sentence": "生まれた年を西暦で書いてください。",
     "translation": "請用西元填寫出生年。",
-    "surface": "西暦"
+    "surface": "西暦",
+    "explanation": "以西元紀年表示年份的方式；「西暦で書く」是填西元年，不是日本令和、平成等年號。"
   },
   "n2-jmdict-1374400": {
     "sentence": "引越しのとき、瀬戸物を丁寧に包みました。",
     "translation": "搬家時，我仔細包好了陶瓷器。",
-    "surface": "瀬戸物"
+    "surface": "瀬戸物",
+    "explanation": "陶瓷器的通稱，源於瀨戶地區的陶瓷；日常可指其他產地的碗盤，不限瀨戶製品。"
   },
   "n2-jmdict-1075160": {
     "sentence": "ゼミで各自の研究について話し合いました。",
     "translation": "我們在研討課討論各自的研究。",
-    "surface": "ゼミ"
+    "surface": "ゼミ",
+    "explanation": "ゼミナール的簡稱，指少人數研討課、研究班；常由學生報告討論，不只是教師單向大班授課。"
   },
   "n2-jmdict-1956550": {
     "sentence": "風呂の栓を抜いて、水を流しました。",
     "translation": "我拔掉浴缸塞子放水。",
-    "surface": "栓"
+    "surface": "栓",
+    "explanation": "封住孔口、控制流體的塞子或開關；常見「瓶の栓」「ガスの元栓」，形態依物品不同。"
   },
   "n2-jmdict-1390730": {
     "sentence": "暑いので、扇子で風を送りました。",
     "translation": "因為熱，我用摺扇搧風。",
-    "surface": "扇子"
+    "surface": "扇子",
+    "explanation": "可摺疊收起、展開搧風的扇子；與不能摺疊的團扇うちわ區別，也用於舞蹈、落語。"
   },
   "n2-jmdict-1388110": {
     "sentence": "針の先端には触らないでください。",
     "translation": "請不要碰針尖。",
-    "surface": "先端"
+    "surface": "先端",
+    "explanation": "細長物前端、尖端，也比喻技術等最先進處；「最先端の技術」不是技術的末尾。"
   },
   "n2-jmdict-1403200": {
     "sentence": "人口の増減をグラフにしました。",
     "translation": "我把人口增減做成圖表。",
-    "surface": "増減"
+    "surface": "増減",
+    "explanation": "數量的增加與減少；「人口の増減」同時關注兩個方向，不是只有人口成長。"
   },
   "n2-jmdict-1398420": {
     "sentence": "物語の創作を趣味にしています。",
     "translation": "我把創作故事當作興趣。",
-    "surface": "創作"
+    "surface": "創作",
+    "explanation": "運用想像、構思產生作品，也指作品本身；「創作料理」是在既有料理上創新，不一定毫無傳統根據。"
   },
   "n2-jmdict-1403720": {
     "sentence": "この港は造船で発展しました。",
     "translation": "這個港口因造船而發展。",
-    "surface": "造船"
+    "surface": "造船",
+    "explanation": "建造船隻的工作、產業；「造船所」是造船廠，不只是停泊船隻的港口。"
   },
   "n2-jmdict-1402870": {
     "sentence": "速達で送る場合は、送料が高くなります。",
     "translation": "寄限時郵件時，郵資會比較高。",
-    "surface": "送料"
+    "surface": "送料",
+    "explanation": "寄送物品所需費用；「送料無料」表示免運，商品本身、其他手續費不一定免費。"
   },
   "n2-jmdict-1405030": {
     "sentence": "速達で送る場合は、送料が高くなります。",
     "translation": "寄限時郵件時，郵資會比較高。",
-    "surface": "速達"
+    "surface": "速達",
+    "explanation": "讓郵件優先、較快送達的附加郵務服務；「速達で送る」不等於所有民間宅配服務。"
   },
   "n2-jmdict-1404590": {
     "sentence": "道路を作る前に、土地の測量を行います。",
     "translation": "修路前先測量土地。",
-    "surface": "測量"
+    "surface": "測量",
+    "explanation": "測量地面距離、高低、面積等，以製圖、工程為目的；與所有物理量的測定範圍不同。"
   },
   "n2-jmdict-1397240": {
     "sentence": "彼女には音楽の素質があります。",
     "translation": "她有音樂天分。",
-    "surface": "素質"
+    "surface": "素質",
+    "explanation": "原本具備、可進一步發展的資質；「音楽の素質がある」不等於已受專業訓練或必定成功。"
   },
   "n2-jmdict-1596700": {
     "sentence": "祖父は算盤を使って計算します。",
     "translation": "祖父用算盤計算。",
-    "surface": "算盤"
+    "surface": "算盤",
+    "explanation": "以算珠位置進行計算的算盤，常寫そろばん；「算盤をはじく」也可比喻計算損益。"
   },
   "n2-jmdict-1406770": {
     "sentence": "損得だけで、友人を選びたくありません。",
     "translation": "我不想只按利害得失選朋友。",
-    "surface": "損得"
+    "surface": "損得",
+    "explanation": "損失與利益、利弊；「損得で判断する」是依自身得失判斷，不一定考慮道義或長期價值。"
   },
   "n2-jmdict-1076120": {
     "sentence": "車のタイアの空気を確認しました。",
     "translation": "我確認了汽車輪胎的胎壓。",
-    "surface": "タイア"
+    "surface": "タイア",
+    "explanation": "輪胎的外來語變體，現行較常寫「タイヤ」；指車輪外圈橡膠等部分，不是整個車輪。"
   },
   "n2-jmdict-1414110": {
     "sentence": "石を大小に分けて並べました。",
     "translation": "我把石頭按大小分類排列。",
-    "surface": "大小"
+    "surface": "大小",
+    "explanation": "大與小、大小程度；「大小さまざま」表示大小各異，不必然只是兩個尺寸。"
   },
   "n2-jmdict-1076680": {
     "sentence": "列車の運行をダイヤグラムで表します。",
     "translation": "用運行圖呈現列車運轉情況。",
-    "surface": "ダイヤグラム"
+    "surface": "ダイヤグラム",
+    "explanation": "以圖形呈現關係、運作的圖表，交通中常指列車運行圖；不是鑽石的ダイヤモンド。"
   },
   "n2-jmdict-1410290": {
     "sentence": "二つの意見の対立が続いています。",
     "translation": "兩種意見持續對立。",
-    "surface": "対立"
+    "surface": "対立",
+    "explanation": "立場、意見、利益等互相衝突；「意見が対立する」不一定已發生肢體衝突。"
   },
   "n2-jmdict-1442810": {
     "sentence": "春になると、村では田植えが始まります。",
     "translation": "到了春天，村裡就開始插秧。",
-    "surface": "田植え"
+    "surface": "田植え",
+    "explanation": "把水稻秧苗移植進水田的農作；「田植えをする」不同於收割的稲刈り，也不是播種所有作物。"
   },
   "n2-jmdict-1409000": {
     "sentence": "この皿は楕円の形をしています。",
     "translation": "這個盤子呈橢圓形。",
-    "surface": "楕円"
+    "surface": "楕円",
+    "explanation": "橢圓形的曲線、形狀；「楕円を描く」不是畫正圓，也不只表示隨意拉長的所有圖形。"
   },
   "n2-jmdict-1415520": {
     "sentence": "山道を歩くと、大きな滝が見えました。",
     "translation": "沿山路走後，看見了大瀑布。",
-    "surface": "滝"
+    "surface": "滝",
+    "explanation": "河水等從高處陡然落下形成的瀑布；「滝のような汗」可形容汗流得非常多。"
   },
   "n2-jmdict-1422230": {
     "sentence": "竹を使って、小さな籠を作りました。",
     "translation": "我用竹子做了小竹籃。",
-    "surface": "竹"
+    "surface": "竹",
+    "explanation": "具有分節中空莖的竹類植物，也指其材料；「竹で作る」是以竹製作，不等同木材。"
   },
   "n2-jmdict-1416560": {
     "sentence": "会議の話が、予定の内容から脱線しました。",
     "translation": "會議談話偏離了原定主題。",
-    "surface": "脱線"
+    "surface": "脱線",
+    "explanation": "列車離開軌道，也比喻話題偏離原定內容；「話が脱線する」不表示話語完全無法理解。"
   },
   "n2-jmdict-1597190": {
     "sentence": "彼は疲れて、大きな溜息をつきました。",
     "translation": "他累得長嘆了一口氣。",
-    "surface": "溜息"
+    "surface": "溜息",
+    "explanation": "因疲倦、失望或感嘆等長長呼氣，常寫ため息；「ため息をつく」不必然只有悲傷。"
   },
   "n2-jmdict-1418990": {
     "sentence": "冬の服をたんすにしまいました。",
     "translation": "我把冬衣收進衣櫃。",
-    "surface": "たんす"
+    "surface": "たんす",
+    "explanation": "有抽屜等、用來收納衣物用品的櫃子，漢字為箪笥；不一定是有吊衣桿的大衣櫃。"
   },
   "n2-jmdict-1419660": {
     "sentence": "工事のため、午後は断水になります。",
     "translation": "因為施工，下午會停水。",
-    "surface": "断水"
+    "surface": "断水",
+    "explanation": "供水暫時停止；「工事で断水する」是因工程停水，不等於只是用水量減少。"
   },
   "n2-jmdict-1417670": {
     "sentence": "この名詞は単数で使います。",
     "translation": "這個名詞用單數形式。",
-    "surface": "単数"
+    "surface": "単数",
+    "explanation": "數量為一，語法上指單數形式；與複数相對，不是奇數，也與單位無關。"
   },
   "n2-jmdict-1419300": {
     "sentence": "子供のころ、大きな団地に住んでいました。",
     "translation": "小時候，我住在大型集合住宅區。",
-    "surface": "団地"
+    "surface": "団地",
+    "explanation": "集中規劃、建造住宅或工廠的地區；日常常指集合住宅區，並非一棟大樓的唯一稱呼。"
   },
   "n2-jmdict-1622630": {
     "sentence": "地質を調べて、地下水の位置を確かめました。",
     "translation": "調查地質後，確認了地下水位置。",
-    "surface": "地下水"
+    "surface": "地下水",
+    "explanation": "地表以下土壤、岩層中存在的水；可經井抽取，但不等於所有地下水都適合直接飲用。"
   },
   "n2-jmdict-1421130": {
     "sentence": "地質を調べて、地下水の位置を確かめました。",
     "translation": "調查地質後，確認了地下水位置。",
-    "surface": "地質"
+    "surface": "地質",
+    "explanation": "地層、岩石的組成、構造等性質；「地質を調べる」關注地下構造，不只是地表景色。"
   },
   "n2-jmdict-1421500": {
     "sentence": "この地名には、古い歴史があります。",
     "translation": "這個地名有悠久歷史。",
-    "surface": "地名"
+    "surface": "地名",
+    "explanation": "地方、山川、城鎮等的名稱；「地名の由来」是地名起源，不是住在當地者的姓名。"
   },
   "n2-jmdict-1423680": {
     "sentence": "駅と学校の中間に、店があります。",
     "translation": "車站和學校中間有家店。",
-    "surface": "中間"
+    "surface": "中間",
+    "explanation": "兩端之間的位置或進行過程的中段；「中間報告」是尚未完成前的階段報告，不是最終結論。"
   },
   "n2-jmdict-1424690": {
     "sentence": "中世の城を見学しました。",
     "translation": "我參觀了中世紀城堡。",
-    "surface": "中世"
+    "surface": "中世",
+    "explanation": "古代與近代之間的歷史時期；地區、研究分類不同，年代界線也不同，不可直接套同一西元範圍。"
   },
   "n2-jmdict-1424710": {
     "sentence": "この洗剤は中性です。",
     "translation": "這種清潔劑是中性的。",
-    "surface": "中性"
+    "surface": "中性",
+    "explanation": "不偏向相對兩極的性質，化學中與酸性、鹼性對照；也有語法等用法，須依領域判斷。"
   },
   "n2-jmdict-1427980": {
     "sentence": "公園に木の彫刻が飾られています。",
     "translation": "公園裡陳列著木雕。",
-    "surface": "彫刻"
+    "surface": "彫刻",
+    "explanation": "以雕、刻、塑等方式創作立體作品的藝術及作品；「彫刻を施す」可指在物品上雕飾。"
   },
   "n2-jmdict-1430040": {
     "sentence": "長女は来年、小学校に入ります。",
     "translation": "大女兒明年上小學。",
-    "surface": "長女"
+    "surface": "長女",
+    "explanation": "一個家庭女兒中年紀最大的女兒；不必然是所有兄弟姊妹中的老大，前面可能有哥哥。"
   },
   "n2-jmdict-1430070": {
     "sentence": "二つの方法の長短を比べました。",
     "translation": "我們比較了兩種方法的優缺點。",
-    "surface": "長短"
+    "surface": "長短",
+    "explanation": "長與短，也可指優點、缺點；「長短がある」依內容可談長度差異或各有利弊。"
   },
   "n2-jmdict-1430240": {
     "sentence": "選手は努力を続けて、世界の頂点に立ちました。",
     "translation": "選手持續努力，登上了世界頂峰。",
-    "surface": "頂点"
+    "surface": "頂点",
+    "explanation": "圖形最尖端的點、山頂，也比喻最高成就；「人気の頂点」是人氣高峰，不是起始階段。"
   },
   "n2-jmdict-1430130": {
     "sentence": "紙に長方形を描いてください。",
     "translation": "請在紙上畫長方形。",
-    "surface": "長方形"
+    "surface": "長方形",
+    "explanation": "四角皆為直角、對邊等長的四邊形；日常多與正方形區分，數學上正方形亦可視為特例。"
   },
   "n2-jmdict-1429290": {
     "sentence": "調味料は、使いやすい場所に置きます。",
     "translation": "調味料放在方便拿取的地方。",
-    "surface": "調味料"
+    "surface": "調味料",
+    "explanation": "為食物增添、調整味道的材料，如鹽、醬油等；與料理器具、食材主體用途不同。"
   },
   "n2-jmdict-1431440": {
     "sentence": "この電車は空港まで直通です。",
     "translation": "這班電車直達機場。",
-    "surface": "直通"
+    "surface": "直通",
+    "explanation": "不須轉乘便可到達，或線路直接相連；「直通電車」仍可能停靠中途站，不等於ノンストップ。"
   },
   "n2-jmdict-1431600": {
     "sentence": "この装置は直流の電気を使います。",
     "translation": "這個裝置使用直流電。",
-    "surface": "直流"
+    "surface": "直流",
+    "explanation": "電流方向不隨時間反轉的電流形式；常見電池供應直流，與方向週期改變的交流對照。"
   },
   "n2-jmdict-1427220": {
     "sentence": "収穫した米を倉庫に貯蔵します。",
     "translation": "把收成的米儲藏在倉庫。",
-    "surface": "貯蔵"
+    "surface": "貯蔵",
+    "explanation": "為日後使用而保存物資；「食料を貯蔵する」是儲糧，與把錢存入銀行的貯金不同。"
   },
   "n2-jmdict-1612710": {
     "sentence": "塵紙で鼻をかみました。",
     "translation": "我用衛生紙擤了鼻涕。",
-    "surface": "塵紙"
+    "surface": "塵紙",
+    "explanation": "擦拭、擤鼻等用的薄紙，常寫ちり紙；偏傳統稱呼，現常依用途說ティッシュ等。"
   },
   "n2-jmdict-1433490": {
     "sentence": "銀行で通帳に記入しました。",
     "translation": "我在銀行補登了存摺。",
-    "surface": "通帳"
+    "surface": "通帳",
+    "explanation": "銀行等記錄存提款、餘額的存摺；「通帳に記帳する」是補登，不是每次都存入錢。"
   },
   "n2-jmdict-1433570": {
     "sentence": "この切符は明日も通用します。",
     "translation": "這張票明天也有效。",
-    "surface": "通用"
+    "surface": "通用",
+    "explanation": "貨幣、方法、道理等在某範圍有效、行得通；「言い訳は通用しない」是藉口不被接受。"
   },
   "n2-jmdict-1456770": {
     "sentence": "廊下の突き当たりに、会議室があります。",
     "translation": "走廊盡頭有會議室。",
-    "surface": "突き当たり"
+    "surface": "突き当たり",
+    "explanation": "直走後被牆、障礙等擋住的盡頭；「突き当たりを右へ」是在盡頭右轉，不是隨意路口。"
   },
   "n2-jmdict-1280880": {
     "sentence": "船を太い綱でつなぎました。",
     "translation": "我用粗繩繫好了船。",
-    "surface": "綱"
+    "surface": "綱",
+    "explanation": "用多股材料製成的粗繩、纜繩；常見「綱を引く」，比一般細線更強調粗度、承重用途。"
   },
   "n2-jmdict-1251870": {
     "sentence": "地域の人との繋がりを大切にしています。",
     "translation": "我珍惜與地方居民的聯繫。",
-    "surface": "繋がり"
+    "surface": "繋がり",
+    "explanation": "人與人、事物之間的連結、關係；「地域とのつながり」可無形存在，不只是電線相連。"
   },
   "n2-jmdict-1433880": {
     "sentence": "作業の前に爪を短く切ります。",
     "translation": "工作前把指甲剪短。",
-    "surface": "爪"
+    "surface": "爪",
+    "explanation": "手腳指甲或動物爪；「爪を切る」剪指甲，「猫の爪」是貓爪，依對象判斷。"
   },
   "n2-jmdict-1177680": {
     "sentence": "磨くと、木の表面に艶が出ました。",
     "translation": "打磨後，木頭表面有了光澤。",
-    "surface": "艶"
+    "surface": "艶",
+    "explanation": "物體表面光滑、有光澤的狀態，也可形容聲音等潤澤；「髪の艶」不等同顏色鮮豔。"
   },
   "n2-jmdict-1435400": {
     "sentence": "この部屋の定員は二十名です。",
     "translation": "這個房間限二十人。",
-    "surface": "定員"
+    "surface": "定員",
+    "explanation": "規定可容納、錄取或配置的人數；「定員に達する」是額滿，不是實際出席人數一定相同。"
   },
   "n2-jmdict-1435410": {
     "sentence": "この本は定価千円です。",
     "translation": "這本書定價一千日圓。",
-    "surface": "定価"
+    "surface": "定価",
+    "explanation": "商品原先訂定、標示的價格；實際售價可能打折，不能把定価直接當作每次成交價格。"
   },
   "n2-jmdict-1435540": {
     "sentence": "この店の定休日は水曜日です。",
     "translation": "這家店固定星期三公休。",
-    "surface": "定休日"
+    "surface": "定休日",
+    "explanation": "店家依固定規律停止營業的日子；「水曜定休」表示週三固定休，與臨時休業不同。"
   },
   "n2-jmdict-1598540": {
     "sentence": "出入口の前に物を置かないでください。",
     "translation": "請不要在出入口前放東西。",
-    "surface": "出入口"
+    "surface": "出入口",
+    "explanation": "兼具進入、離開功能的門口或通道；「出入口を確認する」是確認進出位置，不單指入口。"
   },
   "n2-jmdict-1340600": {
     "sentence": "料理の出来上がりを待っています。",
     "translation": "我正等料理做好。",
-    "surface": "出来上がり"
+    "surface": "出来上がり",
+    "explanation": "製作完成及其成品狀態；「出来上がりを待つ」等完成，「出来上がりが良い」說品質好。"
   },
   "n2-jmdict-1581960": {
     "sentence": "彼は有名な職人の弟子になりました。",
     "translation": "他成為了知名工匠的徒弟。",
-    "surface": "弟子"
+    "surface": "弟子",
+    "explanation": "向師傅、老師學技藝、學問的人；「弟子になる」常涉及師徒關係，不泛指所有班級學生。"
   },
   "n2-jmdict-1437820": {
     "sentence": "電車が長い鉄橋を渡りました。",
     "translation": "電車開過了長鐵橋。",
-    "surface": "鉄橋"
+    "surface": "鉄橋",
+    "explanation": "以鐵鋼構造為主的橋，常用於鐵路、道路；不是所有有火車經過的橋都依材質稱鉄橋。"
   },
   "n2-jmdict-1438010": {
     "sentence": "博物館に昔の鉄砲が展示されています。",
     "translation": "博物館展示著古代火槍。",
-    "surface": "鉄砲"
+    "surface": "鉄砲",
+    "explanation": "槍械的較一般、傳統稱法；現代正式分類常用銃、銃器，不等同大砲或所有武器。"
   },
   "n2-jmdict-1080030": {
     "sentence": "学校のテニスコートを予約しました。",
     "translation": "我預約了學校網球場。",
-    "surface": "テニスコート"
+    "surface": "テニスコート",
+    "explanation": "有網及界線、供打網球的球場；不是網球運動服外套，コート在此指場地。"
   },
   "n2-jmdict-1598400": {
     "sentence": "汗を手拭いで拭きました。",
     "translation": "我用日式棉布巾擦了汗。",
-    "surface": "手拭い"
+    "surface": "手拭い",
+    "explanation": "擦手、擦汗等用的長方形薄棉布巾；也可作裝飾、包物，通常不同於毛巾布的タオル。"
   },
   "n2-jmdict-1441960": {
     "sentence": "好きな作家の伝記を読みました。",
     "translation": "我讀了喜歡的作家的傳記。",
-    "surface": "伝記"
+    "surface": "伝記",
+    "explanation": "記述某人生平事蹟的作品；由本人寫自己的生平稱自伝，與虛構人物故事有所區別。"
   },
   "n2-jmdict-1081120": {
     "sentence": "一定のリズムを保ち、テンポを少し速くします。",
     "translation": "保持固定節拍，把速度稍微加快。",
-    "surface": "テンポ"
+    "surface": "テンポ",
+    "explanation": "音樂進行的速度，也比喻工作、對話的節奏；「テンポが良い」不一定只是越快越好。"
   },
   "n2-jmdict-1141620": {
     "sentence": "一定のリズムを保ち、テンポを少し速くします。",
     "translation": "保持固定節拍，把速度稍微加快。",
-    "surface": "リズム"
+    "surface": "リズム",
+    "explanation": "音樂、動作、生活中有規律的節奏；「生活のリズム」不是可聽見的鼓聲本身。"
   },
   "n2-jmdict-1582390": {
     "sentence": "この硬貨には銅が使われています。",
     "translation": "這枚硬幣使用了銅。",
-    "surface": "銅"
+    "surface": "銅",
+    "explanation": "金屬元素銅，常用於導線、合金等；「銅の像」是銅像，不等於金、銀的顏色名稱。"
   },
   "n2-jmdict-1447270": {
     "sentence": "新聞に町の問題について投書しました。",
     "translation": "我向報社投書談了城鎮的問題。",
-    "surface": "投書"
+    "surface": "投書",
+    "explanation": "把意見、文章寄給媒體或相關單位，也指投稿內容；與書籍出版的整部原稿有所不同。"
   },
   "n2-jmdict-1448500": {
     "sentence": "自転車の盗難に気をつけてください。",
     "translation": "請留意自行車失竊。",
-    "surface": "盗難"
+    "surface": "盗難",
+    "explanation": "物品被偷的事件、損失；「盗難に遭う」是遭竊，不表示失主自己弄丟物品。"
   },
   "n2-jmdict-1455210": {
     "sentence": "特定の人だけを優遇してはいけません。",
     "translation": "不可以只優待特定的人。",
-    "surface": "特定"
+    "surface": "特定",
+    "explanation": "明確指定某對象，也指查明身分、位置；「原因を特定する」是確定原因，不只是提出猜想。"
   },
   "n2-jmdict-1349400": {
     "sentence": "床の間に花を飾りました。",
     "translation": "我在日式壁龕擺了花。",
-    "surface": "床の間"
+    "surface": "床の間",
+    "explanation": "和室中略高、用來展示掛軸插花等的凹間；不是睡覺鋪被褥的場所，也不是地板縫隙。"
   },
   "n2-jmdict-1445000": {
     "sentence": "都心まで電車で三十分です。",
     "translation": "搭電車到市中心三十分鐘。",
-    "surface": "都心"
+    "surface": "都心",
+    "explanation": "大城市的核心區域，日常常指東京中心；不是所有城市整個行政範圍，與郊外相對。"
   },
   "n2-jmdict-1562970": {
     "sentence": "大きな丼に御飯を盛りました。",
     "translation": "我把飯盛進大碗。",
-    "surface": "丼"
+    "surface": "丼",
+    "explanation": "較深的大碗，也指飯上加配料的蓋飯；「丼を洗う」指碗，「丼を食べる」通常指料理。"
   },
   "n2-jmdict-1457830": {
     "sentence": "風邪をひいたので、内科を受診しました。",
     "translation": "因為感冒，我去看了內科。",
-    "surface": "内科"
+    "surface": "内科",
+    "explanation": "以診察、藥物等處理內臟、全身疾病的科別；並非醫院內部全部科室，也不同於外科。"
   },
   "n2-jmdict-1089930": {
     "sentence": "この袋は丈夫なナイロンでできています。",
     "translation": "這個袋子是耐用尼龍製的。",
-    "surface": "ナイロン"
+    "surface": "ナイロン",
+    "explanation": "尼龍類合成纖維、材料；「ナイロン製」不等於所有塑膠，也不同於天然羊毛、棉。"
   },
   "n2-jmdict-1599500": {
     "sentence": "子供たちと謎謎をして遊びました。",
     "translation": "我和孩子們玩了猜謎遊戲。",
-    "surface": "謎謎"
+    "surface": "謎謎",
+    "explanation": "以線索讓人猜答案的謎語，通常寫「なぞなぞ」；不同於尚未解開的真實案件、科學謎團。"
   },
   "n2-jmdict-1599640": {
     "sentence": "道の両側に、桜の並木が続いています。",
     "translation": "道路兩側延伸著櫻花行道樹。",
-    "surface": "並木"
+    "surface": "並木",
+    "explanation": "沿道路等排列種植的一列樹木；「桜並木」是成排櫻花樹，不只是零散幾株櫻樹。"
   },
   "n2-jmdict-1585140": {
     "sentence": "道の両側に、桜の並木が続いています。",
     "translation": "道路兩側延伸著櫻花行道樹。",
-    "surface": "両側"
+    "surface": "両側",
+    "explanation": "某物、道路等相對的兩邊；「道路の両側」包含左、右兩側，不是只在其中一側。"
   },
   "n2-jmdict-1460180": {
     "sentence": "南極と北極では、見られる動物が違います。",
     "translation": "南極和北極可以看見的動物不同。",
-    "surface": "南極"
+    "surface": "南極",
+    "explanation": "地球最南端的極點，也泛指周邊南極地區、洲；與北極不同，不是泛稱所有寒冷南方。"
   },
   "n2-jmdict-1520890": {
     "sentence": "南極と北極では、見られる動物が違います。",
     "translation": "南極和北極可以看見的動物不同。",
-    "surface": "北極"
+    "surface": "北極",
+    "explanation": "地球最北端極點，也泛指周邊北極地區；與有大陸的南極不同，不能混稱兩者。"
   },
   "n2-jmdict-1090860": {
     "sentence": "受付で自分のナンバーを呼ばれました。",
     "translation": "櫃檯叫到了我的號碼。",
-    "surface": "ナンバー"
+    "surface": "ナンバー",
+    "explanation": "數字編號，如車牌、參加者號碼；「ナンバーを確認する」需依情境辨別哪一種號碼。"
   },
   "n2-jmdict-1460570": {
     "sentence": "来年は南米を旅行したいです。",
     "translation": "明年想去南美洲旅行。",
-    "surface": "南米"
+    "surface": "南米",
+    "explanation": "南アメリカ的簡稱，指南美洲；不同於涵蓋中美洲等地的拉丁美洲概念。"
   },
   "n2-jmdict-1463740": {
     "sentence": "雨がやんで、空に虹が出ました。",
     "translation": "雨停後，天空出現了彩虹。",
-    "surface": "虹"
+    "surface": "虹",
+    "explanation": "光經水滴折射、反射等形成的彩色弧；「虹がかかる」是出現彩虹，不表示可直接觸碰。"
   },
   "n2-jmdict-1463860": {
     "sentence": "朝の散歩を日課にしています。",
     "translation": "我把晨間散步當作每日例行事務。",
-    "surface": "日課"
+    "surface": "日課",
+    "explanation": "每天依慣例進行的事情；「散歩を日課にする」是把散步當每日習慣，不一定是義務工作。"
   },
   "n2-jmdict-1466260": {
     "sentence": "入社して三年になりました。",
     "translation": "進公司已經三年了。",
-    "surface": "入社"
+    "surface": "入社",
+    "explanation": "開始成為某公司員工；「四月に入社する」不是每天走進公司大門，也不表示職位升遷。"
   },
   "n2-jmdict-1093000": {
     "sentence": "誕生日にネックレスをもらいました。",
     "translation": "生日收到了項鍊。",
-    "surface": "ネックレス"
+    "surface": "ネックレス",
+    "explanation": "戴在頸部的裝飾項鍊；「ネックレスをつける」是戴項鍊，不是保暖圍巾。"
   },
   "n2-jmdict-1467730": {
     "sentence": "フライパンを十分に熱してから、油を入れます。",
@@ -6876,677 +10208,812 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-1360040": {
     "sentence": "風呂から出て、寝間着に着替えました。",
     "translation": "洗完澡後，我換上了睡衣。",
-    "surface": "寝間着"
+    "surface": "寝間着",
+    "explanation": "睡覺時穿的衣服，可包括睡袍、浴衣式等；口語也常用パジャマ，不限定成套西式睡衣。"
   },
   "n2-jmdict-1470710": {
     "sentence": "農村から新鮮な農産物が届きます。",
     "translation": "新鮮農產品從農村運來。",
-    "surface": "農産物"
+    "surface": "農産物",
+    "explanation": "透過農業生產的作物、產品；「地元の農産物」不等同漁獲，也不表示全部未經任何處理。"
   },
   "n2-jmdict-1470730": {
     "sentence": "農村から新鮮な農産物が届きます。",
     "translation": "新鮮農產品從農村運來。",
-    "surface": "農村"
+    "surface": "農村",
+    "explanation": "以農業與農家生活為主要特色的村落、地區；與城市對照，不一定是行政名稱為村的地方。"
   },
   "n2-jmdict-1469970": {
     "sentence": "水を加えて、液体の濃度を下げました。",
     "translation": "我加水降低了液體濃度。",
-    "surface": "濃度"
+    "surface": "濃度",
+    "explanation": "混合物中某成分的含量比例；「濃度を下げる」是降低濃度，不只指液體顏色變淡。"
   },
   "n2-jmdict-1470780": {
     "sentence": "農薬は決められた量を守って使います。",
     "translation": "使用農藥時要遵守規定用量。",
-    "surface": "農薬"
+    "surface": "農薬",
+    "explanation": "為防除病蟲害、雜草等農業目的使用的藥劑；依產品用途不同，不是所有肥料都屬農藥。"
   },
   "n2-jmdict-1470330": {
     "sentence": "作業の手順を変えると、能率が上がりました。",
     "translation": "改變工作步驟後，效率提高了。",
-    "surface": "能率"
+    "surface": "能率",
+    "explanation": "一定時間、投入所能完成的工作效率；「能率を上げる」不只是延長工時或增加忙碌程度。"
   },
   "n2-jmdict-1267400": {
     "sentence": "紙に糊をつけて、封筒に貼りました。",
     "translation": "我把紙塗上漿糊，貼到信封上。",
-    "surface": "糊"
+    "surface": "糊",
+    "explanation": "黏貼紙、布等用的漿糊、膠，也可指衣物上漿用澱粉；與食用海苔のり是不同詞。"
   },
   "n2-jmdict-1600460": {
     "sentence": "この駅で乗換が必要です。",
     "translation": "需要在這一站轉乘。",
-    "surface": "乗換"
+    "surface": "乗換",
+    "explanation": "改搭另一班車或另一交通路線，常寫「乗り換え」；不只是同一車內換座位。"
   },
   "n2-jmdict-1600480": {
     "sentence": "乗り越しの料金を精算しました。",
     "translation": "我補付了坐過站的車資。",
-    "surface": "乗り越し"
+    "surface": "乗り越し",
+    "explanation": "乘車超過原定下車站或票券有效區間；可能需要補票，不一定單純因睡過頭。"
   },
   "n2-jmdict-1471900": {
     "sentence": "春を題にした俳句を作りました。",
     "translation": "我寫了一首以春天為題的俳句。",
-    "surface": "俳句"
+    "surface": "俳句",
+    "explanation": "日本短詩體裁，常以五、七、五音拍及季語為基本；有變體，不宜按中文字數直接計算。"
   },
   "n2-jmdict-1474040": {
     "sentence": "駅の売店で飲み物を買いました。",
     "translation": "我在車站販賣部買了飲料。",
-    "surface": "売店"
+    "surface": "売店",
+    "explanation": "設在車站、學校、設施等內販售少量商品的小店；不一定有完整超市品項。"
   },
   "n2-jmdict-1474050": {
     "sentence": "この会社は古い家具の売買をしています。",
     "translation": "這家公司買賣二手家具。",
-    "surface": "売買"
+    "surface": "売買",
+    "explanation": "出售與購買的交易行為；「不動産の売買」是房地產買賣，與租賃契約不同。"
   },
   "n2-jmdict-1474220": {
     "sentence": "秤で小麦粉の重さを量りました。",
     "translation": "我用秤量了麵粉重量。",
-    "surface": "秤"
+    "surface": "秤",
+    "explanation": "測量重量的器具，常寫はかり；「秤にかける」也可比喻衡量比較，不是用尺量長度。"
   },
   "n2-jmdict-1313350": {
     "sentence": "機械の中で歯車が回っています。",
     "translation": "機器裡的齒輪正在轉動。",
-    "surface": "歯車"
+    "surface": "歯車",
+    "explanation": "有齒互相咬合、傳遞運動的輪狀零件；也比喻組織機制，如「歯車がかみ合う」。"
   },
   "n2-jmdict-2085880": {
     "sentence": "私の家の斜向かいに花屋があります。",
     "translation": "我家斜對面有間花店。",
-    "surface": "斜"
+    "surface": "斜",
+    "explanation": "斜向、偏斜的狀態，常見「斜に構える」；口語常用斜め，不能把所有斜字都讀はす。"
   },
   "n2-jmdict-1476500": {
     "sentence": "寒いので、厚手の肌着を着ました。",
     "translation": "因為天冷，我穿了厚貼身內衣。",
-    "surface": "肌着"
+    "surface": "肌着",
+    "explanation": "直接接觸肌膚穿著的內層衣物；「肌着を着替える」是換貼身衣物，不限定女性內衣。"
   },
   "n2-jmdict-1477090": {
     "sentence": "鉢に花の種をまきました。",
     "translation": "我在花盆裡播下花種。",
-    "surface": "鉢"
+    "surface": "鉢",
+    "explanation": "較深的盆、缽，可盛菜或種植物；「植木鉢」是花盆，「鉢に盛る」通常談食器。"
   },
   "n2-jmdict-1600910": {
     "sentence": "話合いによって、問題を解決しました。",
     "translation": "透過討論解決了問題。",
-    "surface": "話合い"
+    "surface": "話合い",
+    "explanation": "雙方、多方交換意見以理解或協調，常寫話し合い；「話し合いで解決する」不是單向命令。"
   },
   "n2-jmdict-1099490": {
     "sentence": "このおもちゃには、強いばねが入っています。",
     "translation": "這個玩具裝有強力彈簧。",
-    "surface": "ばね"
+    "surface": "ばね",
+    "explanation": "受力變形後可恢復、提供彈力的彈簧；「失敗をばねにする」可比喻把失敗化為動力。"
   },
   "n2-jmdict-1478550": {
     "sentence": "書類に判子を押しました。",
     "translation": "我在文件上蓋了印章。",
-    "surface": "判子"
+    "surface": "判子",
+    "explanation": "日常對印章的稱呼，較口語；「判子を押す」是蓋章，正式文件也常用印鑑、印章。"
   },
   "n2-jmdict-1601830": {
     "sentence": "午後は窓から暖かい陽射が入ります。",
     "translation": "下午溫暖陽光從窗戶照進來。",
-    "surface": "陽射"
+    "surface": "陽射",
+    "explanation": "照射下來的陽光，常寫日差し、陽射し；「日差しが強い」不必然等於氣溫很高。"
   },
   "n2-jmdict-1487380": {
     "sentence": "机に肘をついて、考えていました。",
     "translation": "我把手肘撐在桌上思考。",
-    "surface": "肘"
+    "surface": "肘",
+    "explanation": "上臂與前臂相接的肘部；「肘をつく」是以手肘支撐，與手腕、膝蓋不同。"
   },
   "n2-jmdict-1487800": {
     "sentence": "面接の前に、筆記試験があります。",
     "translation": "面試前有筆試。",
-    "surface": "筆記"
+    "surface": "筆記",
+    "explanation": "把話語、資訊等寫下來，也指以書寫進行的作答；「筆記試験」是筆試，與口試相對。"
   },
   "n2-jmdict-1368820": {
     "sentence": "この道は夜になると人通りが少なくなります。",
     "translation": "這條路到了晚上行人會變少。",
-    "surface": "人通り"
+    "surface": "人通り",
+    "explanation": "街道上行人往來的情況；「人通りが少ない」是行人少，不一定表示車流也少。"
   },
   "n2-jmdict-1453900": {
     "sentence": "子供の瞳が、期待で輝いていました。",
     "translation": "孩子的眼睛因期待而發亮。",
-    "surface": "瞳"
+    "surface": "瞳",
+    "explanation": "眼睛中央光線進入的瞳孔，也可文學性地指眼睛；不等於整個眼球的所有部分。"
   },
   "n2-jmdict-1105580": {
     "sentence": "雨なので、荷物をビニールで包みました。",
     "translation": "因為下雨，我用塑膠包住了行李。",
-    "surface": "ビニール"
+    "surface": "ビニール",
+    "explanation": "乙烯基樹脂相關材料，日常也泛稱部分薄塑膠製品；「ビニール袋」實際材質不一定是PVC。"
   },
   "n2-jmdict-1611370": {
     "sentence": "旅行の日にちを決めました。",
     "translation": "我決定了旅行日期。",
-    "surface": "日にち"
+    "surface": "日にち",
+    "explanation": "日期或天數，現通常寫「日にち」；「日にちを決める」是定日期，不是每天的ひび。"
   },
   "n2-jmdict-1602130": {
     "sentence": "鐘の響きが、遠くまで聞こえました。",
     "translation": "鐘聲的迴響傳到了遠方。",
-    "surface": "響き"
+    "surface": "響き",
+    "explanation": "聲音傳開、回盪的效果，也可指詞語帶給人的感受；「言葉の響き」不只音量大小。"
   },
   "n2-jmdict-1602190": {
     "sentence": "分からない事をひゃっかじてんで調べました。",
     "translation": "我用百科全書查了不懂的事。",
-    "surface": "ひゃっかじてん"
+    "surface": "ひゃっかじてん",
+    "explanation": "百科事典，按項目解說廣泛知識的工具書；與主要解釋詞義、讀音的國語字典不同。"
   },
   "n2-jmdict-1106040": {
     "sentence": "駅前に高いビルディングが建ちました。",
     "translation": "車站前蓋了一棟高樓。",
-    "surface": "ビルディング"
+    "surface": "ビルディング",
+    "explanation": "多層的大型建築，常簡稱ビル；與建物的一個樓層不同，日常多用於辦公、商業建築。"
   },
   "n2-jmdict-1512640": {
     "sentence": "青い便箋に手紙を書きました。",
     "translation": "我用藍色信紙寫信。",
-    "surface": "便箋"
+    "surface": "便箋",
+    "explanation": "用來書寫信件的紙張；常說「便箋に書く」，與裝信的封筒不同。"
   },
   "n2-jmdict-1491130": {
     "sentence": "手作りのジャムを瓶詰にしました。",
     "translation": "我把自製果醬裝瓶。",
-    "surface": "瓶詰"
+    "surface": "瓶詰",
+    "explanation": "把食品等裝進瓶中保存，也指瓶裝製品，常寫瓶詰め；不等同罐頭的缶詰。"
   },
   "n2-jmdict-1500440": {
     "sentence": "「ゆっくり」は副詞の一つです。",
     "translation": "「ゆっくり」是副詞之一。",
-    "surface": "副詞"
+    "surface": "副詞",
+    "explanation": "主要修飾動詞、形容詞或整句的詞類，如ゆっくり、とても；不是所有副詞都能加に。"
   },
   "n2-jmdict-1501390": {
     "sentence": "申込書を複写して、手元に残しました。",
     "translation": "我影印了申請書，留在手邊。",
-    "surface": "複写"
+    "surface": "複写",
+    "explanation": "把文件、圖像等照原樣複製，常用於影印；與把一種語言譯成另一語言的翻訳不同。"
   },
   "n2-jmdict-1497710": {
     "sentence": "地図の符号の意味を調べました。",
     "translation": "我查了地圖符號的意思。",
-    "surface": "符号"
+    "surface": "符号",
+    "explanation": "表示特定資訊、數學正負等的記號、碼；「正負の符号」是正負號，不是商品標誌。"
   },
   "n2-jmdict-1583680": {
     "sentence": "昔の武士の生活について学びました。",
     "translation": "我學習了古代武士的生活。",
-    "surface": "武士"
+    "surface": "武士",
+    "explanation": "日本歷史中以武力、軍事等為職能的身分階層；與現代一般運動員、軍人的稱呼不同。"
   },
   "n2-jmdict-1499400": {
     "sentence": "漢字の部首を調べました。",
     "translation": "我查了漢字部首。",
-    "surface": "部首"
+    "surface": "部首",
+    "explanation": "漢字字典分類檢索時依據的構形部分；一字的檢字部首通常有指定，不等於任意切出的所有零件。"
   },
   "n2-jmdict-1181720": {
     "sentence": "隣の部屋との間の襖を開けました。",
     "translation": "我打開了與隔壁房間相隔的日式拉門。",
-    "surface": "襖"
+    "surface": "襖",
+    "explanation": "以框架貼紙、布等製成的不透光日式拉門；與透光障子不同，常用來分隔和室。"
   },
   "n2-jmdict-1602700": {
     "sentence": "大学の附属病院で診察を受けました。",
     "translation": "我在大學附設醫院接受了診察。",
-    "surface": "附属"
+    "surface": "附属",
+    "explanation": "附屬於主要機構、物件，也常寫付属；「大学附属病院」屬大學相關組織，不只是位在旁邊。"
   },
   "n2-jmdict-1392100": {
     "sentence": "重い荷物は船便で送りました。",
     "translation": "我用海運寄出了重行李。",
-    "surface": "船便"
+    "surface": "船便",
+    "explanation": "以船舶運送的郵件、貨物或班次；一般較航空便耗時，實際時程依航線、服務而定。"
   },
   "n2-jmdict-1497690": {
     "sentence": "卒業式に父母を招待しました。",
     "translation": "我邀請了父母參加畢業典禮。",
-    "surface": "父母"
+    "surface": "父母",
+    "explanation": "父親與母親的合稱，較正式；「父母会」常見於學校家長活動，不只是父親一方。"
   },
   "n2-jmdict-1602840": {
     "sentence": "踏切の前で、電車が通るのを待ちました。",
     "translation": "我在平交道前等電車通過。",
-    "surface": "踏切"
+    "surface": "踏切",
+    "explanation": "鐵路軌道與道路在同一平面交會的平交道；與橋梁立體交叉不同，常有警報、柵欄。"
   },
   "n2-jmdict-1611440": {
     "sentence": "山の麓に小さな村があります。",
     "translation": "山腳下有個小村莊。",
-    "surface": "麓"
+    "surface": "麓",
+    "explanation": "山的底部、山腳周邊；「山の麓に住む」不是住在山頂，也不一定在山體正下方。"
   },
   "n2-jmdict-1111160": {
     "sentence": "フライパンで卵を焼きました。",
     "translation": "我用平底鍋煎蛋。",
-    "surface": "フライパン"
+    "surface": "フライパン",
+    "explanation": "有柄、通常較淺的平底鍋，用來煎炒；與深鍋的鍋、烘烤用烤盤不同。"
   },
   "n2-jmdict-1116300": {
     "sentence": "授業で配られたプリントを読みました。",
     "translation": "我讀了上課發的講義。",
-    "surface": "プリント"
+    "surface": "プリント",
+    "explanation": "印刷行為、印出的講義資料，也可指布面印花；學校「プリントを配る」常指發講義。"
   },
   "n2-jmdict-1603050": {
     "sentence": "正月には故郷に帰ります。",
     "translation": "新年時我會回故鄉。",
-    "surface": "故郷"
+    "surface": "故郷",
+    "explanation": "出生、成長或心靈歸屬的故鄉；此讀ふるさと帶親切情感，也有こうきょう的較書面讀法。"
   },
   "n2-jmdict-1500150": {
     "sentence": "箱を風呂敷で包みました。",
     "translation": "我用包袱布包好了盒子。",
-    "surface": "風呂敷"
+    "surface": "風呂敷",
+    "explanation": "包裹、攜帶物品的方形布巾；「風呂敷で包む」不只是泡澡用布，也能反覆作為包袋使用。"
   },
   "n2-jmdict-1505290": {
     "sentence": "大学で文芸の雑誌を作っています。",
     "translation": "我們在大學製作文藝雜誌。",
-    "surface": "文芸"
+    "surface": "文芸",
+    "explanation": "以語言表現為核心的文學藝術及相關活動；常見「文芸誌」，不是所有科學論文的統稱。"
   },
   "n2-jmdict-1505330": {
     "sentence": "研究に必要な文献を集めました。",
     "translation": "我蒐集了研究所需的文獻。",
-    "surface": "文献"
+    "surface": "文献",
+    "explanation": "研究時可作依據的文字紀錄、著作；「文献を調べる」可用書籍、論文等，不只古代文書。"
   },
   "n2-jmdict-1504610": {
     "sentence": "公園の噴水の前で待ち合わせました。",
     "translation": "我們約在公園噴泉前見面。",
-    "surface": "噴水"
+    "surface": "噴水",
+    "explanation": "水被向上、向外噴出的設施或現象；「公園の噴水」不是天然向下落水的瀑布。"
   },
   "n2-jmdict-1503860": {
     "sentence": "分数の割算を練習しました。",
     "translation": "我練習了分數除法。",
-    "surface": "分数"
+    "surface": "分数",
+    "explanation": "用分子、分母表示數量關係的數，如二分之一；與考試得分的点数不同。"
   },
   "n2-jmdict-1606880": {
     "sentence": "分数の割算を練習しました。",
     "translation": "我練習了分數除法。",
-    "surface": "割算"
+    "surface": "割算",
+    "explanation": "將數量平均分配、求倍數等的除法運算，常寫割り算；不同於打折金額本身。"
   },
   "n2-jmdict-1505510": {
     "sentence": "相手に合わせて、手紙の文体を変えます。",
     "translation": "依照收信人調整書信文體。",
-    "surface": "文体"
+    "surface": "文体",
+    "explanation": "文章在措辭、句法、語氣等方面呈現的風格；「文体を統一する」常要求敬體、常體一致。"
   },
   "n2-jmdict-1504160": {
     "sentence": "人口の分布を地図に表しました。",
     "translation": "我們用地圖呈現了人口分布。",
-    "surface": "分布"
+    "surface": "分布",
+    "explanation": "人、物、數值在空間或範圍內散布的情況；「人口の分布」不只是總人口數。"
   },
   "n2-jmdict-1505620": {
     "sentence": "新学期に必要な文房具を買いました。",
     "translation": "我買了新學期需要的文具。",
-    "surface": "文房具"
+    "surface": "文房具",
+    "explanation": "書寫、辦公、學習用的文具，如筆、橡皮、尺；不等於所有辦公室家具。"
   },
   "n2-jmdict-1504430": {
     "sentence": "レシピに書かれた分量を守ります。",
     "translation": "遵照食譜寫的份量。",
-    "surface": "分量"
+    "surface": "分量",
+    "explanation": "材料、內容等的份量；「適切な分量」可用於料理、文章，不一定只以重量衡量。"
   },
   "n2-jmdict-1508600": {
     "sentence": "閉会の前に、次回の日程を決めました。",
     "translation": "閉會前，我們決定了下次日期。",
-    "surface": "閉会"
+    "surface": "閉会",
+    "explanation": "正式結束會議、典禮等；「閉会の挨拶」是閉幕致詞，與開會前的開会相對。"
   },
   "n2-jmdict-1571170": {
     "sentence": "赤ちゃんのへそを清潔にしました。",
     "translation": "我清潔了寶寶的肚臍。",
-    "surface": "へそ"
+    "surface": "へそ",
+    "explanation": "肚臍，漢字為臍；「へそを曲げる」是鬧彆扭的慣用語，不是真的把肚臍扭轉。"
   },
   "n2-jmdict-1512520": {
     "sentence": "古い建物の便所を新しくしました。",
     "translation": "我們整修了老建築的廁所。",
-    "surface": "便所"
+    "surface": "便所",
+    "explanation": "廁所的直接稱呼，口語可能較粗；禮貌詢問常說お手洗い，標示也常用トイレ。"
   },
   "n2-jmdict-1566500": {
     "sentence": "箒で庭の葉を集めました。",
     "translation": "我用掃帚把庭院的落葉掃在一起。",
-    "surface": "箒"
+    "surface": "箒",
+    "explanation": "以細枝、纖維等束成、用來掃地的掃帚；「箒で掃く」不同於抹布擦拭或吸塵。"
   },
   "n2-jmdict-1519050": {
     "sentence": "お寺の坊さんに話を聞きました。",
     "translation": "我聽寺廟的和尚說了話。",
-    "surface": "坊さん"
+    "surface": "坊さん",
+    "explanation": "僧人的日常稱呼，常加お成お坊さん；較正式可用僧侶，不是所有宗教職務者都如此稱呼。"
   },
   "n2-jmdict-1517060": {
     "sentence": "先生が方程式の解き方を説明しました。",
     "translation": "老師說明了方程式的解法。",
-    "surface": "方程式"
+    "surface": "方程式",
+    "explanation": "含未知數、以等號連接並求其值的數學式；「方程式を解く」是解方程，不是只做四則計算。"
   },
   "n2-jmdict-1521820": {
     "sentence": "この地域では牧畜が盛んです。",
     "translation": "這個地區畜牧業很興盛。",
-    "surface": "牧畜"
+    "surface": "牧畜",
+    "explanation": "飼養家畜以取得肉、乳、毛等的產業活動；不是一般家庭飼養寵物的同義詞。"
   },
   "n2-jmdict-1603720": {
     "sentence": "お宅の坊っちゃんは、もう小学生ですか。",
     "translation": "您家的少爺已經是小學生了嗎？",
-    "surface": "坊っちゃん"
+    "surface": "坊っちゃん",
+    "explanation": "對別人兒子的較親暱敬稱，也可指嬌養的少爺；後者可能帶不懂世事的評價。"
   },
   "n2-jmdict-1523700": {
     "sentence": "盆に茶わんを載せて、運びました。",
     "translation": "我把茶碗放在托盤上端過去。",
-    "surface": "盆"
+    "surface": "盆",
+    "explanation": "盛放、端送物品的托盤，也指祭祖的盂蘭盆時節；「盆に載せる」與「盆に帰省する」詞義不同。"
   },
   "n2-jmdict-1523760": {
     "sentence": "この町は山に囲まれた盆地にあります。",
     "translation": "這個城鎮位於群山環繞的盆地。",
-    "surface": "盆地"
+    "surface": "盆地",
+    "explanation": "周圍較高、中央較低平的地形；「盆地の気候」談地形影響，不是用盆栽種植物的地方。"
   },
   "n2-jmdict-1523170": {
     "sentence": "大会の本部に連絡しました。",
     "translation": "我聯絡了大會總部。",
-    "surface": "本部"
+    "surface": "本部",
+    "explanation": "組織中統籌、指揮的核心機構或據點；「本部に連絡する」不一定是公司法定登記的本社。"
   },
   "n2-jmdict-1524630": {
     "sentence": "配る前に、資料の枚数を数えました。",
     "translation": "發放前，我數了資料張數。",
-    "surface": "枚数"
+    "surface": "枚数",
+    "explanation": "以枚計算的紙張、照片等薄平物件數量；「枚数を数える」不是計算頁面內容字數。"
   },
   "n2-jmdict-1523830": {
     "sentence": "車輪と地面の間に摩擦が生じます。",
     "translation": "車輪和地面之間會產生摩擦。",
-    "surface": "摩擦"
+    "surface": "摩擦",
+    "explanation": "接觸面相對運動時的阻力，也比喻人際、國際衝突；「摩擦が生じる」須按語境理解。"
   },
   "n2-jmdict-1363260": {
     "sentence": "知らせを聞いて、真っ先に母に電話しました。",
     "translation": "聽到消息後，我第一個打電話給媽媽。",
-    "surface": "真っ先"
+    "surface": "真っ先",
+    "explanation": "比其他人、事情都早的最先；「真っ先に駆けつける」是最先趕到，不是慢慢排到前面。"
   },
   "n2-jmdict-1129210": {
     "sentence": "寒いので、首にマフラーを巻きました。",
     "translation": "因為冷，我在脖子上圍了圍巾。",
-    "surface": "マフラー"
+    "surface": "マフラー",
+    "explanation": "防寒圍巾，也指車輛排氣消音器；「首に巻く」與「車のマフラー」依搭配區分。"
   },
   "n2-jmdict-1199360": {
     "sentence": "工事中なので、回り道をしました。",
     "translation": "因為施工，我繞路了。",
-    "surface": "回り道"
+    "surface": "回り道",
+    "explanation": "避開原路、繞較遠路徑，也比喻非最直接的過程；「回り道をする」不一定是迷路。"
   },
   "n2-jmdict-1301340": {
     "sentence": "夕方の空に、細い三日月が見えました。",
     "translation": "傍晚天空可以看見細細的月牙。",
-    "surface": "三日月"
+    "surface": "三日月",
+    "explanation": "農曆月初前後細彎的新月形月亮；日常可指月牙形，不一定嚴格限第三天觀測。"
   },
   "n2-jmdict-1611700": {
     "sentence": "岬から広い海を眺めました。",
     "translation": "我從海角眺望廣闊海洋。",
-    "surface": "岬"
+    "surface": "岬",
+    "explanation": "陸地向海、湖突出的一端、海角；與大範圍半島相關但尺度、用法不同，不等同島。"
   },
   "n2-jmdict-1910260": {
     "sentence": "昔はこの辺に、小さな店屋が並んでいました。",
     "translation": "以前這附近排列著小商店。",
-    "surface": "店屋"
+    "surface": "店屋",
+    "explanation": "商店、店家的較口語或傳統稱法；「店屋物」指從餐飲店叫來的餐食，不是所有店內商品。"
   },
   "n2-jmdict-1611770": {
     "sentence": "家までの道順を紙に書きました。",
     "translation": "我把到家的路線寫在紙上。",
-    "surface": "道順"
+    "surface": "道順",
+    "explanation": "從起點到目的地應如何走的先後路徑；「道順を教える」比只說目的地地址更具體。"
   },
   "n2-jmdict-1528630": {
     "sentence": "この事業は民間の会社が運営しています。",
     "translation": "這項事業由民間公司經營。",
-    "surface": "民間"
+    "surface": "民間",
+    "explanation": "政府機關以外的民眾、組織領域；「民間企業」是民營企業，不是所有私人家庭活動。"
   },
   "n2-jmdict-1529270": {
     "sentence": "祭りで、この地方の民謡を聞きました。",
     "translation": "我在祭典聽了這個地方的民謠。",
-    "surface": "民謡"
+    "surface": "民謡",
+    "explanation": "在地方民眾間傳承的歌謠、歌曲；「民謡を歌う」不等同所有現代流行音樂。"
   },
   "n2-jmdict-1311640": {
     "sentence": "紫の花が咲いています。",
     "translation": "紫色的花正在盛開。",
-    "surface": "紫"
+    "surface": "紫",
+    "explanation": "紫色的顏色名稱，也見於植物名、文化詞彙；「紫の花」不指定單一花種。"
   },
   "n2-jmdict-1532940": {
     "sentence": "姪の入学祝いを買いました。",
     "translation": "我買了給姪女的入學禮。",
-    "surface": "姪"
+    "surface": "姪",
+    "explanation": "自己兄弟姊妹的女兒，即姪女或外甥女；兒子為甥，不能只依父系、母系分開這兩詞。"
   },
   "n2-jmdict-1531500": {
     "sentence": "この映画は、世界に知られる名作です。",
     "translation": "這部電影是聞名世界的名作。",
-    "surface": "名作"
+    "surface": "名作",
+    "explanation": "品質優秀、被高度評價的作品；「名作を鑑賞する」不保證一定年代久遠，與古典有所不同。"
   },
   "n2-jmdict-1535320": {
     "sentence": "目下の人にも、丁寧に接するべきです。",
     "translation": "即使對晚輩，也應有禮貌地對待。",
-    "surface": "目下"
+    "surface": "目下",
+    "explanation": "地位、身分等相對較低的人；讀めした不同於「目下／もっか」的目前，稱人時需留意尊重。"
   },
   "n2-jmdict-1535300": {
     "sentence": "駅前の赤い看板を目印にしてください。",
     "translation": "請以車站前的紅色招牌為記號。",
-    "surface": "目印"
+    "surface": "目印",
+    "explanation": "為便於辨認位置、物品而設的標記、地標；「目印にする」不一定必須是正式交通標誌。"
   },
   "n2-jmdict-1535280": {
     "sentence": "一日に三十分を目安に、運動します。",
     "translation": "以每天三十分鐘為大致標準運動。",
-    "surface": "目安"
+    "surface": "目安",
+    "explanation": "大約可供參考的標準、指標；「一時間を目安に」是以一小時為參考，不是精確保證。"
   },
   "n2-jmdict-1535790": {
     "sentence": "正月に餅を食べます。",
     "translation": "新年時吃麻糬。",
-    "surface": "餅"
+    "surface": "餅",
+    "explanation": "通常指以糯米等製作的日本年糕、麻糬；可烤、煮、包餡，與中文所有餅類不完全對應。"
   },
   "n2-jmdict-1135680": {
     "sentence": "空港までモノレールに乗りました。",
     "translation": "我搭單軌列車去了機場。",
-    "surface": "モノレール"
+    "surface": "モノレール",
+    "explanation": "沿單一軌道梁等導引的鐵路系統；「モノレールに乗る」不是一般雙軌電車的同義詞。"
   },
   "n2-jmdict-2857870": {
     "sentence": "山で赤い紅葉を見ました。",
     "translation": "我在山裡看了紅色楓葉。",
-    "surface": "紅葉"
+    "surface": "紅葉",
+    "explanation": "可指秋天變紅的葉子，也常指楓類樹木、楓葉；與現象讀法こうよう有關但不完全相同。"
   },
   "n2-jmdict-1536060": {
     "sentence": "先生と学生の問答が続きました。",
     "translation": "老師和學生的問答持續進行。",
-    "surface": "問答"
+    "surface": "問答",
+    "explanation": "問與答的往來，也可指爭辯；「問答無用」表示不容辯解，不是所有問答都帶衝突。"
   },
   "n2-jmdict-1605370": {
     "sentence": "やかんから白い湯気が上がっています。",
     "translation": "水壺正冒出白色熱氣。",
-    "surface": "やかん"
+    "surface": "やかん",
+    "explanation": "燒開水用、有壺嘴、提把等的水壺；與用來攜帶飲料的水筒、泡茶的急須不同。"
   },
   "n2-jmdict-1448600": {
     "sentence": "やかんから白い湯気が上がっています。",
     "translation": "水壺正冒出白色熱氣。",
-    "surface": "湯気"
+    "surface": "湯気",
+    "explanation": "熱水、熱食周圍可見的白色水霧，常口語稱水蒸氣；可見白霧主要由凝結水滴構成。"
   },
   "n2-jmdict-1538280": {
     "sentence": "薬品は子供の手が届かない場所に置きます。",
     "translation": "化學藥劑放在孩子碰不到的地方。",
-    "surface": "薬品"
+    "surface": "薬品",
+    "explanation": "醫藥品或化學藥劑的總稱；「化学薬品」不一定供服用，必須看具體用途。"
   },
   "n2-jmdict-1191990": {
     "sentence": "水漏れについて家主に相談しました。",
     "translation": "我就漏水的事與房東商量了。",
-    "surface": "家主"
+    "surface": "家主",
+    "explanation": "房屋的所有人、出租房屋的房東，此條讀やぬし；與租屋居住的借家人、管理公司不同。"
   },
   "n2-jmdict-1542690": {
     "sentence": "駅で夕刊を買いました。",
     "translation": "我在車站買了晚報。",
-    "surface": "夕刊"
+    "surface": "夕刊",
+    "explanation": "傍晚發行的報紙版本；與早上發行的朝刊相對，不表示任何晚上閱讀的報紙。"
   },
   "n2-jmdict-1584990": {
     "sentence": "夏祭りに浴衣を着ていきました。",
     "translation": "我穿浴衣去參加了夏日祭典。",
-    "surface": "浴衣"
+    "surface": "浴衣",
+    "explanation": "通常不加內襯、夏季或沐浴後穿的輕便和服；也常穿赴夏祭，不等同正式禮裝和服。"
   },
   "n2-jmdict-1538810": {
     "sentence": "手術では、輸血が必要でした。",
     "translation": "手術時需要輸血。",
-    "surface": "輸血"
+    "surface": "輸血",
+    "explanation": "將血液、血液成分輸入人體的醫療處置；與抽血檢查、打一般點滴不同。"
   },
   "n2-jmdict-1612130": {
     "sentence": "湯飲みにお茶を入れました。",
     "translation": "我把茶倒進茶杯。",
-    "surface": "湯飲み"
+    "surface": "湯飲み",
+    "explanation": "日式喝茶用的杯子，通常無把手；「湯飲みに茶を注ぐ」不只用來喝熱水。"
   },
   "n2-jmdict-1545420": {
     "sentence": "箱の容積を計算しました。",
     "translation": "我計算了箱子的容積。",
-    "surface": "容積"
+    "surface": "容積",
+    "explanation": "容器、空間內部可容納的體積；與物體外部整體體積不同，常見「タンクの容積」。"
   },
   "n2-jmdict-1545260": {
     "sentence": "娘は近くの幼稚園に通っています。",
     "translation": "女兒在附近的幼稚園上學。",
-    "surface": "幼稚園"
+    "surface": "幼稚園",
+    "explanation": "供入小學前年幼兒童接受教育的機構；與保育所的目的、制度不同，不能只按中文習慣全等同。"
   },
   "n2-jmdict-1546380": {
     "sentence": "この道具の用途を教えてください。",
     "translation": "請告訴我這個工具的用途。",
-    "surface": "用途"
+    "surface": "用途",
+    "explanation": "物品、金錢等預定使用的目的；「用途に合わせて選ぶ」是依用途挑選，不只看外觀。"
   },
   "n2-jmdict-1794470": {
     "sentence": "駅前の洋品店でシャツを買いました。",
     "translation": "我在車站前的服飾用品店買了襯衫。",
-    "surface": "洋品店"
+    "surface": "洋品店",
+    "explanation": "販售西式服飾、配件等的店，較傳統店名用語；不是販售所有西方進口商品的商店。"
   },
   "n2-jmdict-1662130": {
     "sentence": "植物は土から養分を吸収します。",
     "translation": "植物從土裡吸收養分。",
-    "surface": "養分"
+    "surface": "養分",
+    "explanation": "供生物生長、維持活動的營養成分；「植物が養分を吸収する」不等同只吸水。"
   },
   "n2-jmdict-1605940": {
     "sentence": "よその家を訪ねるときは、時間を守ります。",
     "translation": "去別人家拜訪時，要守時。",
-    "surface": "よそ"
+    "surface": "よそ",
+    "explanation": "自己所在處、所屬範圍以外的地方或別人家，常寫よそ；「よその家」不是自己的另一間房。"
   },
   "n2-jmdict-1307060": {
     "sentence": "次の四つ角を左に曲がってください。",
     "translation": "請在下一個十字路口左轉。",
-    "surface": "四つ角"
+    "surface": "四つ角",
+    "explanation": "兩條道路相交、形成四個方向的街角、十字路口；不只是房間裡四個牆角。"
   },
   "n2-jmdict-1543320": {
     "sentence": "故障に備えて、予備の電池を持っています。",
     "translation": "為了防備故障，我帶著備用電池。",
-    "surface": "予備"
+    "surface": "予備",
+    "explanation": "為避免不足、故障等事先備妥的東西或準備；「予備の電池」是備用電池，不是已耗盡電池。"
   },
   "n2-jmdict-1548200": {
     "sentence": "彼は仕事のために来日しました。",
     "translation": "他為了工作來到了日本。",
-    "surface": "来日"
+    "surface": "来日",
+    "explanation": "從日本以外的地方來到日本，常用於外國人訪日；不同於日本人返國的帰国。"
   },
   "n2-jmdict-1145990": {
     "sentence": "調査の結果をリポートにまとめました。",
     "translation": "我把調查結果整理成報告。",
-    "surface": "リポート"
+    "surface": "リポート",
+    "explanation": "報告、調查結果或現場報導，亦寫レポート；「リポートを提出する」常指交報告作業。"
   },
   "n2-jmdict-1552230": {
     "sentence": "この川の流域には、多くの人が暮らしています。",
     "translation": "這條河的流域住著很多人。",
-    "surface": "流域"
+    "surface": "流域",
+    "explanation": "某河流及支流匯集降水、排水的區域；「流域の住民」不只指緊貼河岸居住的人。"
   },
   "n2-jmdict-1233010": {
     "sentence": "漁師は朝早く海に出ます。",
     "translation": "漁夫一大早就出海。",
-    "surface": "漁師"
+    "surface": "漁師",
+    "explanation": "從事捕魚等漁業的人，常有專業工作意涵；不是所有休閒釣魚者都稱漁師。"
   },
   "n2-jmdict-1554730": {
     "sentence": "領事に書類の手続きを相談しました。",
     "translation": "我向領事諮詢了文件手續。",
-    "surface": "領事"
+    "surface": "領事",
+    "explanation": "國家派駐外地處理國民保護、行政等領務的外交職務；與代表國家外交的「大使」職責不同。"
   },
   "n2-jmdict-1552800": {
     "sentence": "家族が出かけたので、家で留守番をしました。",
     "translation": "因為家人出門，我在家看家。",
-    "surface": "留守番"
+    "surface": "留守番",
+    "explanation": "在其他人外出時留在家、場所照看，也指留守的人；「留守番電話」可錄下未接來電留言。"
   },
   "n2-jmdict-1144860": {
     "sentence": "研修の後に、レクリェーションの時間があります。",
     "translation": "培訓之後有休閒活動時間。",
-    "surface": "レクリェーション"
+    "surface": "レクリェーション",
+    "explanation": "消遣、團體遊戲等休閒活動，此拼法亦見レクリエーション；目的常為放鬆、增進交流。"
   },
   "n2-jmdict-1559090": {
     "sentence": "赤い煉瓦の家が並んでいます。",
     "translation": "紅磚房子排列在一起。",
-    "surface": "煉瓦"
+    "surface": "煉瓦",
+    "explanation": "以黏土等成形燒製的建築磚，常寫れんが；與混凝土塊、整片磁磚材料不同。"
   },
   "n2-jmdict-1146810": {
     "sentence": "名前をローマ字で書いてください。",
     "translation": "請用羅馬字填寫姓名。",
-    "surface": "ローマ字"
+    "surface": "ローマ字",
+    "explanation": "以拉丁字母表記日語的方法，存在多種系統；「ローマ字で書く」不是把內容翻成英語。"
   },
   "n2-jmdict-1311750": {
     "sentence": "肉の脂を取り除き、少量の油で焼きます。",
     "translation": "去除肉的脂肪，再用少量油煎。",
-    "surface": "脂"
+    "surface": "脂",
+    "explanation": "動物身體內或肉類中的脂肪、油脂；「脂がのる」可指魚肉肥美，也可比喻工作進入佳境。"
   },
   "n2-jmdict-1541610": {
     "sentence": "アンケートで車の有無を尋ねました。",
     "translation": "我在問卷中詢問是否有車。",
-    "surface": "有無"
+    "surface": "有無",
+    "explanation": "有或沒有，常用於表格、確認條件；「経験の有無」詢問是否具備經驗，不是經驗多少。"
   },
   "n2-jmdict-1196540": {
     "sentence": "蚊が病気を運び、人に害を与えることがあります。",
     "translation": "蚊子有時會傳播疾病，危害人體。",
-    "surface": "蚊"
+    "surface": "蚊",
+    "explanation": "吸血會造成搔癢、部分種類可傳病的蚊子；日語說「蚊に刺される」，不是蚊に噛まれる的標準說法。"
   },
   "n2-jmdict-1203100": {
     "sentence": "海岸で綺麗な貝を拾いました。",
     "translation": "我在海岸撿到了漂亮的貝殼。",
-    "surface": "貝"
+    "surface": "貝",
+    "explanation": "貝類生物或其殼的泛稱；「貝を拾う」可能指撿貝殼，明確只指殼可用「貝殻」。"
   },
   "n2-jmdict-1511600": {
     "sentence": "平仮名の次に片仮名を勉強します。",
     "translation": "學完平假名後學片假名。",
-    "surface": "片仮名"
+    "surface": "片仮名",
+    "explanation": "日語表音文字片假名，常寫外來語、擬聲語等；不是只有外國人名才能使用。"
   },
   "n2-jmdict-1195850": {
     "sentence": "大学院の修士課程を修了しました。",
     "translation": "我完成了研究所碩士課程。",
-    "surface": "課程"
+    "surface": "課程",
+    "explanation": "依目標編排的學習階段、課程體系；「修士課程」是碩士課程，不是單獨一堂課。"
   },
   "n2-jmdict-1352030": {
     "sentence": "寺の鐘が遠くまで響きました。",
     "translation": "寺廟的鐘聲傳到遠處。",
-    "surface": "鐘"
+    "surface": "鐘",
+    "explanation": "敲擊發聲的金屬鐘，常見「鐘をつく」「鐘が鳴る」；不等於鐘錶或金錢的かね。"
   },
   "n2-jmdict-1193450": {
     "sentence": "祖母は昔の歌謡番組が好きです。",
     "translation": "祖母喜歡以前的歌謠節目。",
-    "surface": "歌謡"
+    "surface": "歌謡",
+    "explanation": "可演唱的歌曲、歌謠，常見「歌謡曲」；範圍依時代語境而異，不只傳統民謠。"
   },
   "n2-jmdict-1205740": {
     "sentence": "卵の殻と果物の皮は別の袋に入れます。",
     "translation": "蛋殼和果皮放進另一個袋子。",
-    "surface": "殻"
+    "surface": "殻",
+    "explanation": "保護內容物的硬外層，如蛋殼、貝殼；「殻に閉じこもる」可比喻封閉自我。"
   },
   "n2-jmdict-1249230": {
     "sentence": "この郡には、昔の軍の施設が残っています。",
     "translation": "這個郡內留有以前的軍事設施。",
-    "surface": "郡"
+    "surface": "郡",
+    "explanation": "日本地名中位於都道府縣下、涵蓋部分町村的地理區分；今日通常不設郡的行政機關。"
   },
   "n2-jmdict-1270870": {
     "sentence": "祖父に碁の打ち方を教わりました。",
     "translation": "我跟祖父學了下圍棋的方法。",
-    "surface": "碁"
+    "surface": "碁",
+    "explanation": "圍棋的簡稱，常用「碁を打つ」；與將棋、西洋棋不同，不能用棋子走法直接類推。"
   },
   "n2-jmdict-1320490": {
     "sentence": "梅雨は湿度が高くなります。",
     "translation": "梅雨季濕度會升高。",
-    "surface": "湿度"
+    "surface": "湿度",
+    "explanation": "空氣中水蒸氣含量的量度，日常常以相對濕度百分比表示；與氣溫高低不同。"
   },
   "n2-jmdict-1315060": {
     "sentence": "児童向けの本を図書館に寄付しました。",
     "translation": "我捐了兒童讀物給圖書館。",
-    "surface": "児童"
+    "surface": "児童",
+    "explanation": "兒童，日常教育語境常指小學生；法律中範圍依制度而異，不能一律等同所有未成年人。"
   },
   "n2-jmdict-1595360": {
     "sentence": "事故に遭った人は重体で、病院で治療を受けています。",
     "translation": "遭遇事故的人傷勢危急，正在醫院接受治療。",
-    "surface": "重体"
+    "surface": "重体",
+    "explanation": "病情、傷勢危急，可能威脅生命；不等於所有重傷，與交通堵塞的渋滞不同字、同音。"
   },
   "n2-jmdict-1370270": {
     "sentence": "酢を少し加えると、味がさっぱりします。",
     "translation": "加一點醋，味道會變清爽。",
-    "surface": "酢"
+    "surface": "酢",
+    "explanation": "帶酸味、用於調味的醋；「酢を加える」指料理加醋，與所有酸性液體不同。"
   },
   "n2-jmdict-1375190": {
     "sentence": "書類に姓だけでなく、姓名をすべて書いてください。",
     "translation": "文件上不只要填姓氏，請填完整姓名。",
-    "surface": "姓"
+    "surface": "姓",
+    "explanation": "姓名中的家族姓氏；「姓が変わる」是改姓，與個人的名字、暱稱不同。"
   },
   "n2-jmdict-1379370": {
     "sentence": "春になると芽が出て、植物が生長します。",
     "translation": "春天發芽，植物開始生長。",
-    "surface": "生長"
+    "surface": "生長",
+    "explanation": "動植物長大、身體發育；日常「成長」也常用，生長特別偏生物增長，非所有心理成長。"
   },
   "n2-jmdict-1379410": {
     "sentence": "申込書に生年月日を記入してください。",
     "translation": "請在申請書上填寫出生年月日。",
-    "surface": "生年月日"
+    "surface": "生年月日",
+    "explanation": "出生的年、月、日，常見於登記表；不只生日的月日，也不等同現在的年齡。"
   },
   "n2-jmdict-1404920": {
     "sentence": "着物を着るので、白い足袋を用意しました。",
     "translation": "因為要穿和服，我準備了白色分趾襪。",
-    "surface": "足袋"
+    "surface": "足袋",
+    "explanation": "前端把大腳趾與其他腳趾分開的日式襪子；常搭配草履、和服，與普通五趾襪不同。"
   },
   "n2-jmdict-1531550": {
     "sentence": "初対面なので、名を告げて名刺を渡しました。",
     "translation": "因為初次見面，我報了姓名並遞上名片。",
-    "surface": "名刺"
+    "surface": "名刺",
+    "explanation": "記載姓名、所屬、聯絡方式等的小卡；「名刺を交換する」是交換名片，與姓名的名詞不同字。"
   },
   "n2-jmdict-1540080": {
     "sentence": "両国の友好を深める交流会を開きました。",
     "translation": "我們舉辦了加深兩國友好的交流會。",
-    "surface": "友好"
+    "surface": "友好",
+    "explanation": "彼此友善、合作的關係，常談國家、城市；「友好関係を築く」不一定已簽正式同盟。"
   },
   "n2-jmdict-1554230": {
     "sentence": "大学の寮で友達と暮らしています。",
     "translation": "我和朋友住在大學宿舍。",
-    "surface": "寮"
+    "surface": "寮",
+    "explanation": "學校、公司等供成員共同居住的宿舍；「寮に入る」不一定每房多人，也與旅館不同。"
   },
   "n2-jmdict-1209630": {
     "sentence": "洗った髪をよく乾かしてから寝ます。",
@@ -7775,37 +11242,114 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-1154820": {
     "sentence": "初めて作った料理は、案外おいしくできました。",
     "translation": "第一次做的料理意外地好吃。",
-    "surface": "案外"
+    "surface": "案外",
+    "explanation": "結果和預期不同、意外地，通常作副詞；不用案外な把它套成所有な形容詞的用法。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "複雑に見えましたが、操作は案外簡単でした。",
+        "translation": "雖然看起來複雜，操作卻意外地簡單。",
+        "surface": "案外",
+        "reading": "あんがい"
+      }
+    ]
   },
   "n2-jmdict-1274120": {
     "sentence": "審査は公正に行われました。",
     "translation": "審查公正地進行了。",
-    "surface": "公正"
+    "surface": "公正",
+    "explanation": "不偏袒特定對象，按公平原則處理；「公正に評価する」不表示每個人都得到相同分數。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "全員に、公正な審査の機会が与えられました。",
+        "translation": "每個人都獲得了接受公正審查的機會。",
+        "surface": "公正な",
+        "reading": "こうせいな"
+      }
+    ]
   },
   "n2-jmdict-1421490": {
     "sentence": "面接には地味な色の服を着ていきます。",
     "translation": "面試時穿低調顏色的衣服。",
-    "surface": "地味"
+    "surface": "地味",
+    "explanation": "外觀不華麗、行事低調，亦可指工作不受注目；不必然是負面，不等同沒有價值。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "地味な作業ですが、品質を守るために欠かせません。",
+        "translation": "雖然是不起眼的工作，卻是確保品質不可或缺的。",
+        "surface": "地味な",
+        "reading": "じみな"
+      }
+    ]
   },
   "n2-jmdict-1352140": {
     "sentence": "スープの上澄みを、そっと取りました。",
     "translation": "我輕輕舀起湯的上層清液。",
-    "surface": "上"
+    "surface": "上",
+    "explanation": "接頭形式表示上面、表層，如上着、上塗り；不將所有「上」都讀うわ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "コートの下には、薄い上着を着ていました。",
+        "translation": "大衣裡面穿著一件薄外套。",
+        "surface": "上着",
+        "reading": "うわぎ"
+      }
+    ]
   },
   "n2-jmdict-1357160": {
     "sentence": "部屋に小さな飾りをつけました。",
     "translation": "我在房間加了小裝飾。",
-    "surface": "飾り"
+    "surface": "飾り",
+    "explanation": "為增添美感而設的裝飾品、裝飾；也可比喻只有外表沒有實質作用的東西。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ケーキの飾りに、季節の果物を使いました。",
+        "translation": "我用當季水果作為蛋糕的裝飾。",
+        "surface": "飾り",
+        "reading": "かざり"
+      }
+    ]
   },
   "n2-jmdict-1275640": {
     "sentence": "駅の東口で会いましょう。",
     "translation": "我們在車站東出口見面吧。",
-    "surface": "口"
+    "surface": "口",
+    "explanation": "出入口、開口等的構詞成分；搭配後常濁化為ぐち，如西口，不是一律讀くち。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "非常口の前には、物を置かないでください。",
+        "translation": "請不要在緊急出口前放東西。",
+        "surface": "非常口",
+        "reading": "ひじょうぐち"
+      }
+    ]
   },
   "n2-jmdict-1441390": {
     "sentence": "この試験は百点満点です。",
     "translation": "這個考試滿分一百分。",
-    "surface": "点"
+    "surface": "点",
+    "explanation": "計算分數、作品、商品件數等；「三点」可指三分或三件，需看名詞、情境。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "展示作品は、全部で二十点あります。",
+        "translation": "展出的作品總共有二十件。",
+        "surface": "二十点",
+        "reading": "にじゅってん"
+      }
+    ]
   },
   "n2-jmdict-1298670": {
     "sentence": "会議で配る資料を三十部刷りました。",
@@ -8034,147 +11578,276 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
   "n2-jmdict-2518850": {
     "sentence": "この商品は品切れです。",
     "translation": "這項商品售罄了。",
-    "surface": "切れ"
+    "surface": "切れ",
+    "explanation": "接名詞表示某物耗盡、失效或中斷，如電池切れ；此接尾用法讀ぎれ，非切片的きれ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "電池切れで、時計が止まっていました。",
+        "translation": "時鐘因為電池沒電而停了。",
+        "surface": "電池切れ",
+        "reading": "でんちぎれ"
+      }
+    ]
   },
   "n2-jmdict-1372040": {
     "sentence": "棚が水平になるように取り付けてください。",
     "translation": "請把架子安裝成水平。",
-    "surface": "水平"
+    "surface": "水平",
+    "explanation": "與靜止水面平行的方向、狀態；「水平に保つ」是保持水平，不等於所有相互平行。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "箱を傾けず、水平に持ってください。",
+        "translation": "請不要傾斜箱子，保持水平拿著。",
+        "surface": "水平に",
+        "reading": "すいへいに"
+      }
+    ]
   },
   "n2-jmdict-1529880": {
     "sentence": "子供たちの想像力は無限です。",
     "translation": "孩子們的想像力無限。",
-    "surface": "無限"
+    "surface": "無限",
+    "explanation": "沒有界限、可無止境延續；常見「無限の可能性」，不一定修飾時都接な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "資源は無限にあるわけではありません。",
+        "translation": "資源並不是無窮無盡的。",
+        "surface": "無限に",
+        "reading": "むげんに"
+      }
+    ]
   },
   "n2-jmdict-1111640": {
     "sentence": "午後はフリーなので、いつでも会えます。",
     "translation": "我下午有空，隨時可以見面。",
-    "surface": "フリー"
+    "surface": "フリー",
+    "explanation": "自由、不受約束、空閒等，特定場合也可指免費；不能把所有フリー都解作零費用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この席はフリーなので、予約なしで使えます。",
+        "translation": "這個座位可自由使用，不用預約。",
+        "surface": "フリー",
+        "reading": "ふりー"
+      }
+    ]
   },
   "n2-jmdict-1006850": {
     "sentence": "大雪で電車が止まりました。そのため、会社を休みました。",
     "translation": "大雪造成電車停駛，因此我請假沒去公司。",
-    "surface": "そのため"
+    "surface": "そのため",
+    "explanation": "前述原因造成後續結果，也可指為了那個目的；須按前後句邏輯判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "橋が工事中です。そのため、バスは別の道を通ります。",
+        "translation": "橋正在施工，因此公車改走別條路。",
+        "surface": "そのため",
+        "reading": "そのため"
+      }
+    ]
   },
   "n2-jmdict-1956650": {
     "sentence": "楽団の演奏を聞きました。",
     "translation": "我聽了樂團演奏。",
-    "surface": "団"
+    "surface": "団",
+    "explanation": "團體名稱的後綴，如劇団、消防団；不是計算每個人的量詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "姉は、地域の劇団で活動しています。",
+        "translation": "姊姊在當地劇團參與演出活動。",
+        "surface": "劇団",
+        "reading": "げきだん"
+      }
+    ]
   },
   "n2-jmdict-1342820": {
     "sentence": "来月の初旬に、旅行する予定です。",
     "translation": "我打算下個月上旬旅行。",
-    "surface": "初旬"
+    "surface": "初旬",
+    "explanation": "一個月最開始的十天左右，通常與上旬相近；不同於一年年初的年初。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "桜の見頃は、例年四月初旬です。",
+        "translation": "櫻花最佳觀賞期通常是四月上旬。",
+        "surface": "初旬",
+        "reading": "しょじゅん"
+      }
+    ]
   },
   "n2-jmdict-1362810": {
     "sentence": "深夜に大きな音がして、目が覚めました。",
     "translation": "深夜傳來巨響，讓我醒了過來。",
-    "surface": "深夜"
+    "surface": "深夜",
+    "explanation": "夜已很深的時段，常見深夜営業；具體時段依場所、制度，不是所有夜晚時間。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "深夜の電話は、緊急の場合だけにしてください。",
+        "translation": "深夜請只有在緊急情況下才打電話。",
+        "surface": "深夜",
+        "reading": "しんや"
+      }
+    ]
   },
   "n2-jmdict-1545250": {
     "sentence": "問題を人のせいにするのは、幼稚な態度です。",
     "translation": "把問題歸咎於別人，是幼稚的態度。",
-    "surface": "幼稚"
+    "surface": "幼稚",
+    "explanation": "幼小、不成熟，形容成人言行時常帶批評；不等於所有與幼兒有關的事物都不好。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "議論をやめて悪口を言うのは、幼稚だと思います。",
+        "translation": "不再討論卻改說壞話，我覺得很幼稚。",
+        "surface": "幼稚",
+        "reading": "ようち"
+      }
+    ]
   },
   "n2-jmdict-1790980": {
     "sentence": "今日は少し風邪気味です。",
     "translation": "今天有點感冒的樣子。",
-    "surface": "気味"
+    "surface": "気味",
+    "explanation": "接名詞、動詞ます形詞幹表示稍有某種傾向，常用於負面狀態；不等同気味きみ。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "最近は運動不足で、太り気味です。",
+        "translation": "最近缺乏運動，有點發胖。",
+        "surface": "太り気味",
+        "reading": "ふとりぎみ"
+      }
+    ]
   },
   "n2-jmdict-1098760": {
     "sentence": "駐車するために、車をゆっくりバックさせました。",
     "translation": "為了停車，我讓車慢慢倒退。",
-    "surface": "バック"
+    "surface": "バック",
+    "explanation": "後方、倒退、背景或後援；「車をバックさせる」是倒車，與包包的バッグ需注意濁音。"
   },
   "n2-jmdict-1096830": {
     "sentence": "車のハンドルをしっかり握ってください。",
     "translation": "請握好汽車方向盤。",
-    "surface": "ハンドル"
+    "surface": "ハンドル",
+    "explanation": "汽車方向盤、自行車車把或器具把手；「ハンドルを切る」多指轉方向盤，不是真的切斷。"
   },
   "n2-jmdict-1287180": {
     "sentence": "国立大学で研究をしています。",
     "translation": "我在國立大學做研究。",
-    "surface": "国立"
+    "surface": "国立",
+    "explanation": "由國家設立、管理的性質，如「国立大学」；不等同地方政府設立的公立，也不表示完全免費。"
   },
   "n2-jmdict-1051840": {
     "sentence": "ピアノのコンクールに出場しました。",
     "translation": "我參加了鋼琴比賽。",
-    "surface": "コンクール"
+    "surface": "コンクール",
+    "explanation": "以作品、技藝接受評審比較的競賽，常見於音樂、美術；不必然是體育競速比賽。"
   },
   "n2-jmdict-1320410": {
     "sentence": "しっきが多いので、窓を開けました。",
     "translation": "因為濕氣重，我打開了窗戶。",
-    "surface": "しっき"
+    "surface": "しっき",
+    "explanation": "空氣、物品中的濕氣，此條讀しっき；日常也常讀しっけ，意義相近，勿誤讀成しつど。"
   },
   "n2-jmdict-1501400": {
     "sentence": "複数の案を比べて、決めましょう。",
     "translation": "比較多個方案後再決定吧。",
-    "surface": "複数"
+    "surface": "複数",
+    "explanation": "數量超過一個、多個，也指文法的複數；不等於偶數，三個也屬複数。"
   },
   "n2-jmdict-1376190": {
     "sentence": "一と二は整数ですが、一・五は整数ではありません。",
     "translation": "一和二是整數，但一點五不是整數。",
-    "surface": "整数"
+    "surface": "整数",
+    "explanation": "沒有小數部分的數，包含正整數、零、負整數；不是只有一以上的自然數。"
   },
   "n2-jmdict-1215200": {
     "sentence": "美術館で絵を鑑賞しました。",
     "translation": "我在美術館欣賞了畫作。",
-    "surface": "鑑賞"
+    "surface": "鑑賞",
+    "explanation": "欣賞藝術、音樂等作品並體會其價值；植物風景的觀賞常寫「観賞」，讀音相同。"
   },
   "n2-jmdict-1423160": {
     "sentence": "旅行に、三日分の着替えを持っていきます。",
     "translation": "我旅行會帶三天份的換洗衣物。",
-    "surface": "着替え"
+    "surface": "着替え",
+    "explanation": "換衣服這件事，也指用來替換的衣物；「着替えを持つ」是帶備用衣服，不是帶換衣動作。"
   },
   "n2-jmdict-1531570": {
     "sentence": "形容詞は、名詞を修飾します。",
     "translation": "形容詞用來修飾名詞。",
-    "surface": "名詞"
+    "surface": "名詞",
+    "explanation": "表示人、事物、場所、概念等名稱的詞類；日語名詞不直接像動詞那樣活用，常配助詞使用。"
   },
   "n2-jmdict-1180060": {
     "sentence": "授業で学んだ知識を、仕事に応用しました。",
     "translation": "我把課堂學到的知識應用在工作上。",
-    "surface": "応用"
+    "surface": "応用",
+    "explanation": "把已知知識、技術用於不同具體情境；與基礎相對，常說「応用が利く」，不只照搬原例。"
   },
   "n2-jmdict-1426100": {
     "sentence": "彼とは子供のころから仲良しです。",
     "translation": "我和他從小就是好朋友。",
-    "surface": "仲良し"
+    "surface": "仲良し",
+    "explanation": "彼此關係親近的狀態或好朋友；「仲良しの二人」不一定是戀人，也可為家人、朋友。"
   },
   "n2-jmdict-1207340": {
     "sentence": "学校で楽器の演奏を習っています。",
     "translation": "我在學校學習演奏樂器。",
-    "surface": "楽器"
+    "surface": "楽器",
+    "explanation": "為演奏音樂而製作的器具；常說「楽器を演奏する」，不同種類常用弾く、吹く、たたく。"
   },
   "n2-jmdict-1250430": {
     "sentence": "「美しい」は形容詞です。",
     "translation": "「美麗的」是形容詞。",
-    "surface": "形容詞"
+    "surface": "形容詞",
+    "explanation": "日語學校文法中以「高い」等為代表的詞類，常稱い形容詞；「きれい」雖結尾い卻不屬此類。"
   },
   "n2-jmdict-1375520": {
     "sentence": "申込書には性別を書く欄があります。",
     "translation": "申請表上有填寫性別的欄位。",
-    "surface": "性別"
+    "surface": "性別",
+    "explanation": "區分性別的概念或登記項目；常見「性別を問わず」表示不限性別，不涉及某個人的能力優劣。"
   },
   "n2-jmdict-1419950": {
     "sentence": "計画は、次の段階に進みました。",
     "translation": "計畫進入了下一個階段。",
-    "surface": "段階"
+    "surface": "段階",
+    "explanation": "進展、程度中的某一階段；「段階を踏む」是依步驟推進，不是建物的樓梯本身。"
   },
   "n2-jmdict-1424490": {
     "sentence": "来月の中旬に、引っ越す予定です。",
     "translation": "我打算下個月中旬搬家。",
-    "surface": "中旬"
+    "surface": "中旬",
+    "explanation": "每月十一日至二十日的期間；與上旬、下旬對照，不只指十五日那一天。"
   },
   "n2-jmdict-1195790": {
     "sentence": "この商品は課税の対象です。",
     "translation": "這項商品屬於課稅對象。",
-    "surface": "課税"
+    "surface": "課税",
+    "explanation": "對所得、財產、交易等依法徵收稅款；常見「課税対象」，相反是非課税，非一般手續費。"
   },
   "n2-jmdict-1199510": {
     "sentence": "練習の回数を増やしました。",
     "translation": "我增加了練習次數。",
-    "surface": "回数"
+    "surface": "回数",
+    "explanation": "同一動作、事件發生的次數；「回数を減らす」是減少頻次，不直接表示每次持續時間。"
   },
   "n2-jmdict-1015310": {
     "sentence": "Australiaという語のアクセントはどこですか。",
@@ -8200,7 +11873,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "語言中特定音節的高低、強弱，也可指外地口音或裝飾上的亮點；日語重音主要涉及音高。"
   },
   "n2-jmdict-1581330": {
     "sentence": "ヒマラヤ山中で雪男の足跡が発見されたらしい。",
@@ -8227,7 +11901,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2946725",
       "modified": "none"
-    }
+    },
+    "explanation": "腳踩留下的痕跡，亦比喻人生或活動留下的成果；「足跡をたどる」可指追尋前人事蹟。"
   },
   "n2-jmdict-1586390": {
     "sentence": "注意してね。足元、滑りやすいわよ。",
@@ -8252,7 +11927,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "10631799",
       "modified": "none"
-    }
+    },
+    "explanation": "腳邊、腳下的地方，也指站立的基礎；「足元に気をつける」提醒小心腳下，非只注意鞋子。"
   },
   "n2-jmdict-1586520": {
     "sentence": "この小包の宛名が間違ってるよ。",
@@ -8279,7 +11955,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "61132",
       "modified": "none"
-    }
+    },
+    "explanation": "信封、包裹或文書上的收件人名稱、稱謂；常說「宛名を書く」，地址本身通常稱住所。"
   },
   "n2-jmdict-1586670": {
     "sentence": "彼女はせっせと編み物に精を出していた。",
@@ -8306,7 +11983,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "311058",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以針線等編織的活動或作品；常說「編み物をする」，毛衣、圍巾是典型製品，不等於縫紉。"
   },
   "n2-jmdict-1020410": {
     "sentence": "テレビアンテナが昨夜のあらしでとれた。",
@@ -8333,7 +12011,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "12726",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "收發電波的天線；「アンテナを張る」可比喻積極留意資訊，不能只按實體天線理解。"
   },
   "n2-jmdict-1156520": {
     "sentence": "余暇の時間は有意義に過ごしたいです。",
@@ -8359,7 +12038,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "事情的價值、重要性或概念內容；「参加する意義」強調參與的價值，比「意味」更常談目的與作用。"
   },
   "n2-jmdict-1587180": {
     "sentence": "母は生け花を教えている。",
@@ -8386,7 +12066,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "320811",
       "modified": "none"
-    }
+    },
+    "explanation": "將花枝依美感與流派安排的插花藝術，也指其作品；常說「生け花を習う」，不等同自然生長的花。"
   },
   "n2-jmdict-1158780": {
     "sentence": "衣食住は生活の基本です。",
@@ -8412,7 +12093,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "穿衣、飲食與居住三項基本生活需求；常用「衣食住に困る」，表示基本生活供應有困難。"
   },
   "n2-jmdict-1167270": {
     "sentence": "こんな一流選手が相手では勝ち目がない。",
@@ -8438,7 +12120,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某領域中最高或優秀的水準，也可指達此水準的人、機構；「一流の職人」不只是最有名的人。"
   },
   "n2-jmdict-1158390": {
     "sentence": "４月１日、南洋フーズ株式会社は横浜の新社屋に移転します。",
@@ -8462,7 +12145,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "辦公處、店家或住所轉到別處；常說「本社を移転する」，比日常個人搬家的「引っ越し」正式。"
   },
   "n2-jmdict-1160330": {
     "sentence": "井戸は水を得られる所である。",
@@ -8489,7 +12173,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "27883",
       "modified": "none"
-    }
+    },
+    "explanation": "向地下挖掘以取得地下水的水井；常見「井戸水」「井戸を掘る」，與天然湧出的泉不同。"
   },
   "n2-jmdict-2856157": {
     "sentence": "印刷インキが不足している。",
@@ -8516,7 +12201,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "27159",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "印刷、書寫用的墨水或油墨，與「インク」意思相近；不是東方書畫中磨製的墨的唯一稱法。"
   },
   "n2-jmdict-1025010": {
     "sentence": "彼女のドレスはきめの粗いウールでできていた。",
@@ -8542,7 +12228,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "羊毛及其纖維、織物，常見「ウールのセーター」；外觀柔軟的衣料不一定真是羊毛。"
   },
   "n2-jmdict-1550270": {
     "sentence": "誰かに見つかるといけないから、私たちは裏口から入った。",
@@ -8568,7 +12255,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "建物背面或主要入口以外的出入口；也可比喻不正當途徑，如「裏口入学」，須依上下文分辨。"
   },
   "n2-jmdict-1289740": {
     "sentence": "彼は父の死の恨みを晴らした。",
@@ -8593,7 +12281,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "303301",
       "modified": "none"
-    }
+    },
+    "explanation": "遭受傷害、不公平對待後的怨恨；常說「恨みを持つ／晴らす」，比一般不滿更持續強烈。"
   },
   "n2-jmdict-1473870": {
     "sentence": "みんな売り切れです。",
@@ -8620,7 +12309,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "32091",
       "modified": "none"
-    }
+    },
+    "explanation": "庫存已全部售完，常見「売り切れになる」；表示目前無貨，不一定永久停止販售。"
   },
   "n2-jmdict-1172710": {
     "sentence": "この船は大きすぎて運河を通れない。",
@@ -8646,7 +12336,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "為航運、引水等開鑿的人工水道；與天然形成的河川不同，常見「運河を通る」。"
   },
   "n2-jmdict-1174620": {
     "sentence": "この内容を６０語の英文で要約しなさい。",
@@ -8673,7 +12364,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57567",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "以英語寫成的句子、文章；「英文を読む／訳す」是讀、翻譯英文，不是英文字母本身。"
   },
   "n2-jmdict-1174720": {
     "sentence": "TOEICの学習に限らず、英語を学ぶのであれば英和辞典は必携の書の一つでしょう。",
@@ -8699,7 +12391,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "將英語對應解釋成日語的方向，主要用於「英和辞典」；反方向的日英字典稱「和英辞典」。"
   },
   "n2-jmdict-1175030": {
     "sentence": "水は液体である。凍ると固体になる。",
@@ -8726,7 +12419,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270794",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "具有流動性、沒有固定形狀而有一定體積的物質狀態；與固體、氣體對照，不限定飲料。"
   },
   "n2-jmdict-1029760": {
     "sentence": "私の母は赤いエプロンを持っています。",
@@ -8752,7 +12446,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "做飯、清潔等時穿在衣物外防髒的圍裙；常說「エプロンをつける」，不等同整套制服。"
   },
   "n2-jmdict-1176260": {
     "sentence": "彼女は園芸の手引書を読んでいた。",
@@ -8779,7 +12474,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "312709",
       "modified": "none"
-    }
+    },
+    "explanation": "栽培花卉、觀賞植物或果蔬的園藝活動；常見「園芸用品」，不限於專業農業生產。"
   },
   "n2-jmdict-1176860": {
     "sentence": "私はイギリス演劇を勉強しています。",
@@ -8805,7 +12501,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "演員在舞台等處演出故事的戲劇藝術；「演劇を学ぶ」包含演技、舞台等，不等同電影。"
   },
   "n2-jmdict-1175860": {
     "sentence": "円周から直径を求めることは可能ですか？",
@@ -8832,7 +12529,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "504803",
       "modified": "none"
-    }
+    },
+    "explanation": "圓形邊界的一整圈或其長度；「円周の長さ」等於直徑乘圓周率，與圓內面積不同。"
   },
   "n2-jmdict-1177320": {
     "sentence": "煙は煙突を通って上に昇った。",
@@ -8859,7 +12557,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "25900",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把燃燒產生的煙、廢氣排到外面的筒狀構造；常見「煙突から煙が出る」，不等於煙本身。"
   },
   "n2-jmdict-1033900": {
     "sentence": "石油を運ぶ船をオイル・タンカーという。",
@@ -8886,7 +12585,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "128879",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "各類油的外來語，可指食用油、潤滑油等；依「オリーブオイル」「エンジンオイル」判斷用途。"
   },
   "n2-jmdict-1181560": {
     "sentence": "一等賞は王女からのキスです。",
@@ -8912,7 +12612,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "國王的女兒、公主；與王子的妻子「王子妃」或女王「女王」不同，不表示女性君主。"
   },
   "n2-jmdict-1179760": {
     "sentence": "各目的地までの往復料金は下記の通りです。",
@@ -8938,7 +12639,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "從起點到目的地再返回的一個來回；「往復切符」是來回票，單程則稱「片道」。"
   },
   "n2-jmdict-1031610": {
     "sentence": "これはオーケストラの５回目の演奏会です。",
@@ -8962,7 +12664,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "由弦樂、管樂、打擊樂等組成的管弦樂團；「オーケストラの演奏」指樂團演奏。"
   },
   "n2-jmdict-1035780": {
     "sentence": "オルガンは弾けますか？",
@@ -8989,7 +12692,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "4841310",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以鍵盤操作的風琴類樂器，包括管風琴等；與以槌敲弦發聲的鋼琴原理不同。"
   },
   "n2-jmdict-1183390": {
     "sentence": "彼らは温室でいちごを栽培している。",
@@ -9016,7 +12720,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "306209",
       "modified": "none"
-    }
+    },
+    "explanation": "利用透光構造、溫度管理培育植物的設施；「温室育ち」也可比喻受到過度保護而長大。"
   },
   "n2-jmdict-1183450": {
     "sentence": "日本にはたくさんの温泉がある。",
@@ -9042,7 +12747,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "地熱等形成、符合特定條件的泉水，也指泡湯設施或地區；不單指任何加熱的浴池。"
   },
   "n2-jmdict-1183470": {
     "sentence": "我々のところの気候は温帯性です。",
@@ -9069,7 +12775,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9536",
       "modified": "none"
-    }
+    },
+    "explanation": "介於熱帶與寒帶之間的氣候帶，通常有季節變化；是氣候分類，不是某天溫暖的氣溫。"
   },
   "n2-jmdict-1202560": {
     "sentence": "開会式は昨日行われました。",
@@ -9094,7 +12801,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "22053",
       "modified": "none"
-    }
+    },
+    "explanation": "會議、大會等正式開始；「開会の挨拶」是開幕致詞，結束則為閉会，不等於討論全程。"
   },
   "n2-jmdict-1199000": {
     "sentence": "首相は国会を解散した。",
@@ -9121,7 +12829,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "266155",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "群體活動結束後各自離開，也指組織、議會解散；「現地解散」是到場地後自行返程。"
   },
   "n2-jmdict-1201520": {
     "sentence": "ハワイでは１年中海水浴が楽しめる。",
@@ -9147,7 +12856,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "到海邊游泳、戲水的休閒活動；常用「海水浴に行く」，並非在家用海水泡澡。"
   },
   "n2-jmdict-1201000": {
     "sentence": "車庫を仕事場として使えるように改造した。",
@@ -9173,7 +12883,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "改變原有構造、設備或組成，常用「車を改造する」；與修復損壞的修理不同。"
   },
   "n2-jmdict-1202850": {
     "sentence": "新しく開通した地下鉄で学校へ行くのに20分しかかからない。",
@@ -9197,7 +12908,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "道路、鐵路、通信線路等開始可通行或使用；「新線が開通する」強調連通功能。"
   },
   "n2-jmdict-1199640": {
     "sentence": "地球は約３６５日で太陽の周囲を１回転する。",
@@ -9224,7 +12936,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "277145",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "繞軸旋轉，也可指商品、人員等的周轉；「回転が速い」需看是旋轉速度還是周轉效率。"
   },
   "n2-jmdict-1199160": {
     "sentence": "あなたの解答を先生のと比べてみなさい。",
@@ -9249,7 +12962,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "16944",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對考題、謎題等求得的答案或作答行為；和回應詢問、調查的「回答」字不同。"
   },
   "n2-jmdict-1199680": {
     "sentence": "申し訳ないんですけど、今すぐの回答は無理なんです。",
@@ -9275,7 +12989,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "回覆詢問、要求、問卷等；「質問に回答する」是答覆問題，試題標準答案通常用解答。"
   },
   "n2-jmdict-1199250": {
     "sentence": "リンカーンは奴隷を解放した。",
@@ -9301,7 +13016,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "解除束縛、壓迫或負擔；「仕事から解放される」是擺脫工作，不等於開門讓人進入。"
   },
   "n2-jmdict-1202950": {
     "sentence": "このプールは一般開放されている。",
@@ -9327,7 +13043,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "打開、解除封閉，使空間、設施等可自由使用；「一般に開放する」是對外開放，與解放不同。"
   },
   "n2-jmdict-1191780": {
     "sentence": "木造家屋は簡単に燃える。",
@@ -9353,7 +13070,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "供人居住的房屋建築，較書面，常見「家屋の被害」；偏建物本身，不是家庭成員。"
   },
   "n2-jmdict-1589960": {
     "sentence": "この手紙は紛失するといけないから、書留にするがよい。",
@@ -9377,7 +13095,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以交寄、送達等紀錄管理的掛號郵件服務；常說「書留で送る」，不等於所有有追蹤碼的郵件。"
   },
   "n2-jmdict-1204800": {
     "sentence": "父は庭のまわりに垣根を作った。",
@@ -9404,7 +13123,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "319303",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以樹木、竹木等設的圍籬，亦比喻群體間隔閡；「垣根を越える」可指跨領域合作。"
   },
   "n2-jmdict-1193130": {
     "sentence": "この物語の中で書かれているすべての出来事は架空のものです。",
@@ -9431,7 +13151,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57262",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "沒有實際存在、憑想像設定，也可在技術詞中指懸空；「架空の人物」是虛構人物。"
   },
   "n2-jmdict-1205100": {
     "sentence": "彼女は日本の各地を旅してまわった。",
@@ -9455,7 +13176,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不同地點、各個地區的總稱；「全国各地」指全國多處，不保證逐一涵蓋每個城市。"
   },
   "n2-jmdict-1205220": {
     "sentence": "その会社では拡張の計画があります。",
@@ -9481,7 +13203,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "向外擴大範圍、面積或功能；「道路の拡張」是拓寬道路，與充實內容的拡充側重不同。"
   },
   "n2-jmdict-1206190": {
     "sentence": "我々はこの問題には様々な角度から取りかかるべきだ。",
@@ -9507,7 +13230,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "兩線、兩面等交會的張開程度，也可比喻觀察事情的立場；「別の角度から考える」是換角度思考。"
   },
   "n2-jmdict-1207030": {
     "sentence": "日本では、新学年は４月に始まる。",
@@ -9534,7 +13258,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "281237",
       "modified": "none"
-    }
+    },
+    "explanation": "學校年級或一學年的期間；「同じ学年」是同年級，不必然在同一班，也非同年齡的保證。"
   },
   "n2-jmdict-1207080": {
     "sentence": "すみません、経済学部図書館ってどこか分かりますか？",
@@ -9558,7 +13283,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "大學按專門領域設置的教學組織，如文学部；也可與大学院對照指大學部階段。"
   },
   "n2-jmdict-1193910": {
     "sentence": "その火山は突然噴火し、多くの人が亡くなった。",
@@ -9584,7 +13310,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "地下岩漿、氣體等噴出形成的山體或地形；常見「火山活動」，不表示此刻必定正在噴發。"
   },
   "n2-jmdict-1196120": {
     "sentence": "その事故は単なる過失から起こった。",
@@ -9609,7 +13336,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "47097",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "因不夠注意造成的錯誤、疏忽；與明知而做的故意不同，法律脈絡常談「過失の有無」。"
   },
   "n2-jmdict-1192940": {
     "sentence": "彼らは私の果実園からりんごを盗んだ。",
@@ -9634,7 +13362,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "306693",
       "modified": "none"
-    }
+    },
+    "explanation": "植物結果形成的果實，也可比喻努力所得成果；偏正式用語，日常食用水果常稱果物。"
   },
   "n2-jmdict-1609530": {
     "sentence": "私は貸間を探しているところです。",
@@ -9659,7 +13388,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "259305",
       "modified": "none"
-    }
+    },
+    "explanation": "將住宅中的房間出租，常寫「貸し間」；與出租整棟房子的貸家區別，並非旅館客房。"
   },
   "n2-jmdict-1411170": {
     "sentence": "これは貸家だ、売家ではない。",
@@ -9684,7 +13414,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "55537",
       "modified": "none"
-    }
+    },
+    "explanation": "提供出租的房屋，常寫「貸し家」；重點是租賃用途，不表示租客擁有房屋所有權。"
   },
   "n2-jmdict-1190370": {
     "sentence": "列車は加速した。",
@@ -9711,7 +13442,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "326217",
       "modified": "none"
-    }
+    },
+    "explanation": "速度變快或使進展更快；「開発を加速する」可比喻加快研發，反面常用減速。"
   },
   "n2-jmdict-1511760": {
     "sentence": "Ａ市からＢ市までのチケット、片道２まいください。",
@@ -9737,7 +13469,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "只從起點到目的地的一個方向；「片道一時間」指單程一小時，來回時間需另計。"
   },
   "n2-jmdict-1206590": {
     "sentence": "英語は私の好きな学科になった。",
@@ -9764,7 +13497,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "26271",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "按學問領域設置的專業單位、科目，也可指相對於實技的筆試；需看大學或考試語境。"
   },
   "n2-jmdict-1206680": {
     "sentence": "私たちは同じ学級で英語を勉強します。",
@@ -9791,7 +13525,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "249115",
       "modified": "none"
-    }
+    },
+    "explanation": "學校為教學、生活編成的班級；「学級委員」是班級幹部，並非整個年級的代表。"
   },
   "n2-jmdict-1208240": {
     "sentence": "この語句は、括弧で囲んだ方がいいよ。",
@@ -9818,7 +13553,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "3687966",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "框住補充、引用等文字的括號符號；常見「括弧に入れる」，種類包括丸括弧、角括弧等。"
   },
   "n2-jmdict-1208480": {
     "sentence": "彼は活力に満ち溢れている。",
@@ -9845,7 +13581,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "534057",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "使人、社會等積極運作的力量；常說「活力がある／生まれる」，不等於電池的電力。"
   },
   "n2-jmdict-1037960": {
     "sentence": "彼は車にカバーを被せた。",
@@ -9869,7 +13606,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "覆蓋物、保護套，也可指補足缺失；「本にカバーをかける」是套書套，不等於書的內頁。"
   },
   "n2-jmdict-1364920": {
     "sentence": "私達は神様を信じます。",
@@ -9893,7 +13631,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對神的尊稱，可用於神道等神祇，也可比喻某領域極出色的人；不只特指單一宗教的神。"
   },
   "n2-jmdict-1040350": {
     "sentence": "ガムが彼の靴にくっついた。",
@@ -9919,7 +13658,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "本詞常指口香糖，說「ガムをかむ」；也有膠質等意思，並非所有情境都可吞食。"
   },
   "n2-jmdict-1195890": {
     "sentence": "今では多くの貨物が飛行機で輸送されている。",
@@ -9946,7 +13686,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "14956",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以運輸為目的承載的商品、物資；常見「貨物列車」，與運送乘客的旅客運輸對照。"
   },
   "n2-jmdict-1038500": {
     "sentence": "カラーフィルムを一本ください。",
@@ -9970,7 +13711,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "色彩、彩色，常與白黒對照，如「カラー写真」；本詞條不是衣領的同形外來語。"
   },
   "n2-jmdict-1590710": {
     "sentence": "カルタを配ってください。",
@@ -9995,7 +13737,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "63503",
       "modified": "none"
-    }
+    },
+    "explanation": "印有文字、圖案的日式紙牌遊戲及其牌；常依朗讀內容搶取對應牌，不能一概當成撲克牌。"
   },
   "n2-jmdict-1039300": {
     "sentence": "カロリーの高い食物は私の健康にはよくない。",
@@ -10021,7 +13764,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "熱量單位，也常泛指食品能量；日常食品標示常用千卡，具體數值應看標示單位。"
   },
   "n2-jmdict-1157330": {
     "sentence": "外貨の為替レートは毎日変わる。",
@@ -10045,7 +13789,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "不直接搬運現金而進行資金結算的方式，也常指外匯；「為替相場」是貨幣兌換行情。"
   },
   "n2-jmdict-1215380": {
     "sentence": "彼が答える前に長い時間の間隔があった。",
@@ -10072,7 +13817,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "284058",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "物體之間的空隙或事件之間的時間距離；「十分間隔」是每隔十分鐘，不是持續十分鐘。"
   },
   "n2-jmdict-1212780": {
     "sentence": "ここは換気がとても悪いですね。",
@@ -10096,7 +13842,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "讓室內舊空氣與外部空氣交換；「窓を開けて換気する」是通風，不等於單純降溫。"
   },
   "n2-jmdict-1261010": {
     "sentence": "元日に神社へ参拝する日本人は多い。",
@@ -10122,7 +13869,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "一月一日這一天；與特指元日早晨、也常泛用為元日的「元旦」有細微區別。"
   },
   "n2-jmdict-1212480": {
     "sentence": "ゲームについてのご感想は？",
@@ -10149,7 +13897,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "62621",
       "modified": "none"
-    }
+    },
+    "explanation": "看、聽、體驗之後的個人感受與看法；「感想を述べる」不一定包含嚴格分析或客觀結論。"
   },
   "n2-jmdict-1214980": {
     "sentence": "1959年9月26日に、日本観測史上最大の台風が名古屋を襲った。",
@@ -10175,7 +13924,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以儀器、系統方法觀察測量現象，常用於氣象、天文；比隨意觀看更具持續紀錄性。"
   },
   "n2-jmdict-1210620": {
     "sentence": "勘違いしてたわ。",
@@ -10201,7 +13951,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "誤以為某事正確、理解錯誤；「時間を勘違いする」是弄錯時間，不表示刻意欺騙。"
   },
   "n2-jmdict-1214560": {
     "sentence": "なしはこの工場で缶詰にされます。",
@@ -10225,7 +13976,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "將食品裝罐密封保存的製品，也可比喻被關在一處集中工作；「缶詰になる」須看語境。"
   },
   "n2-jmdict-1215010": {
     "sentence": "彼は義務の観念がすっかりなくなっている。",
@@ -10250,7 +14002,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "295154",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對事物形成的概念、想法；「観念する」另指認清無法逃避而死心、認命，須分辨用法。"
   },
   "n2-jmdict-1213990": {
     "sentence": "良酒は看板を要せず。",
@@ -10275,7 +14028,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "391957",
       "modified": "none"
-    }
+    },
+    "explanation": "店鋪、場所標示名稱或宣傳內容的招牌；也可比喻代表性人物、商品，如「看板商品」。"
   },
   "n2-jmdict-1214030": {
     "sentence": "彼女は病気の子供を夜通し看病した。",
@@ -10299,7 +14053,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "照護生病的人，常說「病人を看病する」；不等同醫師診斷或醫療處置本身。"
   },
   "n2-jmdict-1221880": {
     "sentence": "気圧計の数値が下がっている。雨になりそうだな。",
@@ -10326,7 +14081,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "20356",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "空氣施加的壓力，常見「高気圧」「低気圧」；與氣溫、濕度是不同的氣象量。"
   },
   "n2-jmdict-1218920": {
     "sentence": "理科室にはさまざまな形の器具が並んでいる。",
@@ -10352,7 +14108,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "用來完成特定工作的小型工具、裝備；常見「調理器具」「実験器具」，不只單一種工具。"
   },
   "n2-jmdict-1220560": {
     "sentence": "このビザの有効期限はどれくらいですか。",
@@ -10379,7 +14136,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "60615",
       "modified": "none"
-    }
+    },
+    "explanation": "必須完成、繳交或有效的最後界限；「期限を守る」是遵守截止日期，期間則指一段時間。"
   },
   "n2-jmdict-1223210": {
     "sentence": "この記号は何を表すのかわかりません。",
@@ -10406,7 +14164,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59741",
       "modified": "none"
-    }
+    },
+    "explanation": "以形狀、文字等代表特定意義的符號；「地図記号」是地圖符號，不一定是文字或數字。"
   },
   "n2-jmdict-1224700": {
     "sentence": "それはとても伝統的な儀式だった。",
@@ -10432,7 +14191,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "依固定形式進行的正式典禮、禮儀程序；「儀式を行う」不等於一般隨興聚會。"
   },
   "n2-jmdict-1591210": {
     "sentence": "この評論を優勝作品に選んだ基準は何ですか。",
@@ -10457,7 +14217,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "795",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "用來判斷、比較、評估的標準；「基準を満たす」是達到要求，與事情的起源不同。"
   },
   "n2-jmdict-1223820": {
     "sentence": "６時起床、７時家を出る。",
@@ -10483,7 +14244,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "從睡眠中起身、離床，較「起きる」正式；「起床時間」是起床時間，不一定是醒來的瞬間。"
   },
   "n2-jmdict-1219060": {
     "sentence": "君は君の理論の基礎をどこに置いているのか。",
@@ -10510,7 +14272,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "16189",
       "modified": "none"
-    }
+    },
+    "explanation": "支撐知識、技能或建物的基本部分；「基礎を固める」比喻鞏固基礎，不只指建築地基。"
   },
   "n2-jmdict-1591290": {
     "sentence": "英会話を始めたきっかけは何ですか？",
@@ -10534,7 +14297,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "促使事情開始、改變的契機或機緣；「〜をきっかけに」是以某事為轉折，不一定是根本原因。"
   },
   "n2-jmdict-1043150": {
     "sentence": "ギャングたちは銀行から数千ドルを奪った。",
@@ -10560,7 +14324,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以犯罪為目的的幫派或其成員；常見於犯罪報導、電影，不泛指普通朋友組成的小團體。"
   },
   "n2-jmdict-1042150": {
     "sentence": "キャンパス内での飲酒は禁止されている。",
@@ -10586,7 +14351,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "大學等教育機構的校園及其設施；不同於繪畫用畫布「キャンバス」，須注意清濁音。"
   },
   "n2-jmdict-1227700": {
     "sentence": "その店は月曜日には休業です。",
@@ -10611,7 +14377,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "44881",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "公司、商店等暫時停止營業；「臨時休業」不代表永久關閉，永久歇業常稱廃業、閉店。"
   },
   "n2-jmdict-1227940": {
     "sentence": "スーパーヒーローにも、時には休息が必要だ。",
@@ -10637,7 +14404,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "停止勞動、活動以恢復精神體力；「休息を取る」不必一定睡覺，也不限定工作中短暫休息。"
   },
   "n2-jmdict-1228100": {
     "sentence": "私はただ休養したいのです。",
@@ -10663,7 +14431,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "透過休息、調整生活恢復健康與精神；較短暫停下工作的休憩更著重恢復，常用「休養を取る」。"
   },
   "n2-jmdict-1236200": {
     "sentence": "現段階では、ソフトのバグ改修のみ行っています。機能強化については承っておりません。",
@@ -10689,7 +14458,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "提高力量、功能或程度；「対策を強化する」是加強對策，不只把物體變硬。"
   },
   "n2-jmdict-1235960": {
     "sentence": "鴨緑江は中朝国境に位置し、中国の遼寧省と北朝鮮の間の重要な境界河川です。",
@@ -10715,7 +14485,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "分隔區域、性質或範圍的界線；「境界線」可實體可抽象，並非一定是國境。"
   },
   "n2-jmdict-1281930": {
     "sentence": "これは重要な行事です。",
@@ -10741,7 +14512,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "依計畫、慣例舉辦的活動或儀式，常見「学校行事」「年中行事」；不是所有臨時行動。"
   },
   "n2-jmdict-1236740": {
     "sentence": "恐縮ですが隣の村への道を教えてくれませんか。",
@@ -10766,7 +14538,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "19149",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "因受人照顧、麻煩對方或獲得過譽而過意不去；「恐縮ですが」常用來禮貌提出請託。"
   },
   "n2-jmdict-1237370": {
     "sentence": "高学歴だからといって教養があるとは限らない。",
@@ -10792,7 +14565,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "廣泛學習累積的文化知識、理解力與涵養；「教養を深める」不單指懂禮貌或學歷高。"
   },
   "n2-jmdict-1232990": {
     "sentence": "その島の経済は漁業に依存している。",
@@ -10819,7 +14593,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "44749",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "捕撈、養殖等利用水產資源的產業；與個人休閒釣魚不同，常見「漁業に従事する」。"
   },
   "n2-jmdict-1242750": {
     "sentence": "人間ってさ、金魚鉢の中の金魚のようなものなのかな？",
@@ -10845,7 +14620,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "由鯽魚培育的觀賞魚類，可有多種顏色與尾型；常說「金魚を飼う」，不表示金色的任何魚。"
   },
   "n2-jmdict-1244090": {
     "sentence": "この区域に財宝が埋まっているという話だ。",
@@ -10872,7 +14648,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59605",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以用途、管理等界定的一定範圍；「立入禁止区域」是禁止進入區域，不必有實體圍牆。"
   },
   "n2-jmdict-1246250": {
     "sentence": "偶数掛ける奇数は偶数、奇数掛ける奇数は奇数。",
@@ -10899,7 +14676,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "18141",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "能被二整除的整數，如零、二、四；與奇数相對，不是數量剛好成雙的模糊說法。"
   },
   "n2-jmdict-1245730": {
     "sentence": "私は空想にふけって多くの時間を無駄に過ごす。",
@@ -10924,7 +14702,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "257004",
       "modified": "none"
-    }
+    },
+    "explanation": "不受現實限制、在心中構想的事物；「空想にふける」是沉浸幻想，不一定計畫實現。"
   },
   "n2-jmdict-1245790": {
     "sentence": "ダチョウは空中を飛ばない。",
@@ -10951,7 +14730,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "40838",
       "modified": "none"
-    }
+    },
+    "explanation": "地面之上的空間、空氣之中；「空中に浮かぶ」指浮在空中，不等同宇宙空間。"
   },
   "n2-jmdict-1043310": {
     "sentence": "この部屋クーラーききすぎじゃない？",
@@ -10976,7 +14756,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57378",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "用來冷卻的裝置，日常常指冷氣機；一般只強調冷房功能，冷暖皆可的空調常稱エアコン。"
   },
   "n2-jmdict-1003710": {
     "sentence": "くしゃみが出そう・・・ティッシュちょうだい。",
@@ -11003,7 +14784,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2027",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "鼻腔受刺激引起的噴嚏；常用「くしゃみをする／が出る」，與咳嗽的咳不同。"
   },
   "n2-jmdict-1244520": {
     "sentence": "顧客からの苦情が増えるのは業績悪化の始まりかもしれない。",
@@ -11028,7 +14810,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "240023",
       "modified": "none"
-    }
+    },
+    "explanation": "對問題、不滿提出的抱怨或申訴；「苦情を言う／受ける」不只是一般意見或詢問。"
   },
   "n2-jmdict-1276110": {
     "sentence": "ブライアンはケイトのために口紅を買った。",
@@ -11055,7 +14838,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "502605",
       "modified": "none"
-    }
+    },
+    "explanation": "塗在嘴唇上增添色彩的化妝品；「口紅を塗る／つける」皆常用，不一定只有紅色。"
   },
   "n2-jmdict-1244050": {
     "sentence": "感嘆符は句読点です。",
@@ -11081,7 +14865,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "句號、讀點等標點，日語常指「。」「、」；作用是分句、斷句，不是漢字的讀音標記。"
   },
   "n2-jmdict-1044440": {
     "sentence": "クリーニング取ってきておいて。",
@@ -11108,7 +14893,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "62864",
       "modified": "none"
-    }
+    },
+    "explanation": "清洗、清潔，日常常指專業洗衣服務；「クリーニングに出す」不保證所採工法一定是乾洗。"
   },
   "n2-jmdict-1250990": {
     "sentence": "彼らはけんかをしているのではなく、劇の稽古をしているところだ。",
@@ -11132,7 +14918,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "透過反覆實作學習藝術、武術等；「茶道の稽古」是習藝練習，不常用來泛指所有筆試讀書。"
   },
   "n2-jmdict-1250310": {
     "sentence": "ここで使われている文法形式は現在進行形である。",
@@ -11158,7 +14945,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "外在樣式、程序、格式，與內容相對；「形式にこだわる」是拘泥形式，不一定表示內容正確。"
   },
   "n2-jmdict-1251810": {
     "sentence": "討論を継続する。",
@@ -11185,7 +14973,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "526968",
       "modified": "none"
-    }
+    },
+    "explanation": "同一活動、狀態不中斷或持續下去；常見「継続は力なり」，不等同開始全新的活動。"
   },
   "n2-jmdict-1251630": {
     "sentence": "この線は経度を表している。",
@@ -11211,7 +15000,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "地點相對本初子午線向東、向西的角度；常見「東経」「西経」，與南北位置的緯度對照。"
   },
   "n2-jmdict-1253130": {
     "sentence": "芸能界に長くいると、年齢的にも教えてくれる人が少なくなります。",
@@ -11237,7 +15027,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "音樂、舞蹈、戲劇等表演藝術及相關演藝活動；「芸能界」多指演藝圈，不泛稱所有美術創作。"
   },
   "n2-jmdict-1252490": {
     "sentence": "警備員はどうしても彼を入れてくれなかった。",
@@ -11263,7 +15054,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "為防事故、犯罪而巡守、保護場所或人員；「警備員」是保全人員，不一定是警察。"
   },
   "n2-jmdict-1203380": {
     "sentence": "父は熟練した外科医です。",
@@ -11290,7 +15082,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "319271",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以手術等方法治療疾病、外傷的醫學科別；與内科相對，並非醫院外面的科室。"
   },
   "n2-jmdict-1533930": {
     "sentence": "毛皮のコートが特売中です。",
@@ -11317,7 +15110,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "323540",
       "modified": "none"
-    }
+    },
+    "explanation": "帶有毛的動物皮及其製品；「毛皮のコート」指皮草大衣，與紡成線的羊毛衣料不同。"
   },
   "n2-jmdict-1185170": {
     "sentence": "私は駅を間違えて下車しました。",
@@ -11344,7 +15138,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "256279",
       "modified": "none"
-    }
+    },
+    "explanation": "從電車、巴士等車輛下來，較正式；「途中下車」是中途下車，並非上車的乗車。"
   },
   "n2-jmdict-1185510": {
     "sentence": "下水が完全に詰まっている。",
@@ -11371,7 +15166,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "458623",
       "modified": "none"
-    }
+    },
+    "explanation": "使用後排出的污水，也可指下水道系統；飲用、生活供水的系統通常稱上水道。"
   },
   "n2-jmdict-1255110": {
     "sentence": "私は血圧が低いです。",
@@ -11397,7 +15193,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "血液對血管壁的壓力，常見「血圧を測る」；高低要依量測值判斷，不等於心跳速度。"
   },
   "n2-jmdict-1255560": {
     "sentence": "日本では、通常所得税は月給から天引きされる。",
@@ -11421,7 +15218,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "按月支付的薪水或月薪金額；「月給をもらう」是領月薪，與按時薪計價的時給不同。"
   },
   "n2-jmdict-1222510": {
     "sentence": "誘拐犯は降参する気配を見せなかった。",
@@ -11448,7 +15246,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "4005356",
       "modified": "none"
-    }
+    },
+    "explanation": "可感覺到的跡象、氣息或事態趨勢；「人の気配がする」未必直接看見人。"
   },
   "n2-jmdict-1259440": {
     "sentence": "夏休みに新竹科学園区に行き、多くのハイテク企業を見学した。",
@@ -11472,7 +15271,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "到現場觀看並學習情況；「工場を見学する」常不親自參與作業，與體驗活動有別。"
   },
   "n2-jmdict-1261340": {
     "sentence": "彼は私に彼の新しい劇の原稿を見せてくれた。",
@@ -11496,7 +15296,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "為出版、演講、播報等預先寫成的文本；「原稿を読む」可指照稿念，不只手寫紙本。"
   },
   "n2-jmdict-1258880": {
     "sentence": "神奈川県の県庁所在地は横浜市です。",
@@ -11522,7 +15323,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "日本縣級行政機關及其辦公處；「県庁所在地」是縣政府所在地，不等於每一座市政府。"
   },
   "n2-jmdict-1260660": {
     "sentence": "顕微鏡と望遠鏡の違いがわかりますか。",
@@ -11548,7 +15350,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "將肉眼不易看清的微小物體放大的觀察儀器；「顕微鏡で観察する」不同於望遠鏡觀遠物。"
   },
   "n2-jmdict-1262490": {
     "sentence": "日本は原料を輸入に頼っている。",
@@ -11574,7 +15377,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "經加工製成產品的起始物質；「大豆を原料にする」是以大豆為原料，不一定保留原本形狀。"
   },
   "n2-jmdict-1273420": {
     "sentence": "年々公害問題は深刻になってきている。",
@@ -11599,7 +15403,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "129839",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "企業等活動造成、影響公眾健康或生活環境的污染危害；包括空污、噪音等，不限於垃圾。"
   },
   "n2-jmdict-1273510": {
     "sentence": "フィンランドの公共交通機関は時間を正確に守る。",
@@ -11625,7 +15430,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "與社會整體、多數人共同生活相關的性質；常見「公共施設」，不代表所有設施免費使用。"
   },
   "n2-jmdict-1278090": {
     "sentence": "腕のいい工芸師は自分の作品に誇りを持っている。",
@@ -11652,7 +15458,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1102634",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "兼具實用與藝術性的手工製作技藝、作品；如陶藝、漆器，與單純大量工業製造不同。"
   },
   "n2-jmdict-1271970": {
     "sentence": "次の交差点を右に曲がってください。",
@@ -11676,7 +15483,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "線、道路等互相相交；「交差点」是路口，不一定每種交叉都允許車輛通行。"
   },
   "n2-jmdict-1278130": {
     "sentence": "建設工事の第一段階は終わった。",
@@ -11703,7 +15511,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "239063",
       "modified": "none"
-    }
+    },
+    "explanation": "建造、修繕道路、建物或設備的作業；「工事中」是施工中，與一般製造商品的作業不同。"
   },
   "n2-jmdict-1276220": {
     "sentence": "君はなんらかの口実をつくらなければならない。",
@@ -11730,7 +15539,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "16439",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "拿來解釋、合理化行動的理由，常暗示非真正原因；「病気を口実に」是以生病為藉口。"
   },
   "n2-jmdict-1279540": {
     "sentence": "彼は校舎に放火した。",
@@ -11757,7 +15567,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "296327",
       "modified": "none"
-    }
+    },
+    "explanation": "學校用於教學等的建築物；不同於校地全範圍或操場，常說「新しい校舎を建てる」。"
   },
   "n2-jmdict-1273900": {
     "sentence": "公衆の中で自分を理解してもらうのは難しい時がある。",
@@ -11784,7 +15595,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "240470",
       "modified": "none"
-    }
+    },
+    "explanation": "不特定的多數人、一般大眾；常見「公衆電話」「公衆衛生」，不單指某組織成員。"
   },
   "n2-jmdict-1283690": {
     "sentence": "ニューヨークには高層ビルが林立している。",
@@ -11808,7 +15620,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "建築物樓層很多、位置很高的部分；「高層ビル」是高樓，「高層階」則是較高樓層。"
   },
   "n2-jmdict-1279790": {
     "sentence": "脳の構造は複雑だ。",
@@ -11833,7 +15646,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1807939",
       "modified": "none"
-    }
+    },
+    "explanation": "各部分如何組合、彼此關聯形成整體的方式；「社会構造」可指抽象制度，不只實物內部。"
   },
   "n2-jmdict-1592990": {
     "sentence": "交替でボートを漕ごうよ。",
@@ -11857,7 +15671,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "由另一人、事物接替原本角色，輪流更換；「交替で休む」是輪流休息，不是所有人同時休息。"
   },
   "n2-jmdict-1272320": {
     "sentence": "フィンランドの公共交通機関は時間を正確に守る。",
@@ -11883,7 +15698,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "運送人員、貨物的交通系統、工具與服務，如鐵路、巴士；不單指管理交通的政府機關。"
   },
   "n2-jmdict-1283860": {
     "sentence": "彼は高等学校の生徒ではありません。",
@@ -11910,7 +15726,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "296407",
       "modified": "none"
-    }
+    },
+    "explanation": "日本的高中階段學校，常簡稱「高校」；不是大學或所有高等教育機構的泛稱。"
   },
   "n2-jmdict-1274550": {
     "sentence": "彼は彼女との婚約を公表した。",
@@ -11934,7 +15751,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "向公眾公開資訊、結果等；「結果を公表する」比私下告知一人範圍更廣，不保證是首次發現。"
   },
   "n2-jmdict-1282650": {
     "sentence": "水と森と鉱物は重要な自然の資源です。",
@@ -11961,7 +15779,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270760",
       "modified": "none"
-    }
+    },
+    "explanation": "自然形成、具有特定組成與構造的物質，如石英；與混合多種礦物的岩石概念不同。"
   },
   "n2-jmdict-1274810": {
     "sentence": "昭和十二年ごろと比べ、最近の公務員の初任給は、千六百倍になっている。",
@@ -11987,7 +15806,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "國家、地方公共團體等的正式職務；「公務で出張する」是因公出差，不是私人旅行。"
   },
   "n2-jmdict-1578780": {
     "sentence": "２、３週間もすれば木の葉は紅葉するでしょう。",
@@ -12011,7 +15831,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "秋季葉片轉紅等的現象或變色的葉景；讀こうよう時不是只指楓樹的もみじ。"
   },
   "n2-jmdict-1285330": {
     "sentence": "彼の議論は合理的だ。",
@@ -12038,7 +15859,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "285874",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "合乎道理、理性或效率原則，常用「合理的」；不保證某決策同時符合所有人的情感期待。"
   },
   "n2-jmdict-1286160": {
     "sentence": "国民は歓呼して彼を国王に迎えた。",
@@ -12065,7 +15887,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "372955",
       "modified": "none"
-    }
+    },
+    "explanation": "君主制國家的男性君主稱號；與王女、王子不同，也不是所有國家元首都稱国王。"
   },
   "n2-jmdict-1348030": {
     "sentence": "お小遣いは無駄遣いしないでください。",
@@ -12091,7 +15914,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "日常可自由支用的零用錢、小額花費；「小遣いをもらう」不限定小孩，也可談成人預算。"
   },
   "n2-jmdict-1050310": {
     "sentence": "健二はコックになることに決めた。",
@@ -12118,7 +15942,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8803",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "本詞指餐廳等的廚師，常說「コックになる」；同形外來語另有閥門義，須依本條飲食語境辨別。"
   },
   "n2-jmdict-1265860": {
     "sentence": "私はクラシックをよく聴くが、古典派の作品はそれほど好きではない。",
@@ -12144,7 +15969,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "長久流傳、具代表價值的作品或傳統體系；「古典を読む」常談文學，不代表所有年代久的書。"
   },
   "n2-jmdict-1264560": {
     "sentence": "私の両親がここにいる間は上品な言葉遣いをして下さい。",
@@ -12169,7 +15995,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "252072",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "選詞、措辭及說話方式，常涉及禮貌與場合；「言葉遣いに気をつける」不只是注意發音。"
   },
   "n2-jmdict-1054570": {
     "sentence": "消しゴムでこれらの語を消しなさい。",
@@ -12193,7 +16020,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "橡膠材料及其製品，如橡皮筋；「ゴムで留める」常指用橡皮筋固定，不等於所有塑膠。"
   },
   "n2-jmdict-1269290": {
     "sentence": "村には娯楽がない。",
@@ -12219,7 +16047,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "使人放鬆、愉快的娛樂活動；「娯楽施設」是娛樂設施，不必然指賭博或遊樂園。"
   },
   "n2-jmdict-1290360": {
     "sentence": "空気はさまざまな気体の混合物である。",
@@ -12245,7 +16074,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "把兩種以上物質、成分混在一起；常說「液体を混合する」，不必然發生化學反應。"
   },
   "n2-jmdict-1295310": {
     "sentence": "今度の祭日は日曜日と重なります。",
@@ -12270,7 +16100,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "130114",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "舉行宗教祭祀的日子，也沿用為節假日說法；現行日本法定國定假日正式稱「国民の祝日」。"
   },
   "n2-jmdict-1294850": {
     "sentence": "採点しましたか。",
@@ -12297,7 +16128,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "435638",
       "modified": "none"
-    }
+    },
+    "explanation": "依答案、表現等給分；「答案を採点する」是批改評分，不一定附上詳細解說。"
   },
   "n2-jmdict-1296660": {
     "sentence": "彼らは私達に材木を送ってくれるだろう。",
@@ -12324,7 +16156,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "306731",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "供建築、家具等加工使用的木材；「材木を切る」指切木料，不是生長中的森林總稱。"
   },
   "n2-jmdict-1297710": {
     "sentence": "その小説の作者は誰でしょうか。",
@@ -12350,7 +16183,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "創作作品的人，適用小說、繪畫等；「作者の意図」指創作者意圖，不等於故事中的主角。"
   },
   "n2-jmdict-1298120": {
     "sentence": "自分のフェイスブックのアカウントを削除した。",
@@ -12377,7 +16211,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2454385",
       "modified": "none"
-    }
+    },
+    "explanation": "將文字、資料等移除；「不要な部分を削除する」不同於只是隱藏，是否可復原視情況而定。"
   },
   "n2-jmdict-1297760": {
     "sentence": "父は弁護士に遺言書を作成してもらった。",
@@ -12401,7 +16236,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "製作文書、計畫、表格等成果，常見「資料を作成する」；與作製有重疊，通常偏非實物內容。"
   },
   "n2-jmdict-1306570": {
     "sentence": "日本に来て初めて刺身を食べたんだ。",
@@ -12427,7 +16263,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "將魚貝等食材切片、通常生食的料理；不是所有生魚料理都叫壽司，也可有其他食材刺身。"
   },
   "n2-jmdict-1298800": {
     "sentence": "好きな撮影者は誰ですか。",
@@ -12453,7 +16290,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以相機、攝影機拍攝影像；「映画の撮影」是拍電影，不是攝影作品放映。"
   },
   "n2-jmdict-1299280": {
     "sentence": "雑音のせいで仕事に集中できません。",
@@ -12477,7 +16315,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "干擾原本想聽聲音的噪聲，也可比喻無關批評；「雑音が入る」不一定是設備完全故障。"
   },
   "n2-jmdict-1057960": {
     "sentence": "私は会社勤めです。普通のサラリーマンです。",
@@ -12503,7 +16342,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "靠薪水生活的公司職員，傳統多指男性；不涵蓋所有工作者，現常以会社員中性表達。"
   },
   "n2-jmdict-1299970": {
     "sentence": "三角形の面積を求めてくれ。",
@@ -12529,7 +16369,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "三角形或三角狀；「三角に切る」是切成三角形，不是只切三刀，正式圖形稱三角形。"
   },
   "n2-jmdict-1303930": {
     "sentence": "算数では正確さが重要だ。",
@@ -12554,7 +16395,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "245171",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以數量、計算、基本圖形等為內容的小學數學科目；較高年級學科通常稱数学。"
   },
   "n2-jmdict-1058760": {
     "sentence": "オープンソースのプロジェクトや公式ドキュメントのサンプルコードを読むことで、より良いコーディングスタイルを学べる。",
@@ -12578,7 +16420,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "代表整體的樣本、供試用的樣品；「サンプルを採取する」用於調查，不保證每個樣本都免費。"
   },
   "n2-jmdict-1059300": {
     "sentence": "苺は今がシーズンだ。",
@@ -12605,7 +16448,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "480638",
       "modified": "none"
-    }
+    },
+    "explanation": "某種天候、活動或商品盛行的時期，也指運動賽季；不一定是春夏秋冬四季之一。"
   },
   "n2-jmdict-1059400": {
     "sentence": "あなたはシーツを片付けて。私はベッドを整えるから。",
@@ -12631,7 +16475,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "鋪在床墊、被褥上的床單；「シーツを替える」是換床單，與整條棉被或床罩不同。"
   },
   "n2-jmdict-1315250": {
     "sentence": "祖母の遺灰は寺院に置かれた骨壷に入っている。",
@@ -12658,7 +16503,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "329359",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "佛教寺院的正式稱呼；日常也說お寺，與祭祀神道神祇的神社區分。"
   },
   "n2-jmdict-1315960": {
     "sentence": "私たちは時間割に従って勉強する。",
@@ -12683,7 +16529,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "248798",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "將課程、活動依時段排好的表；「時間割を確認する」常指看課表，不是時鐘刻度。"
   },
   "n2-jmdict-1307130": {
     "sentence": "日本には四季があります。",
@@ -12708,7 +16555,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "281286",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "春、夏、秋、冬四個季節的總稱；「四季を通じて」是全年各季，不只春秋兩季。"
   },
   "n2-jmdict-1497060": {
     "sentence": "スーパーの敷地を取るために古い家は取り壊された。",
@@ -12733,7 +16581,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "52353",
       "modified": "none"
-    }
+    },
+    "explanation": "供建物及附屬設施使用的一整塊基地；「敷地内」包含建物周邊空地，不只室內面積。"
   },
   "n2-jmdict-1315790": {
     "sentence": "白い背景で撮影したパスポートサイズの写真2枚を持参する必要があります。",
@@ -12760,7 +16609,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "694078",
       "modified": "none"
-    }
+    },
+    "explanation": "把所需物品帶到某處，較正式；「筆記用具を持参する」是自備帶來，不是寄送。"
   },
   "n2-jmdict-1317080": {
     "sentence": "地球は内部に大きな磁石を持ったボールのようなものである。",
@@ -12786,7 +16636,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "能產生磁場、吸引部分金屬的物體；「磁石に付く」不是所有金屬都會成立。"
   },
   "n2-jmdict-1318110": {
     "sentence": "物理学は基本的な自然科学である。",
@@ -12813,7 +16664,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "487654",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "研究自然界現象、規律的科學領域，如物理、化學、生物；與社會科學、人文學對照。"
   },
   "n2-jmdict-1316290": {
     "sentence": "その列車は時速２０マイルで進む。",
@@ -12840,7 +16692,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "43429",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "每小時移動的距離所表示的速度；「時速六十キロ」是每小時六十公里，不是六十公里的總里程。"
   },
   "n2-jmdict-1310920": {
     "sentence": "これが死体の発見された部屋です。",
@@ -12866,7 +16719,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "死亡後的人或動物身體，語氣直接；談人的遺體時「遺体」常較尊重、適合正式說法。"
   },
   "n2-jmdict-1185370": {
     "sentence": "私はスピーチの下書きを書いています。",
@@ -12893,7 +16747,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "254018",
       "modified": "none"
-    }
+    },
+    "explanation": "正式定稿前先寫的草稿、草圖；「下書きを直す」是修改草稿，不一定已公開。"
   },
   "n2-jmdict-1318260": {
     "sentence": "彼はゆうべ自宅で静かに息を引き取った。",
@@ -12918,7 +16773,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "14470",
       "modified": "none"
-    }
+    },
+    "explanation": "自己居住的家，常用於對外正式說明；「自宅で働く」是居家工作，不保證房屋為自己所有。"
   },
   "n2-jmdict-1320920": {
     "sentence": "オーストラリアへ行って初めて、日本はなんと小さい国かと実感した。",
@@ -12943,7 +16799,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "331868",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "經親身感受而得到的真切理解；「実感が湧かない」是尚無真實感，不表示不知道事實。"
   },
   "n2-jmdict-1319710": {
     "sentence": "トムは30冊以上の本を執筆している。",
@@ -12968,7 +16825,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "7904730",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "撰寫文章、書籍等的正式說法；「小説を執筆する」可用電腦，不限定拿實體筆。"
   },
   "n2-jmdict-1321430": {
     "sentence": "この像は実物大です。",
@@ -12993,7 +16851,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "58014",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "真實存在的本人、物品，與照片、模型等對照；「実物を見る」不一定表示原作藝術品。"
   },
   "n2-jmdict-1358800": {
     "sentence": "ウサギは耳が長くてしっぽが短い。",
@@ -13020,7 +16879,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2117",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "動物的尾巴，較口語，正式也可說尾；「しっぽを振る」常形容狗搖尾巴。"
   },
   "n2-jmdict-1321480": {
     "sentence": "彼女は私に実用的なアドバイスをしてくれた。",
@@ -13047,7 +16907,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "314217",
       "modified": "none"
-    }
+    },
+    "explanation": "實際生活、工作中的用途；「実用に向く」表示適合實際使用，不只是外觀好看。"
   },
   "n2-jmdict-1321530": {
     "sentence": "すみません、自分の実力を過信してました。",
@@ -13073,7 +16934,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "實際具備、能發揮的能力；「実力を発揮する」不等同學歷、名聲或碰巧獲得的好成績。"
   },
   "n2-jmdict-1321560": {
     "sentence": "言葉を定義することは、実例を挙げてその使い方を説明するよりも難しい。",
@@ -13097,7 +16959,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "真實發生、存在的具體例子；「実例を挙げる」是舉實例，不是虛構情境的假設。"
   },
   "n2-jmdict-1320250": {
     "sentence": "ジョージは失恋した。",
@@ -13124,7 +16987,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "52947",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "戀愛未能如願、被拒絕或關係破裂的經歷；常說「失恋する」，不單指與戀人暫時遠距離。"
   },
   "n2-jmdict-1309910": {
     "sentence": "カウンターの値が指定の「キリ番」になったら記念メッセージを表示させます。",
@@ -13149,7 +17013,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "329394",
       "modified": "none"
-    }
+    },
+    "explanation": "明確選定對象、條件、地點等；「指定の場所」是指定地點，不一定由說話者本人決定。"
   },
   "n2-jmdict-1421420": {
     "sentence": "地盤が柔らかいので、その道路は掘りやすいです。",
@@ -13174,7 +17039,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13767451",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "支撐建物的地層、土地，也比喻事業、政治支持基礎；「地盤が弱い」需按上下文分辨。"
   },
   "n2-jmdict-1311060": {
     "sentence": "この封筒に住所・氏名を書きなさい。",
@@ -13200,7 +17066,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "姓與名的完整姓名，常見於表格欄位；「氏名を記入する」通常不只寫暱稱或姓氏。"
   },
   "n2-jmdict-1421510": {
     "sentence": "その走者は地面に空いた穴を飛び越えた。",
@@ -13224,7 +17091,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "人站立、行走的土地表面；「地面に置く」是在地上放置，室內一般說床に置く。"
   },
   "n2-jmdict-1064980": {
     "sentence": "谷氏は学者というよりはむしろジャーナリストだ。",
@@ -13255,7 +17123,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "276095",
       "modified": "none"
-    }
+    },
+    "explanation": "採訪、分析並傳播新聞的人，可任職媒體或自由接案；不只是朗讀新聞的播報員。"
   },
   "n2-jmdict-1323370": {
     "sentence": "水道の蛇口が壊れていて使えなかった。",
@@ -13281,7 +17150,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "控制水流出入的水龍頭出口裝置；「蛇口をひねる」是轉動龍頭，不是指蛇的嘴。"
   },
   "n2-jmdict-1324870": {
     "sentence": "誰にでも弱点があります。",
@@ -13307,7 +17177,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "能力、性格、計畫等薄弱或容易受攻擊的部分；「弱点を補う」是彌補不足，不一定是缺陷疾病。"
   },
   "n2-jmdict-1323120": {
     "sentence": "車庫を仕事場として使えるように改造した。",
@@ -13333,7 +17204,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "停放、保管車輛的建築或專用空間；與供多人臨時停車的駐車場用途有所不同。"
   },
   "n2-jmdict-1322120": {
     "sentence": "彼はりんごを写生した。",
@@ -13358,7 +17230,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1715036",
       "modified": "none"
-    }
+    },
+    "explanation": "觀察實際景物、對象並畫下來；「風景を写生する」不同於照著他人作品臨摹。"
   },
   "n2-jmdict-1005650": {
     "sentence": "しゃっくりがよく出ます。",
@@ -13385,7 +17258,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "53088",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "橫膈膜不自主收縮引起、連續發聲的打嗝；不同於胃中氣體排出的噯氣げっぷ。"
   },
   "n2-jmdict-1323280": {
     "sentence": "車輪はゆっくり転がり始めた。",
@@ -13410,7 +17284,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "265647",
       "modified": "none"
-    }
+    },
+    "explanation": "車輛用來滾動前進的輪子；常說「車輪が回る」，不只是汽車橡膠輪胎部分。"
   },
   "n2-jmdict-1005970": {
     "sentence": "じゃんけんぽん。",
@@ -13435,7 +17310,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "415516",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以石頭、剪刀、布手勢分勝負的猜拳；常用「じゃんけんで決める」決定順序、分工。"
   },
   "n2-jmdict-1333600": {
     "sentence": "あなたか私のどちらかがその集会に出席しなければならない。",
@@ -13460,7 +17336,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "71417",
       "modified": "none"
-    }
+    },
+    "explanation": "為共同目的召集多人參加的聚會；「集会を開く」可公開或團體內部，不必然是抗議活動。"
   },
   "n2-jmdict-2841455": {
     "sentence": "彼女の住居を尋ねました。",
@@ -13485,7 +17362,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1300367",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "實際居住的房屋、場所，較正式；「住居を定める」是確定居所，與工作場所不同。"
   },
   "n2-jmdict-1333680": {
     "sentence": "集合場所はどこですか？",
@@ -13511,7 +17389,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "多人、多物集中到一處，也指數學集合；「駅前に集合する」是到車站前集合。"
   },
   "n2-jmdict-1332170": {
     "sentence": "テレビを修繕させたら、10000円とられた。",
@@ -13536,7 +17415,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "39152",
       "modified": "none"
-    }
+    },
+    "explanation": "修復物品、建物的破損使其恢復可用；「屋根の修繕」偏維修，不一定大幅改造設計。"
   },
   "n2-jmdict-1336570": {
     "sentence": "討論での重点は失業問題であった。",
@@ -13562,7 +17442,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "特別重視、集中力量的部分；「安全に重点を置く」是以安全為重，不只是列出很多要點。"
   },
   "n2-jmdict-1336770": {
     "sentence": "昨日の重役会は大成功だった。",
@@ -13588,7 +17469,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "公司董事等重要職位的人、高階主管；不是泛指工作量很重的職員。"
   },
   "n2-jmdict-1333040": {
     "sentence": "会議は終了しました。",
@@ -13615,7 +17497,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1284135",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某項活動、程序完成或結束；「受付を終了する」停止受理，不代表整個機構永久關閉。"
   },
   "n2-jmdict-1336900": {
     "sentence": "体積が大きいからといって常に重量も重いとは限らない。",
@@ -13641,7 +17524,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "物體的重量，常用於運送、規格說明；日常以公斤等標示，與物體體積大小不同。"
   },
   "n2-jmdict-1336980": {
     "sentence": "彼らは無重力で一連の実験を行なった。",
@@ -13667,7 +17551,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "天體對附近物體產生的吸引及相關作用，日常常指地球重力；與磁鐵吸引力不同。"
   },
   "n2-jmdict-1337500": {
     "sentence": "日本では春分の日と秋分の日は国民の祝日だが、夏至と冬至は祝日ではない。",
@@ -13693,7 +17578,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "為紀念等指定的公眾假日；日本常指国民の祝日，不等於每個週末或個人的休假日。"
   },
   "n2-jmdict-1337630": {
     "sentence": "金属は冷やされると縮小する。",
@@ -13718,7 +17604,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9126",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把尺寸、範圍、規模變小；「画像を縮小する」是縮小影像，不一定刪去其中內容。"
   },
   "n2-jmdict-1329740": {
     "sentence": "有名大学は倍率が高いから受験者も必死です。",
@@ -13743,7 +17630,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1482069",
       "modified": "none"
-    }
+    },
+    "explanation": "參加入學、資格等考試；「大学を受験する」是報考大學，不保證考上或已成為學生。"
   },
   "n2-jmdict-1325420": {
     "sentence": "文には普通、主語と動詞がある。",
@@ -13768,7 +17656,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "806760",
       "modified": "none"
-    }
+    },
+    "explanation": "句中表示誰、什麼是動作或狀態主體的成分；日語常省略，不能把所有は標記一律當主語。"
   },
   "n2-jmdict-1579780": {
     "sentence": "犬は尻尾を振って、主人を追いました。",
@@ -13794,7 +17683,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "家庭、店鋪等的主人，也可用來稱自己的丈夫；稱呼配偶方式依個人與場合，現也常用夫。"
   },
   "n2-jmdict-1338600": {
     "sentence": "彼は雨の日以外は毎日徒歩で出勤します。",
@@ -13821,7 +17711,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "293873",
       "modified": "none"
-    }
+    },
+    "explanation": "到工作場所上班、出席工作；與離開工作場所的退勤相對，不是所有外出都叫出勤。"
   },
   "n2-jmdict-1339660": {
     "sentence": "彼はニューヨーク出張に行ってるよ。",
@@ -13847,7 +17738,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "因工作臨時前往平常工作地以外的地方；「海外出張」是海外出差，不是搬遷任職地的転勤。"
   },
   "n2-jmdict-1330240": {
     "sentence": "海がめは寿命が長い。",
@@ -13873,7 +17765,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "生命能持續的期間，也可指機器可用的年限；「電池の寿命」不是說電池有生物生命。"
   },
   "n2-jmdict-1326290": {
     "sentence": "次の文化祭で初めて主役を演じることになっています。",
@@ -13900,7 +17793,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "128153",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "故事、舞台的主要角色或演員，也比喻某活動中心人物；與配角的脇役對照。"
   },
   "n2-jmdict-1330090": {
     "sentence": "彼は急いで受話器を置いた。",
@@ -13924,7 +17818,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "電話中供聽取聲音、傳話的聽筒，通常指傳統電話手柄；「受話器を置く」常表示掛電話。"
   },
   "n2-jmdict-1342340": {
     "sentence": "まずご両親に話してみるのが順序というものだろう。",
@@ -13949,7 +17844,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "32809",
       "modified": "none"
-    }
+    },
+    "explanation": "事物排列、進行的先後次第；「順序を守る」是按順序，不只是確認所有項目都有做。"
   },
   "n2-jmdict-1350140": {
     "sentence": "よく消化するためには、食べ物を十分かまねばならない。",
@@ -13976,7 +17872,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13734",
       "modified": "none"
-    }
+    },
+    "explanation": "把食物分解吸收的過程，也比喻理解知識、完成工作；「話を消化する」不是字面上的吃東西。"
   },
   "n2-jmdict-1347880": {
     "sentence": "この問題は難しすぎて小学生には解けないよ。",
@@ -14003,7 +17900,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "56676",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "就讀小學的學生；日本小學通常六年制，不能只憑身高或看起來年幼就判定為小学生。"
   },
   "n2-jmdict-1356930": {
     "sentence": "水は沸騰すると水蒸気になる。",
@@ -14028,7 +17926,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270835",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "物質受熱等形成的氣態，日常多指水蒸氣及可見白霧；「蒸気機関」是蒸汽動力裝置。"
   },
   "n2-jmdict-1435520": {
     "sentence": "定規で線を書いて。",
@@ -14052,7 +17951,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "畫直線、測量等使用的尺具；「定規で線を引く」是用尺畫線，並非抽象規則的規則。"
   },
   "n2-jmdict-1352930": {
     "sentence": "被告は上級裁判所に控訴するだろう。",
@@ -14078,7 +17978,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "較高的等級、能力程度；「上級者向け」適合高階學習者，不保證該人具有主管身分。"
   },
   "n2-jmdict-1346740": {
     "sentence": "大阪は日本の商業の中心地です。",
@@ -14104,7 +18005,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以買賣商品、服務獲利的經濟活動；常見「商業施設」，與工業生產、農業有所區別。"
   },
   "n2-jmdict-1351930": {
     "sentence": "彼は賞金を銀行に預金した。",
@@ -14131,7 +18033,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "299664",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "因競賽、表彰等獲得的金錢獎勵；「賞金を獲得する」與紀念品、獎盃等賞品不同。"
   },
   "n2-jmdict-1352710": {
     "sentence": "僕の名前は上下合わせて50画もあるので、書くのがとても面倒だ。",
@@ -14157,7 +18060,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "上與下、上下方向或升降變化；「気温の上下」是氣溫起伏，也可指身分尊卑關係。"
   },
   "n2-jmdict-1347080": {
     "sentence": "ニューヨークにはたくさんの商社がある。",
@@ -14184,7 +18088,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "236941",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "從事商品買賣、貿易與相關商務的公司；常見「総合商社」，不同於單一零售店。"
   },
   "n2-jmdict-1355270": {
     "sentence": "乗車券が見つからない。",
@@ -14209,7 +18114,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "268417",
       "modified": "none"
-    }
+    },
+    "explanation": "搭上電車、巴士等車輛，或乘坐其中；「乗車券」是車票，與下車相對。"
   },
   "n2-jmdict-1347180": {
     "sentence": "以前ちょうどここに商店があった。",
@@ -14236,7 +18142,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "28358",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "販售商品的店鋪；常見「商店街」，可為個人或企業經營，不一定是大型百貨公司。"
   },
   "n2-jmdict-1350810": {
     "sentence": "委員会はもっと具体的な問題に焦点を当てるべきだ。",
@@ -14260,7 +18167,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "光線匯聚的位置，也比喻討論、注意力的中心；「焦点を当てる」是聚焦某問題。"
   },
   "n2-jmdict-1356960": {
     "sentence": "水分は温められると蒸発する。",
@@ -14287,7 +18195,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270934",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "液體轉成氣體的現象，也可比喻人突然不知去向；「水が蒸発する」不表示必須先沸騰。"
   },
   "n2-jmdict-1351960": {
     "sentence": "先生はジョンに賞品を与えた。",
@@ -14314,7 +18223,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "272874",
       "modified": "none"
-    }
+    },
+    "explanation": "作為得獎獎勵的物品；與金錢獎勵的賞金不同，也別與販售物品的「商品」混寫。"
   },
   "n2-jmdict-1346230": {
     "sentence": "水泳では兄といい勝負だ。",
@@ -14338,7 +18248,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "分出輸贏的比賽、較量，亦指輸贏本身；「勝負する」是較量，不保證最後獲勝。"
   },
   "n2-jmdict-1350370": {
     "sentence": "消防署は警察署の隣にあります。",
@@ -14364,7 +18275,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "地方負責消防、救急等工作的機關、據點；「消防署に連絡する」不等同警察署。"
   },
   "n2-jmdict-1351120": {
     "sentence": "その本の最終章は省略してよい。",
@@ -14389,7 +18301,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "43944",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "為求簡潔而略去某部分；「説明を省略する」不是忘記全部內容，也不保證省略後仍適合所有場合。"
   },
   "n2-jmdict-1357550": {
     "sentence": "ケーキ職人は小さい頃からの夢でした。",
@@ -14414,7 +18327,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "62628",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "熟練掌握製作、修理等專門技藝的工匠；「職人の技」強調技術，不是所有公司職員。"
   },
   "n2-jmdict-1357540": {
     "sentence": "この暑さの中歩いて職場に行くのは良くない。",
@@ -14438,7 +18352,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "實際工作的場所、所屬工作環境；「職場の人間関係」是同事關係，不只物理辦公室。"
   },
   "n2-jmdict-1344090": {
     "sentence": "この電子書籍革命はまったく気に入らない。",
@@ -14465,7 +18380,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "954916",
       "modified": "none"
-    }
+    },
+    "explanation": "書本、出版成冊的文字作品，較正式；「電子書籍」也是書籍，不限定紙本或教科書。"
   },
   "n2-jmdict-1358430": {
     "sentence": "どこに食器があるの？",
@@ -14491,7 +18407,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "盛放、使用於飲食的碗盤等器具；常說「食器を洗う」，與料理製作用的調理器具區別。"
   },
   "n2-jmdict-1062820": {
     "sentence": "このポテトチップスは、オンラインショップ限定商品です。",
@@ -14515,7 +18432,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "店鋪的外來語，多見於店名、專賣店名稱；「オンラインショップ」是網路商店，不需實體店面。"
   },
   "n2-jmdict-1344120": {
     "sentence": "そのデパートの前に書店がある。",
@@ -14541,7 +18459,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "販售書籍的店鋪；可買書，不同於以借閱為主的図書館，也不一定只賣書。"
   },
   "n2-jmdict-1344130": {
     "sentence": "書道については、多少なりとも知っている。",
@@ -14568,7 +18487,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "11238616",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以書寫文字表現美感的藝術，常使用毛筆；「書道を習う」不只是練習某個字的拼寫。"
   },
   "n2-jmdict-1595070": {
     "sentence": "彼女と知り合いになった。",
@@ -14594,7 +18514,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "互相認識的人、熟人；關係不必親密，與親しい友達不同，可說「知り合いになる」。"
   },
   "n2-jmdict-1062910": {
     "sentence": "この本はシリーズで４８巻ある。",
@@ -14619,7 +18540,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "958171",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "依共同主題、人物等連續推出的一系列作品、產品；並非只有電視連續劇能使用。"
   },
   "n2-jmdict-1311420": {
     "sentence": "あなたは、私立高校の生徒ですか。",
@@ -14646,7 +18568,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "70288",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "由民間個人、法人等設立的學校、機構；常見「私立大学」，與国立、公立不同。"
   },
   "n2-jmdict-1312820": {
     "sentence": "この資料が信頼できるかどうか疑わしい。",
@@ -14673,7 +18596,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59023",
       "modified": "none"
-    }
+    },
+    "explanation": "作為研究、說明、判斷依據的文字、數據等；「資料を配る」不限於紙本，也可為電子檔。"
   },
   "n2-jmdict-1397270": {
     "sentence": "それは素人考えだ。",
@@ -14699,7 +18623,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "沒有該領域專業訓練、以非職業身分參與的人；「素人には難しい」不可推論該人完全沒有經驗。"
   },
   "n2-jmdict-1361590": {
     "sentence": "新しい新幹線の速いこと！",
@@ -14726,7 +18651,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "269193",
       "modified": "none"
-    }
+    },
+    "explanation": "日本高速鐵路系統及其列車；「新幹線に乗る」不泛指世界所有高速列車，也不保證每站皆停。"
   },
   "n2-jmdict-1360750": {
     "sentence": "適度な運動をすれば、心身共に爽やかになれますよ。",
@@ -14752,7 +18678,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "心理、精神與身體的總稱；「心身ともに」是身心兩方面，不只是體力或情緒其中一項。"
   },
   "n2-jmdict-1363130": {
     "sentence": "彼女はビザを申請した。",
@@ -14778,7 +18705,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "向主管機關、組織正式提出許可、資格等請求；「申請が通る」才表示獲准，申請本身不保證通過。"
   },
   "n2-jmdict-1368580": {
     "sentence": "人造皮革は本物の皮にかなわない。",
@@ -14804,7 +18732,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "人工製成、非天然生成的性質；「人造湖」為人工湖，不一定品質低於天然物。"
   },
   "n2-jmdict-1359850": {
     "sentence": "彼は住居に侵入した。",
@@ -14831,7 +18760,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "283445",
       "modified": "none"
-    }
+    },
+    "explanation": "未獲允許、違反界限進入某範圍，也用於駭入系統；不是所有正常入場都用侵入。"
   },
   "n2-jmdict-1369400": {
     "sentence": "その戦争では百万人もの人命が失われた。",
@@ -14856,7 +18786,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "439563",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "人的生命，常見「人命救助」「人命に関わる」；較正式，重視生命安全，不是人的姓名。"
   },
   "n2-jmdict-1362530": {
     "sentence": "小規模の森林火災はみるみる広がり大火災となった。",
@@ -14882,7 +18813,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "大量樹木及其生態環境形成的地帶；「森林を保護する」不只保護單棵樹或木材存量。"
   },
   "n2-jmdict-1365420": {
     "sentence": "遠くの親類より近くの他人。",
@@ -14906,7 +18838,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "具有血緣、婚姻關係的親戚；「親類の家」不是單純親近朋友的家，也不限定同住家人。"
   },
   "n2-jmdict-1364940": {
     "sentence": "世界神話の中でも、大洪水の話はとても有名だ。",
@@ -14932,7 +18865,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以神祇、世界起源等為內容的傳承故事，也可比喻被過度相信的說法；不只希臘神話。"
   },
   "n2-jmdict-1371780": {
     "sentence": "鉄は硫黄に、水素は酸素に親和性がある。",
@@ -14956,7 +18890,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "化學元素氫，符號H；「水素ガス」是氫氣，不等於水本身或氧氣。"
   },
   "n2-jmdict-1371210": {
     "sentence": "推定によれば、今年の鉄鋼生産は１億トンに達するだろう。",
@@ -14983,7 +18918,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270720",
       "modified": "none"
-    }
+    },
+    "explanation": "根據資料、跡象作出合理估計；「推定年齢」是推估年齡，並非已確認的精確數字。"
   },
   "n2-jmdict-1372010": {
     "sentence": "水分をたくさん取ってください。",
@@ -15008,7 +18944,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "270935",
       "modified": "none"
-    }
+    },
+    "explanation": "物體含有的水、人體所需的水等；「水分を取る」是補充水分，不只喝純水一種方式。"
   },
   "n2-jmdict-1372060": {
     "sentence": "水平線に漁船がいくつか見えます。",
@@ -15032,7 +18969,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "遠處海面與天空看似相接的線，也指水平的線；與陸地、天空交界的地平線有別。"
   },
   "n2-jmdict-1372120": {
     "sentence": "１枚の落ち葉が水面に浮かんでいた。",
@@ -15059,7 +18997,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "73029",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "水體最上方與空氣接觸的表面；「水面に浮かぶ」指浮在水上，不是水底。"
   },
   "n2-jmdict-1372180": {
     "sentence": "水曜日までに小論文を提出しなくてはなりません。",
@@ -15085,7 +19024,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "星期三「水曜日」的簡稱；「毎週水曜」是每週三，不是每個月第三日。"
   },
   "n2-jmdict-1584380": {
     "sentence": "メアリーは3人姉妹の末っ子だ。",
@@ -15112,7 +19052,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "兄弟姊妹中年紀最小的孩子，不限定性別；與只說最小兒子的末の息子不同。"
   },
   "n2-jmdict-1067480": {
     "sentence": "その少女は首に長いスカーフを巻いていた。",
@@ -15138,7 +19079,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "披、繫在頸部或頭部的薄布巾；可裝飾、防護，通常比防寒用マフラー輕薄。"
   },
   "n2-jmdict-1068230": {
     "sentence": "このスイミングスクールの毎月の月謝はいくらですか。",
@@ -15165,7 +19107,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "61008",
       "modified": "none"
-    }
+    },
+    "explanation": "教授特定知識、技能的學校，常見於語言、舞蹈等名稱；不限於正式義務教育學校。"
   },
   "n2-jmdict-1069370": {
     "sentence": "いいスタートが切れれば、ほとんど勝ったようなものだよ。",
@@ -15192,7 +19135,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "266784",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "活動的開始、比賽起點；「新生活のスタート」可抽象使用，不必有實體起跑線。"
   },
   "n2-jmdict-1070320": {
     "sentence": "この席からはステージが良く見えない。",
@@ -15217,7 +19161,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "11395",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "表演舞台，也指發展、治療、遊戲等階段；「次のステージ」須依情境判斷是否實體舞台。"
   },
   "n2-jmdict-1450900": {
     "sentence": "我々の頭脳でさえ、全て物理の法則に従っている。",
@@ -15243,7 +19188,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "思考、判斷的腦力，也可比喻組織中的智囊；「頭脳を使う」不是單純活動頭部。"
   },
   "n2-jmdict-1401360": {
     "sentence": "相撲は日本の伝統的なスポーツです。",
@@ -15269,7 +19215,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "兩人在土俵內角力的日本傳統競技；常用「相撲を取る」，不等同一般摔角的所有規則。"
   },
   "n2-jmdict-1073900": {
     "sentence": "このスリッパに履きかえてください。",
@@ -15296,7 +19243,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "60950",
       "modified": "none"
-    }
+    },
+    "explanation": "便於穿脫的拖鞋，日本多指室內用；進榻榻米房前通常也需脫下，非所有場合都可穿。"
   },
   "n2-jmdict-1380650": {
     "sentence": "この工場では自動車の部品を製作している。",
@@ -15321,7 +19269,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "236776",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "製造機械、物品等，也用於電影製作等統籌；與制作有重疊，常偏具體製造、出資製作層面。"
   },
   "n2-jmdict-1374810": {
     "sentence": "番組制作チームはこのバラエティ収録のために3か月を費やして準備し、その規模は年越し特番にも匹敵する。",
@@ -15345,7 +19294,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "創作繪畫、藝術、影像等作品；「作品を制作する」重視創作內容，與製作的實物生產側重不同。"
   },
   "n2-jmdict-1375390": {
     "sentence": "自信と勇気は男性の性質だけでなく、誰もが求められる価値でもある。",
@@ -15369,7 +19319,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "事物、物質本來具有的特點，也可指人的性情；「性質が異なる」不只是外觀不同。"
   },
   "n2-jmdict-1381570": {
     "sentence": "8月12日は国際青少年デーです。",
@@ -15395,7 +19346,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "少年與青年階段的人群總稱；實際年齡範圍依制度、語境而異，不宜給固定單一年齡界線。"
   },
   "n2-jmdict-1379230": {
     "sentence": "大気汚染は我々の生存を脅かすものになるだろう。",
@@ -15422,7 +19374,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "275656",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "生命持續存在、仍然活著；「生存を確認する」不是確認生活品質良好或住所穩定。"
   },
   "n2-jmdict-1376060": {
     "sentence": "その団体はどの政党とも関係がありません。",
@@ -15449,7 +19402,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "45450",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以政治理念、政策等組成並參與政治的團體；與政府機關、一般民間社團不同。"
   },
   "n2-jmdict-1376240": {
     "sentence": "このラボラトリーは最新のコンピューターを整備している。",
@@ -15473,7 +19427,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "檢查、修理使設備可正常使用，也指完善制度、環境；「道路を整備する」不只清掃道路。"
   },
   "n2-jmdict-1375860": {
     "sentence": "その液から溶剤を揮発させる。残るのは、香り成分と植物ワックスの塊。",
@@ -15499,7 +19454,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "構成物質、食品等的各種要素；「成分を調べる」是查成分，不等於確認整體品質或安全性。"
   },
   "n2-jmdict-1377920": {
     "sentence": "正方形には四つの辺がある。",
@@ -15525,7 +19481,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "四邊等長、四角皆為直角的四邊形；與只要求對邊等長的長方形、一般菱形有所區別。"
   },
   "n2-jmdict-1378100": {
     "sentence": "2時半に正門の前に迎えに来てください。",
@@ -15551,7 +19508,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "建築、校園等的主要正式入口；「正門前に集合する」是在大門前集合，不一定是最近入口。"
   },
   "n2-jmdict-1375880": {
     "sentence": "男女間の友情って成立すると思いますか？",
@@ -15577,7 +19535,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "條件滿足而使事物形成、有效或達成；「契約が成立する」不只表示開始討論契約。"
   },
   "n2-jmdict-1383560": {
     "sentence": "オーストラリアへの旅で、初めて赤道を超えたんだ。",
@@ -15603,7 +19562,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "地球上緯度零度的假想圓線，分隔南北半球；不是地表真實畫出的紅線。"
   },
   "n2-jmdict-1385370": {
     "sentence": "台風が日本に接近中です。",
@@ -15630,7 +19590,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "275427",
       "modified": "none"
-    }
+    },
+    "explanation": "距離縮短、逐漸靠近，也可指人際或意見接近；「台風が接近する」不等於已登陸。"
   },
   "n2-jmdict-1385350": {
     "sentence": "カリフォルニアとネバダは互いに接している。",
@@ -15725,7 +19686,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "326868",
       "modified": "none"
-    }
+    },
+    "explanation": "把物體、系統、語句等連在一起；「インターネットに接続する」表示連線，不一定已開啟網頁。"
   },
   "n2-jmdict-1074740": {
     "sentence": "セメントは２、３時間で固まる。",
@@ -15752,7 +19714,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "51280",
       "modified": "none"
-    }
+    },
+    "explanation": "混水後會凝結、用來黏結建材的粉狀材料；混凝土包含水泥與砂石等，兩者不同。"
   },
   "n2-jmdict-1577270": {
     "sentence": "それは私の台詞だよ！",
@@ -15776,7 +19739,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "戲劇、影像中角色說的話，也可指某人慣說的說辭；「台詞を覚える」是背台詞。"
   },
   "n2-jmdict-1395410": {
     "sentence": "夜1時に家に辿り着いたときには全身くたくたになっていた。",
@@ -15802,7 +19766,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "身體所有部位的總稱；「全身が痛い」是全身痠痛，不只指身體的上半部。"
   },
   "n2-jmdict-1389810": {
     "sentence": "彼は専制君主である。",
@@ -15828,7 +19793,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "權力集中、由統治者專斷控制的政治形態；常見「専制政治」，不是一般專門制定規則。"
   },
   "n2-jmdict-1389730": {
     "sentence": "彼らはテレビで新製品を宣伝した。",
@@ -15854,7 +19820,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "為使人認識、接受而廣泛傳播資訊；可用於商品、思想，不保證內容客觀中立。"
   },
   "n2-jmdict-1596210": {
     "sentence": "我々の車は速く、じきにほかの車の先頭に立った。",
@@ -15879,7 +19846,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1341523",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "隊伍、排列或進行方向的最前端；「先頭に立つ」可比喻帶頭，不等同比賽最後獲勝。"
   },
   "n2-jmdict-1390760": {
     "sentence": "名古屋の夏を涼しく過ごすには扇風機が必須だ。",
@@ -15905,7 +19873,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以扇葉等帶動空氣流動的電風扇；本身主要送風，不同於透過冷媒降溫的冷氣機。"
   },
   "n2-jmdict-1396390": {
     "sentence": "全力で走ったんだけど、電車に間に合わなかったんだ。",
@@ -15931,7 +19900,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "所有能動用的力量、能力；「全力を尽くす」是盡全力，不保證結果一定成功。"
   },
   "n2-jmdict-1391880": {
     "sentence": "鉄道線路と道路は平行している。",
@@ -15955,7 +19925,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "鐵路車輛行駛的軌道、路線；「線路内に入る」指進入軌道區，不是普通馬路。"
   },
   "n2-jmdict-1400820": {
     "sentence": "我々にはわずかな意見の相違があった。",
@@ -15980,7 +19951,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "23489",
       "modified": "none"
-    }
+    },
+    "explanation": "兩者之間的差別、不同，較正式；「相違ない」表示沒有差異、確實如此，不是同意所有觀點。"
   },
   "n2-jmdict-1399120": {
     "sentence": "倉庫のドアの鍵をかけ忘れたのは誰なの？",
@@ -16006,7 +19978,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "保管貨物、原料等的建物、空間；「倉庫に保管する」不必然已上架販售。"
   },
   "n2-jmdict-1596370": {
     "sentence": "相互理解は平和を促進する。",
@@ -16032,7 +20005,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "雙方或多方彼此之間；「相互理解」是互相理解，不只是單方面了解對方。"
   },
   "n2-jmdict-1402160": {
     "sentence": "彼の葬式には大勢の人が参列した。",
@@ -16058,7 +20032,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "送別、安葬逝者相關的儀式；常說「葬式に参列する」，與婚禮、法事的場合不同。"
   },
   "n2-jmdict-1403310": {
     "sentence": "宇宙では、エントロピーは無際限に増大している。",
@@ -16084,7 +20059,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "規模、程度、數量擴大；「負担が増大する」可用於抽象負擔，不只物體體積變大。"
   },
   "n2-jmdict-1402850": {
     "sentence": "ジョーンズ氏のために送別会が開かれた。",
@@ -16109,7 +20085,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "404905",
       "modified": "none"
-    }
+    },
+    "explanation": "為即將離開的人送行、道別；「送別会」是歡送會，不是迎接新人的歓迎会。"
   },
   "n2-jmdict-1401820": {
     "sentence": "総理大臣が昨日辞職した。",
@@ -16135,7 +20112,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "日本內閣首長的常用稱呼，完整稱內閣總理大臣；是職位名稱，不是特定現任人物姓名。"
   },
   "n2-jmdict-1405710": {
     "sentence": "アイスランドはデンマークに属していた。",
@@ -16234,7 +20212,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "274525",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "用儀器、方法取得長度、溫度等數值；「血圧を測定する」不只是憑感覺估計。"
   },
   "n2-jmdict-1405080": {
     "sentence": "私は列車に間に合うように全速力で走った。",
@@ -16258,7 +20237,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "物體移動的快慢；「速力を上げる」是提高速度，並非增加總路程。"
   },
   "n2-jmdict-1413250": {
     "sentence": "彼は大学院に進学しないだろう。",
@@ -16285,7 +20265,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "301261",
       "modified": "none"
-    }
+    },
+    "explanation": "大學以上進行專門研究、授予碩博士等學位的教育階段、機構；不同於大學部。"
   },
   "n2-jmdict-1413690": {
     "sentence": "私のおじいちゃんは大工です。",
@@ -16312,7 +20293,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "4220049",
       "modified": "none"
-    }
+    },
+    "explanation": "以木材建造、修理建築的木匠；「大工に頼む」指請木工處理，不是所有建築工種。"
   },
   "n2-jmdict-1408280": {
     "sentence": "太鼓の音は遠のいていった。",
@@ -16337,7 +20319,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "275020",
       "modified": "none"
-    }
+    },
+    "explanation": "以鼓皮等受敲擊發聲的鼓類，常指日式太鼓；「太鼓をたたく」不使用弾く。"
   },
   "n2-jmdict-1410050": {
     "sentence": "私たちはそれを防止する強硬な対策を講じた。",
@@ -16362,7 +20345,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "248182",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "針對問題、風險而採取的措施；「対策を立てる／講じる」是擬定、施行對策，不是單純說明原因。"
   },
   "n2-jmdict-1410080": {
     "sentence": "その絵はこの絵とは対照的にカラフルだ。",
@@ -16386,7 +20370,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "把事物放在一起比較，以看出差異、對比；「対照的」是對比鮮明，勿與対象混寫。"
   },
   "n2-jmdict-1409550": {
     "sentence": "共産主義はソ連で実践された体制である。",
@@ -16410,7 +20395,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "組織、制度整體的運作安排；「協力体制を整える」是建立合作機制，與身體姿勢的体勢不同。"
   },
   "n2-jmdict-1409560": {
     "sentence": "体積が大きいからといって常に重量も重いとは限らない。",
@@ -16436,7 +20422,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "立體物體占據空間的大小；用立方公分等表示，與平面的面積、物體重量不同。"
   },
   "n2-jmdict-1409580": {
     "sentence": "朝食前にいつも体操をします。",
@@ -16462,7 +20449,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "為健康、訓練或競技進行的身體運動；「ラジオ体操」是廣播體操，不只奧運體操比賽。"
   },
   "n2-jmdict-1415090": {
     "sentence": "大木が嵐で倒れた。",
@@ -16488,7 +20476,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "高大、粗壯的樹木；「大木の陰」是大樹蔭下，不是木材數量很多的意思。"
   },
   "n2-jmdict-1415490": {
     "sentence": "その小説は聖書から題名をとっている。",
@@ -16513,7 +20502,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "46521",
       "modified": "none"
-    }
+    },
+    "explanation": "作品、文章、演講等的名稱、標題；「題名をつける」是命題，不等同作者姓名。"
   },
   "n2-jmdict-1412340": {
     "sentence": "「クレオパトラ」は美人の代名詞になっている。",
@@ -16540,7 +20530,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "236643",
       "modified": "none"
-    }
+    },
+    "explanation": "代替人、物、處所等名稱的詞，如これ、彼；也可比喻某事物的代表，例如品質の代名詞。"
   },
   "n2-jmdict-1076890": {
     "sentence": "このダイヤモンドは偽物です。",
@@ -16567,7 +20558,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "788458",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "由碳形成的堅硬礦物鑽石，也用於棒球內野形狀等比喻；不表示所有透明寶石。"
   },
   "n2-jmdict-1077110": {
     "sentence": "シングルルーム、それともダブルルームですか。",
@@ -16593,7 +20585,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "雙倍、雙重，也可指旅館雙人床房型；ダブル與兩張單人床的ツイン不同。"
   },
   "n2-jmdict-1077140": {
     "sentence": "このダムは水と電力を与えてくれる。",
@@ -16619,7 +20612,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "攔水、蓄水或調節河流的壩體、設施；與沿岸防洪堤、天然湖泊概念不同。"
   },
   "n2-jmdict-1418640": {
     "sentence": "どんな語学も短期では無理だ。",
@@ -16644,7 +20638,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "36653",
       "modified": "none"
-    }
+    },
+    "explanation": "時間較短的期間，長短依事情尺度而定；「短期留学」不是固定只指一週，與長期相對。"
   },
   "n2-jmdict-1597260": {
     "sentence": "炭鉱の内部に多くの労働者が閉じ込められた。",
@@ -16670,7 +20665,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "開採煤炭的礦場、礦坑；與煤炭燃燒發電的火力發電廠不同。"
   },
   "n2-jmdict-1418760": {
     "sentence": "誰にでも長所と短所がある。",
@@ -16696,7 +20692,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "能力、性格或事物不足、較差的部分；「長所と短所」是優缺點，不只是物理長度短。"
   },
   "n2-jmdict-1418460": {
     "sentence": "鯉や鱒のような魚は淡水に生息している。",
@@ -16722,7 +20719,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "含鹽量低的水，如多數河川、湖泊水；與海水相對，不表示已經處理成可飲用水。"
   },
   "n2-jmdict-1419740": {
     "sentence": "昨晩の火事は放火と断定された。",
@@ -16748,7 +20746,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "明確判斷某事確實如此、不留保留；「断定できない」表示目前不能下定論，不是斷言不存在。"
   },
   "n2-jmdict-1597300": {
     "sentence": "私は短編小説を書くのに忙しい。",
@@ -16774,7 +20773,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "篇幅較短的小說、電影等作品；「短編小説」與長編相對，具體長度無單一絕對界線。"
   },
   "n2-jmdict-1420620": {
     "sentence": "彼女には知人はたくさんいたが、友人といえる人は一人もいなかった。",
@@ -16798,7 +20798,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "認識的人、熟人，較書面；關係不一定親密，不能完全等同好朋友。"
   },
   "n2-jmdict-1421360": {
     "sentence": "セバティック島は、インドネシアとマレーシアの国境地帯の一つです。",
@@ -16823,7 +20824,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8407136",
       "modified": "none"
-    }
+    },
+    "explanation": "具有某種共同地形、氣候或用途的廣泛區域；如「工業地帯」，不必對應行政區界。"
   },
   "n2-jmdict-1077740": {
     "sentence": "合衆国ではチップが必要だということを忘れない方がよい。",
@@ -16850,7 +20852,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "241315",
       "modified": "none"
-    }
+    },
+    "explanation": "此條指對服務人員表達謝意的小費；與電子晶片、木屑等同形詞義不同，是否給付依地區習慣。"
   },
   "n2-jmdict-1421380": {
     "sentence": "その湖はこの地点が一番深いんです。",
@@ -16875,7 +20878,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "48128",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "可明確指出的位置、點位；「事故の地点」是事故發生處，不泛指整片區域。"
   },
   "n2-jmdict-1426190": {
     "sentence": "抽象的な芸術には理解しにくいものがある。",
@@ -16902,7 +20906,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "277567",
       "modified": "none"
-    }
+    },
+    "explanation": "從具體事物抽取共通性質、概念；「抽象的な説明」缺乏具體例子，未必表示錯誤。"
   },
   "n2-jmdict-1425030": {
     "sentence": "君は物事を中途半端にしてはいけないよ。",
@@ -16927,7 +20932,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9580",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "事情尚未完成的中間階段；「中途でやめる」是半途停止，不是到了終點才停止。"
   },
   "n2-jmdict-1425240": {
     "sentence": "彼女は中年デブだ。",
@@ -16954,7 +20960,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1189864",
       "modified": "none"
-    }
+    },
+    "explanation": "青年之後、老年之前的人生階段；年齡界線依社會、語境而異，不必用單一年齡硬性區分。"
   },
   "n2-jmdict-1429410": {
     "sentence": "その車は制限速度を超過している。",
@@ -16979,7 +20986,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "46821",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "超出規定的數量、時間、界限；「定員を超過する」是超額，不等同追趕車輛的追い越す。"
   },
   "n2-jmdict-1430030": {
     "sentence": "誰にでも長所と短所がある。",
@@ -17005,7 +21013,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "能力、性格或事物值得肯定的優點；「長所を伸ばす」是發揮優勢，不只是尺寸較長。"
   },
   "n2-jmdict-1429200": {
     "sentence": "彼は優れた調整役で、ずっとそのように見られていた。",
@@ -17030,7 +21039,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "304338",
       "modified": "none"
-    }
+    },
+    "explanation": "為達平衡、協調各條件而修改安排；「日程を調整する」是協調時間，不一定只改早或改晚。"
   },
   "n2-jmdict-1429240": {
     "sentence": "音量調節はどこでやるの？",
@@ -17057,7 +21067,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8511001",
       "modified": "none"
-    }
+    },
+    "explanation": "依需要改變量、程度以維持適當狀態；「音量を調節する」是調音量，與多方協調的調整側重不同。"
   },
   "n2-jmdict-1430080": {
     "sentence": "彼は長男です。",
@@ -17083,7 +21094,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "一個家庭兒子中年紀最大的兒子；不必然是第一個孩子，前面可能有姊姊。"
   },
   "n2-jmdict-1078240": {
     "sentence": "このチョークを持って、黒板に書きなさい。",
@@ -17110,7 +21122,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "60896",
       "modified": "none"
-    }
+    },
+    "explanation": "在黑板上書寫的粉筆，常用「チョークで書く」；與白板用麥克筆、一般鉛筆不同。"
   },
   "n2-jmdict-1431310": {
     "sentence": "彼は壁の上に直線を書いた。",
@@ -17137,7 +21150,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "303551",
       "modified": "none"
-    }
+    },
+    "explanation": "沒有彎曲、朝同一方向延伸的線；「直線を引く」畫直線，日常也可指路線的直線區段。"
   },
   "n2-jmdict-1597720": {
     "sentence": "円周から直径を求めることは可能ですか？",
@@ -17164,7 +21178,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "504803",
       "modified": "none"
-    }
+    },
+    "explanation": "通過圓心、連結圓周兩點的線段長度，為半徑兩倍；與圓周長不同。"
   },
   "n2-jmdict-1432460": {
     "sentence": "名簿に私の名前も追加してください。",
@@ -17188,7 +21203,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "在原有數量、內容上再增添；「注文を追加する」是加點，不必取消原訂單重新下單。"
   },
   "n2-jmdict-1345470": {
     "sentence": "彼は週末に新竹へ小旅行に行く予定で、ついでに城隍廟の夜市も訪れるつもりだ。",
@@ -17214,7 +21230,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "進行主要事情時順便做另一件事的機會；「買い物のついでに」不是把順便之事當主要目的。"
   },
   "n2-jmdict-1433140": {
     "sentence": "父は朝7時の地下鉄で通勤する。",
@@ -17238,7 +21255,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "往返住處與工作場所；「通勤時間」是上下班交通所需時間，不是整段上班工時。"
   },
   "n2-jmdict-1433470": {
     "sentence": "通知が多すぎるので、設定でオフにした。",
@@ -17264,7 +21282,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "把決定、資訊告知對方，也指告知文件、訊息；「合格の通知」是錄取通知，不是申請本身。"
   },
   "n2-jmdict-1433560": {
     "sentence": "彼女は通訳として働くことを強く望んでいる。",
@@ -17291,7 +21310,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "315886",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把口頭話語即時轉成另一語言的工作或人員；書面翻譯通常稱翻訳，不宜全都混稱。"
   },
   "n2-jmdict-1433600": {
     "sentence": "左側に秘密の通路がある。",
@@ -17317,7 +21337,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "供人、車通行的路徑、走道；「通路をふさぐ」是擋住通道，不等同專門散步的步道。"
   },
   "n2-jmdict-1328020": {
     "sentence": "お手洗いをお借りしてもよろしいですか？",
@@ -17344,7 +21365,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "洗手，也可指手洗衣物；加お常作洗手間的委婉稱呼，依「手洗いする／お手洗いへ」區分。"
   },
   "n2-jmdict-1434250": {
     "sentence": "カナダでは犯罪率が低下してきている。",
@@ -17371,7 +21393,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "832943",
       "modified": "none"
-    }
+    },
+    "explanation": "能力、品質、數值等降低；「視力が低下する」是視力下降，不是身體位置往下移。"
   },
   "n2-jmdict-1434920": {
     "sentence": "列車が停止したので、乗客はみんなどうしたのかと思った。",
@@ -17398,7 +21421,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "326154",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "運作、移動等停下來；「機械が停止する」不一定是故障，也可能依指令正常停止。"
   },
   "n2-jmdict-1434960": {
     "sentence": "どのくらいの時間、その町に停車していますか。",
@@ -17423,7 +21447,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "37622",
       "modified": "none"
-    }
+    },
+    "explanation": "車輛停止行駛、在車站等停靠；不一定長時間停放，與駐車的概念有區別。"
   },
   "n2-jmdict-1435020": {
     "sentence": "嵐の間停電した。",
@@ -17449,7 +21474,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "供電中斷、失去電力；「停電が復旧する」是恢復供電，不只是關掉一盞燈。"
   },
   "n2-jmdict-1339910": {
     "sentence": "彼はアメリカ大使館に自由に出入りできる。",
@@ -17476,7 +21502,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "288864",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "進入與離開，也指經常往來或收支變動；「人の出入りが多い」強調往來頻繁。"
   },
   "n2-jmdict-1328250": {
     "sentence": "あなたに庭の手入れを手伝って頂きたいのですが。",
@@ -17501,7 +21528,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "71037",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "為維持良好狀態而照料、保養、修整；「庭の手入れ」含除草修剪，不只清掃表面。"
   },
   "n2-jmdict-1078830": {
     "sentence": "私たちは、さまざまなテーマについて話し合った。",
@@ -17526,7 +21554,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "263015",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "作品、活動、討論等的主題；「テーマを決める」先定主題，不一定已決定標題措辭。"
   },
   "n2-jmdict-1327770": {
     "sentence": "その男は少女の手首をつかんだ。",
@@ -17552,7 +21581,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "手掌與前臂相接、可活動的手腕；與手指、手臂整體不同，常見「手首をひねる」。"
   },
   "n2-jmdict-1598330": {
     "sentence": "メモ魔の私は手帳を持っていないと不安になる。",
@@ -17578,7 +21608,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "便攜、用來記行程筆記的小冊，也指某些證明冊；「予定を手帳に書く」不限定日記內容。"
   },
   "n2-jmdict-1598350": {
     "sentence": "搭乗手続きはここでできますか？",
@@ -17604,7 +21635,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "為申請、交易等依規定完成的程序；「手続きを済ませる」是辦完手續，不只填一張表。"
   },
   "n2-jmdict-1440600": {
     "sentence": "出来事は彼が予言したとおりに展開した。",
@@ -17630,7 +21662,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "把折疊、集中之物展開，也指故事、事業發展；「意外な展開」是出乎預料的發展。"
   },
   "n2-jmdict-1443170": {
     "sentence": "真っ昼間なのに、キャンプの外れの電柱に、電球がともっていた。",
@@ -17656,7 +21689,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "將電能轉成光、可裝入燈座等使用的燈泡；現也有LED電球，不僅指傳統白熾燈。"
   },
   "n2-jmdict-1441660": {
     "sentence": "彼は私たちよりよい点数を取った。",
@@ -17682,7 +21716,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "考試、競賽分數，也可指物品件數；「作品の点数」有時是作品數量，非品質評分。"
   },
   "n2-jmdict-1442110": {
     "sentence": "伝染病が発生した。",
@@ -17709,7 +21744,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "404399",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "病原體從感染源傳到別人，也可比喻情緒傳開；「笑いが伝染する」不是醫學感染。"
   },
   "n2-jmdict-1443620": {
     "sentence": "PC内部のタイマー用ボタン電池が切れた。",
@@ -17736,7 +21772,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "329695",
       "modified": "none"
-    }
+    },
+    "explanation": "儲存、供應電能的裝置類總稱；有一次性與可充電類，不能一律當作可反覆充電。"
   },
   "n2-jmdict-1443630": {
     "sentence": "真っ昼間なのに、キャンプの外れの電柱に、電球がともっていた。",
@@ -17762,7 +21799,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "架設電力、通信線路等的柱；「電柱のそば」指電線桿旁，不等同所有路燈柱。"
   },
   "n2-jmdict-1582030": {
     "sentence": "天皇誕生日が日曜日と重なった。",
@@ -17787,7 +21825,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "278954",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "日本特定君主制度的稱號；「天皇陛下」為敬稱，不是所有國家的皇帝都稱天皇。"
   },
   "n2-jmdict-1443790": {
     "sentence": "電流は磁力を発生することができる。",
@@ -17814,7 +21853,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "279237",
       "modified": "none"
-    }
+    },
+    "explanation": "電荷移動形成的流動，常以安培表示；與以伏特表示的電壓、以瓦特表示的電力不同。"
   },
   "n2-jmdict-1443810": {
     "sentence": "このダムは私たちに水と電力を供給している。",
@@ -17841,7 +21881,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "369471",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "電能傳輸、使用的功率，也常泛指供應的電能；「電力会社」是電力公司，不是電池製造商的泛稱。"
   },
   "n2-jmdict-1449670": {
     "sentence": "彼は様々のグループを統一しようとした。",
@@ -17868,7 +21909,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "304511",
       "modified": "none"
-    }
+    },
+    "explanation": "使規則、形式或分散單位成為一致、整體；「表記を統一する」是統一寫法，不是刪去所有差異內容。"
   },
   "n2-jmdict-1449710": {
     "sentence": "その航空専門家は統計を詳細に分析した。",
@@ -17895,7 +21937,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "47957",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "蒐集大量數據並整理分析，也指其結果；「統計を取る」不能只憑單一個人印象。"
   },
   "n2-jmdict-1451350": {
     "sentence": "雀は動作が非常にすばしこい。",
@@ -17922,7 +21965,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "11884",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "身體、機械等具體的運動與運作；「正常に動作する」常用於設備，不只人的姿勢。"
   },
   "n2-jmdict-1444800": {
     "sentence": "この漫画の登場人物は全て少女です。",
@@ -17948,7 +21992,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "人物出現在舞台、故事或某場合，也可指新產品面世；不只指演員第一次踏上舞台。"
   },
   "n2-jmdict-1448730": {
     "sentence": "遠い灯台のかすかな光を見た。",
@@ -17975,7 +22020,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "25857",
       "modified": "none"
-    }
+    },
+    "explanation": "沿海等以光線引導航行的高塔、設施；與單純觀景塔、街邊路燈不同。"
   },
   "n2-jmdict-1449220": {
     "sentence": "今日の当番は誰ですか？",
@@ -18000,7 +22046,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "800233",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "按順序輪到的人或負責的工作；「掃除当番」是輪值打掃，不一定整天都在值班。"
   },
   "n2-jmdict-1449510": {
     "sentence": "そのメロンをきって６等分しなさい。",
@@ -18027,7 +22074,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "49847",
       "modified": "none"
-    }
+    },
+    "explanation": "把整體分成相等的份量；「三等分する」是分成三等份，不是只切三次。"
   },
   "n2-jmdict-1448760": {
     "sentence": "雪の多いところでは、灯油は必需品です。",
@@ -18054,7 +22102,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "338004",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "用於部分暖爐、照明等的煤油；與汽車用汽油、柴油不同，不能任意替代燃料。"
   },
   "n2-jmdict-1448230": {
     "sentence": "東洋の陶器に興味があります。",
@@ -18080,7 +22129,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "傳統上以歐洲為參照的東方、亞洲文化區稱呼；實際範圍依時代語境，不單純指地圖東邊。"
   },
   "n2-jmdict-1454000": {
     "sentence": "この童話は七歳の子が読むのに十分やさしい。",
@@ -18107,7 +22157,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57634",
       "modified": "none"
-    }
+    },
+    "explanation": "主要以兒童為讀者的故事體裁，包括創作、改編等；不一定全部有魔法或道德訓誡。"
   },
   "n2-jmdict-1455080": {
     "sentence": "日本には多くのはっきりとした特色がある。",
@@ -18134,7 +22185,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "281287",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "特別值得注意、與其他不同的性質；「地域の特色を生かす」是利用地方特色，不單指特殊顏色。"
   },
   "n2-jmdict-1455250": {
     "sentence": "毛皮のコートが特売中です。",
@@ -18159,7 +22211,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "323540",
       "modified": "none"
-    }
+    },
+    "explanation": "為促銷而特別降價販售，常見「特売日」；不表示商品必然有瑕疵或即將停產。"
   },
   "n2-jmdict-1267050": {
     "sentence": "私は戸棚を覗いた。",
@@ -18185,7 +22238,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "有門、用來收納器物的櫥櫃；常放餐具、日用品，不一定像書架般開放式。"
   },
   "n2-jmdict-1458650": {
     "sentence": "グレースは階上の内線電話のところへ行く。",
@@ -18211,7 +22265,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "公司、建物內部的電話線路、分機；「内線番号」是分機號碼，不一定能直接從外部撥通。"
   },
   "n2-jmdict-1426000": {
     "sentence": "ねえ、仲直りしよう。",
@@ -18237,7 +22292,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "關係不和、吵架後恢復友好；「友達と仲直りする」不必然是戀人復合。"
   },
   "n2-jmdict-1599430": {
     "sentence": "引出しの中身をからにしなさい。",
@@ -18261,7 +22317,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "容器裡的東西，也比喻文章、言論的實質內容；「中身を確認する」不只看外觀。"
   },
   "n2-jmdict-1460600": {
     "sentence": "その小説は南北戦争を軸にしている。",
@@ -18288,7 +22345,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "46520",
       "modified": "none"
-    }
+    },
+    "explanation": "南與北、南北方向或兩地關係；「南北に長い」是南北向延伸，不是東西寬。"
   },
   "n2-jmdict-1464110": {
     "sentence": "日時を決めて一緒にランチを食べよう！",
@@ -18315,7 +22373,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "129681",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某事件的日期與時間兩者；「日時を決める」通常不只決定哪一天，也包含幾點。"
   },
   "n2-jmdict-1464910": {
     "sentence": "あのスーパーに行けば、たいていの日用品は間に合います。",
@@ -18341,7 +22400,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "日常生活中經常使用的用品，如清潔、衛生用品；與耐久大型家電或食品分類可能另作區分。"
   },
   "n2-jmdict-1464300": {
     "sentence": "私たちは日程を考慮に入れるべきだった。",
@@ -18366,7 +22426,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "6678536",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "活動各日期、時段的安排；「日程を組む」是排行程，與具體任務方法不同。"
   },
   "n2-jmdict-1345420": {
     "sentence": "去年、女房に死なれたんだよ。",
@@ -18391,7 +22452,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9228",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "稱自己的妻子的較口語、帶傳統色彩說法；正式場合常用妻，直接稱別人太太宜謹慎。"
   },
   "n2-jmdict-1585010": {
     "sentence": "人形のおなかの横にあるねじをまくと、腕を回してでんぐり返しをしながら前に進みます。",
@@ -18415,7 +22477,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "具有螺旋紋、透過旋轉固定或調節的零件；「ねじを締める」是鎖緊，不同於敲釘子。"
   },
   "n2-jmdict-1232930": {
     "sentence": "彼女はその農夫から、のこぎりを借りた。",
@@ -18442,7 +22505,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "311384",
       "modified": "none"
-    }
+    },
+    "explanation": "帶鋸齒、以往復等方式切割的鋸子；「のこぎりで切る」不同於剪刀夾剪或刀具直切。"
   },
   "n2-jmdict-1201970": {
     "sentence": "彼のシャツは灰色でネクタイは黄色だった。",
@@ -18468,7 +22532,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "介於白與黑之間的灰，也可比喻界線不明、陰鬱；「灰色の空」指灰濛天空，不一定下雨。"
   },
   "n2-jmdict-1444120": {
     "sentence": "吐き気がします。",
@@ -18495,7 +22560,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "279379",
       "modified": "none"
-    }
+    },
+    "explanation": "想吐、噁心的感覺；「吐き気がする」不表示已實際吐出，也不只是對事情厭惡。"
   },
   "n2-jmdict-1098340": {
     "sentence": "そのバケツは水でいっぱいだった。",
@@ -18519,7 +22585,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "裝水、清潔用品等的桶，通常有提把；「バケツに水をくむ」是打水，不限定金屬製。"
   },
   "n2-jmdict-1436480": {
     "sentence": "彼は塀に梯子を掛けた。",
@@ -18545,7 +22612,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以橫檔供人上下攀爬的梯子；「梯子をかける」是架梯，與固定建築樓梯的階段不同。"
   },
   "n2-jmdict-1101600": {
     "sentence": "このように、名詞の変化のパターンがある他に、動詞の語形変化も現代英語よりもいろいろな種類がありました。",
@@ -18570,7 +22638,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "326971",
       "modified": "none"
-    }
+    },
+    "explanation": "反覆出現的模式、規律，也可指圖案、服裝紙型；「行動パターン」不是實體花紋。"
   },
   "n2-jmdict-1477250": {
     "sentence": "「陸に上がった河童」とは環境が変わったために能力を発揮できずにいることのたとえです。",
@@ -18596,7 +22665,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "把已有的能力、力量等充分展現出來；「実力を発揮する」不是憑空取得新能力。"
   },
   "n2-jmdict-1477750": {
     "sentence": "原子力が発電に使われている。",
@@ -18623,7 +22693,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "136066",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把其他形式能量轉成電能；「太陽光発電」是太陽能發電，與儲存電能的蓄電不同。"
   },
   "n2-jmdict-1477810": {
     "sentence": "先月、僕の叔父の会社が新製品を発売しました。",
@@ -18649,7 +22720,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "商品開始對外銷售；「新刊発売」是新書開賣，不等於已售完，也不同於免費公開。"
   },
   "n2-jmdict-1194580": {
     "sentence": "昨年の夏、私たちは橋の上で花火を楽しく見た。",
@@ -18673,7 +22745,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "燃放後產生光、聲效果的煙火；「花火を見る」可觀賞大型煙火，也有手持花火。"
   },
   "n2-jmdict-1194570": {
     "sentence": "花嫁はたいへん美しく見えた。",
@@ -18700,7 +22773,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "23732",
       "modified": "none"
-    }
+    },
+    "explanation": "結婚儀式前後的新娘；不是所有已婚女性都叫花嫁，新郎為花婿。"
   },
   "n2-jmdict-1471420": {
     "sentence": "床にガラスの破片が落ちてたよ。",
@@ -18725,7 +22799,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8933677",
       "modified": "none"
-    }
+    },
+    "explanation": "物品破裂、損壞後分離出的碎片；「ガラスの破片」是玻璃碎片，不是完整的小玻璃製品。"
   },
   "n2-jmdict-1601040": {
     "sentence": "昨日の夜さ、歯磨きせずに寝ちゃったんだ。",
@@ -18752,7 +22827,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "244844",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "刷牙，也可指牙膏等清潔用品；「歯磨きをする」是刷牙，明確說牙膏可用歯磨き粉。"
   },
   "n2-jmdict-1400240": {
     "sentence": "彼女は比較的早口だ。",
@@ -18776,7 +22852,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "說話速度快的狀態；「早口で話す」不一定音量大，練習繞口令稱早口言葉。"
   },
   "n2-jmdict-1366250": {
     "sentence": "彼は鍵を忘れたが、針金を鍵穴に差し込むことで扉を開けることができた。",
@@ -18803,7 +22880,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "934186",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "細長、可彎折的金屬線，常用於固定物品；不一定只由鐵製成，也不是縫衣用線。"
   },
   "n2-jmdict-1601160": {
     "sentence": "私の目は夢を反映する海である。",
@@ -18829,7 +22907,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "外部情況、意見表現在另一事物中，也指光反射映照；「意見を反映する」是將意見納入。"
   },
   "n2-jmdict-1479230": {
     "sentence": "原点を中心とする半径2の円と，直線 y = x − 1 の交点を求めよ。",
@@ -18855,7 +22934,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "圓心到圓周的距離，為直徑的一半；「半径一キロ以内」指以某點為中心的一公里範圍。"
   },
   "n2-jmdict-1478560": {
     "sentence": "判事は彼に禁固１年を宣告した。",
@@ -18881,7 +22961,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "法院中行使審判職務的法官職稱；與辯護的弁護士、提起公訴的検察官不同。"
   },
   "n2-jmdict-1480540": {
     "sentence": "少し反省すれば、君は間違っていることがわかるでしょう。",
@@ -18906,7 +22987,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "267780",
       "modified": "none"
-    }
+    },
+    "explanation": "回顧自己的行為、結果以認識問題、改進；「反省する」不只口頭道歉，也可自我檢視。"
   },
   "n2-jmdict-1103270": {
     "sentence": "パンツとブラジャー以外は全部脱いでください。",
@@ -18932,7 +23014,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "可指內褲，也可在服飾語境指長褲；「パンツスタイル」通常是褲裝，須依搭配判斷。"
   },
   "n2-jmdict-1100240": {
     "sentence": "俺はバンドで演奏してるんだ。",
@@ -18958,7 +23041,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "樂團，也可指繫帶、錶帶等帶狀物；「バンドを組む」是組樂團，不是把皮帶綁起來。"
   },
   "n2-jmdict-1479770": {
     "sentence": "朝鮮半島を訪れたことがありますか。",
@@ -18984,7 +23068,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "三面等多側被水圍繞、仍與大陸相連的陸地；不同於四周環水的島。"
   },
   "n2-jmdict-1601420": {
     "sentence": "この部屋はあまり日当たりがよくないの。",
@@ -19009,7 +23094,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57339",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "陽光照射到某處的情況；「日当たりが良い」指採光、日照良好，不保證冬暖夏涼。"
   },
   "n2-jmdict-1463840": {
     "sentence": "とても暑かったので日陰に入って休んだ。",
@@ -19034,7 +23120,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "37791",
       "modified": "none"
-    }
+    },
+    "explanation": "被物體遮住而無直接日照的地方；「日陰で休む」是到陰涼處，不是夜間黑暗的全部地方。"
   },
   "n2-jmdict-1106660": {
     "sentence": "男がポケットからピストルを出したので、私はぞっとした。",
@@ -19059,7 +23146,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "276810",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "手持操作的槍械，通常指手槍；不是所有長槍、大砲的通稱，也可見運動發令槍。"
   },
   "n2-jmdict-1105160": {
     "sentence": "オレンジにはビタミンＣが多く含まれている。",
@@ -19085,7 +23173,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "維持身體功能所需的維生素類營養素；種類作用不同，不等同所有營養或藥物。"
   },
   "n2-jmdict-1601880": {
     "sentence": "引っ越しは週末に行われる。",
@@ -19111,7 +23200,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "搬遷住處、把生活物品移到新地方；「引っ越しの準備」不只是前往另一地旅遊。"
   },
   "n2-jmdict-1487830": {
     "sentence": "筆者が何を言おうとしているのかわからない。",
@@ -19136,7 +23226,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "7197152",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "撰寫該文章的人，常用於閱讀解說；與文中角色、受訪者不同，也可作者自稱。"
   },
   "n2-jmdict-1487500": {
     "sentence": "カメラは私の必需品でした。",
@@ -19162,7 +23253,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "生活、活動中不可缺少的用品；「旅行の必需品」依行程而不同，不表示所有人都必須購買同款。"
   },
   "n2-jmdict-1161830": {
     "sentence": "ここで一休みしたいものです。",
@@ -19186,7 +23278,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "暫停活動稍作休息；「一休みする」通常之後會繼續，不表示工作已全部結束。"
   },
   "n2-jmdict-1455670": {
     "sentence": "「どうしたらいいだろう？」と私は独り言を言った。",
@@ -19212,7 +23305,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "沒有以他人為對象、自言自語說出的話；「独り言を言う」不一定表示人在完全無人的地方。"
   },
   "n2-jmdict-1463800": {
     "sentence": "こんな美しい日の入りを見たことがありますか。",
@@ -19237,7 +23331,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "54628",
       "modified": "none"
-    }
+    },
+    "explanation": "太陽在地平線、水平線下落下的日落時刻、現象；與日出的「日の出」相對。"
   },
   "n2-jmdict-1463790": {
     "sentence": "なんと美しい日の出なのだろう。",
@@ -19264,7 +23359,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "36001",
       "modified": "none"
-    }
+    },
+    "explanation": "太陽從地平線、水平線升起的日出；「日の出を見る」不一定只是早起，須能看見升起過程。"
   },
   "n2-jmdict-1483920": {
     "sentence": "紫外線は皮膚癌を引き起こすことがある。",
@@ -19290,7 +23386,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "覆蓋身體表面的組織，較醫學、正式；「皮膚の病気」與皮革材料的皮不同。"
   },
   "n2-jmdict-1486670": {
     "sentence": "美容と健康のためには、早寝早起きが一番です。",
@@ -19315,7 +23412,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2662150",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "維護、改善容貌、肌膚、髮型等的活動；「美容院」在日本通常指美髮沙龍，不是一般醫院。"
   },
   "n2-jmdict-1489600": {
     "sentence": "本を表紙で判断するな。",
@@ -19341,7 +23439,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "書籍、冊子最外面的封面；「表紙を開く」是翻開封面，背面的封底常稱裏表紙。"
   },
   "n2-jmdict-1488700": {
     "sentence": "標識には、「出口」と書かれている。",
@@ -19366,7 +23465,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "318304",
       "modified": "none"
-    }
+    },
+    "explanation": "用來傳達規則、方向、警示的標誌；「道路標識」是交通標誌，不是所有廣告招牌。"
   },
   "n2-jmdict-1488710": {
     "sentence": "君は標準英語を学ばなくてはいけない。",
@@ -19392,7 +23492,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "一般作為衡量、統一依據的尺度、水準；「標準的な方法」是通行方法，不一定永遠最佳。"
   },
   "n2-jmdict-1490080": {
     "sentence": "この評論を優勝作品に選んだ基準は何ですか。",
@@ -19419,7 +23520,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "795",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對作品、現象等分析評價的文章、活動；「映画評論」不只敘述劇情，也不等同不分理由的批評。"
   },
   "n2-jmdict-1426370": {
     "sentence": "すぐに諦めて昼寝をするかも知れない。",
@@ -19443,7 +23545,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "白天短暫睡眠、小睡；「昼寝をする」不限定正午十二點，也不是整晚睡眠。"
   },
   "n2-jmdict-1278440": {
     "sentence": "その牧場は１０エーカーの広さだ。",
@@ -19469,7 +23572,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "空間寬廣的程度、面積；「部屋の広さ」通常看可用面積，不只是單一邊長。"
   },
   "n2-jmdict-1278590": {
     "sentence": "広場はライトで赤々と照らされている。",
@@ -19495,7 +23599,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "供人聚集、活動的開放空地、廣場；「駅前の広場」不是狹長通道或一般室內房間。"
   },
   "n2-jmdict-1107140": {
     "sentence": "あのピンクの服を着た女性はだれですか。",
@@ -19522,7 +23627,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "68628",
       "modified": "none"
-    }
+    },
+    "explanation": "粉紅色，色調可深可淺；「ピンクの花」不必然指某個特定花種。"
   },
   "n2-jmdict-1108160": {
     "sentence": "このファスナー、引っかかるんだ。",
@@ -19549,7 +23655,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "61047",
       "modified": "none"
-    }
+    },
+    "explanation": "以齒或扣合結構開合的拉鍊，日常亦稱チャック；不同於鈕扣、魔鬼氈。"
   },
   "n2-jmdict-1499940": {
     "sentence": "風船が木に引っかかっていた。",
@@ -19576,7 +23683,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "319795",
       "modified": "none"
-    }
+    },
+    "explanation": "充入空氣、氦氣等後膨脹的氣球；不是每個風船都會自然浮空，須看填充氣體。"
   },
   "n2-jmdict-1497110": {
     "sentence": "英語は全国に普及した。",
@@ -19602,7 +23710,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "事物、技術、觀念廣泛傳播並被使用；「スマートフォンの普及」不表示每個人都有。"
   },
   "n2-jmdict-1496520": {
     "sentence": "スミス夫妻は似合いの夫婦だ。",
@@ -19628,7 +23737,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "丈夫與妻子這一對配偶，常接姓名作敬稱；「田中夫妻」不是只指妻子一人。"
   },
   "n2-jmdict-1493860": {
     "sentence": "電話は不通なの。",
@@ -19655,7 +23765,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "342452",
       "modified": "none"
-    }
+    },
+    "explanation": "道路、電話等無法通行、聯繫的狀態；「電話が不通になる」不是普通的「普通」，雖同音但字不同。"
   },
   "n2-jmdict-1499480": {
     "sentence": "このテレビは１０年も前に作られたものなので、部品がなくて修理ができません。",
@@ -19682,7 +23793,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "60833",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "構成機器、產品的個別零件；「部品を交換する」是換零件，不一定整台設備報廢。"
   },
   "n2-jmdict-1370780": {
     "sentence": "我々は吹雪の中をベースキャンプに戻るのに苦労した。",
@@ -19709,7 +23821,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "139038",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "強風吹起、伴隨降雪的暴風雪狀態；「吹雪で見えない」強調風雪遮蔽，不是所有下雪。"
   },
   "n2-jmdict-1113650": {
     "sentence": "ジャネットはスカートとブラウスを買いました。",
@@ -19734,7 +23847,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "53069",
       "modified": "none"
-    }
+    },
+    "explanation": "女式襯衫、上衣類服飾；不只白色辦公款，也可有不同領型、材質。"
   },
   "n2-jmdict-1611450": {
     "sentence": "僕の歯ブラシはどっちだよ？",
@@ -19758,7 +23872,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "帶刷毛、用於清潔、梳理、塗刷的刷具；「髪をブラシでとかす」指用髮刷，不是畫筆的唯一稱法。"
   },
   "n2-jmdict-1115820": {
     "sentence": "ロンドンの地下鉄には、プラットホームから地下鉄に乗る際の「溝に注意」という警告がある。",
@@ -19782,7 +23897,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "車站供上下車、候車的月台，常簡稱ホーム；不同於車站大廳或列車車廂。"
   },
   "n2-jmdict-1361150": {
     "sentence": "この本に振り仮名をつけてください。",
@@ -19807,7 +23923,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13185248",
       "modified": "none"
-    }
+    },
+    "explanation": "附在漢字旁或上方、標示讀音的假名；與漢字後表示活用的送り仮名不同。"
   },
   "n2-jmdict-1114910": {
     "sentence": "宝石細工師はそのブローチに大きな真珠をはめ込んだ。",
@@ -19833,7 +23950,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "別在衣服胸前等處的裝飾胸針；與戴在頸部的ネックレス、穿耳的ピアス不同。"
   },
   "n2-jmdict-1117080": {
     "sentence": "このプログラムはＤＯＳモードでは作動しません。",
@@ -19860,7 +23978,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "60560",
       "modified": "none"
-    }
+    },
+    "explanation": "電腦程式，也可指活動節目表、安排流程；「プログラムを書く」通常談編程，需依上下文分辨。"
   },
   "n2-jmdict-1504560": {
     "sentence": "その火山は突然噴火し、多くの人が亡くなった。",
@@ -19884,7 +24003,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "火山噴出岩漿、灰、氣體等的現象；「火山が噴火する」不同於一般火災或工廠冒煙。"
   },
   "n2-jmdict-1505630": {
     "sentence": "単語の意味はそれが使われている文脈で決まる。",
@@ -19909,7 +24029,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "276694",
       "modified": "none"
-    }
+    },
+    "explanation": "前後語句之間連貫的意思、背景；「文脈から判断する」不能只看單一單字的孤立翻譯。"
   },
   "n2-jmdict-1508480": {
     "sentence": "その道路は川と並行している。",
@@ -19933,7 +24054,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "多項事情同時進行，也可指並排、方向相同；「仕事と並行して学ぶ」不是先完全做完一件。"
   },
   "n2-jmdict-1506590": {
     "sentence": "その市はやがて兵隊によって占領された。",
@@ -19960,7 +24082,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "47355",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "從事軍事工作的士兵、部隊的較一般說法；與警察、消防人員不同，正式也常用兵士。"
   },
   "n2-jmdict-1508030": {
     "sentence": "平野を横切って水路が枝分かれしている。",
@@ -19987,7 +24110,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "614500",
       "modified": "none"
-    }
+    },
+    "explanation": "範圍較廣、地勢平坦的地形；「平野が広がる」不代表沒有任何城鎮、河流。"
   },
   "n2-jmdict-1509970": {
     "sentence": "この別荘の持ち主は誰ですか。",
@@ -20014,7 +24138,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "57210",
       "modified": "none"
-    }
+    },
+    "explanation": "平常主要住處以外、供度假休養的房屋；與一般長期主住宅不同，不一定租給旅客。"
   },
   "n2-jmdict-1119700": {
     "sentence": "ベテランさんに聞いてみて。",
@@ -20040,7 +24165,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "在某工作、領域經驗豐富的老手；不一定年紀很大，也不必然是退伍軍人。"
   },
   "n2-jmdict-1118780": {
     "sentence": "彼らはヘリコプターで救出された。",
@@ -20066,7 +24192,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以旋翼產生升力、可垂直起降的直升機；與固定翼飛機不同，常簡稱ヘリ。"
   },
   "n2-jmdict-1603240": {
     "sentence": "この新聞社の編集室はどこですか？",
@@ -20092,7 +24219,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "挑選、整理、修改內容使其成為出版物、影片等；「動画を編集する」不只是拍攝。"
   },
   "n2-jmdict-1121520": {
     "sentence": "ペンチは道具箱に入れといて。",
@@ -20119,7 +24247,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1334974",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "夾持、彎折、切斷金屬線等用的鉗子；「ペンチで切る」不等於用剪紙剪刀。"
   },
   "n2-jmdict-1519650": {
     "sentence": "顕微鏡と望遠鏡の違いがわかりますか。",
@@ -20145,7 +24274,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "放大遠處物體以便觀察的光學儀器；「望遠鏡で星を見る」與觀微小物的顕微鏡不同。"
   },
   "n2-jmdict-1516950": {
     "sentence": "セントラルパークはどの方角でしょうか？",
@@ -20172,7 +24302,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "51267",
       "modified": "none"
-    }
+    },
+    "explanation": "東、西、南、北等所指的方向；「方角を確かめる」是確認朝向，不是量角度大小。"
   },
   "n2-jmdict-1516980": {
     "sentence": "その言語学者はいくつかの中国語の方言を流暢に話す。",
@@ -20198,7 +24329,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某地區特有的語音、詞彙、語法等語言變體；「方言で話す」不代表語言錯誤或不禮貌。"
   },
   "n2-jmdict-1517040": {
     "sentence": "方針は２つの意見の間をあれこれとぐらついた。",
@@ -20223,7 +24355,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "321016",
       "modified": "none"
-    }
+    },
+    "explanation": "行動、處理事情的大方向與原則；「方針を決める」不一定已訂出每個具體步驟。"
   },
   "n2-jmdict-1515510": {
     "sentence": "クリスマスプレゼント用に包装してください。",
@@ -20250,7 +24383,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "387464",
       "modified": "none"
-    }
+    },
+    "explanation": "以紙、袋、盒等包覆物品；「包装を開ける」是拆包裝，不等於打開產品內部機構。"
   },
   "n2-jmdict-1517380": {
     "sentence": "我々の頭脳でさえ、全て物理の法則に従っている。",
@@ -20276,7 +24410,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "事物之間普遍、規律性的關係，也指歸納的原則；自然法則不同於人為制定的法律。"
   },
   "n2-jmdict-1603360": {
     "sentence": "彼女は包帯を作るために布を切り裂いた。",
@@ -20302,7 +24437,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "包紮傷口、固定患部等用的帶狀材料；「包帯を巻く」是纏繃帶，與膠布、紗布用途有別。"
   },
   "n2-jmdict-1519060": {
     "sentence": "エバンはまだほんの小さな坊やよ。一体どうして、何をやればいいかなんてわかるのよ。",
@@ -20329,7 +24465,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "65306",
       "modified": "none"
-    }
+    },
+    "explanation": "稱呼年幼男孩的較親暱說法；對不熟悉的成人使用可能有輕視意味，不宜任意稱呼。"
   },
   "n2-jmdict-1123520": {
     "sentence": "ボーナス全部を買い物と旅行に使ってしまった。",
@@ -20355,7 +24492,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "薪資以外的獎金，也可指額外優惠、加分；不一定每間公司都定期發放或金額固定。"
   },
   "n2-jmdict-1584250": {
     "sentence": "その牧場は１０エーカーの広さだ。",
@@ -20381,7 +24519,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "飼養、放牧牛馬等家畜的場所；「牧場で働く」與只種植蔬菜的農田不同。"
   },
   "n2-jmdict-1513410": {
     "sentence": "君は保健室に行った方がいいぞ。",
@@ -20405,7 +24544,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "維護、增進健康的活動、措施；「保健室」是學校健康照護空間，別與保險的保険混寫。"
   },
   "n2-jmdict-1514830": {
     "sentence": "私は公共のプールに行って、ライフガードの募集に応募した。",
@@ -20429,7 +24569,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "向外徵求參加者、人員、作品等；「参加者を募集する」是招募，不保證已錄取每位應徵者。"
   },
   "n2-jmdict-1125110": {
     "sentence": "彼は立ち止まってポスターをのぞき込んだ。",
@@ -20456,7 +24597,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "304649",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "張貼於牆面等傳達活動、宣傳資訊的海報；「ポスターを貼る」不是郵寄信件。"
   },
   "n2-jmdict-1127870": {
     "sentence": "トムがマスクを外したよ。",
@@ -20482,7 +24624,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "口罩、面罩，也可指遮蔽特定範圍的工具；「マスクを着ける」日常多指戴口罩。"
   },
   "n2-jmdict-1410630": {
     "sentence": "待合室に５人の患者がいる。",
@@ -20508,7 +24651,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "車站、醫療院所等供候車、候診的房間；與接待客人談話的応接室不同。"
   },
   "n2-jmdict-1569920": {
     "sentence": "まぶたにゴールドのアイシャドウを優しく重ねます。",
@@ -20534,7 +24678,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "覆蓋眼球、可開合的眼皮；「まぶたを閉じる」是閉眼，不同於瞳孔的瞳。"
   },
   "n2-jmdict-1129290": {
     "sentence": "私たちはそのマラソンに参加するつもりだ。",
@@ -20560,7 +24705,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "通常指全程四十二點一九五公里的長跑，也泛用於長跑活動；不是所有跑步都為正式全馬。"
   },
   "n2-jmdict-1526720": {
     "sentence": "バスは満員だった。",
@@ -20587,7 +24733,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "35287",
       "modified": "none"
-    }
+    },
+    "explanation": "人數已達可容納的程度、客滿；「満員電車」強調擁擠，不表示每個乘客都有座位。"
   },
   "n2-jmdict-1130040": {
     "sentence": "パパは、うちのマンション下にある事務所にいた。",
@@ -20611,7 +24758,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "日語通常指較大型、堅固的集合住宅大樓；與英語 mansion 的豪宅意思不同，可租可買。"
   },
   "n2-jmdict-1604340": {
     "sentence": "彼が試験で満点を取ったのは本当です。",
@@ -20637,7 +24785,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "考試、評分可得的最高分；「満点を取る」是獲得滿分，也可用於非常滿意的評價。"
   },
   "n2-jmdict-1604420": {
     "sentence": "彼女は見掛けほど実際に若くない。",
@@ -20662,7 +24811,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "312973",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "從外面看到的樣子、外觀；「見掛けで判断する」不涉及充分了解內在品質。"
   },
   "n2-jmdict-1130640": {
     "sentence": "以前、お婆ちゃんはミシンを使い過ぎました。",
@@ -20688,7 +24838,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "以針線自動、機械方式縫製的縫紉機；「ミシンで縫う」不等於毛線編織機。"
   },
   "n2-jmdict-1371830": {
     "sentence": "この水着は、フランスから取り寄せたのよ。",
@@ -20714,7 +24865,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "游泳、海水浴時穿的衣服；「水着に着替える」是換泳裝，不是防雨用雨衣。"
   },
   "n2-jmdict-1259710": {
     "sentence": "この辞書は見出し語が約４万はいっている。",
@@ -20739,7 +24891,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "782022",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "文章、新聞各部分的標題，亦指字典詞目；「見出しを読む」不等於已讀全文。"
   },
   "n2-jmdict-1365810": {
     "sentence": "身分証明書を持ってくるのを忘れてしまいました。",
@@ -20763,7 +24916,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "社會、職業上的地位或可證明的個人身分；「身分証明書」是身分證件，不單看名聲。"
   },
   "n2-jmdict-1260100": {
     "sentence": "あなたの作品の見本をいくつか見せてくれませんか。",
@@ -20788,7 +24942,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "70648",
       "modified": "none"
-    }
+    },
+    "explanation": "供參考、確認品質或模仿的樣品、範例；「見本どおりに作る」不表示樣品本身可販售。"
   },
   "n2-jmdict-1604730": {
     "sentence": "あなたの名字はどうつづるのですか。",
@@ -20813,7 +24968,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "70371",
       "modified": "none"
-    }
+    },
+    "explanation": "家族的姓氏，亦常寫「苗字」；與中文名字泛指姓名不同，不包含個人的名。"
   },
   "n2-jmdict-1531090": {
     "sentence": "最も賢い処世術は社会的因襲を軽蔑しながら、しかも社会的因襲と矛盾せぬ生活をすることである。",
@@ -20839,7 +24995,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "兩種陳述、事實互不相容、無法同時成立；「説明が矛盾する」不只是彼此措辭不同。"
   },
   "n2-jmdict-1247510": {
     "sentence": "雀蜂の群れが子供達を襲った。",
@@ -20864,7 +25021,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "543753",
       "modified": "none"
-    }
+    },
+    "explanation": "動物、人等聚集的一群，常說「鳥の群れ」；不是所有零散多個物體都自然稱群れ。"
   },
   "n2-jmdict-1531600": {
     "sentence": "その庭園は菖蒲の名所です。",
@@ -20888,7 +25046,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "因景觀、歷史等聞名、值得參觀的地點；「桜の名所」是賞櫻勝地，不是所有知名店家。"
   },
   "n2-jmdict-1532760": {
     "sentence": "彼は１３が不吉な数だという迷信を信じている。",
@@ -20915,7 +25074,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "399856",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "缺乏合理根據而被相信的說法、習俗；「迷信を信じる」與有證據的科學知識不同。"
   },
   "n2-jmdict-1535340": {
     "sentence": "父は目覚しを６時にあわせた。",
@@ -20942,7 +25102,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "319375",
       "modified": "none"
-    }
+    },
+    "explanation": "喚醒、使人醒來的作用，常寫目覚まし；「目覚ましをかける」通常指設定鬧鐘。"
   },
   "n2-jmdict-1133790": {
     "sentence": "ベジタリアン用の特別メニューはありますか？",
@@ -20969,7 +25130,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8312",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "餐廳菜單，也指電腦、服務的選項列表；「設定メニュー」不是食物，而是設定選單。"
   },
   "n2-jmdict-1569810": {
     "sentence": "私は空腹でめまいがした。",
@@ -20995,7 +25157,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "頭暈、周圍轉動或站立不穩等感覺；「めまいがする」不等於已昏倒。"
   },
   "n2-jmdict-1533230": {
     "sentence": "ここは免税店ですか。",
@@ -21022,7 +25185,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "495846",
       "modified": "none"
-    }
+    },
+    "explanation": "依法免除某種稅款；「免税店」交易仍可能有資格、品項等條件，不表示所有人買任何東西都免稅。"
   },
   "n2-jmdict-1533500": {
     "sentence": "工場の面積は１０００平方メートルだ。",
@@ -21048,7 +25212,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "平面、表面所占的大小，以平方公尺等表示；與長度、立體體積不同。"
   },
   "n2-jmdict-1533510": {
     "sentence": "面接では君は臨機応変に答えなくてはならないでしょう。",
@@ -21075,7 +25240,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "323515",
       "modified": "none"
-    }
+    },
+    "explanation": "面對面談話以審查、了解對方，常見於求職、入學；不等於一般朋友碰面。"
   },
   "n2-jmdict-1534660": {
     "sentence": "私たちは像を木材で作った。",
@@ -21101,7 +25267,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "樹木經砍伐、加工後供建築、製造等使用的材料；「木材を使う」不只指原木。"
   },
   "n2-jmdict-1135270": {
     "sentence": "彼女はモデルだったそうだ。",
@@ -21127,7 +25294,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "模特兒、模型、設計樣式或參照典範；「新しいモデル」在產品中常指新款，不一定是真人。"
   },
   "n2-jmdict-1502690": {
     "sentence": "物置に鍵をかけるのを忘れちゃった。",
@@ -21154,7 +25322,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "319976",
       "modified": "none"
-    }
+    },
+    "explanation": "存放較少使用物品的儲藏室、棚屋；與大量貨物保管的倉庫尺度、用途有所差異。"
   },
   "n2-jmdict-1502530": {
     "sentence": "物差しを使って線を引きなさい。",
@@ -21179,7 +25348,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "2985703",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "測量長度的尺，也比喻評價標準；「自分の物差し」指自己的衡量尺度，不是真帶著尺。"
   },
   "n2-jmdict-1292140": {
     "sentence": "アカデミー授賞式は、ハリウッド最大の華やかな催しだ。",
@@ -21206,7 +25376,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "326805",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "安排舉行的活動、集會或展演；「催しに参加する」不只指節日，也可能是一次性活動。"
   },
   "n2-jmdict-1538010": {
     "sentence": "この役者のことは今まで聞いたことがないな。",
@@ -21233,7 +25404,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1479257",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "在戲劇、影像等扮演角色的演員；也能比喻有能力、善於應對的人，不只指舞台演員。"
   },
   "n2-jmdict-1538020": {
     "sentence": "市民は市役所で健康管理について議論している。",
@@ -21257,7 +25429,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "辦理國家、地方行政事務的機關、辦公處；「市役所」是市政府，不是一般公司的辦公室。"
   },
   "n2-jmdict-1538080": {
     "sentence": "彼らのめんどうをみるのはあなたの役目だ。",
@@ -21282,7 +25455,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "305137",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "被期待、分派應完成的任務、作用；「役目を果たす」是盡到職責，不一定是正式職位名稱。"
   },
   "n2-jmdict-1577310": {
     "sentence": "彼女は左手に火傷をした。",
@@ -21308,7 +25482,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "熱、火、蒸氣等造成的燒燙傷；「やけどをする」是受燙傷，不等於曬黑本身。"
   },
   "n2-jmdict-1537770": {
     "sentence": "矢印は進行方向を示しています。",
@@ -21332,7 +25507,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以箭頭形狀表示方向、順序的符號；「矢印に従う」是依箭頭走，不是實體弓箭。"
   },
   "n2-jmdict-1538200": {
     "sentence": "ここから一番近い薬局はどこですか。",
@@ -21358,7 +25534,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "調劑、供應藥品的設施；與綜合販售日用品的ドラッグストア可能重疊，但不能完全等同。"
   },
   "n2-jmdict-1542170": {
     "sentence": "去年建てられた遊園地のおかげで、その町は人気を呼ぶようになった。",
@@ -21385,7 +25562,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9229",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "設有遊樂設施、供休閒娛樂的園區；「遊園地で遊ぶ」不只指一般有鞦韆的街區公園。"
   },
   "n2-jmdict-1542380": {
     "sentence": "私はその本を郵送します。",
@@ -21412,7 +25590,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "12252",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以郵政等郵件方式寄送；「書類を郵送する」不同於電子郵件寄檔，也不是親自送達。"
   },
   "n2-jmdict-1542820": {
     "sentence": "夕立にあってびっしょりぬれた。",
@@ -21437,7 +25616,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "324682",
       "modified": "none"
-    }
+    },
+    "explanation": "夏季等午後、傍晚突然來的短暫陣雨；常較急驟，不是所有晚間持續下雨。"
   },
   "n2-jmdict-1542750": {
     "sentence": "きれいな夕日だね。",
@@ -21464,7 +25644,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "402411",
       "modified": "none"
-    }
+    },
+    "explanation": "傍晚西沉前的太陽及其光；「夕日が沈む」是夕陽落下，與早晨朝日相對。"
   },
   "n2-jmdict-1282180": {
     "sentence": "私の知る限りでは彼女は依然行方不明です。",
@@ -21488,7 +25669,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "人、物離去後的位置、下落，也比喻局勢走向；「行方が分からない」表示去向不明。"
   },
   "n2-jmdict-1538850": {
     "sentence": "今では多くの貨物が飛行機で輸送されている。",
@@ -21513,7 +25695,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "14956",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把人、物資從一處運往另一處，常用於物流；「物資を輸送する」不等同商品銷售本身。"
   },
   "n2-jmdict-1538690": {
     "sentence": "油断は禁物だよ。",
@@ -21537,7 +25720,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "疏於注意、防備，常造成可避免的問題；「油断する」不是單純放鬆休息，通常含警惕意味。"
   },
   "n2-jmdict-1545370": {
     "sentence": "これらの容器は気密になっている。",
@@ -21564,7 +25748,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "55051",
       "modified": "none"
-    }
+    },
+    "explanation": "裝盛、保存物品的器具總稱，如瓶、盒、罐；「密閉容器」是可密封容器，不限定塑膠製。"
   },
   "n2-jmdict-1546270": {
     "sentence": "インターネット用語かもしれません。",
@@ -21590,7 +25775,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "特定領域、場合使用的詞語；「専門用語」是術語，不等於所有日常常用單字。"
   },
   "n2-jmdict-1546770": {
     "sentence": "以下は大統領の演説の要旨だ。",
@@ -21615,7 +25801,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1341517",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "文章、談話中最主要的意思、摘要；「要旨をまとめる」須保留重點，不是逐字照抄全文。"
   },
   "n2-jmdict-1545160": {
     "sentence": "その若い女は腕に幼児を抱いていた。",
@@ -21640,7 +25827,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "46804",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "幼年兒童，通常指嬰兒期後、入小學前；具體年齡界線依教育、制度語境有所差異。"
   },
   "n2-jmdict-1546530": {
     "sentence": "これらの布はすべて羊毛でできています。",
@@ -21666,7 +25854,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "羊身上的毛及其纖維材料；「羊毛から糸を作る」不表示所有毛線都是純羊毛。"
   },
   "n2-jmdict-1546850": {
     "sentence": "彼のスピーチは短くて要領を得ていた。",
@@ -21691,7 +25880,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "285365",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "事情的要點、做事的方法、訣竅；「要領がいい」有做事靈活之意，依情境也可能帶取巧評價。"
   },
   "n2-jmdict-1372660": {
     "sentence": "トムは通りに酔っ払いが倒れているのに気づいた。",
@@ -21717,7 +25907,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "喝酒而醉的人，較口語，可能帶負面評價；與只是少量飲酒、未醉者不同。"
   },
   "n2-jmdict-1548810": {
     "sentence": "落第しないように一生懸命に勉強しなさい。",
@@ -21742,7 +25933,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "325202",
       "modified": "none"
-    }
+    },
+    "explanation": "成績等未達要求、不及格，也可指無法升級；「試験に落第する」不一定每次都造成留級。"
   },
   "n2-jmdict-1139190": {
     "sentence": "ラッシュアワー時にはもっとバスが出るべきだ。",
@@ -21767,7 +25959,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "29738",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "上下班等交通特別繁忙的尖峰時段；不一定恰好一小時，各地時段也不同。"
   },
   "n2-jmdict-1140100": {
     "sentence": "ランチブッフェを二人、お願いします。",
@@ -21794,7 +25987,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "29720",
       "modified": "none"
-    }
+    },
+    "explanation": "午餐，常見餐廳午間套餐、菜單；不是早餐或晚餐的泛稱，也不必然只在正午供應。"
   },
   "n2-jmdict-1140270": {
     "sentence": "ランニングしている彼を見た。",
@@ -21821,7 +26015,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "283975",
       "modified": "none"
-    }
+    },
+    "explanation": "跑步運動，也可指無袖貼身背心，後者常稱ランニングシャツ；依動作、衣物語境分辨。"
   },
   "n2-jmdict-1549900": {
     "sentence": "理科室にはさまざまな形の器具が並んでいる。",
@@ -21847,7 +26042,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "學校中教授自然界、科學基礎的科目；涵蓋物理、化學、生物等，不只工程或數學。"
   },
   "n2-jmdict-1549500": {
     "sentence": "両者の利害の調整を図りつつ、国際的視野に立った人口政策を考えていかなければならない。",
@@ -21872,7 +26068,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "325633",
       "modified": "none"
-    }
+    },
+    "explanation": "利益與損害、各方牽涉的得失；「利害が一致する」是利益方向相合，不保證彼此感情親密。"
   },
   "n2-jmdict-1141870": {
     "sentence": "一立方メートルは千リットルにあたる。",
@@ -21897,7 +26094,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "3576",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "容積單位公升，一公升等於一千毫升；不是重量單位，同體積不同物質可有不同重量。"
   },
   "n2-jmdict-1142880": {
     "sentence": "その女の子は髪に黄色いリボンをつけていた。",
@@ -21922,7 +26120,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "46633",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "窄長的裝飾帶，可綁蝴蝶結或作標記；「リボンを結ぶ」不必然是頭髮裝飾。"
   },
   "n2-jmdict-1555610": {
     "sentence": "番組の途中ですが、ここで臨時ニュースをお伝えします。",
@@ -21948,7 +26147,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "因當下需要臨時設置、安排，而非常態固定；「臨時列車」是加開列車，不必然延誤。"
   },
   "n2-jmdict-1556410": {
     "sentence": "どのチームも例外なく打ち負かされた。",
@@ -21974,7 +26174,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不適用一般規則、屬特殊情形的事物；「例外を認める」不是取消全部規定。"
   },
   "n2-jmdict-1557170": {
     "sentence": "冷凍みかんの味が恋しい。",
@@ -21998,7 +26199,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以低溫使食品等凍結保存；「冷凍食品」與未結凍、只保持低溫的冷蔵不同。"
   },
   "n2-jmdict-1144700": {
     "sentence": "あの黄色いレインコートの女の子って誰なの？",
@@ -22024,7 +26226,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "防雨穿著的雨衣、雨外套；與厚重防寒大衣不必同一用途，也不等於雨傘。"
   },
   "n2-jmdict-1145220": {
     "sentence": "彼女はここにレジャーで来たのですか。",
@@ -22049,7 +26252,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "388301",
       "modified": "none"
-    }
+    },
+    "explanation": "利用閒暇從事的遊樂、休閒活動；「レジャー施設」不只指賭博，也可為戶外活動場所。"
   },
   "n2-jmdict-1559450": {
     "sentence": "エスペラントをヨーロッパ連合の公用語に、今！",
@@ -22074,7 +26278,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "3307637",
       "modified": "none"
-    }
+    },
+    "explanation": "多個組織、群體為共同目的結合，也指其組織；不一定完全消滅各自原有身分。"
   },
   "n2-jmdict-1146140": {
     "sentence": "レンズを通ると像は逆になった。",
@@ -22101,7 +26306,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "29482",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "折射、聚焦光線的鏡片，也指相機鏡頭；「レンズを交換する」不只是換相機外殼。"
   },
   "n2-jmdict-1561240": {
     "sentence": "願いごとを言ってロウソクを吹いて消しなさい。",
@@ -22127,7 +26333,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以燭芯燃燒蠟等材料發光的蠟燭；「ろうそくに火をつける」是點燭，不是開電燈。"
   },
   "n2-jmdict-1561590": {
     "sentence": "そのテープレコーダーは彼の声を録音した。",
@@ -22154,7 +26361,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "396093",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "把聲音記錄、保存下來；「会話を録音する」不一定含影像，影片記錄通常稱録画。"
   },
   "n2-jmdict-1147560": {
     "sentence": "どの生徒もロッカーを持っている。",
@@ -22179,7 +26387,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "37488",
       "modified": "none"
-    }
+    },
+    "explanation": "供個人存放衣物、物品的小櫃，常有鎖；「コインロッカー」為投幣等付費置物櫃。"
   },
   "n2-jmdict-1147800": {
     "sentence": "午後６時３０分に帝国ホテルのロビーで会いましょう。",
@@ -22204,7 +26413,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "240055",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "飯店、劇院等入口附近供等候、交流的大廳；不同於狹窄走廊，也不一定只供住客使用。"
   },
   "n2-jmdict-1561970": {
     "sentence": "私は和英辞書が必要だ。",
@@ -22231,7 +26441,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "262307",
       "modified": "none"
-    }
+    },
+    "explanation": "將日語對應成英語的方向，常見「和英辞典」；與由英文查日文的英和辞典相反。"
   },
   "n2-jmdict-1562190": {
     "sentence": "あなたは和服の方がよく似合います。",
@@ -22257,7 +26468,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "日本傳統服飾的總稱，日常常指和式衣著；與洋服相對，不只指單一正式款式。"
   },
   "n2-jmdict-1515580": {
     "sentence": "君の厚かましいのには呆れたよ。",
@@ -33585,7 +37797,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "15912",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "帶藍色的白、蒼白，常形容臉色或冷色光線；「青白くなる」表示變得蒼白。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "月の青白い光が、湖に映っていました。",
+        "translation": "月亮青白色的光映在湖面上。",
+        "surface": "青白い",
+        "reading": "あおじろい"
+      }
+    ]
   },
   "n2-jmdict-1275330": {
     "sentence": "私たちはこれからの厚かましい要求に屈してはならない。",
@@ -33610,7 +37833,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "247976",
       "modified": "none"
-    }
+    },
+    "explanation": "不顧他人感受、毫不客氣，帶明顯批評；「厚かましいお願いですが」可自謙地提出請求。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "厚かましいお願いですが、もう一度説明していただけますか。",
+        "translation": "冒昧請求，能否請您再說明一次？",
+        "surface": "厚かましい",
+        "reading": "あつかましい"
+      }
+    ]
   },
   "n2-jmdict-1218360": {
     "sentence": "彼女は危うく溺れるところだった。",
@@ -33634,7 +37868,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "接近危險、失敗邊緣；「危うく〜ところだった」表示差點發生，並非已發生。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "資金が集まらず、計画の実現が危うくなりました。",
+        "translation": "因為籌不到資金，計畫能否實現變得岌岌可危。",
+        "surface": "危うく",
+        "reading": "あやうく"
+      }
+    ]
   },
   "n2-jmdict-1586700": {
     "sentence": "彼が怪しいと思う。",
@@ -33660,7 +37905,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "令人懷疑、難以信任，也可指狀況不穩；「雲行きが怪しい」可談天氣或事情發展。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "空が暗くなり、雲行きが怪しくなってきました。",
+        "translation": "天空暗了下來，天色漸漸不太對勁。",
+        "surface": "怪しく",
+        "reading": "あやしく"
+      }
+    ]
   },
   "n2-jmdict-1281450": {
     "sentence": "彼女は言葉使いが荒い。",
@@ -33684,7 +37940,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "動作、風浪、脾氣等粗暴猛烈；與表面顆粒粗的「粗い」同音但寫法、側重不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今日は波が荒いので、船は出ません。",
+        "translation": "今天海浪很大，因此船不出航。",
+        "surface": "荒い",
+        "reading": "あらい"
+      }
+    ]
   },
   "n2-jmdict-1396910": {
     "sentence": "彼女のドレスはきめの粗いウールでできていた。",
@@ -33710,7 +37977,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "顆粒、網目不細或做事粗略；「粗く刻む」是粗切，與情緒猛烈的荒い區別。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "玉ねぎを粗く刻んで、鍋に入れます。",
+        "translation": "把洋蔥粗切後放進鍋裡。",
+        "surface": "粗く",
+        "reading": "あらく"
+      }
+    ]
   },
   "n2-jmdict-1475530": {
     "sentence": "こんな薄暗い部屋で本を読んではいけない。",
@@ -33734,7 +38012,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "有一點光但整體偏暗；直接接名詞如薄暗い廊下，不需加な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "薄暗い廊下の奥に、小さな窓がありました。",
+        "translation": "昏暗走廊的深處有一扇小窗。",
+        "surface": "薄暗い",
+        "reading": "うすぐらい"
+      }
+    ]
   },
   "n2-jmdict-1647360": {
     "sentence": "あいつは本当におめでたい人間だ。",
@@ -33759,7 +38048,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "71979",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "可喜可賀；形容人時也可能諷刺過於天真，須依對象、上下文判斷，勿一律當祝賀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ご結婚とは、おめでたいことですね。",
+        "translation": "原來要結婚了，真是可喜可賀。",
+        "surface": "おめでたい",
+        "reading": "おめでたい"
+      }
+    ]
   },
   "n2-jmdict-1335780": {
     "sentence": "その箱は重たくて運べません。",
@@ -33784,7 +38084,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "586949",
       "modified": "none"
-    }
+    },
+    "explanation": "重量大、感覺沉，也可指心情等沉重；比重い更常強調主觀負擔感。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "雨にぬれたコートが、重たく感じられました。",
+        "translation": "淋濕的外套讓人覺得很沉。",
+        "surface": "重たく",
+        "reading": "おもたく"
+      }
+    ]
   },
   "n2-jmdict-1378140": {
     "sentence": "心の清い人たちは幸いである。",
@@ -33809,7 +38120,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "268971",
       "modified": "none"
-    }
+    },
+    "explanation": "水等清澈、心靈純潔，語感較文雅；不等同房間打掃乾淨常用的きれい。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "清い流れのそばで、鳥の声を聞きました。",
+        "translation": "我在清澈的溪流旁聽見了鳥鳴。",
+        "surface": "清い",
+        "reading": "きよい"
+      }
+    ]
   },
   "n2-jmdict-1184360": {
     "sentence": "くだらない質問だな。",
@@ -33833,7 +38155,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "認為內容沒價值、不值得在意，帶貶抑；對人的問題直接如此評論可能傷人。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "くだらないうわさに、時間を使いたくありません。",
+        "translation": "我不想把時間花在無聊的謠言上。",
+        "surface": "くだらない",
+        "reading": "くだらない"
+      }
+    ]
   },
   "n2-jmdict-1260530": {
     "sentence": "私たちは険しい坂を登った。",
@@ -33858,7 +38191,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "7982",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "山路陡峭難走，也可形容表情嚴厲、前途艱難；「険しい顔」不是臉部形狀陡峭。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "父は険しい表情で、事故のニュースを見ていました。",
+        "translation": "父親神情凝重地看著事故新聞。",
+        "surface": "険しい",
+        "reading": "けわしい"
+      }
+    ]
   },
   "n2-jmdict-1558760": {
     "sentence": "実家が恋しくなって戻っちゃった。",
@@ -33882,7 +38226,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "因分離而想念人、家鄉或事物；常用「〜が恋しい」，不限戀愛對象。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "留学中は、母の作る料理が恋しかったです。",
+        "translation": "留學期間，我很想念媽媽做的料理。",
+        "surface": "恋しかった",
+        "reading": "こいしかった"
+      }
+    ]
   },
   "n2-jmdict-1403000": {
     "sentence": "彼は彼らを騒がしいとたしなめた。",
@@ -33909,7 +38264,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "302571",
       "modified": "none"
-    }
+    },
+    "explanation": "聲音吵雜、周遭不安寧，也可指社會議論紛紛；不一定出於歡樂。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "隣の部屋が騒がしくて、勉強に集中できません。",
+        "translation": "隔壁房間很吵，讓我無法專心讀書。",
+        "surface": "騒がしくて",
+        "reading": "さわがしくて"
+      }
+    ]
   },
   "n2-jmdict-1609860": {
     "sentence": "海の水は塩辛すぎて飲めない。",
@@ -33934,7 +38300,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "671241",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "鹽分明顯、偏鹹；日本不同地區的辛い用法有差異，用塩辛い能清楚區分辣味。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "スープが塩辛かったので、お湯を少し足しました。",
+        "translation": "湯太鹹了，所以我加了一點熱水。",
+        "surface": "塩辛かった",
+        "reading": "しおからかった"
+      }
+    ]
   },
   "n2-jmdict-1305420": {
     "sentence": "仕方がないよ。",
@@ -33961,7 +38338,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "38612",
       "modified": "none"
-    }
+    },
+    "explanation": "沒有可行辦法、只能接受；「〜て仕方がない」另表示某感受強烈得無法控制。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "試験の結果が気になって仕方がありません。",
+        "translation": "我在意考試結果，在意得不得了。",
+        "surface": "仕方がありません",
+        "reading": "しかたがありません"
+      }
+    ]
   },
   "n2-jmdict-1005550": {
     "sentence": "どうして、そんなにしつこいの？",
@@ -33985,7 +38373,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "反覆糾纏不放、味道濃膩，或症狀久不退；通常超出說話者認為適當的程度。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "しつこいせきが続くので、診察を受けました。",
+        "translation": "因為咳嗽一直不退，我去看了醫生。",
+        "surface": "しつこい",
+        "reading": "しつこい"
+      }
+    ]
   },
   "n2-jmdict-1305510": {
     "sentence": "しょうがないなぁ。",
@@ -34011,7 +38410,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "仕方がない的口語，表示無奈；「〜てしょうがない」也可強調感受，正式場合可換仕方がない。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "暑くてしょうがないので、冷房をつけました。",
+        "translation": "因為熱得受不了，我開了冷氣。",
+        "surface": "しょうがない",
+        "reading": "しょうがない"
+      }
+    ]
   },
   "n2-jmdict-1610020": {
     "sentence": "ジョー、すまないが、君の電話を借りてもいいかい。",
@@ -34036,7 +38446,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "180933",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對熟人、部屬等表達抱歉或欠情；比すみません隨意，對上司、客戶宜採更合適的敬語。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "遅くまで付き合わせて、すまなかった。",
+        "translation": "讓你陪我到這麼晚，抱歉了。",
+        "surface": "すまなかった",
+        "reading": "すまなかった"
+      }
+    ]
   },
   "n2-jmdict-1596440": {
     "sentence": "その通りは騒々しい。",
@@ -34061,7 +38482,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "44978",
       "modified": "none"
-    }
+    },
+    "explanation": "聲響紛亂、令人無法安靜，較強烈地形容吵雜；不等同熱鬧而愉快的にぎやか。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "騒々しい店内を出ると、ほっとしました。",
+        "translation": "走出吵雜的店內後，我鬆了一口氣。",
+        "surface": "騒々しい",
+        "reading": "そうぞうしい"
+      }
+    ]
   },
   "n2-jmdict-1554940": {
     "sentence": "真夏の空には、力強い入道雲が浮かんでいた。",
@@ -34085,7 +38517,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "動作、聲音或支持充滿力量、給人信心；「力強く答える」可形容堅定回答。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "仲間の力強い言葉に、勇気をもらいました。",
+        "translation": "同伴有力的話語帶給了我勇氣。",
+        "surface": "力強い",
+        "reading": "ちからづよい"
+      }
+    ]
   },
   "n2-jmdict-1983730": {
     "sentence": "私は茶色い髪をしています。",
@@ -34111,7 +38554,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "呈褐色、棕色的い形容詞；可直接修飾名詞「茶色い靴」，也可用名詞形式茶色の。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "茶色い犬が、木の下で眠っています。",
+        "translation": "一隻棕色的狗正睡在樹下。",
+        "surface": "茶色い",
+        "reading": "ちゃいろい"
+      }
+    ]
   },
   "n2-jmdict-1200490": {
     "sentence": "小学校の先生達のことが懐かしい。",
@@ -34136,7 +38590,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "267584",
       "modified": "none"
-    }
+    },
+    "explanation": "接觸過去熟悉事物時產生溫暖懷念；不適合完全未曾有過接觸、經驗的對象。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この歌を聞くと、学生時代が懐かしくなります。",
+        "translation": "一聽這首歌，我就懷念起學生時代。",
+        "surface": "懐かしく",
+        "reading": "なつかしく"
+      }
+    ]
   },
   "n2-jmdict-1403390": {
     "sentence": "フランス語が憎い。",
@@ -34160,7 +38625,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "對人、行為強烈憎恨，也有「憎い演出」等稱讚巧妙的特殊用法；普通用法語氣很強。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "人の努力を踏みにじるような行為が憎いです。",
+        "translation": "我憎恨踐踏他人努力的行為。",
+        "surface": "憎い",
+        "reading": "にくい"
+      }
+    ]
   },
   "n2-jmdict-1259250": {
     "sentence": "うちの家って、古くてみっともないんだ。",
@@ -34187,7 +38663,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "250549",
       "modified": "none"
-    }
+    },
+    "explanation": "外表、行為不體面、讓人難堪；帶社會評價，對人直接使用容易失禮。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "人前で責任を押し付け合うのは、みっともないです。",
+        "translation": "在眾人面前互相推卸責任，很不體面。",
+        "surface": "みっともない",
+        "reading": "みっともない"
+      }
+    ]
   },
   "n2-jmdict-1333810": {
     "sentence": "１人の醜い男が私の家の戸をたたいた。",
@@ -34212,7 +38699,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "10018",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "外形不美或行為、內心卑劣，語氣強烈；形容人外貌有侮辱性，常用於抽象行為批評。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "利益を巡って、醜い争いが起きました。",
+        "translation": "圍繞利益，發生了醜陋的爭鬥。",
+        "surface": "醜い",
+        "reading": "みにくい"
+      }
+    ]
   },
   "n2-jmdict-1356870": {
     "sentence": "台湾の夏は、蒸し暑いものだ。",
@@ -34239,7 +38737,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "10124389",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "溫度高、濕氣重而悶熱；不只是乾燥炎熱，變化形式如蒸し暑くなる。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "雨上がりの夜は、風もなく蒸し暑かったです。",
+        "translation": "雨後的夜晚沒有風，十分悶熱。",
+        "surface": "蒸し暑かった",
+        "reading": "むしあつかった"
+      }
+    ]
   },
   "n2-jmdict-1612040": {
     "sentence": "申し訳ないんですけど、今すぐの回答は無理なんです。",
@@ -34263,7 +38772,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "強烈地為失誤、造成麻煩表達歉意；正式場合常用申し訳ありません、申し訳ございません。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "長くお待たせして、申し訳ありませんでした。",
+        "translation": "讓您久等了，非常抱歉。",
+        "surface": "申し訳ありませんでした",
+        "reading": "もうしわけありませんでした"
+      }
+    ]
   },
   "n2-jmdict-1214410": {
     "sentence": "道は緩い下り坂になっている。",
@@ -34287,7 +38807,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "固定不緊、坡度平緩、限制寬鬆等；「ねじが緩い」是不緊，不等於材料本身柔軟。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "靴ひもが緩いので、結び直しました。",
+        "translation": "鞋帶鬆了，所以我重新綁好。",
+        "surface": "緩い",
+        "reading": "ゆるい"
+      }
+    ]
   },
   "n2-jmdict-1567920": {
     "sentence": "彼女は私たちにあいまいな返事をした。",
@@ -34314,7 +38845,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "314067",
       "modified": "none"
-    }
+    },
+    "explanation": "界線、內容或態度不清楚；修飾名詞用「あいまいな」，副詞用「あいまいに」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "責任の範囲をあいまいにせず、文書で決めましょう。",
+        "translation": "不要讓責任範圍含糊不清，用文件訂明吧。",
+        "surface": "あいまいに",
+        "reading": "あいまいに"
+      }
+    ]
   },
   "n2-jmdict-1448800": {
     "sentence": "病気になるまで、我々は健康を当たり前のものだと思っている。",
@@ -34341,7 +38883,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "318411",
       "modified": "none"
-    }
+    },
+    "explanation": "認為合理、自然應該如此，也可指普通；「当たり前だ」對人說可能顯得理所當然、不夠體貼。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "毎日水が使えることを、当たり前だと思わないようにしています。",
+        "translation": "我提醒自己，別把每天有水可用視為理所當然。",
+        "surface": "当たり前",
+        "reading": "あたりまえ"
+      }
+    ]
   },
   "n2-jmdict-1612620": {
     "sentence": "ヨーロッパをあちらこちら旅行した。",
@@ -34366,7 +38919,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1780005",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "分散在不同地方、這裡那裡；此用法常作副詞，不要一律接な當普通な形容詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "庭のあちらこちらに、小さな花が咲いています。",
+        "translation": "庭院各處開著小花。",
+        "surface": "あちらこちら",
+        "reading": "あちらこちら"
+      }
+    ]
   },
   "n2-jmdict-1021220": {
     "sentence": "誰でも２足す２イコール４であることを知っている。",
@@ -34392,7 +38956,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "等號、相等關係，也比喻可直接等同；「AイコールB」不一定是數學計算。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "値段が高いことが、イコール高品質とは限りません。",
+        "translation": "價格高不一定就等於品質好。",
+        "surface": "イコール",
+        "reading": "いこーる"
+      }
+    ]
   },
   "n2-jmdict-1205490": {
     "sentence": "暑い日の生ビールの味はまた格別だ。",
@@ -34419,7 +38994,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "267093",
       "modified": "none"
-    }
+    },
+    "explanation": "比一般更突出、特別，常用「格別の」「格別に」；不用所有情況都加な。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "久しぶりに家族と食べる夕飯は、格別でした。",
+        "translation": "久違地和家人一起吃晚餐，感覺格外美好。",
+        "surface": "格別",
+        "reading": "かくべつ"
+      }
+    ]
   },
   "n2-jmdict-1196170": {
     "sentence": "キャベツは生産過剰で値をくずした。",
@@ -34446,7 +39032,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "63174",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "超過必要、適當程度，通常不是正面稱讚；「過剰な期待」可能造成壓力。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "一度の失敗に、過剰に反応しないでください。",
+        "translation": "請不要對一次失敗反應過度。",
+        "surface": "過剰に",
+        "reading": "かじょうに"
+      }
+    ]
   },
   "n2-jmdict-1245380": {
     "sentence": "地獄は空っぽだ、悪魔はみんなここにいる。",
@@ -34473,7 +39070,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8998410",
       "modified": "none"
-    }
+    },
+    "explanation": "容器裡什麼都沒有，亦可比喻腦中空白；常用「空っぽの箱」，不一律改成空っぽな。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "緊張して、頭の中が空っぽになりました。",
+        "translation": "我緊張得腦中一片空白。",
+        "surface": "空っぽ",
+        "reading": "からっぽ"
+      }
+    ]
   },
   "n2-jmdict-1209920": {
     "sentence": "当地は夏はひどく湿気が多いが、逆に冬は乾燥する。",
@@ -34500,7 +39108,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "280018",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "水分少、變乾，常用「乾燥する」「乾燥した」；描述食品也常用乾燥＋名詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "乾燥した空気で、喉が痛くなりました。",
+        "translation": "乾燥的空氣讓我的喉嚨痛了起來。",
+        "surface": "乾燥した",
+        "reading": "かんそうした"
+      }
+    ]
   },
   "n2-jmdict-1253840": {
     "sentence": "まさに傑作だ。",
@@ -34526,7 +39145,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "品質特別優秀的作品；口語也可說某事很有趣、好笑，語境不同，常用名詞形式。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この小説は、短いながらも傑作だと思います。",
+        "translation": "我認為這部小說雖短，卻是傑作。",
+        "surface": "傑作",
+        "reading": "けっさく"
+      }
+    ]
   },
   "n2-jmdict-1186230": {
     "sentence": "そんな悪趣味で下品なネタを話すな。",
@@ -34552,7 +39182,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "言行、外觀缺少格調、顯得粗俗，帶負面評價；副詞形式「下品に」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "大声で下品な冗談を言うのは、やめてほしいです。",
+        "translation": "我希望他別再大聲說粗俗的笑話。",
+        "surface": "下品な",
+        "reading": "げひんな"
+      }
+    ]
   },
   "n2-jmdict-1260190": {
     "sentence": "褒められても謙虚さが大事。",
@@ -34578,7 +39219,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不自滿、願意聽取他人意見；「謙虚に学ぶ」不是否認自己所有能力。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "受賞後も、彼女は謙虚な姿勢で学び続けています。",
+        "translation": "獲獎後，她仍以謙虛的態度持續學習。",
+        "surface": "謙虚な",
+        "reading": "けんきょな"
+      }
+    ]
   },
   "n2-jmdict-1262660": {
     "sentence": "道路法規は厳重に守らなければならない。",
@@ -34605,7 +39257,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "280502",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "防備、管理、注意等嚴密周全；常搭配「厳重に保管する」，不泛指所有難度高的事。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "個人情報は、鍵のかかる場所で厳重に管理します。",
+        "translation": "個人資料會在可上鎖的地方嚴密管理。",
+        "surface": "厳重に",
+        "reading": "げんじゅうに"
+      }
+    ]
   },
   "n2-jmdict-1260240": {
     "sentence": "彼の謙遜さは賞賛に値する。",
@@ -34631,7 +39294,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "為表謙虛而不誇耀、降低對自己成就的說法；常用「謙遜する」，與內在態度謙虚側重不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "彼は「運がよかっただけです」と謙遜しました。",
+        "translation": "他謙虛地說：「只是運氣好而已。」",
+        "surface": "謙遜しました",
+        "reading": "けんそんしました"
+      }
+    ]
   },
   "n2-jmdict-1257730": {
     "sentence": "彼は子供を幸せにするために一生懸命働いた。",
@@ -34657,7 +39331,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "用盡力量努力，常用「懸命に」；不要與表示判斷明智的「賢明」混寫。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "子供たちは、懸命にゴールを目指して走りました。",
+        "translation": "孩子們拼命朝終點跑去。",
+        "surface": "懸命に",
+        "reading": "けんめいに"
+      }
+    ]
   },
   "n2-jmdict-1283400": {
     "sentence": "私にはこんな高級レストランで食事をする余裕はない。",
@@ -34682,7 +39367,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "54638",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "品質、等級、格調高，常用「高級な」或高級＋名詞；不單以價格高就能判定。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "記念日に、高級な食材で料理を作りました。",
+        "translation": "紀念日那天，我用高級食材做了料理。",
+        "surface": "高級な",
+        "reading": "こうきゅうな"
+      }
+    ]
   },
   "n2-jmdict-1283830": {
     "sentence": "この学校は生徒達に高度な道徳水準を課する。",
@@ -34706,7 +39402,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "程度、技術等很高，也可作名詞指海拔高度；「高度な知識」指高深知識，不是位置高。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この手術には、高度な技術が必要です。",
+        "translation": "這項手術需要高超的技術。",
+        "surface": "高度な",
+        "reading": "こうどな"
+      }
+    ]
   },
   "n2-jmdict-1283850": {
     "sentence": "彼は高等学校の生徒ではありません。",
@@ -34731,7 +39438,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "296407",
       "modified": "none"
-    }
+    },
+    "explanation": "等級高、程度較深，常作複合詞如高等教育；修飾時可用高等な，不等同價格高的高級。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "大学では、高等教育を受けることができます。",
+        "translation": "在大學可以接受高等教育。",
+        "surface": "高等教育",
+        "reading": "こうとうきょういく"
+      }
+    ]
   },
   "n2-jmdict-1593650": {
     "sentence": "今日隣の子が真っ逆様に木から落ちたのよ。",
@@ -34755,7 +39473,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "上下、方向等完全相反，常寫逆さま；「逆さまに置く」是倒著放，不一定翻面。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "箱を逆さまにすると、中の物が落ちます。",
+        "translation": "把箱子倒過來，裡面的東西就會掉下來。",
+        "surface": "逆さまに",
+        "reading": "さかさまに"
+      }
+    ]
   },
   "n2-jmdict-1350220": {
     "sentence": "彼は消極的な性格だ。",
@@ -34781,7 +39510,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不積極採取行動、對提案傾向保留；「参加に消極的」不一定表示內心悲觀。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "委員会は、計画の変更に消極的でした。",
+        "translation": "委員會對變更計畫抱持消極態度。",
+        "surface": "消極的",
+        "reading": "しょうきょくてき"
+      }
+    ]
   },
   "n2-jmdict-1397340": {
     "sentence": "嬉しいくせに。素直に喜びなよ。",
@@ -34805,7 +39545,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "不扭曲心意、願意坦然接受，也可指性情溫順；「素直に謝る」是坦率道歉，不是盲從。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "間違いを指摘されて、素直に謝りました。",
+        "translation": "被指出錯誤後，我坦率地道了歉。",
+        "surface": "素直に",
+        "reading": "すなおに"
+      }
+    ]
   },
   "n2-jmdict-1075060": {
     "sentence": "このクラスの少女の平均身長は１５５センチを越えている。",
@@ -34831,7 +39582,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "通常為センチメートル的簡稱、公分；此義是單位名詞，不能使用センチな描述長度。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "机の高さを、五センチ低くしました。",
+        "translation": "我把桌子的高度降低了五公分。",
+        "surface": "センチ",
+        "reading": "せんち"
+      }
+    ]
   },
   "n2-jmdict-1414380": {
     "sentence": "私は、その新しい雑誌が大層面白いとわかった。",
@@ -34858,7 +39620,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "252176",
       "modified": "none"
-    }
+    },
+    "explanation": "非常、相當，常作副詞たいそう；「大層な」另可形容誇大、了不起，語氣視上下文。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "祖母は手紙を読んで、たいそう喜びました。",
+        "translation": "祖母讀了信後，非常高興。",
+        "surface": "たいそう",
+        "reading": "たいそう"
+      }
+    ]
   },
   "n2-jmdict-1430800": {
     "sentence": "直角は９０度である。",
@@ -34884,7 +39657,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "九十度的角，常用「直角に曲がる」；是角度關係，不應只解釋成一般轉彎。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この二本の線は、直角に交わっています。",
+        "translation": "這兩條線以直角相交。",
+        "surface": "直角に",
+        "reading": "ちょっかくに"
+      }
+    ]
   },
   "n2-jmdict-1339630": {
     "sentence": "彼は本棚に本をでたらめに入れた。",
@@ -34911,7 +39695,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "303814",
       "modified": "none"
-    }
+    },
+    "explanation": "內容無根據、不正確，或做事毫無章法；「でたらめを言う」是胡說，不是任何玩笑。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "確認すると、うわさは全くのでたらめでした。",
+        "translation": "一確認才知道，謠言完全是胡說。",
+        "surface": "でたらめ",
+        "reading": "でたらめ"
+      }
+    ]
   },
   "n2-jmdict-1454970": {
     "sentence": "そのためには特殊な工具が必要になります。",
@@ -34938,7 +39733,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "41900",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "與一般情況不同、限於特定條件；「特殊な事情」不一定表示稀有珍貴或品質優良。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この装置は、特殊な環境でも使えます。",
+        "translation": "這個裝置即使在特殊環境下也能使用。",
+        "surface": "特殊な",
+        "reading": "とくしゅな"
+      }
+    ]
   },
   "n2-jmdict-1010830": {
     "sentence": "ピカピカの新製品です。",
@@ -34963,7 +39769,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13153",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "光亮閃耀、清潔如新的樣子；常用「ぴかぴかに磨く」「ぴかぴかの」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "靴をぴかぴかに磨いて、面接へ出かけました。",
+        "translation": "我把鞋子擦得亮晶晶，出門去面試。",
+        "surface": "ぴかぴかに",
+        "reading": "ぴかぴかに"
+      }
+    ]
   },
   "n2-jmdict-1491290": {
     "sentence": "彼は気の毒な程不運だ。",
@@ -34988,7 +39805,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "349364",
       "modified": "none"
-    }
+    },
+    "explanation": "遭遇不好的運氣、機緣；「不運にも」是很不幸地，不必然是當事人能力不足。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "不運にも、出発直前に自転車が故障しました。",
+        "translation": "很不巧，出發前一刻腳踏車故障了。",
+        "surface": "不運にも",
+        "reading": "ふうんにも"
+      }
+    ]
   },
   "n2-jmdict-1491840": {
     "sentence": "不規則動詞の勉強は好きではない。",
@@ -35014,7 +39842,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不依固定規律、間隔等，亦用於文法不規則變化；不等於違反法律。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "勤務時間が不規則なので、睡眠に気をつけています。",
+        "translation": "因為工作時間不規律，我很注意睡眠。",
+        "surface": "不規則",
+        "reading": "ふきそく"
+      }
+    ]
   },
   "n2-jmdict-1492160": {
     "sentence": "僕は散らかっている家は我慢できるが、不潔な家は嫌いだ。",
@@ -35039,7 +39878,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "321833",
       "modified": "none"
-    }
+    },
+    "explanation": "不乾淨、不衛生，也可批評行為污穢；描述環境時比單純物品散亂更重衛生。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "不潔な手で、食べ物に触れないでください。",
+        "translation": "請不要用髒手碰食物。",
+        "surface": "不潔な",
+        "reading": "ふけつな"
+      }
+    ]
   },
   "n2-jmdict-1113060": {
     "sentence": "このタオル、ふわふわで気持ちいいよ。",
@@ -35063,7 +39913,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "輕柔鬆軟、輕飄移動，亦可比喻心神不定；常用「ふわふわの」「ふわふわしている」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "焼きたてのパンは、ふわふわしていました。",
+        "translation": "剛出爐的麵包鬆鬆軟軟的。",
+        "surface": "ふわふわしていました",
+        "reading": "ふわふわしていました"
+      }
+    ]
   },
   "n2-jmdict-1507180": {
     "sentence": "雪が降っても平気だよ。",
@@ -35090,7 +39951,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "259032",
       "modified": "none"
-    }
+    },
+    "explanation": "不害怕、不受影響或身體沒事；「平気な顔」可指若無其事，不一定內心真無感受。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "注射を見ても、弟は平気な顔をしていました。",
+        "translation": "看到針筒，弟弟仍一臉若無其事。",
+        "surface": "平気な",
+        "reading": "へいきな"
+      }
+    ]
   },
   "n2-jmdict-1507910": {
     "sentence": "彼は平凡な学生ではない。",
@@ -35114,7 +39986,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "普通、沒有特別突出之處；「平凡な毎日」可珍惜安穩，也可感到單調，依語境判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "平凡ですが、穏やかな生活を大切にしています。",
+        "translation": "雖然平凡，我很珍惜安穩的生活。",
+        "surface": "平凡",
+        "reading": "へいぼん"
+      }
+    ]
   },
   "n2-jmdict-1603290": {
     "sentence": "別々に包んでください。",
@@ -35140,7 +40023,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "各自分開、不放在一起；常用「別々に」「別々の」，不只代表彼此內容不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "代金は、別々に払ってもいいですか。",
+        "translation": "費用可以分開付嗎？",
+        "surface": "別々に",
+        "reading": "べつべつに"
+      }
+    ]
   },
   "n2-jmdict-1603660": {
     "sentence": "インテル社はその発明で膨大な特許料を得ている。",
@@ -35164,7 +40058,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "數量、規模大得驚人；「膨大な資料」不保證每一份資料都重要。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "調査には、膨大な時間と費用がかかりました。",
+        "translation": "調查耗費了龐大的時間與費用。",
+        "surface": "膨大な",
+        "reading": "ぼうだいな"
+      }
+    ]
   },
   "n2-jmdict-1363190": {
     "sentence": "外は真っ暗だよ。",
@@ -35191,7 +40096,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1053235",
       "modified": "none"
-    }
+    },
+    "explanation": "光線幾乎全無、漆黑，也可比喻前景黯淡；「真っ暗になる」表示變得漆黑。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "停電で、廊下が真っ暗になりました。",
+        "translation": "因為停電，走廊變得一片漆黑。",
+        "surface": "真っ暗",
+        "reading": "まっくら"
+      }
+    ]
   },
   "n2-jmdict-1604080": {
     "sentence": "彼の顔は真っ青になった。",
@@ -35216,7 +40132,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "285827",
       "modified": "none"
-    }
+    },
+    "explanation": "鮮明、整片的藍色，亦可形容恐懼、病痛使臉色蒼白；描述臉時不宜直譯深藍。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "雲が晴れて、真っ青な空が広がりました。",
+        "translation": "雲散去後，眼前展開一片湛藍天空。",
+        "surface": "真っ青な",
+        "reading": "まっさおな"
+      }
+    ]
   },
   "n2-jmdict-1530280": {
     "sentence": "空には無数の星がきらめいていた。",
@@ -35243,7 +40170,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "18312",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "數量極多、難以計數，常用「無数の」；不必等同數學上真正的無限。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "浜辺には、無数の小さな貝殻がありました。",
+        "translation": "海灘上有無數的小貝殼。",
+        "surface": "無数の",
+        "reading": "むすうの"
+      }
+    ]
   },
   "n2-jmdict-1547390": {
     "sentence": "デザートをあんなに注文してもまだ足りないなんて、欲張りな奴だ。",
@@ -35268,7 +40206,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9606305",
       "modified": "none"
-    }
+    },
+    "explanation": "希望取得超出適當程度的東西、利益，帶貪心意味；「欲張りな」可形容人或要求。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "あれもこれも欲しいなんて、欲張りですね。",
+        "translation": "這個那個都想要，真貪心呢。",
+        "surface": "欲張り",
+        "reading": "よくばり"
+      }
+    ]
   },
   "n2-jmdict-1544090": {
     "sentence": "余計なことはするな。",
@@ -35292,7 +40241,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不必要、多出來，也可作副詞表示比原先更加；「余計に心配する」不是完全無需擔心。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "説明を聞いて、余計に分からなくなりました。",
+        "translation": "聽了說明，反而更加不懂了。",
+        "surface": "余計に",
+        "reading": "よけいに"
+      }
+    ]
   },
   "n2-jmdict-1549100": {
     "sentence": "彼は乱暴な扱いを受けた。",
@@ -35318,7 +40278,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "言語、動作粗暴，亦可指處理事情草率；「乱暴に扱う」可能損壞物品，不只是速度快。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "機材を乱暴に置かず、両手で支えてください。",
+        "translation": "請不要粗魯地放下器材，用雙手扶好。",
+        "surface": "乱暴に",
+        "reading": "らんぼうに"
+      }
+    ]
   },
   "n2-jmdict-1401310": {
     "sentence": "彼女は、ノーベル賞をとった後も相変わらず控え目である。",
@@ -35342,7 +40313,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "與之前相比沒有改變，可正可負；「相変わらず忙しい」不一定帶責備，依語氣判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "引っ越してからも、彼とは相変わらず連絡を取っています。",
+        "translation": "搬家之後，我和他仍一如往常保持聯絡。",
+        "surface": "相変わらず",
+        "reading": "あいかわらず"
+      }
+    ]
   },
   "n2-jmdict-1612650": {
     "sentence": "方針は２つの意見の間をあれこれとぐらついた。",
@@ -35367,7 +40349,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "321016",
       "modified": "none"
-    }
+    },
+    "explanation": "不只一項的各種事情，也可指東想西想；常用「あれこれ考える」，不指定固定數目。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "旅行の前は、持ち物をあれこれ考えてしまいます。",
+        "translation": "旅行前，我總會東想西想該帶哪些東西。",
+        "surface": "あれこれ",
+        "reading": "あれこれ"
+      }
+    ]
   },
   "n2-jmdict-1282000": {
     "sentence": "いきなり解雇を言い渡された。",
@@ -35392,7 +40385,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "351364",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "沒有預告、準備便突然發生；多形容令人意外的動作，不只是時間很快。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "説明もなく、いきなり難しい問題を出されました。",
+        "translation": "對方沒做說明，就突然出了難題。",
+        "surface": "いきなり",
+        "reading": "いきなり"
+      }
+    ]
   },
   "n2-jmdict-1155100": {
     "sentence": "それ以後彼女に会っていません。",
@@ -35417,7 +40421,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "41741",
       "modified": "none"
-    }
+    },
+    "explanation": "從所指時間起往後，也可指今後；日期範圍通常包含基準點，具體安排仍看通知。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "入社以後、毎日日本語を使うようになりました。",
+        "translation": "進公司以後，我開始每天使用日語。",
+        "surface": "以後",
+        "reading": "いご"
+      }
+    ]
   },
   "n2-jmdict-1155110": {
     "sentence": "９時以降に電話した方が安いですか。",
@@ -35443,7 +40458,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "以某時間為起點的後續期間；「午後三時以降」通常包含三點，不是嚴格只指三點之後一秒。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "来週以降の予定は、まだ決まっていません。",
+        "translation": "下週起的行程還沒決定。",
+        "surface": "以降",
+        "reading": "いこう"
+      }
+    ]
   },
   "n2-jmdict-1587320": {
     "sentence": "私が今言ったことに、いちいち細かいケチをつけないでよ。",
@@ -35467,7 +40493,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "每一件、逐一，也可能表示嫌對方每次都如此；情緒色彩依上下文與語氣。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "説明書を見ながら、部品の数をいちいち確認しました。",
+        "translation": "我一邊看說明書，一邊逐一確認零件數量。",
+        "surface": "いちいち",
+        "reading": "いちいち"
+      }
+    ]
   },
   "n2-jmdict-1164040": {
     "sentence": "彼らは一斉に笑い始めた。",
@@ -35492,7 +40529,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "280718",
       "modified": "none"
-    }
+    },
+    "explanation": "多個人、物同一時間行動；常用「一斉に」，不是各自輪流進行。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "合図と同時に、鳥たちが一斉に飛び立ちました。",
+        "translation": "隨著信號響起，鳥兒們同時飛了起來。",
+        "surface": "一斉に",
+        "reading": "いっせいに"
+      }
+    ]
   },
   "n2-jmdict-2088750": {
     "sentence": "行ってらっしゃい。",
@@ -35517,7 +40565,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "340916",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "回應即將外出並會返回的人，表示慢走、路上小心；與自己出門的いってきます配對。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「買い物に行くね。」「行ってらっしゃい。気をつけて。」",
+        "translation": "「我去買東西囉。」「慢走，小心一點。」",
+        "surface": "行ってらっしゃい",
+        "reading": "いってらっしゃい"
+      }
+    ]
   },
   "n2-jmdict-1587670": {
     "sentence": "雪が降り始め、いよいよ本格的な冬の到来を感じた。",
@@ -35544,7 +40603,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13250306",
       "modified": "none"
-    }
+    },
+    "explanation": "等待的關鍵時刻終於到來，或程度進一步加深；可用於好壞情勢，非一律慶祝。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "来週は、いよいよ新しい店が開店します。",
+        "translation": "下週，新店終於要開幕了。",
+        "surface": "いよいよ",
+        "reading": "いよいよ"
+      }
+    ]
   },
   "n2-jmdict-2007420": {
     "sentence": "うんと暖かくなった。",
@@ -35568,7 +40638,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "口語強調數量、程度很多，或加大力氣；正式文章可改用たくさん、非常に等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今夜はうんと休んで、明日に備えてください。",
+        "translation": "今晚好好充分休息，為明天做準備。",
+        "surface": "うんと",
+        "reading": "うんと"
+      }
+    ]
   },
   "n2-jmdict-1612780": {
     "sentence": "お帰りなさい。",
@@ -35595,7 +40676,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "13117414",
       "modified": "none"
-    }
+    },
+    "explanation": "迎接返回者的寒暄，完整常用お帰りなさい；也可為回來這件事的尊敬表達。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「ただいま。」「お帰り。今日は早かったね。」",
+        "translation": "「我回來了。」「歡迎回來，今天很早呢。」",
+        "surface": "お帰り",
+        "reading": "おかえり"
+      }
+    ]
   },
   "n2-jmdict-2411600": {
     "sentence": "どうぞおかけください。",
@@ -35622,7 +40714,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "38572",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "請坐的禮貌慣用語，漢字可寫お掛けください；掛ける在此指落座，不是掛物。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "こちらの椅子に、おかけください。",
+        "translation": "請坐這張椅子。",
+        "surface": "おかけください",
+        "reading": "おかけください"
+      }
+    ]
   },
   "n2-jmdict-1612800": {
     "sentence": "ライスとキャベツをお代わりお願いします。",
@@ -35647,7 +40750,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "29832",
       "modified": "none"
-    }
+    },
+    "explanation": "把相同食物、飲品再取一份或續添；常寫おかわり，是否免費要看店家規定。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "すみません、スープのおかわりをいただけますか。",
+        "translation": "不好意思，可以再給我一份湯嗎？",
+        "surface": "おかわり",
+        "reading": "おかわり"
+      }
+    ]
   },
   "n2-jmdict-2167510": {
     "sentence": "お姉さんのことはたいへんお気の毒に思います。",
@@ -35674,7 +40788,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "64469",
       "modified": "none"
-    }
+    },
+    "explanation": "對他人不幸表達同情、遺憾，場合須慎重；不是為自己造成的錯誤道歉的替代語。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ご家族が入院されたとは、お気の毒に思います。",
+        "translation": "聽說您的家人住院了，我深感遺憾。",
+        "surface": "お気の毒に",
+        "reading": "おきのどくに"
+      }
+    ]
   },
   "n2-jmdict-1002280": {
     "sentence": "それじゃお先に失礼します。",
@@ -35699,7 +40824,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "350133",
       "modified": "none"
-    }
+    },
+    "explanation": "自己先進行或請對方先行的省略語，依句型判斷；「お先に失礼します」為先告辭。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「私はもう少し残ります。どうぞお先に。」「では、お先に失礼します。」",
+        "translation": "「我還要留一下，您先走吧。」「那我先告辭了。」",
+        "surface": "お先に",
+        "reading": "おさきに"
+      }
+    ]
   },
   "n2-jmdict-1002390": {
     "sentence": "どうかお大事になさってください。",
@@ -35728,7 +40864,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "723615",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "關心病人、受傷者的祝早日康復、保重；完整可說お大事になさってください。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "風邪ですか。無理をせず、お大事に。",
+        "translation": "感冒了嗎？別勉強，請多保重。",
+        "surface": "お大事に",
+        "reading": "おだいじに"
+      }
+    ]
   },
   "n2-jmdict-1001720": {
     "sentence": "お願いします。",
@@ -35755,7 +40902,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "441943",
       "modified": "none"
-    }
+    },
+    "explanation": "提出請求、委託或拜託，需讓對方知道所求何事；比直接命令更禮貌但仍需配合場合。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "こちらの書類の確認を、お願いします。",
+        "translation": "這份文件的確認，再麻煩您。",
+        "surface": "お願いします",
+        "reading": "おねがいします"
+      }
+    ]
   },
   "n2-jmdict-1612820": {
     "sentence": "おはよう！ ごめん、待った？",
@@ -35781,7 +40939,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "早晨與熟人的招呼；對長輩、工作場合通常用おはようございます，並非動作起床的命令。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "隣の人に、「おはようございます」と挨拶しました。",
+        "translation": "我向鄰居問候：「早安。」",
+        "surface": "おはようございます",
+        "reading": "おはようございます"
+      }
+    ]
   },
   "n2-jmdict-2149640": {
     "sentence": "すみません、お待たせしました。",
@@ -35809,7 +40978,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "54729",
       "modified": "none"
-    }
+    },
+    "explanation": "自己使對方等待後的禮貌說法；不是請對方繼續等待，後者可用少々お待ちください。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "お待たせしました。修理が終わりました。",
+        "translation": "讓您久等了，維修已完成。",
+        "surface": "お待たせしました",
+        "reading": "おまたせしました"
+      }
+    ]
   },
   "n2-jmdict-1612680": {
     "sentence": "お休み、いい夢たくさん見てね。",
@@ -35836,7 +41016,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "10859",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "可指休息、休假，也作睡前晚安的簡略招呼；正式、客氣的晚安常說お休みなさい。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "明日はお休みなので、少し遅く起きるつもりです。",
+        "translation": "因為明天放假，我打算稍微晚一點起床。",
+        "surface": "お休み",
+        "reading": "おやすみ"
+      }
+    ]
   },
   "n2-jmdict-1344980": {
     "sentence": "昨日一緒にいた女の人誰？",
@@ -35862,7 +41053,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "指女性的日常表達；比女性口語，稱呼眼前的人時仍應優先用姓名、職稱等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "入口にいる女の人が、この店の店長です。",
+        "translation": "入口那位女性就是這家店的店長。",
+        "surface": "女の人",
+        "reading": "おんなのひと"
+      }
+    ]
   },
   "n2-jmdict-1264610": {
     "sentence": "彼女はできる限り速く走った。",
@@ -35890,7 +41092,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "311631",
       "modified": "none"
-    }
+    },
+    "explanation": "界限、可及範圍，亦形成「〜限り」只要等句型；「知る限り」限定在自己所知範圍。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "私が知る限り、この方法が一番安全です。",
+        "translation": "據我所知，這個方法最安全。",
+        "surface": "限り",
+        "reading": "かぎり"
+      }
+    ]
   },
   "n2-jmdict-1002790": {
     "sentence": "かしこまりました。",
@@ -35917,7 +41130,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "433468",
       "modified": "none"
-    }
+    },
+    "explanation": "接受客人、上司指示的謙恭應答，表示明白、遵照辦理；不是道歉，也不宜濫用於朋友閒聊。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「領収書をお願いします。」「かしこまりました。」",
+        "translation": "「請給我收據。」「好的，明白了。」",
+        "surface": "かしこまりました",
+        "reading": "かしこまりました"
+      }
+    ]
   },
   "n2-jmdict-1590250": {
     "sentence": "この湖はこの箇所が一番深い。",
@@ -35942,7 +41166,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59356",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "事情所在的地方、部分，也作數處所的量詞；「三箇所」為三處，不表示三個人。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "書類に、訂正が必要な箇所を三つ見つけました。",
+        "translation": "我在文件中找到了三處需要修改的地方。",
+        "surface": "箇所",
+        "reading": "かしょ"
+      }
+    ]
   },
   "n2-jmdict-1346200": {
     "sentence": "勝手にさせておけば泥棒は自然に身を滅ぼす。",
@@ -35967,7 +41202,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "267380",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "未經許可擅自做，亦可指任由自己意願；常帶責備，不等同被允許的自由。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "人の写真を、勝手に公開しないでください。",
+        "translation": "請不要擅自公開別人的照片。",
+        "surface": "勝手に",
+        "reading": "かってに"
+      }
+    ]
   },
   "n2-jmdict-1279670": {
     "sentence": "どっちでも構いません。",
@@ -35994,7 +41240,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "37894",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "不介意、沒有妨礙的禮貌說法；「〜ても構いません」表示允許，不是要求必須如此。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "鉛筆で記入しても構いません。",
+        "translation": "用鉛筆填寫也可以。",
+        "surface": "構いません",
+        "reading": "かまいません"
+      }
+    ]
   },
   "n2-jmdict-1590950": {
     "sentence": "ご健康を祝して乾杯。",
@@ -36021,7 +41278,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "487007",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "舉杯祝福的口號、行為；「乾杯する」不表示每次都必須喝光，也可用無酒精飲品。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "再会を喜んで、ジュースで乾杯しました。",
+        "translation": "我們為重逢感到高興，用果汁乾杯。",
+        "surface": "乾杯しました",
+        "reading": "かんぱいしました"
+      }
+    ]
   },
   "n2-jmdict-1219110": {
     "sentence": "この近くに軍の基地がある。",
@@ -36046,7 +41314,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59631",
       "modified": "none"
-    }
+    },
+    "explanation": "軍事、活動等的據點；「研究の基地」也可非軍事，不是只指營帳或機場。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この島は、海洋調査の基地として使われています。",
+        "translation": "這座島被當作海洋調查的基地。",
+        "surface": "基地",
+        "reading": "きち"
+      }
+    ]
   },
   "n2-jmdict-1003590": {
     "sentence": "彼は棚に本をぎっしり詰め込んだ。",
@@ -36071,7 +41350,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "301378",
       "modified": "none"
-    }
+    },
+    "explanation": "空隙很少地塞滿，形容物件、人或行程；常用「ぎっしりと詰まる」。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "今週は予定がぎっしりで、休む時間がありません。",
+        "translation": "這週行程排得滿滿的，沒有休息時間。",
+        "surface": "ぎっしり",
+        "reading": "ぎっしり"
+      }
+    ]
   },
   "n2-jmdict-1269140": {
     "sentence": "くれぐれもお体をお大事に。",
@@ -36096,7 +41386,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "38469",
       "modified": "none"
-    }
+    },
+    "explanation": "再三、務必，多用於提醒、叮嚀與請託；不是單純重複事件的頻率副詞。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "くれぐれも、書類をなくさないようにしてください。",
+        "translation": "請務必小心，不要把文件弄丟。",
+        "surface": "くれぐれも",
+        "reading": "くれぐれも"
+      }
+    ]
   },
   "n2-jmdict-1273820": {
     "sentence": "数学はただ公式を暗記すればいいというものではない。",
@@ -36123,7 +41424,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "3936",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "數學中的運算公式，也可表示官方、正式；「公式サイト」不是公式計算的網站。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "最新の情報は、公式サイトで確認してください。",
+        "translation": "最新資訊請到官方網站確認。",
+        "surface": "公式サイト",
+        "reading": "こうしきさいと"
+      }
+    ]
   },
   "n2-jmdict-1270520": {
     "sentence": "ごちそうさま。",
@@ -36148,7 +41460,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "433863",
       "modified": "none"
-    }
+    },
+    "explanation": "餐後感謝準備、提供食物的招呼；較禮貌用ごちそうさまでした，不只對付錢者說。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ごちそうさまでした。とてもおいしかったです。",
+        "translation": "多謝款待，非常好吃。",
+        "surface": "ごちそうさまでした",
+        "reading": "ごちそうさまでした"
+      }
+    ]
   },
   "n2-jmdict-1004510": {
     "sentence": "こちらこそありがとうございます。",
@@ -36174,7 +41497,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "回應對方的謝意、歉意、招呼，表示我才是；需依前一句理解，不是普通地點指示。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "「よろしくお願いします。」「こちらこそ、よろしくお願いします。」",
+        "translation": "「請多指教。」「我才要請您多多指教。」",
+        "surface": "こちらこそ",
+        "reading": "こちらこそ"
+      }
+    ]
   },
   "n2-jmdict-1004520": {
     "sentence": "彼は僕に彼女の写真をこっそり見せてくれた。",
@@ -36201,7 +41535,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1315829",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "不讓別人察覺、偷偷做事；可用於善意驚喜，也可用於不被允許的行動。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "家族にこっそり、誕生日のケーキを用意しました。",
+        "translation": "我瞞著家人，偷偷準備了生日蛋糕。",
+        "surface": "こっそり",
+        "reading": "こっそり"
+      }
+    ]
   },
   "n2-jmdict-1004610": {
     "sentence": "こないだ生まれて初めて釣りに行った。",
@@ -36228,7 +41573,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "273118",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "このあいだ的口語縮略，表示前些時候；正式報告宜用先日、具體日期。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "こないだ借りた傘を、今日返します。",
+        "translation": "我今天會還前幾天借的傘。",
+        "surface": "こないだ",
+        "reading": "こないだ"
+      }
+    ]
   },
   "n2-jmdict-1289480": {
     "sentence": "こんばんは。ご機嫌いかが？",
@@ -36255,7 +41611,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "413820",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "晚間見面時的招呼，末尾は讀わ；就寢前說晚安則用おやすみなさい。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "こんばんは。お席までご案内します。",
+        "translation": "晚上好，我帶您到座位。",
+        "surface": "こんばんは",
+        "reading": "こんばんは"
+      }
+    ]
   },
   "n2-jmdict-1388170": {
     "sentence": "先程、どういうわけかマイクが入りませんでした。",
@@ -36281,7 +41648,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "不久之前、剛才的較禮貌說法，常寫先ほど；不宜指相隔很久的上個月。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先ほど伺った件について、資料を送りました。",
+        "translation": "關於剛才請教的事情，我寄出了資料。",
+        "surface": "先ほど",
+        "reading": "さきほど"
+      }
+    ]
   },
   "n2-jmdict-1005190": {
     "sentence": "私の兄は宿題をさっさと済ませた。",
@@ -36305,7 +41683,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "不拖延、迅速做完，對人用指令常帶不耐煩；禮貌請求可改用早めに等。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "荷造りをさっさと済ませて、早く寝ました。",
+        "translation": "我迅速收拾完行李，早早睡了。",
+        "surface": "さっさと",
+        "reading": "さっさと"
+      }
+    ]
   },
   "n2-jmdict-1400300": {
     "sentence": "早速のご返信ありがとうございます。",
@@ -36329,7 +41718,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "事情發生、收到指示後迅速著手；「早速ですが」也常用來直接進入正題。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "届いた本を、早速読み始めました。",
+        "translation": "書一送到，我就馬上開始讀了。",
+        "surface": "早速",
+        "reading": "さっそく"
+      }
+    ]
   },
   "n2-jmdict-1291050": {
     "sentence": "さようなら、また明日ね。",
@@ -36356,7 +41756,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "15206",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "道別的再見；同事下班常用お先に失礼します、熟人可用またね，依關係選用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "先生に「さようなら」と挨拶して、教室を出ました。",
+        "translation": "我向老師說了聲「再見」，便離開教室。",
+        "surface": "さようなら",
+        "reading": "さようなら"
+      }
+    ]
   },
   "n2-jmdict-1331300": {
     "sentence": "現在では我々が作った人工衛星が地球の周辺を回転している。",
@@ -36380,7 +41791,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某中心地點的附近，也指議題周圍的相關範圍；「駅周辺」不只車站建物內部。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "会場周辺には、駐車場がほとんどありません。",
+        "translation": "會場周邊幾乎沒有停車場。",
+        "surface": "周辺",
+        "reading": "しゅうへん"
+      }
+    ]
   },
   "n2-jmdict-1595610": {
     "sentence": "私は少なくとも一週間に一回図書館に行きます。",
@@ -36406,7 +41828,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "數量、判斷的最低界限，至少；不等同表最低願望的せめて，常用於客觀估計。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "完成には、少なくとも三か月かかります。",
+        "translation": "完成至少需要三個月。",
+        "surface": "少なくとも",
+        "reading": "すくなくとも"
+      }
+    ]
   },
   "n2-jmdict-1006120": {
     "sentence": "今はすっきりした気分です。",
@@ -36431,7 +41864,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "20301",
       "modified": "none"
-    }
+    },
+    "explanation": "沒有雜亂、阻礙，或心身爽快；「すっきりした説明」也可形容說明清楚簡潔。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "不要な物を片付けると、部屋がすっきりしました。",
+        "translation": "收拾掉不需要的東西後，房間清爽多了。",
+        "surface": "すっきりしました",
+        "reading": "すっきりしました"
+      }
+    ]
   },
   "n2-jmdict-1595750": {
     "sentence": "この動画は、お住まいの国では公開されていません。",
@@ -36455,7 +41899,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "居住的地方、房屋，比住所更可談生活空間；加お可禮貌詢問，並非永遠用於豪宅。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "お住まいは、駅から近いですか。",
+        "translation": "您住的地方離車站近嗎？",
+        "surface": "お住まい",
+        "reading": "おすまい"
+      }
+    ]
   },
   "n2-jmdict-2008620": {
     "sentence": "彼女はせっせと編み物に精を出していた。",
@@ -36480,7 +41935,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "311058",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "持續勤快、不停歇地做事；可正面描述努力，不只是一次快速動作。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "父は、庭の草をせっせと抜いていました。",
+        "translation": "父親正勤快地拔著院子裡的雜草。",
+        "surface": "せっせと",
+        "reading": "せっせと"
+      }
+    ]
   },
   "n2-jmdict-1006570": {
     "sentence": "一日にせめて二回は歯を磨くべきだ。",
@@ -36506,7 +41972,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "實情不理想時提出最低限度的希望、要求；不只是客觀下限估計，常帶退讓心情。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "全部は無理でも、せめて一口食べてみてください。",
+        "translation": "即使吃不完，至少試吃一口吧。",
+        "surface": "せめて",
+        "reading": "せめて"
+      }
+    ]
   },
   "n2-jmdict-1392910": {
     "sentence": "文の前後関係から単語の意味を知る。",
@@ -36531,7 +42008,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "320025",
       "modified": "none"
-    }
+    },
+    "explanation": "空間、時間的前與後，也可表示約略數值；「十人前後」是十人左右，不是前後各十人。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "参加者は、二十人前後になる見込みです。",
+        "translation": "參加者預計會有二十人左右。",
+        "surface": "前後",
+        "reading": "ぜんご"
+      }
+    ]
   },
   "n2-jmdict-1395340": {
     "sentence": "この全集の５巻目が見当たらない。",
@@ -36557,7 +42045,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "匯集某作者、領域等全部或大範圍作品的一套書；實際收錄範圍仍依版本編輯方針。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "図書館で、この作家の全集を借りました。",
+        "translation": "我在圖書館借了這位作家的全集。",
+        "surface": "全集",
+        "reading": "ぜんしゅう"
+      }
+    ]
   },
   "n2-jmdict-1982210": {
     "sentence": "そういえば、こないだなくしたって言ってた傘、見つかった？",
@@ -36581,7 +42080,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "由前面的話題聯想到相關事，表示這麼說來；與毫無關聯的轉題有所不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "そういえば、彼も来週この町に来ると言っていました。",
+        "translation": "這麼說來，他也說過下週要來這座城鎮。",
+        "surface": "そういえば",
+        "reading": "そういえば"
+      }
+    ]
   },
   "n2-jmdict-1596730": {
     "sentence": "劇場から続々と人が出てきた。",
@@ -36606,7 +42116,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "238470",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "同類人、物接連不斷到來、出現；常用「続々と」，不是單一事物一直不動。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "開場すると、観客が続々と入ってきました。",
+        "translation": "一開放入場，觀眾便陸續進來。",
+        "surface": "続々と",
+        "reading": "ぞくぞくと"
+      }
+    ]
   },
   "n2-jmdict-2547920": {
     "sentence": "私は、そのころビールが嫌いだった。",
@@ -36633,7 +42154,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "252167",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "以前文所提時間為基準的那時候；沒有語境時可能不清楚指哪個年代。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "十年前にこの町へ来ました。そのころは、駅もありませんでした。",
+        "translation": "我十年前來到這座城鎮，當時連車站也沒有。",
+        "surface": "そのころ",
+        "reading": "そのころ"
+      }
+    ]
   },
   "n2-jmdict-1412970": {
     "sentence": "列に並んでから大して経たないうちに、男が近づいて来て、タクシーが要るのかと訊いてきた。",
@@ -36657,7 +42189,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "通常與否定搭配，表示程度沒有多高；「大して〜ない」不是完全沒有。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この仕事は、大して時間がかかりません。",
+        "translation": "這項工作不太花時間。",
+        "surface": "大して",
+        "reading": "たいして"
+      }
+    ]
   },
   "n2-jmdict-1386700": {
     "sentence": "我が軍は絶えずゲリラの攻撃を受けた。",
@@ -36682,7 +42225,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "23564",
       "modified": "none"
-    }
+    },
+    "explanation": "沒有中斷地持續、接連發生；比時々更強調連續，不表示一定很吵。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "研究者は、絶えず新しい方法を探しています。",
+        "translation": "研究人員不斷尋找新的方法。",
+        "surface": "絶えず",
+        "reading": "たえず"
+      }
+    ]
   },
   "n2-jmdict-1538960": {
     "sentence": "ただいま！あら？お客様、見えてるの？",
@@ -36709,7 +42263,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "327140",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "返回原處時說我回來了，也可正式表示現在、立刻；兩種用法依句型不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "ただいま準備中ですので、少々お待ちください。",
+        "translation": "目前正在準備，請稍候。",
+        "surface": "ただいま",
+        "reading": "ただいま"
+      }
+    ]
   },
   "n2-jmdict-1288480": {
     "sentence": "私たちはたちまち仲良くなった。",
@@ -36734,7 +42299,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "495639",
       "modified": "none"
-    }
+    },
+    "explanation": "事情在極短時間內迅速改變、完成；常含變化之快令人意外，不是長時間等待後終於。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "強い風で、洗濯物はたちまち乾きました。",
+        "translation": "因為風很強，衣服轉眼就乾了。",
+        "surface": "たちまち",
+        "reading": "たちまち"
+      }
+    ]
   },
   "n2-jmdict-1430930": {
     "sentence": "夏休みの直後に試験です。",
@@ -36759,7 +42335,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1230882",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某事件發生緊接著的時間；「到着直後」不只是任何到達之後很久的時間。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "地震の直後に、電気が消えました。",
+        "translation": "地震剛發生，電就停了。",
+        "surface": "直後",
+        "reading": "ちょくご"
+      }
+    ]
   },
   "n2-jmdict-1431330": {
     "sentence": "試合の直前はいつも緊張する。",
@@ -36783,7 +42370,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某事件即將發生的緊鄰時間；「出発直前」不是廣泛指任何之前的日子。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "出発の直前に、忘れ物に気づきました。",
+        "translation": "出發前一刻，我發現忘了帶東西。",
+        "surface": "直前",
+        "reading": "ちょくぜん"
+      }
+    ]
   },
   "n2-jmdict-1598460": {
     "sentence": "池に落ち葉が点々と浮かんでいた。",
@@ -36808,7 +42406,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "518634",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "像點一樣零星分散，常用「点々と」；與在各地轉移的転々同音不同義。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "山の斜面に、小さな家が点々と見えました。",
+        "translation": "山坡上看得見零星散布的小房子。",
+        "surface": "点々と",
+        "reading": "てんてんと"
+      }
+    ]
   },
   "n2-jmdict-1447910": {
     "sentence": "この国では東西の文化が交じり合っている。",
@@ -36835,7 +42444,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "390155",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "東與西、東西方向，也可泛談東方與西方；「東西に延びる」是東西向延伸。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この川は、町を東西に流れています。",
+        "translation": "這條河東西向流經城鎮。",
+        "surface": "東西",
+        "reading": "とうざい"
+      }
+    ]
   },
   "n2-jmdict-1449210": {
     "sentence": "当日雨天の場合は順延となります。",
@@ -36860,7 +42480,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "280032",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "所談活動發生的那一天，非一定是今天；「当日券」是活動當天販售的票。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "参加費は、当日に受付で払ってください。",
+        "translation": "參加費請在活動當天到櫃台繳交。",
+        "surface": "当日",
+        "reading": "とうじつ"
+      }
+    ]
   },
   "n2-jmdict-1009050": {
     "sentence": "私の心臓はどきどきし始めた。",
@@ -36884,7 +42515,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "心跳加快，可因緊張、期待或運動；「どきどきする」不必然表示害怕。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "発表の順番を待つ間、どきどきしていました。",
+        "translation": "等待輪到自己發表時，我的心怦怦直跳。",
+        "surface": "どきどきしていました",
+        "reading": "どきどきしていました"
+      }
+    ]
   },
   "n2-jmdict-1009210": {
     "sentence": "群衆は公会堂からドッと出てきた。",
@@ -36908,7 +42550,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "大量同時湧出、聲音突然爆發，或疲勞一下湧現；不只是按順序慢慢出現。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "仕事が終わると、どっと疲れが出ました。",
+        "translation": "工作一結束，疲憊一下全湧了上來。",
+        "surface": "どっと",
+        "reading": "どっと"
+      }
+    ]
   },
   "n2-jmdict-1444010": {
     "sentence": "雨が止んだらともかく私は出かけられる。",
@@ -36933,7 +42586,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "15035",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "暫放某問題不論，先確認重要事情；「費用はともかく」是不論費用，非表示費用不存在。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "見た目はともかく、使いやすさは優れています。",
+        "translation": "先不論外觀，使用便利性很出色。",
+        "surface": "ともかく",
+        "reading": "ともかく"
+      }
+    ]
   },
   "n2-jmdict-1599730": {
     "sentence": "ペンしか使わないんだけど、なんとなくリュックの中にはまだ鉛筆削りをいれてます。",
@@ -36959,7 +42623,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "沒有明確理由、意識或具體把握地；「なんとなく分かる」是大概有感覺，不是完全理解。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この道は、なんとなく懐かしい感じがします。",
+        "translation": "這條路不知為何讓人有種懷念感。",
+        "surface": "なんとなく",
+        "reading": "なんとなく"
+      }
+    ]
   },
   "n2-jmdict-1188690": {
     "sentence": "今のところなんともいえない。",
@@ -36984,7 +42659,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "8534",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "可表難以形容、實在，也常與否定形成「なんともない」沒事；不是固定只有否定義。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "夕焼けの色が、なんとも美しかったです。",
+        "translation": "晚霞的色彩美得難以形容。",
+        "surface": "なんとも",
+        "reading": "なんとも"
+      }
+    ]
   },
   "n2-jmdict-1091130": {
     "sentence": "パーカー夫人はにこにこしながら彼を迎えた。",
@@ -37009,7 +42695,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "35732",
       "modified": "none"
-    }
+    },
+    "explanation": "持續露出愉快笑容，常用にこにこする；與瞬間微笑的にっこり側重不同，不強調笑出聲。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "祖父は、孫の話をにこにこしながら聞いていました。",
+        "translation": "祖父笑咪咪地聽孫子說話。",
+        "surface": "にこにこしながら",
+        "reading": "にこにこしながら"
+      }
+    ]
   },
   "n2-jmdict-1611130": {
     "sentence": "私はその本を全編残らず読んだ。",
@@ -37034,7 +42731,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "254656",
       "modified": "none"
-    }
+    },
+    "explanation": "一點、一個也不留下地全部處理；「残らず食べる」是吃光，不只是吃大部分。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "机の上の書類を、残らず確認しました。",
+        "translation": "我確認了桌上所有文件，沒有遺漏。",
+        "surface": "残らず",
+        "reading": "のこらず"
+      }
+    ]
   },
   "n2-jmdict-1625780": {
     "sentence": "はじめまして。",
@@ -37060,7 +42768,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "第一次見面時的自我介紹招呼；已熟識後再次見面不再使用。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "はじめまして。今日から担当する鈴木です。",
+        "translation": "初次見面，我是今天開始承辦的鈴木。",
+        "surface": "はじめまして",
+        "reading": "はじめまして"
+      }
+    ]
   },
   "n2-jmdict-1482360": {
     "sentence": "彼女はラッセルスクエア５６番地に住んでいた。",
@@ -37085,7 +42804,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "327964",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "日本地址中劃分土地地段等的編號；「三番地」不是房間樓層，也不等同每國門牌制度。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "番地を間違えると、郵便が届かないことがあります。",
+        "translation": "地段號碼寫錯時，郵件有可能送不到。",
+        "surface": "番地",
+        "reading": "ばんち"
+      }
+    ]
   },
   "n2-jmdict-1483600": {
     "sentence": "売り場は比較的すいていました。",
@@ -37111,7 +42841,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "與其他情況相比相對如此，程度仍需有比較基準；不直接表示絕對非常。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この地域は、冬でも比較的暖かいです。",
+        "translation": "這個地區即使冬天也相對溫暖。",
+        "surface": "比較的",
+        "reading": "ひかくてき"
+      }
+    ]
   },
   "n2-jmdict-1455660": {
     "sentence": "ろうそくの火がひとりでに消えた。",
@@ -37135,7 +42876,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "沒有他人刻意操作而自行發生；與自己主動決定的自ら不同，不必然完全沒有物理原因。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "古い扉が、風でひとりでに開きました。",
+        "translation": "舊門被風吹得自行打開了。",
+        "surface": "ひとりでに",
+        "reading": "ひとりでに"
+      }
+    ]
   },
   "n2-jmdict-1496240": {
     "sentence": "僕の友達ね、スイスとドイツの国境付近に住んでるんだ。",
@@ -37162,7 +42914,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "9974572",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "某地點附近一帶；「交差点付近」不需緊鄰，也不表明固定距離多少公尺。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "学校付近では、車の速度を落としてください。",
+        "translation": "學校附近請降低車速。",
+        "surface": "付近",
+        "reading": "ふきん"
+      }
+    ]
   },
   "n2-jmdict-1011200": {
     "sentence": "彼女は私の給料が安いとぶつぶつ言った。",
@@ -37189,7 +42952,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "314309",
       "modified": "none"
-    }
+    },
+    "explanation": "低聲嘀咕、抱怨，也可指表面顆粒、斷續聲響；意思依言う、できる等搭配判斷。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "弟は、宿題が多いとぶつぶつ言っていました。",
+        "translation": "弟弟嘀咕抱怨著作業很多。",
+        "surface": "ぶつぶつ",
+        "reading": "ぶつぶつ"
+      }
+    ]
   },
   "n2-jmdict-1507720": {
     "sentence": "平日は比較的混んでいないようです。",
@@ -37216,7 +42990,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "320165",
       "modified": "none"
-    }
+    },
+    "explanation": "通常工作、上學的日子，常與週末、假日對照；實際休息日依人與店家不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "平日の昼間は、図書館が比較的静かです。",
+        "translation": "平日白天，圖書館相對安靜。",
+        "surface": "平日",
+        "reading": "へいじつ"
+      }
+    ]
   },
   "n2-jmdict-1520380": {
     "sentence": "森林火災の防止はすべての人が負う義務です。",
@@ -37242,7 +43027,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "預先採取措施，使問題不發生；「事故を防止する」是防止事故，不是事故後修復損害。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "転倒防止のため、廊下に物を置かないでください。",
+        "translation": "為了防止跌倒，請不要在走廊放東西。",
+        "surface": "転倒防止",
+        "reading": "てんとうぼうし"
+      }
+    ]
   },
   "n2-jmdict-1517100": {
     "sentence": "このプロジェクトは多方面の協力があってこそ完成する。",
@@ -37266,7 +43062,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "朝向某地的方向，也指某領域；「教育方面」不是地理方向，而是教育領域。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "東京方面の電車は、二番線から出ます。",
+        "translation": "往東京方向的電車從第二月台發車。",
+        "surface": "方面",
+        "reading": "ほうめん"
+      }
+    ]
   },
   "n2-jmdict-1523270": {
     "sentence": "この詩は本来フランス語で書かれていた。",
@@ -37293,7 +43100,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "59042",
       "modified": "none"
-    }
+    },
+    "explanation": "原本應有的狀態、性質或原來情況；「本来の目的」是原有目的，不一定等同現在實際用途。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この部屋は、本来会議のために使う場所です。",
+        "translation": "這個房間原本是用來開會的地方。",
+        "surface": "本来",
+        "reading": "ほんらい"
+      }
+    ]
   },
   "n2-jmdict-1524710": {
     "sentence": "毎度お手数をおかけして申し訳ありません。",
@@ -37318,7 +43136,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "1439702",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "每次，也常用於店家感謝常客的寒暄；「毎度ありがとうございます」不強調精確來店次數。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "毎度ありがとうございます。またお越しください。",
+        "translation": "承蒙每次惠顧，歡迎再來。",
+        "surface": "毎度",
+        "reading": "まいど"
+      }
+    ]
   },
   "n2-jmdict-1317340": {
     "sentence": "王様は明日の晩自らお出ましになる。",
@@ -37344,7 +43173,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "本人親自做、主動做，也可指自己本身；與沒有任何人操作的ひとりでに不同。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "社長自ら、工場を案内してくださいました。",
+        "translation": "社長親自帶我們參觀了工廠。",
+        "surface": "自ら",
+        "reading": "みずから"
+      }
+    ]
   },
   "n2-jmdict-1528040": {
     "sentence": "輸入車は８％未満しか占めていない。",
@@ -37368,7 +43208,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "低於指定數值，不包含該基準本身；「十八歳未満」不包含已滿十八歲的人。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "十人未満では、団体割引は使えません。",
+        "translation": "不足十人，不能使用團體折扣。",
+        "surface": "未満",
+        "reading": "みまん"
+      }
+    ]
   },
   "n2-jmdict-1012510": {
     "sentence": "もしかしたら私の孫が火星に着陸する最初の人になるかもしれません。",
@@ -37394,7 +43245,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "不確定的也許、說不定，常接かもしれない；不應翻成已確定的預告。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "もしかしたら、明日は店が休みかもしれません。",
+        "translation": "說不定店裡明天休息。",
+        "surface": "もしかしたら",
+        "reading": "もしかしたら"
+      }
+    ]
   },
   "n2-jmdict-1536530": {
     "sentence": "彼女は護身術の夜間講座を取った。",
@@ -37418,7 +43280,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "夜晚的一段時間，較正式；「夜間営業」是夜間營業，不一定整夜二十四小時都開。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "この道路は、工事のため夜間通行できません。",
+        "translation": "這條路因施工，夜間無法通行。",
+        "surface": "夜間",
+        "reading": "やかん"
+      }
+    ]
   },
   "n2-jmdict-1012810": {
     "sentence": "この仕事はやっぱり俺がやらなきゃだめだ。ほかのやつには無理だ。",
@@ -37442,7 +43315,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "やはり的口語，表示符合預期、重新確認或改回原決定；不是每次都譯果然才通順。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "迷いましたが、やっぱり青い方にします。",
+        "translation": "雖然猶豫過，我還是選藍色的那個。",
+        "surface": "やっぱり",
+        "reading": "やっぱり"
+      }
+    ]
   },
   "n2-jmdict-1606950": {
     "sentence": "現金払いには１０パーセント割引いたします。",
@@ -37466,7 +43350,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "從原定價格減去部分金額、折扣；「二割引」是減兩成、付八成，非只付兩成。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "学生証を見せると、入場料が二割引になります。",
+        "translation": "出示學生證，入場費可打八折。",
+        "surface": "二割引",
+        "reading": "にわりびき"
+      }
+    ]
   },
   "n2-jmdict-1286780": {
     "sentence": "私はフランス国籍を持っているがベトナム出身です。",
@@ -37493,7 +43388,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "3953",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "國籍，通常寫「国籍」，表示法律上的國家歸屬；與民族、出生地、目前住處不同。"
   },
   "n2-jmdict-1433050": {
     "sentence": "国際通貨基金は同国に対する新たな借款も認めませんでした。",
@@ -37520,7 +43416,8 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "retrievedAt": "2026-10-31",
       "pivotId": "241420",
       "modified": "Project-reviewed Traditional Chinese translation (2026-11-01)"
-    }
+    },
+    "explanation": "貨幣、通貨，通常寫「通貨」；「現地の通貨」是當地貨幣，不是經過的「通過」。"
   },
   "n2-jmdict-1290310": {
     "sentence": "粉と卵２個を混ぜなさい。",
@@ -37844,7 +43741,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "容易受力變形、觸感柔軟，亦常寫柔らかい；此表記常用於食物、物質質地，非硬性唯一區分。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "肉を軟らかく煮てから、野菜を加えます。",
+        "translation": "先把肉燉軟，再加入蔬菜。",
+        "surface": "軟らかく",
+        "reading": "やわらかく"
+      }
+    ]
   },
   "n2-jmdict-1195970": {
     "sentence": "たぶん私たちって楽観的過ぎたね。",
@@ -37870,7 +43778,18 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "Traditional Chinese conversion"
-    }
+    },
+    "explanation": "接動詞ます形詞幹、形容詞詞幹等表示過度；「高すぎる」不是高いすぎる，な形容詞多去な接。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "夜遅くに食べ過ぎると、よく眠れません。",
+        "translation": "深夜吃太多，會睡不好。",
+        "surface": "食べ過ぎる",
+        "reading": "たべすぎる"
+      }
+    ]
   },
   "n2-jmdict-1432920": {
     "sentence": "要求通りに最終報告書を提出します。",
@@ -37896,6 +43815,17 @@ window.JP_VOCABULARY_EXAMPLES.n2 = {
       "license": "CC BY 2.0 FR",
       "retrievedAt": "2026-10-31",
       "modified": "none"
-    }
+    },
+    "explanation": "表示依照某內容，常用「説明の通り」「見た通り」；接部分名詞時濁化為どおり。",
+    "usageExamples": [
+      {
+        "kind": "usage",
+        "label": "用法案例",
+        "sentence": "地図に書いてある通りに進むと、駅に着きます。",
+        "translation": "照地圖寫的走，就會到車站。",
+        "surface": "通り",
+        "reading": "とおり"
+      }
+    ]
   }
 };

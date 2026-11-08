@@ -31,9 +31,11 @@
       "authored": 698,
       "corpus": 0,
       "sharedPivot": 0,
+      "detailedGuides": 589,
+      "additionalUsageExamples": 296,
       "verbEntries": 109,
       "verbExamples": 327,
-      "distinctSentencesWithVariants": 667
+      "distinctSentencesWithVariants": 963
     },
     "n4": {
       "total": 652,
@@ -64,9 +66,11 @@
       "authored": 183,
       "corpus": 469,
       "sharedPivot": 75,
+      "detailedGuides": 493,
+      "additionalUsageExamples": 190,
       "verbEntries": 159,
       "verbExamples": 477,
-      "distinctSentencesWithVariants": 923
+      "distinctSentencesWithVariants": 1113
     },
     "n3": {
       "total": 2091,
@@ -97,9 +101,11 @@
       "authored": 675,
       "corpus": 1416,
       "sharedPivot": 407,
+      "detailedGuides": 1717,
+      "additionalUsageExamples": 556,
       "verbEntries": 374,
       "verbExamples": 1122,
-      "distinctSentencesWithVariants": 2679
+      "distinctSentencesWithVariants": 3235
     },
     "n2": {
       "total": 1792,
@@ -130,9 +136,11 @@
       "authored": 933,
       "corpus": 859,
       "sharedPivot": 448,
+      "detailedGuides": 1500,
+      "additionalUsageExamples": 443,
       "verbEntries": 292,
       "verbExamples": 876,
-      "distinctSentencesWithVariants": 2294
+      "distinctSentencesWithVariants": 2737
     },
     "n1": {
       "total": 2671,
@@ -163,9 +171,11 @@
       "authored": 1367,
       "corpus": 1304,
       "sharedPivot": 676,
+      "detailedGuides": 2269,
+      "additionalUsageExamples": 533,
       "verbEntries": 402,
       "verbExamples": 1206,
-      "distinctSentencesWithVariants": 2841
+      "distinctSentencesWithVariants": 3374
     }
   },
   "sources": [
@@ -191,7 +201,7 @@
       "sha256LF": "2bd9eb6f3b5159689676f90976aac776055fdcd41a097fe15f3f260aa64ac84e"
     },
     "n5-examples.js": {
-      "sha256LF": "03eaab51aaceed69276b81cd95bee0e687e3b74e19fbb86c2463c0eaf489ae2e"
+      "sha256LF": "4321f4f92672fc976de93ea7b0eba9935d6fd17b79c45ebad76e946306764d7b"
     },
     "vocabulary-examples/n5.txt": {
       "sha256LF": "3b4c38490eb4b15ee490ed7bef78e64c741a69d92951b46d8b868c887e59ac2b"
@@ -206,13 +216,19 @@
       "sha256LF": "645c008ff54227915715770e9d713d9153aa68ebe239866ff5943dec998e4203"
     },
     "build-vocabulary-examples.cjs": {
-      "sha256LF": "3b4b2e79d053222ad6ffd9a12a25f72b54c567eede338c2ba71eb758f115f3a0"
+      "sha256LF": "fc05dc1fe15f082ce4e562a4aedaea9fc55696b21ebab9cc9d3dcfa3f5bbc4c9"
+    },
+    "scripts/build/build-word-guides.cjs": {
+      "sha256LF": "1728fd2c8bd7d5a627bfdeb6bf77327c2571a683b6b7d6d849ef577a1da36a5e"
+    },
+    "data/vocabulary/guides/n5.json": {
+      "sha256LF": "66de13769510bff31b60d8e28124af847d0470a623a60e79f97f425abac9abb0"
     },
     "n4-data.js": {
       "sha256LF": "40ded9330c34ec4315297439715efd440d384bf2b593d85b09f3c5e59c04d611"
     },
     "n4-examples.js": {
-      "sha256LF": "00d352c0699e0d70e3acb59847ad8dc70838fb41c7bdeb7b9d87dda79f9c9db3"
+      "sha256LF": "a54c1b1adf57a0485596226833f11d640c07db03da57315ee15d18e96472472b"
     },
     "vocabulary-examples/n4.txt": {
       "sha256LF": "66c88cbe8ea4e1fdf5432f3f7694f9e5ce435d581811d2ea57fa280446d9ded6"
@@ -223,11 +239,14 @@
     "vocabulary-examples/verbs-n4.json": {
       "sha256LF": "2a281838e1d0b4e84e9ea2bfa20b11b7445da2f4eac2ab13f92acce13fa02004"
     },
+    "data/vocabulary/guides/n4.json": {
+      "sha256LF": "6baa0acb3f9604afb437e276cc014f1a31264568e884071bde469f44c68155c6"
+    },
     "n3-data.js": {
       "sha256LF": "891eeb911a74d8655ed0a5ad474ef08ed1ea0fe1bb65504bd3b52b9ab822e9d0"
     },
     "n3-examples.js": {
-      "sha256LF": "8b128a00f1c632b752ccb40908e413b2cd8253f8d2586776b5e79fed8c6c6707"
+      "sha256LF": "ea61f88d724d7c4e90683ec1ce293ab9508818948c4363c7352fc61c646346c4"
     },
     "vocabulary-examples/n3.txt": {
       "sha256LF": "fee9125863fd1b6806c499aeb26809ca960a5063900b7ae8e02aec51e43a5f9a"
@@ -238,11 +257,14 @@
     "vocabulary-examples/verbs-n3.json": {
       "sha256LF": "70f82fa24dc9c5bd280b4b16f0e5c3a05545b786788b01def24de333534660f5"
     },
+    "data/vocabulary/guides/n3.json": {
+      "sha256LF": "21aebf0d9ffebae78969193f661515b66d8575d10b3f0d4c3b355c9e1af995cc"
+    },
     "n2-data.js": {
       "sha256LF": "7fc2bd27e8aefd648b0b88bbeccc60e1e15e7130894f299adebe0ac67d1e2e36"
     },
     "n2-examples.js": {
-      "sha256LF": "b96cbd075c9df29d9a2b5883e80dc8e20129840b4b4a7696493ddd95ff43452d"
+      "sha256LF": "1c26726c9c9ad939ff58161173732916a60b3ae3cff1dd134034d85af9f65222"
     },
     "vocabulary-examples/n2.txt": {
       "sha256LF": "74b6534319257dbdc7ec448cbe769b9e5f69ee14280ef8fb79aec1b93cf73bf0"
@@ -253,11 +275,14 @@
     "vocabulary-examples/verbs-n2.json": {
       "sha256LF": "c4969c6624f053084a9a05d58b89edd405cff1a704d364856df753706f7cfdde"
     },
+    "data/vocabulary/guides/n2.json": {
+      "sha256LF": "29feb48e8c87087dcd82984eba2c9e2855d2d1509565901186afe14e29d56edc"
+    },
     "n1-data.js": {
       "sha256LF": "c2ccd3b129790e8ce00e87ba7c2aec06d67fbb13e300855a62c0a6a8d78cdf6b"
     },
     "n1-examples.js": {
-      "sha256LF": "4ffc9f5d7e3df6e4165ac91e077d4a101c6f36a14109d320f61abb78e9f507a7"
+      "sha256LF": "ae0ff9580acc960ee25082be37f452ad9880f640b085f728f66a897a67f83371"
     },
     "vocabulary-examples/n1.txt": {
       "sha256LF": "a4560bc61d385a3412f9f506feaa8d7430d67a0fd4a7c3d94b9fd7b0671d9493"
@@ -267,6 +292,9 @@
     },
     "vocabulary-examples/verbs-n1.json": {
       "sha256LF": "43757dfd86e2816c0482c70c4120bb9ba8275cc0ec785f4eb1474eb8613df0dd"
+    },
+    "data/vocabulary/guides/n1.json": {
+      "sha256LF": "6118e40ca9c518f84eae189475add79919c256e65762c3214fbd6283956380be"
     }
   },
   "verbContextReview": {

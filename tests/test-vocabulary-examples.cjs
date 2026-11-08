@@ -15,6 +15,9 @@ for(const [file,expected] of Object.entries(audit.files)){
   const actual=crypto.createHash('sha256').update(fs.readFileSync(resolveFile(file),'utf8').replace(/\r\n/g,'\n')).digest('hex');
   assert.equal(actual,expected.sha256LF,'Audit snapshot is stale: '+file);
 }
+const guideReview=JSON.parse(fs.readFileSync(path.join(root,'data/vocabulary/guides/review.json'),'utf8'));
+for(const l of levels)assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'data/vocabulary/guides',l+'.json'),'utf8').replace(/\r\n/g,'\n')).digest('hex'),guideReview.sources[l],l+' guide review stale');
+const guideSources=Object.fromEntries(levels.map(l=>[l,JSON.parse(fs.readFileSync(path.join(root,'data/vocabulary/guides',l+'.json'),'utf8'))]));
 for(const level of levels){
   const allWords=Object.values(context.window.JP_VOCABULARY[level]).flat();
   const allExamples=context.window.JP_VOCABULARY_EXAMPLES[level];
@@ -42,7 +45,14 @@ for(const level of levels){
       assert.match(e.variants[1].form,/[てで]$/u,word.id);
       assert.match(e.variants[1].reading,/^[ぁ-ゖー]+[てで]$/u,word.id);
       assert.equal(e.variants[2].sentence,e.sentence);
-    }else assert.equal(e.variants,undefined,word.id);
+    }else {
+      assert.equal(e.variants,undefined,word.id);
+      const source=guideSources[level][word.id];
+      assert.equal(e.explanation,source.explanation,word.id+' explanation');
+      assert.ok(e.explanation.length>=18,word.id);
+      assert.equal(e.usageExamples?.length||0,word.category==='nouns'?0:1,word.id+' usage coverage');
+      for(const usage of e.usageExamples||[]){assert.equal(usage.kind,'usage');assert.ok(usage.reading&&usage.sentence.includes(usage.surface),word.id);assert.notEqual(usage.sentence,e.sentence,word.id);assert.match(usage.translation,/[\u3400-\u9fff]/u);}
+    }
   }
   assert.equal(audit.levels[level].verbEntries,context.window.JP_VOCABULARY[level].verbs.length);
   assert.equal(audit.levels[level].verbExamples,context.window.JP_VOCABULARY[level].verbs.length*3);
@@ -199,13 +209,14 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
       await page.goto(base+`${level}-${category}.html`);
       let visited=0;
       while(true){
-        const rendered=await page.locator('.word-card').evaluateAll(cards=>cards.map(card=>({id:card.querySelector('[data-example-speak]')?.dataset.exampleSpeak,closed:!card.querySelector('.word-examples').open,sections:[...card.querySelectorAll('.word-example')].map(e=>({kind:e.dataset.exampleKind,sentence:e.querySelector('.example-sentence')?.textContent,translation:e.querySelector('.example-translation')?.textContent,surface:e.querySelector('mark')?.textContent,credit:e.querySelector('.example-source')?.textContent})),actionsFirst:!!(card.querySelector('.word-actions').compareDocumentPosition(card.querySelector('.word-examples'))&Node.DOCUMENT_POSITION_FOLLOWING)})));
+        const rendered=await page.locator('.word-card').evaluateAll(cards=>cards.map(card=>({id:card.querySelector('[data-example-speak]')?.dataset.exampleSpeak,closed:!card.querySelector('.word-examples').open,sections:[...card.querySelectorAll('.word-example')].map(e=>({kind:e.dataset.exampleKind,sentence:e.querySelector('.example-sentence')?.textContent,translation:e.querySelector('.example-translation')?.textContent,surface:e.querySelector('mark')?.textContent,credit:e.querySelector('.example-source')?.textContent})),explanation:card.querySelector('.word-explanation p')?.textContent,indented:getComputedStyle(card.querySelector('.word-examples-content')).paddingLeft,actionsFirst:!!(card.querySelector('.word-actions').compareDocumentPosition(card.querySelector('.word-examples'))&Node.DOCUMENT_POSITION_FOLLOWING)})));
         assert.ok(rendered.length);
         assert.equal(await page.locator('.word-card > details:not(.word-examples)').count(),0);
         assert.equal(await page.getByText('詞性與來源核對',{exact:true}).count(),0);
         for(const card of rendered){
-          assert.ok(card.id);assert.equal(card.closed,true);assert.equal(card.actionsFirst,true);
-          const expected=examples[card.id].variants||[examples[card.id]];
+          assert.ok(card.id);assert.equal(card.closed,true);assert.equal(card.actionsFirst,true);assert.ok(parseFloat(card.indented)>0);assert.equal(card.explanation,examples[card.id].explanation);
+          const original=examples[card.id];
+          const expected=original.variants||[original,...(original.usageExamples||[])];
           assert.equal(card.sections.length,expected.length);
           for(let i=0;i<expected.length;i++){const actual=card.sections[i],e=expected[i];assert.equal(actual.kind,e.kind||'common');assert.equal(actual.sentence,e.sentence);assert.equal(actual.translation,e.translation);assert.equal(actual.surface,e.surface);if(e.source)assert.match(actual.credit,/Tatoeba/);}
         }
@@ -245,7 +256,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
     }
     for(const level of ['n3','n4']){
       await page.goto(base+level+'-adjectives.html');
-      assert.equal(await page.locator('.word-card').count(),await page.locator('.word-example').count());
+      assert.equal((await page.locator('.word-card').count())*2,await page.locator('.word-example').count());
     }
     await page.evaluate(()=>localStorage.setItem('jp-learning-v1',JSON.stringify({favorites:['n2-jmdict-1384840'],answers:{},sessions:{}})));
     await page.goto(base+'n2-others.html');
@@ -253,7 +264,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
     assert.equal(await page.locator('.word-card').count(),1);
     assert.equal(await page.locator('.word-card > p[lang=ja]').textContent(),'ぎれ');
     assert.equal(await page.locator('.favorite').getAttribute('data-favorite'),'n2-jmdict-2518850');
-    assert.match(await page.locator('.word-example').textContent(),/品切れ/);
+    assert.match(await page.locator('.word-example').first().textContent(),/品切れ/);
     assert.deepEqual(errors,[]);
     console.log('Browser checks passed: all 7904 cards, 1336 verbs x 3 variants; collapsed by default, expand/collapse, each variant speech, credits, search, favorites, themes, 4 widths and combined adjective pages.');
   }finally{await browser?.close();await new Promise(r=>server.close(r));}

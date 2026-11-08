@@ -105,11 +105,14 @@
     };
     draw();
   }
+  function readingExamples(example) { return example?.variants || (example ? [example,...(example.usageExamples||[])] : []); }
   function exampleMarkup(word, exampleLevel = level) {
     const example = window.JP_VOCABULARY_EXAMPLES?.[exampleLevel]?.[word.id];
     if (!example) return '';
-    const variants=example.variants || [example];
-    return `<details class="word-examples"><summary>${example.variants?'例句與動詞變化 · 3 種用法':'例句'}<span class="example-toggle-hint example-toggle-open">點擊展開</span><span class="example-toggle-hint example-toggle-close">點擊收合</span></summary><div class="word-examples-content">${variants.map((item,index)=>singleExampleMarkup(word,item,index)).join('')}</div></details>`;
+    const variants=readingExamples(example);
+    const title=example.variants?'例句與動詞變化 · 3 種用法':word.category==='nouns'?'詳細解釋與例句':'用法解說與案例';
+    const explanation=example.explanation?`<section class="word-explanation"><h3>${word.category==='nouns'?'詳細解釋':'用法說明'}</h3><p>${esc(example.explanation)}</p></section>`:'';
+    return `<details class="word-examples"><summary>${title}<span class="example-toggle-hint example-toggle-open">點擊展開</span><span class="example-toggle-hint example-toggle-close">點擊收合</span></summary><div class="word-examples-content">${explanation}${variants.map((item,index)=>singleExampleMarkup(word,item,index)).join('')}</div></details>`;
   }
   function singleExampleMarkup(word,example,index) {
     const position = example.sentence.indexOf(example.surface);
@@ -161,7 +164,7 @@
       const entry=byId.get(button.dataset.favorite||button.dataset.speak||button.dataset.exampleSpeak);if(!entry)return;
       if(button.dataset.favorite){state.favorites=state.favorites.filter(id=>id!==entry.word.id);save();draw();$('favorites-count').focus({preventScroll:true});}
       else if(button.dataset.speak)speakWord(entry.word);
-      else if(button.dataset.exampleSpeak){const base=window.JP_VOCABULARY_EXAMPLES?.[entry.level]?.[entry.word.id],index=Number(button.dataset.exampleIndex),example=base?.variants?.[index]||base,recording=window.JP_EXAMPLE_AUDIO?.[entry.level]?.[entry.word.id]?.[index];if(recording)playRecording(recording);else if(example)speak(example.sentence);}
+      else if(button.dataset.exampleSpeak){const base=window.JP_VOCABULARY_EXAMPLES?.[entry.level]?.[entry.word.id],index=Number(button.dataset.exampleIndex),example=readingExamples(base)[index],recording=window.JP_EXAMPLE_AUDIO?.[entry.level]?.[entry.word.id]?.[index];if(recording)playRecording(recording);else if(example)speak(example.sentence);}
     };
     window.addEventListener('storage',event=>{
       if(event.key!==null&&event.key!=='jp-learning-v1')return;
@@ -207,7 +210,7 @@
       const button = event.target.closest('button'); if (!button) return;
       const id = button.dataset.favorite || button.dataset.speak || button.dataset.exampleSpeak;
       const word = bank.find(w=>w.id===id); if (!word) return;
-      if (button.dataset.exampleSpeak) { const base = examples[word.id]; const index=Number(button.dataset.exampleIndex); const example=base?.variants?.[index]||base; const recording=window.JP_EXAMPLE_AUDIO?.[level]?.[word.id]?.[index]; if(recording)playRecording(recording);else if (example) speak(example.sentence); }
+      if (button.dataset.exampleSpeak) { const base = examples[word.id]; const index=Number(button.dataset.exampleIndex); const example=readingExamples(base)[index]; const recording=window.JP_EXAMPLE_AUDIO?.[level]?.[word.id]?.[index]; if(recording)playRecording(recording);else if (example) speak(example.sentence); }
       else if (button.dataset.speak) speakWord(word);
       else { state.favorites = state.favorites.includes(id) ? state.favorites.filter(x=>x!==id) : [...state.favorites,id]; save(); draw(); const replacement = document.querySelector(`[data-favorite="${id}"]`); if (replacement) replacement.focus(); }
     };

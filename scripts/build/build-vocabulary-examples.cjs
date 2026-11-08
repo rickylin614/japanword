@@ -60,6 +60,8 @@ for(const word of banks.verbs){
   for(const item of examples[word.id].variants)sentences.add(item.sentence);
   if(new Set(examples[word.id].variants.map(item=>item.sentence)).size!==3)errors.push('Repeated verb variant sentence: '+word.id);
 }
+require('./build-word-guides.cjs').applyWordGuides(level,words,examples);
+for(const e of Object.values(examples))for(const usage of e.usageExamples||[])sentences.add(usage.sentence);
 const missing = Object.fromEntries(Object.entries(banks).map(([category,bank])=>[category,bank.filter(w=>!examples[w.id]).map(w=>w.word+'@'+w.reading)]));
 if(process.argv.includes('--audit')){
   console.log(JSON.stringify({errors,covered:Object.keys(examples).length,sentences:sentences.size,missing},null,2));

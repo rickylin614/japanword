@@ -52,7 +52,7 @@ function collect(){
   const sentenceTargets=new Map();
   if(level==='n1')for(const word of Object.values(c.window.JP_VOCABULARY[level]).flat()){
    const base=c.window.JP_VOCABULARY_EXAMPLES[level][word.id];
-   for(const e of base.variants||[base]){
+   for(const e of base.variants||[base,...(base.usageExamples||[])]){
     const kana=targetReading(word,e,base);
     if(!kana||!/[\u3400-\u9fff]/u.test(e.surface))continue;
     const start=e.sentence.indexOf(e.surface),end=start+e.surface.length;
@@ -64,7 +64,7 @@ function collect(){
   }
   for(const word of Object.values(c.window.JP_VOCABULARY[level]).flat()){
    const base=c.window.JP_VOCABULARY_EXAMPLES[level][word.id];assert.ok(base,word.id);
-   banks[level][word.id]=Array.from(base.variants||[base],(e,index)=>{
+   banks[level][word.id]=Array.from(base.variants||[base,...(base.usageExamples||[])],(e,index)=>{
     const pronunciation=targetReading(word,e,base);
     let input=e.sentence;
     if(level==='n1'){

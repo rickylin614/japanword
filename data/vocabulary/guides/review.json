@@ -1,0 +1,563 @@
+{
+  "date": "2026-11-09",
+  "scope": "All N5–N1 nonverb editorial guides and added usage examples",
+  "notes": 6568,
+  "nouns": 4550,
+  "additionalUsageExamples": 2018,
+  "independentAnalyzer": {
+    "tool": "Fugashi 1.5.2 / UniDic-lite 1.0.8",
+    "checked": 2018,
+    "candidates": 90,
+    "disposition": "Reviewed readings retained: analyzer alternatives, counter sound changes, compound segmentation, and valid alternate readings; no unresolved target-reading candidates",
+    "candidatesReviewed": [
+      {
+        "id": "n5-jmdict-1365850",
+        "surface": "辛い",
+        "reviewedReading": "からい",
+        "analyzer": "ツライ"
+      },
+      {
+        "id": "n5-jmdict-1584640",
+        "surface": "明後日",
+        "reviewedReading": "あさって",
+        "analyzer": "ミョウゴニチ"
+      },
+      {
+        "id": "n5-jmdict-1584660",
+        "surface": "明日",
+        "reviewedReading": "あした",
+        "analyzer": "アス"
+      },
+      {
+        "id": "n5-jmdict-1576260",
+        "surface": "一日",
+        "reviewedReading": "いちにち",
+        "analyzer": "ツイタチ"
+      },
+      {
+        "id": "n5-jmdict-1002650",
+        "surface": "お母さん",
+        "reviewedReading": "おかあさん",
+        "analyzer": "オハハサン"
+      },
+      {
+        "id": "n5-jmdict-1002590",
+        "surface": "お父さん",
+        "reviewedReading": "おとうさん",
+        "analyzer": "オチチサン"
+      },
+      {
+        "id": "n5-jmdict-1576050",
+        "surface": "一昨日",
+        "reviewedReading": "おととい",
+        "analyzer": "イッサクヒ"
+      },
+      {
+        "id": "n5-jmdict-1203020",
+        "surface": "三階",
+        "reviewedReading": "さんがい",
+        "analyzer": "サンカイ"
+      },
+      {
+        "id": "n5-jmdict-1516925",
+        "surface": "方",
+        "reviewedReading": "かた",
+        "analyzer": "ホウ"
+      },
+      {
+        "id": "n5-jmdict-2871532",
+        "surface": "九月",
+        "reviewedReading": "くがつ",
+        "analyzer": "キュウガツ"
+      },
+      {
+        "id": "n5-jmdict-1194290",
+        "surface": "火曜日",
+        "reviewedReading": "かようび",
+        "analyzer": "カヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1243320",
+        "surface": "金曜日",
+        "reviewedReading": "きんようび",
+        "analyzer": "キンヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1255890",
+        "surface": "月曜日",
+        "reviewedReading": "げつようび",
+        "analyzer": "ゲツヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1264740",
+        "surface": "一個",
+        "reviewedReading": "いっこ",
+        "analyzer": "イチコ"
+      },
+      {
+        "id": "n5-jmdict-1294940",
+        "surface": "八十歳",
+        "reviewedReading": "はちじゅっさい",
+        "analyzer": "ハチジュウサイ"
+      },
+      {
+        "id": "n5-jmdict-1579470",
+        "surface": "四",
+        "reviewedReading": "し",
+        "analyzer": "ヨン"
+      },
+      {
+        "id": "n5-jmdict-1319210",
+        "surface": "七時",
+        "reviewedReading": "しちじ",
+        "analyzer": "ナナジ"
+      },
+      {
+        "id": "n5-jmdict-2083570",
+        "surface": "一晩中",
+        "reviewedReading": "ひとばんじゅう",
+        "analyzer": "イチバンチュウ"
+      },
+      {
+        "id": "n5-jmdict-1366410",
+        "surface": "イギリス人",
+        "reviewedReading": "いぎりすじん",
+        "analyzer": "イギリスニン"
+      },
+      {
+        "id": "n5-jmdict-1372190",
+        "surface": "水曜日",
+        "reviewedReading": "すいようび",
+        "analyzer": "スイヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1620400",
+        "surface": "中",
+        "reviewedReading": "ちゅう",
+        "analyzer": "ナカ"
+      },
+      {
+        "id": "n5-jmdict-1598680",
+        "surface": "時々",
+        "reviewedReading": "ときどき",
+        "analyzer": "ジジ"
+      },
+      {
+        "id": "n5-jmdict-1445590",
+        "surface": "土曜日",
+        "reviewedReading": "どようび",
+        "analyzer": "ドヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1577100",
+        "surface": "何",
+        "reviewedReading": "なに",
+        "analyzer": "ナン"
+      },
+      {
+        "id": "n5-jmdict-2083100",
+        "surface": "十一日",
+        "reviewedReading": "じゅういちにち",
+        "analyzer": "ジュウイチニチカン"
+      },
+      {
+        "id": "n5-jmdict-1464900",
+        "surface": "日曜日",
+        "reviewedReading": "にちようび",
+        "analyzer": "ニチヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-2149890",
+        "surface": "四人",
+        "reviewedReading": "よにん",
+        "analyzer": "ヨンニン"
+      },
+      {
+        "id": "n5-jmdict-1585650",
+        "surface": "箱",
+        "reviewedReading": "はこ",
+        "analyzer": "バコ"
+      },
+      {
+        "id": "n5-jmdict-1583370",
+        "surface": "三匹",
+        "reviewedReading": "さんびき",
+        "analyzer": "サンヒキ"
+      },
+      {
+        "id": "n5-jmdict-1585315",
+        "surface": "六つ",
+        "reviewedReading": "むっつ",
+        "analyzer": "ムイツ"
+      },
+      {
+        "id": "n5-jmdict-1534890",
+        "surface": "木曜日",
+        "reviewedReading": "もくようび",
+        "analyzer": "モクヨウヒ"
+      },
+      {
+        "id": "n5-jmdict-1583095",
+        "surface": "八つ",
+        "reviewedReading": "やっつ",
+        "analyzer": "ヨウツ"
+      },
+      {
+        "id": "n5-jmdict-1307040",
+        "surface": "四つ",
+        "reviewedReading": "よっつ",
+        "analyzer": "ヨンツ"
+      },
+      {
+        "id": "n5-jmdict-1311110",
+        "surface": "私",
+        "reviewedReading": "わたし",
+        "analyzer": "ワタクシ"
+      },
+      {
+        "id": "n4-jmdict-1376600",
+        "surface": "正しく",
+        "reviewedReading": "ただしく",
+        "analyzer": "マサシク"
+      },
+      {
+        "id": "n4-jmdict-1004710",
+        "surface": "この頃",
+        "reviewedReading": "このごろ",
+        "analyzer": "コノコロ"
+      },
+      {
+        "id": "n4-jmdict-1293640",
+        "surface": "再来月",
+        "reviewedReading": "さらいげつ",
+        "analyzer": "サライガツ"
+      },
+      {
+        "id": "n3-jmdict-2056700",
+        "surface": "異",
+        "reviewedReading": "い",
+        "analyzer": "コト"
+      },
+      {
+        "id": "n3-jmdict-1156740",
+        "surface": "意地悪",
+        "reviewedReading": "いじわる",
+        "analyzer": "イジアク"
+      },
+      {
+        "id": "n3-jmdict-2859161",
+        "surface": "音",
+        "reviewedReading": "おん",
+        "analyzer": "オト"
+      },
+      {
+        "id": "n3-jmdict-1245280",
+        "surface": "空",
+        "reviewedReading": "から",
+        "analyzer": "ソラ"
+      },
+      {
+        "id": "n3-jmdict-1577650",
+        "surface": "水道管",
+        "reviewedReading": "すいどうかん",
+        "analyzer": "ミズドウカン"
+      },
+      {
+        "id": "n3-jmdict-1229880",
+        "surface": "球",
+        "reviewedReading": "きゅう",
+        "analyzer": "タマ"
+      },
+      {
+        "id": "n3-jmdict-1242600",
+        "surface": "金",
+        "reviewedReading": "きん",
+        "analyzer": "カネ"
+      },
+      {
+        "id": "n3-jmdict-1379640",
+        "surface": "盛り",
+        "reviewedReading": "さかり",
+        "analyzer": "モリ"
+      },
+      {
+        "id": "n3-jmdict-2088240",
+        "surface": "生",
+        "reviewedReading": "せい",
+        "analyzer": "ナマ"
+      },
+      {
+        "id": "n3-jmdict-1404450",
+        "surface": "一束",
+        "reviewedReading": "ひとたば",
+        "analyzer": "イチタバ"
+      },
+      {
+        "id": "n3-jmdict-1409810",
+        "surface": "対",
+        "reviewedReading": "つい",
+        "analyzer": "タイ"
+      },
+      {
+        "id": "n3-jmdict-1560070",
+        "surface": "露",
+        "reviewedReading": "つゆ",
+        "analyzer": "ロ"
+      },
+      {
+        "id": "n3-jmdict-1448340",
+        "surface": "三棟",
+        "reviewedReading": "さんとう",
+        "analyzer": "サンムネ"
+      },
+      {
+        "id": "n3-jmdict-1188270",
+        "surface": "何か",
+        "reviewedReading": "なにか",
+        "analyzer": "ナンカ"
+      },
+      {
+        "id": "n3-jmdict-1269330",
+        "surface": "後",
+        "reviewedReading": "のち",
+        "analyzer": "アト"
+      },
+      {
+        "id": "n3-jmdict-2648780",
+        "surface": "品",
+        "reviewedReading": "ひん",
+        "analyzer": "シナ"
+      },
+      {
+        "id": "n3-jmdict-2423740",
+        "surface": "不作法",
+        "reviewedReading": "ぶさほう",
+        "analyzer": "フサホウ"
+      },
+      {
+        "id": "n3-jmdict-1502850",
+        "surface": "五分五分",
+        "reviewedReading": "ごぶごぶ",
+        "analyzer": "ゴフンゴフン"
+      },
+      {
+        "id": "n3-jmdict-1584105",
+        "surface": "方々",
+        "reviewedReading": "ほうぼう",
+        "analyzer": "カタガタ"
+      },
+      {
+        "id": "n3-jmdict-2057030",
+        "surface": "訳",
+        "reviewedReading": "やく",
+        "analyzer": "ワケ"
+      },
+      {
+        "id": "n3-jmdict-1536350",
+        "surface": "夜",
+        "reviewedReading": "よ",
+        "analyzer": "ヨル"
+      },
+      {
+        "id": "n2-jmdict-1219950",
+        "surface": "幾日",
+        "reviewedReading": "いくにち",
+        "analyzer": "イクカ"
+      },
+      {
+        "id": "n2-jmdict-1576050",
+        "surface": "一昨日",
+        "reviewedReading": "いっさくじつ",
+        "analyzer": "イッサクヒ"
+      },
+      {
+        "id": "n2-jmdict-2826528",
+        "surface": "御社",
+        "reviewedReading": "おんしゃ",
+        "analyzer": "ゴシャ"
+      },
+      {
+        "id": "n2-jmdict-1955950",
+        "surface": "全十巻",
+        "reviewedReading": "ぜんじっかん",
+        "analyzer": "ゼンジュウカン"
+      },
+      {
+        "id": "n2-jmdict-1790980",
+        "surface": "太り気味",
+        "reviewedReading": "ふとりぎみ",
+        "analyzer": "フトリキミ"
+      },
+      {
+        "id": "n2-jmdict-2518850",
+        "surface": "電池切れ",
+        "reviewedReading": "でんちぎれ",
+        "analyzer": "デンチキレ"
+      },
+      {
+        "id": "n2-jmdict-1275640",
+        "surface": "非常口",
+        "reviewedReading": "ひじょうぐち",
+        "analyzer": "ヒジョウクチ"
+      },
+      {
+        "id": "n2-jmdict-1191750",
+        "surface": "山田家",
+        "reviewedReading": "やまだけ",
+        "analyzer": "ヤマダカ"
+      },
+      {
+        "id": "n2-jmdict-2259610",
+        "surface": "十校",
+        "reviewedReading": "じっこう",
+        "analyzer": "ジュウコウ"
+      },
+      {
+        "id": "n2-jmdict-2085690",
+        "surface": "富士山",
+        "reviewedReading": "ふじさん",
+        "analyzer": "フジヤマ"
+      },
+      {
+        "id": "n2-jmdict-2267560",
+        "surface": "東大寺",
+        "reviewedReading": "とうだいじ",
+        "analyzer": "ヒガシダイジ"
+      },
+      {
+        "id": "n2-jmdict-2273780",
+        "surface": "研究所",
+        "reviewedReading": "けんきゅうじょ",
+        "analyzer": "ケンキュウショ"
+      },
+      {
+        "id": "n2-jmdict-2593990",
+        "surface": "一勝",
+        "reviewedReading": "いっしょう",
+        "analyzer": "イチショウ"
+      },
+      {
+        "id": "n2-jmdict-2097830",
+        "surface": "四色",
+        "reviewedReading": "よんしょく",
+        "analyzer": "ヨンイロ"
+      },
+      {
+        "id": "n2-jmdict-1596200",
+        "surface": "先々月",
+        "reviewedReading": "せんせんげつ",
+        "analyzer": "サキザキツキ"
+      },
+      {
+        "id": "n2-jmdict-1888910",
+        "surface": "先々週",
+        "reviewedReading": "せんせんしゅう",
+        "analyzer": "サキザキシュウ"
+      },
+      {
+        "id": "n2-jmdict-2412230",
+        "surface": "一足",
+        "reviewedReading": "いっそく",
+        "analyzer": "ヒトアシ"
+      },
+      {
+        "id": "n2-jmdict-1006900",
+        "surface": "その他",
+        "reviewedReading": "そのほか",
+        "analyzer": "ソノタ"
+      },
+      {
+        "id": "n2-jmdict-1432840",
+        "surface": "一通",
+        "reviewedReading": "いっつう",
+        "analyzer": "イチツウ"
+      },
+      {
+        "id": "n2-jmdict-1441390",
+        "surface": "二十点",
+        "reviewedReading": "にじゅってん",
+        "analyzer": "ニジュウテン"
+      },
+      {
+        "id": "n2-jmdict-1919550",
+        "surface": "一泊",
+        "reviewedReading": "いっぱく",
+        "analyzer": "イチハク"
+      },
+      {
+        "id": "n2-jmdict-2208060",
+        "surface": "一遍",
+        "reviewedReading": "いっぺん",
+        "analyzer": "イチペン"
+      },
+      {
+        "id": "n2-jmdict-1514300",
+        "surface": "一歩",
+        "reviewedReading": "いっぽ",
+        "analyzer": "イチホ"
+      },
+      {
+        "id": "n2-jmdict-1607310",
+        "surface": "一羽",
+        "reviewedReading": "いちわ",
+        "analyzer": "ヒトワ"
+      },
+      {
+        "id": "n1-jmdict-1599570",
+        "surface": "何気なく",
+        "reviewedReading": "なにげなく",
+        "analyzer": "ナンゲナク"
+      },
+      {
+        "id": "n1-jmdict-1363330",
+        "surface": "真ん丸い",
+        "reviewedReading": "まんまるい",
+        "analyzer": "マンマリイ"
+      },
+      {
+        "id": "n1-jmdict-2848938",
+        "surface": "粋",
+        "reviewedReading": "すい",
+        "analyzer": "イキ"
+      },
+      {
+        "id": "n1-jmdict-1581270",
+        "surface": "早急な",
+        "reviewedReading": "そうきゅうな",
+        "analyzer": "サッキュウナ"
+      },
+      {
+        "id": "n1-jmdict-1197050",
+        "surface": "十画",
+        "reviewedReading": "じっかく",
+        "analyzer": "ジュウカク"
+      },
+      {
+        "id": "n1-jmdict-2020300",
+        "surface": "強",
+        "reviewedReading": "きょう",
+        "analyzer": "ツヨ"
+      },
+      {
+        "id": "n1-jmdict-1214060",
+        "surface": "物干し竿",
+        "reviewedReading": "ものほしざお",
+        "analyzer": "モノホシサオ"
+      },
+      {
+        "id": "n1-jmdict-2056370",
+        "surface": "縁",
+        "reviewedReading": "へり",
+        "analyzer": "エン"
+      }
+    ]
+  },
+  "limitations": "Editorial review and structural/browser/audio checks do not establish external native-speaker certification or listening review of every recording.",
+  "sources": {
+    "n5": "66de13769510bff31b60d8e28124af847d0470a623a60e79f97f425abac9abb0",
+    "n4": "6baa0acb3f9604afb437e276cc014f1a31264568e884071bde469f44c68155c6",
+    "n3": "21aebf0d9ffebae78969193f661515b66d8575d10b3f0d4c3b355c9e1af995cc",
+    "n2": "29feb48e8c87087dcd82984eba2c9e2855d2d1509565901186afe14e29d56edc",
+    "n1": "6118e40ca9c518f84eae189475add79919c256e65762c3214fbd6283956380be"
+  }
+}
