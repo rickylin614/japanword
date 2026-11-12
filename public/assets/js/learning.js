@@ -110,7 +110,7 @@
     const example = window.JP_VOCABULARY_EXAMPLES?.[exampleLevel]?.[word.id];
     if (!example) return '';
     const variants=readingExamples(example);
-    const title=example.variants?'例句與動詞變化 · 3 種用法':word.category==='nouns'?'詳細解釋與例句':'用法解說與案例';
+    const title=example.variants?`例句與動詞變化 · ${variants.length} 種用法`:word.category==='nouns'?'詳細解釋與例句':'用法解說與案例';
     const explanation=example.explanation?`<section class="word-explanation"><h3>${word.category==='nouns'?'詳細解釋':'用法說明'}</h3><p>${esc(example.explanation)}</p></section>`:'';
     return `<details class="word-examples"><summary>${title}<span class="example-toggle-hint example-toggle-open">點擊展開</span><span class="example-toggle-hint example-toggle-close">點擊收合</span></summary><div class="word-examples-content">${explanation}${variants.map((item,index)=>singleExampleMarkup(word,item,index)).join('')}</div></details>`;
   }

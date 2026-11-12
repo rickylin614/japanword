@@ -4,15 +4,15 @@
   "analyzer": "Fugashi 1.5.2 / UniDic-lite 1.0.8",
   "sourceHashes": {
     "public/assets/data/n5-data.js": "2bd9eb6f3b5159689676f90976aac776055fdcd41a097fe15f3f260aa64ac84e",
-    "public/assets/data/n5-examples.js": "4321f4f92672fc976de93ea7b0eba9935d6fd17b79c45ebad76e946306764d7b",
+    "public/assets/data/n5-examples.js": "59a029631c610b6688c2dc40c80c99157d401fbb10c9cddb647f9de3bff39573",
     "public/assets/data/n4-data.js": "40ded9330c34ec4315297439715efd440d384bf2b593d85b09f3c5e59c04d611",
-    "public/assets/data/n4-examples.js": "a54c1b1adf57a0485596226833f11d640c07db03da57315ee15d18e96472472b",
+    "public/assets/data/n4-examples.js": "3c0e1203c7fd359696e2388455e1b682403d7a1bc4097457289de5d4268411cb",
     "public/assets/data/n3-data.js": "891eeb911a74d8655ed0a5ad474ef08ed1ea0fe1bb65504bd3b52b9ab822e9d0",
-    "public/assets/data/n3-examples.js": "ea61f88d724d7c4e90683ec1ce293ab9508818948c4363c7352fc61c646346c4",
+    "public/assets/data/n3-examples.js": "ba4ca218cf518a4873398331e1bd1fe7a5185dd633fd535da7cecd87093e96a0",
     "public/assets/data/n2-data.js": "7fc2bd27e8aefd648b0b88bbeccc60e1e15e7130894f299adebe0ac67d1e2e36",
-    "public/assets/data/n2-examples.js": "1c26726c9c9ad939ff58161173732916a60b3ae3cff1dd134034d85af9f65222",
+    "public/assets/data/n2-examples.js": "35e8bab9ac48ca26ed1a02b349050ba19307a480d22e5abebb0f0a3002b06d74",
     "public/assets/data/n1-data.js": "c2ccd3b129790e8ce00e87ba7c2aec06d67fbb13e300855a62c0a6a8d78cdf6b",
-    "public/assets/data/n1-examples.js": "ae0ff9580acc960ee25082be37f452ad9880f640b085f728f66a897a67f83371"
+    "public/assets/data/n1-examples.js": "7c5f9fa9975f294dc2cfd57df90a4c82ed790d45aa7ede21b9ae21c84ee1f140"
   },
   "levels": {
     "n5": [
@@ -3712,7 +3712,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1578850",
-        "index": 2,
+        "index": 3,
         "transcript": "月曜日に学校へ行きます。",
         "translation": "星期一去學校。",
         "proof": [
@@ -4093,7 +4093,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1546640",
-        "index": 2,
+        "index": 3,
         "transcript": "旅行にはいくらお金が要りますか。",
         "translation": "旅行需要多少錢？",
         "proof": [
@@ -4157,7 +4157,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1223640",
-        "index": 2,
+        "index": 3,
         "transcript": "毎朝六時に起きます。",
         "translation": "我每天早上六點起床。",
         "proof": [
@@ -4253,7 +4253,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1473950",
-        "index": 2,
+        "index": 3,
         "transcript": "この店では切手も売っています。",
         "translation": "這家店也有賣郵票。",
         "proof": [
@@ -5622,7 +5622,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1221270",
-        "index": 2,
+        "index": 3,
         "transcript": "夕方、家に帰ります。",
         "translation": "傍晚回家。",
         "proof": [
@@ -9666,7 +9666,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1444610",
-        "index": 2,
+        "index": 3,
         "transcript": "先生に宿題を渡しました。",
         "translation": "我把作業交給了老師。",
         "proof": [
@@ -11712,7 +11712,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1512130",
-        "index": 2,
+        "index": 3,
         "transcript": "借りた本を明日返します。",
         "translation": "我明天歸還借來的書。",
         "proof": [
@@ -13858,7 +13858,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1326980",
-        "index": 2,
+        "index": 3,
         "transcript": "そこの塩を取ってください。",
         "translation": "請幫我拿那邊的鹽。",
         "proof": [
@@ -14109,7 +14109,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1289590",
-        "index": 2,
+        "index": 3,
         "transcript": "財布を忘れて困りました。",
         "translation": "忘了帶錢包，讓我很傷腦筋。",
         "proof": [
@@ -17495,7 +17495,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1598550",
-        "index": 2,
+        "index": 3,
         "transcript": "午後、友達と出かけます。",
         "translation": "下午和朋友出門。",
         "proof": [
@@ -18297,7 +18297,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1370760",
-        "index": 2,
+        "index": 3,
         "transcript": "今日は強い風が吹いています。",
         "translation": "今天吹著強風。",
         "proof": [
@@ -18652,7 +18652,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1483740",
-        "index": 2,
+        "index": 3,
         "transcript": "一日働いて、疲れました。",
         "translation": "工作了一整天，累了。",
         "proof": [
@@ -19044,7 +19044,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1323560",
-        "index": 2,
+        "index": 3,
         "transcript": "図書館で本を借りました。",
         "translation": "我在圖書館借了書。",
         "proof": [
@@ -19857,7 +19857,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1352570",
-        "index": 2,
+        "index": 3,
         "transcript": "友達と山に登りました。",
         "translation": "我和朋友去爬山了。",
         "proof": [
@@ -20651,7 +20651,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1012980",
-        "index": 2,
+        "index": 3,
         "transcript": "帰ってから宿題をやります。",
         "translation": "回家後做作業。",
         "proof": [
@@ -21631,7 +21631,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1378690",
-        "index": 2,
+        "index": 3,
         "transcript": "妹は去年生まれました。",
         "translation": "妹妹去年出生。",
         "proof": [
@@ -25622,7 +25622,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1436560",
-        "index": 2,
+        "index": 3,
         "transcript": "この店は夜八時に閉まります。",
         "translation": "這家店晚上八點關門。",
         "proof": [
@@ -26257,7 +26257,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1158880",
-        "index": 2,
+        "index": 3,
         "transcript": "二人は同じ学校ですが、クラスが違います。",
         "translation": "兩人就讀同一所學校，但班級不同。",
         "proof": [
@@ -26458,7 +26458,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1457560",
-        "index": 2,
+        "index": 3,
         "transcript": "午後から空が曇ってきました。",
         "translation": "下午開始天空變陰了。",
         "proof": [
@@ -28515,7 +28515,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1484330",
-        "index": 2,
+        "index": 3,
         "transcript": "暑い日は帽子をかぶって出かけます。",
         "translation": "天熱時我戴帽子出門。",
         "proof": [
@@ -29372,7 +29372,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1508380",
-        "index": 2,
+        "index": 3,
         "transcript": "店の前に人が並んでいます。",
         "translation": "店門前有人在排隊。",
         "proof": [
@@ -33486,7 +33486,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1329590",
-        "index": 2,
+        "index": 3,
         "transcript": "1月に試験を受ける予定です。",
         "translation": "我一月份要參加考試。",
         "proof": [
@@ -33669,7 +33669,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1604800",
-        "index": 2,
+        "index": 3,
         "transcript": "今、駅に向かっています。",
         "translation": "我現在正前往車站。",
         "proof": [
@@ -33729,7 +33729,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1605510",
-        "index": 2,
+        "index": 3,
         "transcript": "毎日運動して、少し痩せました。",
         "translation": "每天運動後，我瘦了一點。",
         "proof": [
@@ -33795,7 +33795,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1323010",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女に失礼なことをしたことを謝るべきだ。",
         "translation": "你應該為你的粗魯向她道歉。",
         "proof": [
@@ -33883,7 +33883,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1295070",
-        "index": 2,
+        "index": 3,
         "transcript": "試験が済むまでは忙しくて暇がないだろうと思います。",
         "translation": "恐怕直到考試結束前我都沒空。",
         "proof": [
@@ -34189,7 +34189,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1589260",
-        "index": 2,
+        "index": 3,
         "transcript": "道で財布を落としました。",
         "translation": "我在路上掉了錢包。",
         "proof": [
@@ -34740,7 +34740,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1281020",
-        "index": 2,
+        "index": 3,
         "transcript": "あのことはなるべく考えないようにしています。",
         "translation": "我盡可能不去思考那件事。",
         "proof": [
@@ -35140,7 +35140,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1000940",
-        "index": 2,
+        "index": 3,
         "transcript": "先生は今、研究室にいらっしゃいます。",
         "translation": "老師現在在研究室。",
         "proof": [
@@ -36634,7 +36634,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1184170",
-        "index": 2,
+        "index": 3,
         "transcript": "音楽の音を少し下げてください。",
         "translation": "請把音樂音量調小一點。",
         "proof": [
@@ -38265,7 +38265,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1310640",
-        "index": 2,
+        "index": 3,
         "transcript": "いずれにしても雨が止んだら私は出かけよう。",
         "translation": "停雨時我無論如何都會出外。",
         "proof": [
@@ -38430,7 +38430,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1385910",
-        "index": 2,
+        "index": 3,
         "transcript": "紙を半分に折りました。",
         "translation": "我把紙對折了。",
         "proof": [
@@ -38764,7 +38764,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1378520",
-        "index": 2,
+        "index": 3,
         "transcript": "私が今でも生きているのはあなたのおかげです。",
         "translation": "多虧了你，我還活著。",
         "proof": [
@@ -39158,7 +39158,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1369940",
-        "index": 2,
+        "index": 3,
         "transcript": "私は次に何をしたらいいか先生に尋ねた。",
         "translation": "我請教了老師接下來該做什麼。",
         "proof": [
@@ -40456,7 +40456,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1535880",
-        "index": 2,
+        "index": 3,
         "transcript": "君が戻る前に私はここを出てしまっているだろう。",
         "translation": "我想在你回來之前我就已經走了吧。",
         "proof": [
@@ -40556,7 +40556,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1529550",
-        "index": 2,
+        "index": 3,
         "transcript": "家の中でコートが無くなるはずはない。",
         "translation": "那件大衣不可能在家裡消失。",
         "proof": [
@@ -40685,7 +40685,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1559290",
-        "index": 2,
+        "index": 3,
         "transcript": "大きな犬を連れた男が入って来た。",
         "translation": "一個男人帶著一隻大狗走了過來。",
         "proof": [
@@ -41774,7 +41774,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1434120",
-        "index": 2,
+        "index": 3,
         "transcript": "私は昨日大きな魚を釣った。",
         "translation": "我昨天抓了條大魚。",
         "proof": [
@@ -41971,7 +41971,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1195970",
-        "index": 2,
+        "index": 3,
         "transcript": "約束の時間を十分過ぎました。",
         "translation": "約定時間已經過了十分鐘。",
         "proof": [
@@ -42911,7 +42911,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1169340",
-        "index": 2,
+        "index": 3,
         "transcript": "来月には引っ越す予定です。",
         "translation": "我下個月要搬家了。",
         "proof": [
@@ -43167,7 +43167,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1441400",
-        "index": 2,
+        "index": 3,
         "transcript": "カーテンに火が点いた。",
         "translation": "窗簾著火了。",
         "proof": [
@@ -43464,7 +43464,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1357250",
-        "index": 2,
+        "index": 3,
         "transcript": "果物の木を何本か植えました。",
         "translation": "種了幾棵果樹。",
         "proof": [
@@ -43611,7 +43611,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1510650",
-        "index": 2,
+        "index": 3,
         "transcript": "私は仕事を変えると思います。",
         "translation": "我考慮更換工作。",
         "proof": [
@@ -44686,7 +44686,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1326830",
-        "index": 2,
+        "index": 3,
         "transcript": "これを青いのと取り替えてください。",
         "translation": "請把這個換成藍色的。",
         "proof": [
@@ -45051,7 +45051,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1291270",
-        "index": 2,
+        "index": 3,
         "transcript": "先生に旅行のお土産を差し上げました。",
         "translation": "我送了旅行伴手禮給老師。",
         "proof": [
@@ -45974,7 +45974,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1603550",
-        "index": 2,
+        "index": 3,
         "transcript": "その道の人に褒められるのは嬉しい。",
         "translation": "被那個知識領域的專家誇獎真是高興啊。",
         "proof": [
@@ -46143,7 +46143,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1604550",
-        "index": 2,
+        "index": 3,
         "transcript": "なくした鍵が、かばんの中で見つかりました。",
         "translation": "遺失的鑰匙在包包裡找到了。",
         "proof": [
@@ -47558,7 +47558,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1157090",
-        "index": 2,
+        "index": 3,
         "transcript": "日曜日は何をなさいますか。",
         "translation": "您星期日要做什麼？",
         "proof": [
@@ -47880,7 +47880,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1209240",
-        "index": 2,
+        "index": 3,
         "transcript": "食べ物はよく噛んで食べましょう。",
         "translation": "食物要充分咀嚼再吃。",
         "proof": [
@@ -48328,7 +48328,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1305700",
-        "index": 2,
+        "index": 3,
         "transcript": "明日、先生のお宅にうかがいます。",
         "translation": "我明天要去老師府上拜訪。",
         "proof": [
@@ -48582,7 +48582,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1447000",
-        "index": 2,
+        "index": 3,
         "transcript": "彼はその池に石を投げた。",
         "translation": "他扔了一塊石頭到池塘裡。",
         "proof": [
@@ -48647,7 +48647,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1403040",
-        "index": 2,
+        "index": 3,
         "transcript": "そんなに騒がないで。",
         "translation": "別這樣的嘈吵。",
         "proof": [
@@ -48983,7 +48983,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1587290",
-        "index": 2,
+        "index": 3,
         "transcript": "先生から本をいただきました。",
         "translation": "我從老師那裡收到了書。",
         "proof": [
@@ -50159,7 +50159,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1184280",
-        "index": 2,
+        "index": 3,
         "transcript": "先生が私に辞書をくださいました。",
         "translation": "老師送了我一本字典。",
         "proof": [
@@ -51916,7 +51916,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1450270",
-        "index": 2,
+        "index": 3,
         "transcript": "花を踏まないでください。",
         "translation": "請不要踩到花。",
         "proof": [
@@ -52862,7 +52862,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1219680",
-        "index": 2,
+        "index": 3,
         "transcript": "来週の月曜日にもう一度お寄りになってみて下さい。",
         "translation": "請在下週一再來一次看看。",
         "proof": [
@@ -53806,7 +53806,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1604570",
-        "index": 2,
+        "index": 3,
         "transcript": "私たちは川で死んだ魚を何匹か見つけました。",
         "translation": "我們在河裡發現了幾條死掉的魚。",
         "proof": [
@@ -54797,7 +54797,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1238680",
-        "index": 2,
+        "index": 3,
         "transcript": "あなたが彼らの結婚を知らないとは驚いた。",
         "translation": "我很驚訝，你竟然不知道他們結婚了。",
         "proof": [
@@ -54878,7 +54878,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1001180",
-        "index": 2,
+        "index": 3,
         "transcript": "ゆうべはおいでになるかとお待ちしていました。",
         "translation": "昨天晚上我等著你來。",
         "proof": [
@@ -55844,7 +55844,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1445690",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女がなんであんなに怒っているのかわかる？",
         "translation": "你知道她為什麼這麼生氣嗎？",
         "proof": [
@@ -56195,7 +56195,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1310670",
-        "index": 2,
+        "index": 3,
         "transcript": "駅の前に車を止めました。",
         "translation": "我把車停在車站前。",
         "proof": [
@@ -56513,7 +56513,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1350610",
-        "index": 2,
+        "index": 3,
         "transcript": "パンがちょうどよく焼けました。",
         "translation": "麵包烤得恰到好處。",
         "proof": [
@@ -56568,7 +56568,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1238840",
-        "index": 2,
+        "index": 3,
         "transcript": "先生は明日休むとおっしゃいました。",
         "translation": "老師說明天休息。",
         "proof": [
@@ -57670,7 +57670,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-2846390",
-        "index": 2,
+        "index": 3,
         "transcript": "壊れていた時計が直りました。",
         "translation": "壞掉的手錶修好了。",
         "proof": [
@@ -57964,7 +57964,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1279680",
-        "index": 2,
+        "index": 3,
         "transcript": "あなたがここにいても私はかまいません。",
         "translation": "我不介意你留在這裡。",
         "proof": [
@@ -58557,7 +58557,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1202440",
-        "index": 2,
+        "index": 3,
         "transcript": "こころを開いて。",
         "translation": "敞開你的心扉。",
         "proof": [
@@ -58648,7 +58648,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1309260",
-        "index": 2,
+        "index": 3,
         "transcript": "この公園に来ると子供のころを思い出します。",
         "translation": "來到這個公園會讓我想起自己的童年。",
         "proof": [
@@ -58793,7 +58793,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1272820",
-        "index": 2,
+        "index": 3,
         "transcript": "月は自分では光らない。",
         "translation": "月亮不會自己發光。",
         "proof": [
@@ -59250,7 +59250,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1209650",
-        "index": 2,
+        "index": 3,
         "transcript": "洗濯物がよく乾きました。",
         "translation": "洗好的衣物都乾透了。",
         "proof": [
@@ -59677,7 +59677,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1591420",
-        "index": 2,
+        "index": 3,
         "transcript": "旅行の日が決まりました。",
         "translation": "旅行日期決定了。",
         "proof": [
@@ -59802,7 +59802,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1588730",
-        "index": 2,
+        "index": 3,
         "transcript": "どれでも好きな本を選んでもいいよ。",
         "translation": "你可以選擇任何你喜歡的書。",
         "proof": [
@@ -61594,7 +61594,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1302070",
-        "index": 2,
+        "index": 3,
         "transcript": "出来るだけ早く参ります。",
         "translation": "盡可能及早拜訪您。",
         "proof": [
@@ -61898,7 +61898,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1577985",
-        "index": 2,
+        "index": 3,
         "transcript": "私は受付におります。",
         "translation": "我在櫃檯。",
         "proof": [
@@ -63149,7 +63149,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1586265",
-        "index": 2,
+        "index": 3,
         "transcript": "昼の電車は空いています。",
         "translation": "中午的電車乘客很少。",
         "proof": [
@@ -63787,7 +63787,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1223660",
-        "index": 2,
+        "index": 3,
         "transcript": "毎朝六時に彼を起こします。",
         "translation": "我每天早上6點叫醒他。",
         "proof": [
@@ -64174,7 +64174,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1207270",
-        "index": 2,
+        "index": 3,
         "transcript": "家族と海での休みを楽しみました。",
         "translation": "我和家人享受了海邊假期。",
         "proof": [
@@ -64412,7 +64412,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1408220",
-        "index": 2,
+        "index": 3,
         "transcript": "最近、少し太りました。",
         "translation": "我最近胖了一點。",
         "proof": [
@@ -64797,7 +64797,7 @@
       {
         "sourceLevel": "n4",
         "wordId": "n4-jmdict-1333560",
-        "index": 2,
+        "index": 3,
         "transcript": "先生は生徒たちを自分のまわりに集めた。",
         "translation": "老師把他的學生們聚集在他周圍。",
         "proof": [
@@ -65249,7 +65249,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1444610",
-        "index": 2,
+        "index": 3,
         "transcript": "先生に宿題を渡しました。",
         "translation": "我把作業交給了老師。",
         "proof": [
@@ -65859,7 +65859,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1508380",
-        "index": 2,
+        "index": 3,
         "transcript": "店の前に人が並んでいます。",
         "translation": "店門前有人在排隊。",
         "proof": [
@@ -66928,7 +66928,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1410590",
-        "index": 2,
+        "index": 3,
         "transcript": "駅の前で待っています。",
         "translation": "我在車站前等候。",
         "proof": [
@@ -68717,7 +68717,7 @@
       {
         "sourceLevel": "n5",
         "wordId": "n5-jmdict-1333070",
-        "index": 2,
+        "index": 3,
         "transcript": "毎週、先生にピアノを習っています。",
         "translation": "我每週跟老師學鋼琴。",
         "proof": [
@@ -70915,7 +70915,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1344410",
-        "index": 2,
+        "index": 3,
         "transcript": "彼が助けてくれなかったら彼女は失敗していただろう。",
         "translation": "如果沒有他幫忙，她大概已經失敗了吧。",
         "proof": [
@@ -71545,7 +71545,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1251900",
-        "index": 2,
+        "index": 3,
         "transcript": "手繋いでいい？",
         "translation": "我可以牽著你的手嗎？",
         "proof": [
@@ -72829,7 +72829,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1372900",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は数を数えることができない。",
         "translation": "他不會數數。",
         "proof": [
@@ -73385,7 +73385,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1531950",
-        "index": 2,
+        "index": 3,
         "transcript": "監督は選手に休憩するよう命じました。",
         "translation": "教練命令選手休息。",
         "proof": [
@@ -74627,7 +74627,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1541900",
-        "index": 2,
+        "index": 3,
         "transcript": "彼らは僕をトランプに誘った。",
         "translation": "他們邀請我去玩牌。",
         "proof": [
@@ -74748,7 +74748,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1514110",
-        "index": 2,
+        "index": 3,
         "transcript": "泥棒が捕まってよかった。",
         "translation": "抓到小偷真是太好了。",
         "proof": [
@@ -75295,7 +75295,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1209630",
-        "index": 2,
+        "index": 3,
         "transcript": "洗った髪をよく乾かしてから寝ます。",
         "translation": "把洗好的頭髮充分弄乾再睡。",
         "proof": [
@@ -76089,7 +76089,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1295940",
-        "index": 2,
+        "index": 3,
         "transcript": "裁判所は法律に基づいて事件を裁きます。",
         "translation": "法院依法審判案件。",
         "proof": [
@@ -76746,7 +76746,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1277520",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は毎日好んで独りで過ごす時間を持つ。",
         "translation": "他喜歡每天都享受一下一個人的時間。",
         "proof": [
@@ -77008,7 +77008,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1170660",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女は息を殺してドアの陰に隠れていた。",
         "translation": "她屏著氣息，躲了在門的後面。",
         "proof": [
@@ -77387,7 +77387,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1603920",
-        "index": 2,
+        "index": 3,
         "transcript": "油と水は混ざらないんだ。",
         "translation": "油和水不能混合。",
         "proof": [
@@ -78449,7 +78449,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1606685",
-        "index": 2,
+        "index": 3,
         "transcript": "岩の間から水が湧いています。",
         "translation": "水正從岩石間湧出。",
         "proof": [
@@ -78907,7 +78907,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1611000",
-        "index": 2,
+        "index": 3,
         "transcript": "庭の木に、たくさんの実がなっています。",
         "translation": "庭院的樹上結了許多果實。",
         "proof": [
@@ -79215,7 +79215,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1357030",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は老人に席を譲りました。",
         "translation": "他把座位讓給了老人。",
         "proof": [
@@ -79279,7 +79279,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1595680",
-        "index": 2,
+        "index": 3,
         "transcript": "父は私にピアノを習うように勧めた。",
         "translation": "我的父親鼓勵我去學鋼琴。",
         "proof": [
@@ -79749,7 +79749,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1467610",
-        "index": 2,
+        "index": 3,
         "transcript": "布を水で濡らしてください。",
         "translation": "請把布用水弄濕。",
         "proof": [
@@ -81910,7 +81910,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1312650",
-        "index": 2,
+        "index": 3,
         "transcript": "新しい計画を専門家に諮りました。",
         "translation": "我就新計畫諮詢了專家。",
         "proof": [
@@ -82619,7 +82619,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1357420",
-        "index": 2,
+        "index": 3,
         "transcript": "祖母は機械を使わずに布を織っています。",
         "translation": "祖母不用機器，親手織布。",
         "proof": [
@@ -82949,7 +82949,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1595080",
-        "index": 2,
+        "index": 3,
         "transcript": "車が通るので、少しどいてください。",
         "translation": "車子要通過，請讓開一下。",
         "proof": [
@@ -83340,7 +83340,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1198890",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は複雑な数学の問題を解くことが得意だ。",
         "translation": "他擅長解答數學難題。",
         "proof": [
@@ -83427,7 +83427,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1357240",
-        "index": 2,
+        "index": 3,
         "transcript": "ぬれた髪の毛をタオルで拭いた。",
         "translation": "她用毛巾把頭髮抹乾了。",
         "proof": [
@@ -83931,7 +83931,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1609730",
-        "index": 2,
+        "index": 3,
         "transcript": "犬がボールを咥えて走ってきました。",
         "translation": "狗叼著球跑過來了。",
         "proof": [
@@ -87087,7 +87087,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1310600",
-        "index": 2,
+        "index": 3,
         "transcript": "危ない遊びはよしてください。",
         "translation": "請不要玩危險的遊戲。",
         "proof": [
@@ -90767,7 +90767,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1550840",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女は去年日本を離れていた。",
         "translation": "去年她離開了日本。",
         "proof": [
@@ -91176,7 +91176,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1216890",
-        "index": 2,
+        "index": 3,
         "transcript": "税を含めて、千円です。",
         "translation": "含稅是一千日圓。",
         "proof": [
@@ -92194,7 +92194,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1603930",
-        "index": 2,
+        "index": 3,
         "transcript": "白い砂に黒い石が混じっています。",
         "translation": "白沙裡混著黑色石頭。",
         "proof": [
@@ -92360,7 +92360,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1284480",
-        "index": 2,
+        "index": 3,
         "transcript": "彼はほとんどだれとでも調子を合わせることができた。",
         "translation": "他和誰都很合得來。",
         "proof": [
@@ -94138,7 +94138,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1437560",
-        "index": 2,
+        "index": 3,
         "transcript": "あの背の高い少年が溺れかかっている子どもを救った。",
         "translation": "那個高個少年救了溺水兒童。",
         "proof": [
@@ -95833,7 +95833,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1544990",
-        "index": 2,
+        "index": 3,
         "transcript": "私だったら、そんなお金は銀行に預けるよ。",
         "translation": "換我是你，我會在銀行裡存放那些錢。",
         "proof": [
@@ -96085,7 +96085,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1247030",
-        "index": 2,
+        "index": 3,
         "transcript": "先生は私にその文を繰り返させた。",
         "translation": "老師讓我重複了這句話。",
         "proof": [
@@ -96226,7 +96226,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1223680",
-        "index": 2,
+        "index": 3,
         "transcript": "彼はどのようにその事故が起こったか説明した。",
         "translation": "他說明了那起事故是如何發生的。",
         "proof": [
@@ -96454,7 +96454,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1589200",
-        "index": 2,
+        "index": 3,
         "transcript": "たとえアフリカの国を通ることがあっても恐れません。",
         "translation": "就算（有）要跨越非洲諸國（的事），我也不會害怕。",
         "proof": [
@@ -96548,7 +96548,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1591100",
-        "index": 2,
+        "index": 3,
         "transcript": "このお薬は効きますか？",
         "translation": "這個藥有效果嗎？",
         "proof": [
@@ -96956,7 +96956,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1226510",
-        "index": 2,
+        "index": 3,
         "transcript": "彼はびんに水を詰めた。",
         "translation": "他用水裝滿了瓶子。",
         "proof": [
@@ -97016,7 +97016,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1445770",
-        "index": 2,
+        "index": 3,
         "transcript": "荷物を運ぶとき、花瓶を倒してしまいました。",
         "translation": "搬行李時，我不小心碰倒了花瓶。",
         "proof": [
@@ -97235,7 +97235,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1582900",
-        "index": 2,
+        "index": 3,
         "transcript": "この手紙は読み終わったら燃やしてください。",
         "translation": "看完這封信請把它燒掉。",
         "proof": [
@@ -97698,7 +97698,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1203270",
-        "index": 2,
+        "index": 3,
         "transcript": "部屋に入る前に、帽子を外してください。",
         "translation": "進房間前，請把帽子摘下。",
         "proof": [
@@ -98034,7 +98034,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1596830",
-        "index": 2,
+        "index": 3,
         "transcript": "これがお米の炊き方です。",
         "translation": "這就是我們烹調米的方法。",
         "proof": [
@@ -98429,7 +98429,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1365450",
-        "index": 2,
+        "index": 3,
         "transcript": "医者に診てもらった方がいいよ。",
         "translation": "你還是去看病吧。",
         "proof": [
@@ -99363,7 +99363,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1006460",
-        "index": 2,
+        "index": 3,
         "transcript": "机と椅子の位置が少しずれています。",
         "translation": "桌椅的位置稍微錯開了。",
         "proof": [
@@ -99440,7 +99440,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1403550",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女はだれが花を贈ってくれたのか知りたがっている。",
         "translation": "她想知道是誰送的花。",
         "proof": [
@@ -100187,7 +100187,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1236940",
-        "index": 2,
+        "index": 3,
         "transcript": "私は外国語を二つ教わっている。",
         "translation": "我正在學兩門外語。",
         "proof": [
@@ -100757,7 +100757,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1326990",
-        "index": 2,
+        "index": 3,
         "transcript": "ボタンが取れた。",
         "translation": "這顆鈕扣脫落了。",
         "proof": [
@@ -100847,7 +100847,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1451170",
-        "index": 2,
+        "index": 3,
         "transcript": "私は弟が机を動かすのを手伝った。",
         "translation": "我幫我弟弟搬了他的書桌。",
         "proof": [
@@ -101707,7 +101707,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1219560",
-        "index": 2,
+        "index": 3,
         "transcript": "通りやすいように、椅子を壁に寄せました。",
         "translation": "為了方便通過，我把椅子移近牆邊。",
         "proof": [
@@ -101861,7 +101861,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1484330",
-        "index": 2,
+        "index": 3,
         "transcript": "帽子を被って、出かけました。",
         "translation": "我戴上帽子出門了。",
         "proof": [
@@ -102322,7 +102322,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1217950",
-        "index": 2,
+        "index": 3,
         "transcript": "家族の健康を願っています。",
         "translation": "我祈願家人健康。",
         "proof": [
@@ -103398,7 +103398,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1432720",
-        "index": 2,
+        "index": 3,
         "transcript": "運動中に膝を傷めました。",
         "translation": "我運動時弄傷了膝蓋。",
         "proof": [
@@ -104500,7 +104500,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1176700",
-        "index": 2,
+        "index": 3,
         "transcript": "この通りに沿って行き銀行のところで右に曲がりなさい。",
         "translation": "請沿著這條路走，在銀行那裡向右轉。",
         "proof": [
@@ -104591,7 +104591,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1419570",
-        "index": 2,
+        "index": 3,
         "transcript": "断るのは失礼なんじゃないかな。",
         "translation": "拒絕的話可能不太禮貌。",
         "proof": [
@@ -106158,7 +106158,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1335210",
-        "index": 2,
+        "index": 3,
         "transcript": "あなたは法に従わなくてはならない。",
         "translation": "妳必須遵從法律。",
         "proof": [
@@ -106228,7 +106228,7 @@
       {
         "sourceLevel": "n3",
         "wordId": "n3-jmdict-1326800",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女はガラスの花瓶を取り上げた。",
         "translation": "她拿起了那個玻璃花瓶。",
         "proof": [
@@ -106855,7 +106855,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1433820",
-        "index": 2,
+        "index": 3,
         "transcript": "時間を潰そうとしていた。",
         "translation": "我試著消磨時間。",
         "proof": [
@@ -107401,7 +107401,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1609260",
-        "index": 2,
+        "index": 3,
         "transcript": "猫は濡れるのを嫌がる。",
         "translation": "貓討厭被弄溼。",
         "proof": [
@@ -107741,7 +107741,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1600740",
-        "index": 2,
+        "index": 3,
         "transcript": "痛い！ドアに指挟んだ！",
         "translation": "好痛！被門夾到手指了！",
         "proof": [
@@ -107878,7 +107878,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1612950",
-        "index": 2,
+        "index": 3,
         "transcript": "残っていた仕事を、午前中にやっつけました。",
         "translation": "我在上午迅速處理掉了剩餘工作。",
         "proof": [
@@ -108935,7 +108935,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1531970",
-        "index": 2,
+        "index": 3,
         "transcript": "警官は彼らに止まるように命じた。",
         "translation": "警察命令他們停下來。",
         "proof": [
@@ -109066,7 +109066,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1379740",
-        "index": 2,
+        "index": 3,
         "transcript": "皿に料理をきれいに盛りました。",
         "translation": "我把料理漂亮地盛在盤子上。",
         "proof": [
@@ -109295,7 +109295,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1423170",
-        "index": 2,
+        "index": 3,
         "transcript": "服を着替えに行ってくる。",
         "translation": "我去換衣服。",
         "proof": [
@@ -110116,7 +110116,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1259370",
-        "index": 2,
+        "index": 3,
         "transcript": "見下ろすと、たくさんのビルが見えた。",
         "translation": "我們往下看，是一片水泥叢林。",
         "proof": [
@@ -110223,7 +110223,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1399760",
-        "index": 2,
+        "index": 3,
         "transcript": "台所をきれいに掃くのを忘れないように。",
         "translation": "記住把廚房打掃乾淨。",
         "proof": [
@@ -110370,7 +110370,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1295250",
-        "index": 2,
+        "index": 3,
         "transcript": "この神社では、海の神を祭っています。",
         "translation": "這座神社供奉海神。",
         "proof": [
@@ -110795,7 +110795,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1350860",
-        "index": 2,
+        "index": 3,
         "transcript": "朝から太陽が照っています。",
         "translation": "太陽從早上就照耀著。",
         "proof": [
@@ -111137,7 +111137,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1350710",
-        "index": 2,
+        "index": 3,
         "transcript": "火を強くしすぎて、魚を焦がしてしまいました。",
         "translation": "火開太大，我把魚燒焦了。",
         "proof": [
@@ -112237,7 +112237,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1259830",
-        "index": 2,
+        "index": 3,
         "transcript": "空港で彼女を見送った。",
         "translation": "我們在機場為她送行。",
         "proof": [
@@ -112859,7 +112859,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1238650",
-        "index": 2,
+        "index": 3,
         "transcript": "彼の行動にはいつも驚かされる。",
         "translation": "他的所作所為總是讓我驚訝。",
         "proof": [
@@ -113189,7 +113189,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1156890",
-        "index": 2,
+        "index": 3,
         "transcript": "私は彼女を慰めることができる。",
         "translation": "我可以安慰她。",
         "proof": [
@@ -113249,7 +113249,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1184450",
-        "index": 2,
+        "index": 3,
         "transcript": "船は川を下っていった。",
         "translation": "船順流而下。",
         "proof": [
@@ -113555,7 +113555,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1567390",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は遅刻の口実をこしらえた。",
         "translation": "他為他的遲到製造了一個藉口。",
         "proof": [
@@ -113700,7 +113700,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1337570",
-        "index": 2,
+        "index": 3,
         "transcript": "説明の時間を五分に縮めました。",
         "translation": "我把說明時間縮短為五分鐘。",
         "proof": [
@@ -113873,7 +113873,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1382970",
-        "index": 2,
+        "index": 3,
         "transcript": "トラックに荷物を積んだ。",
         "translation": "我把行李放到卡車上。",
         "proof": [
@@ -114522,7 +114522,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1003810",
-        "index": 2,
+        "index": 3,
         "transcript": "少しくたびれた。",
         "translation": "我有點累了。",
         "proof": [
@@ -116230,7 +116230,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1427950",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は木の人形を彫ってくれた。",
         "translation": "他給我雕了一個木娃娃。",
         "proof": [
@@ -116415,7 +116415,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1590420",
-        "index": 2,
+        "index": 3,
         "transcript": "食事の内容が片寄らないようにしています。",
         "translation": "我盡量避免飲食內容不均衡。",
         "proof": [
@@ -117575,7 +117575,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1361190",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女は振り向いてほほえんだ。",
         "translation": "她轉過頭來，微微一笑。",
         "proof": [
@@ -118348,7 +118348,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1609000",
-        "index": 2,
+        "index": 3,
         "transcript": "祖母は扇子で顔を扇いでいました。",
         "translation": "祖母用摺扇朝臉搧風。",
         "proof": [
@@ -118743,7 +118743,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1498290",
-        "index": 2,
+        "index": 3,
         "transcript": "子供が猫を撫でている。",
         "translation": "孩子摸著貓。",
         "proof": [
@@ -118846,7 +118846,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1608720",
-        "index": 2,
+        "index": 3,
         "transcript": "犬が猫を追いかけ、猫がネズミを追いかける。",
         "translation": "狗追貓，貓追鼠。",
         "proof": [
@@ -121222,7 +121222,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1578210",
-        "index": 2,
+        "index": 3,
         "transcript": "塔はわずかに西へ傾いていた。",
         "translation": "塔有點向西邊傾斜。",
         "proof": [
@@ -121814,7 +121814,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1609380",
-        "index": 2,
+        "index": 3,
         "transcript": "能力に応じて働き、必要に応じて受け取る。",
         "translation": "各盡所能、按需分配。",
         "proof": [
@@ -121891,7 +121891,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1337590",
-        "index": 2,
+        "index": 3,
         "transcript": "弟の髪は少し縮れています。",
         "translation": "弟弟的頭髮有點捲。",
         "proof": [
@@ -123567,7 +123567,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1594270",
-        "index": 2,
+        "index": 3,
         "transcript": "嵐は静まった。",
         "translation": "暴風雨平息下來了。",
         "proof": [
@@ -124386,7 +124386,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1013140",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女は私の手紙に全然返事をよこさなかった。",
         "translation": "她沒有回我的信。",
         "proof": [
@@ -125534,7 +125534,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1005670",
-        "index": 2,
+        "index": 3,
         "transcript": "赤ちゃんが指をしゃぶっています。",
         "translation": "寶寶正在吸手指。",
         "proof": [
@@ -125895,7 +125895,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1169350",
-        "index": 2,
+        "index": 3,
         "transcript": "服が釘に引っ掛かって、破れました。",
         "translation": "衣服勾到釘子破了。",
         "proof": [
@@ -126030,7 +126030,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1472860",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は袋を背負っている。",
         "translation": "他背著一個袋子。",
         "proof": [
@@ -126774,7 +126774,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1427870",
-        "index": 2,
+        "index": 3,
         "transcript": "初めての仕事なので、張り切っています。",
         "translation": "因為是第一份工作，我幹勁十足。",
         "proof": [
@@ -128285,7 +128285,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1404750",
-        "index": 2,
+        "index": 3,
         "transcript": "皆に食物は足るかい。",
         "translation": "有足夠的食物給大家嗎？",
         "proof": [
@@ -128541,7 +128541,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1582900",
-        "index": 2,
+        "index": 3,
         "transcript": "この手紙は読み終わったら燃やしてください。",
         "translation": "看完這封信請把它燒掉。",
         "proof": [
@@ -129626,7 +129626,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1610950",
-        "index": 2,
+        "index": 3,
         "transcript": "会議が長引いて、帰りが遅くなりました。",
         "translation": "會議拖長，回家時間變晚了。",
         "proof": [
@@ -130564,7 +130564,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1519970",
-        "index": 2,
+        "index": 3,
         "transcript": "風船を膨らまして、部屋に飾りました。",
         "translation": "我吹大了氣球，裝飾房間。",
         "proof": [
@@ -130738,7 +130738,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1533740",
-        "index": 2,
+        "index": 3,
         "transcript": "庭の木には、葉が茂っています。",
         "translation": "庭院的樹長滿了茂密葉子。",
         "proof": [
@@ -131161,7 +131161,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1517700",
-        "index": 2,
+        "index": 3,
         "transcript": "これを手で縫ったんですか。",
         "translation": "是用手縫的嗎？",
         "proof": [
@@ -131335,7 +131335,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1594520",
-        "index": 2,
+        "index": 3,
         "transcript": "濡れたタオルをよく絞ってください。",
         "translation": "請把濕毛巾擰乾。",
         "proof": [
@@ -131532,7 +131532,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1242520",
-        "index": 2,
+        "index": 3,
         "transcript": "火に手を近付けないでください。",
         "translation": "請不要把手靠近火。",
         "proof": [
@@ -131592,7 +131592,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1598890",
-        "index": 2,
+        "index": 3,
         "transcript": "少年は水の中に飛び込んだ。",
         "translation": "這個男孩跳入了水中。",
         "proof": [
@@ -132152,7 +132152,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1167610",
-        "index": 2,
+        "index": 3,
         "transcript": "その街は活気にあふれていた。",
         "translation": "小鎮充滿了活力。",
         "proof": [
@@ -132408,7 +132408,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1450320",
-        "index": 2,
+        "index": 3,
         "transcript": "鳥を逃がしてやってください。",
         "translation": "放飛鳥兒。",
         "proof": [
@@ -132464,7 +132464,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1472990",
-        "index": 2,
+        "index": 3,
         "transcript": "あの人たちにプログラムを配る手伝いをしてくれませんか。",
         "translation": "你能幫我給這些人分發節目單嗎？",
         "proof": [
@@ -133232,7 +133232,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1406120",
-        "index": 2,
+        "index": 3,
         "transcript": "必要な書類を揃えて、提出しました。",
         "translation": "我備齊所需文件並提交了。",
         "proof": [
@@ -133372,7 +133372,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1200750",
-        "index": 2,
+        "index": 3,
         "transcript": "彼らはその制度を改めた。",
         "translation": "他們改變了制度。",
         "proof": [
@@ -133501,7 +133501,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-2850084",
-        "index": 2,
+        "index": 3,
         "transcript": "通れるように、荷物をどけてください。",
         "translation": "請把行李移開，讓人可以通過。",
         "proof": [
@@ -134152,7 +134152,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1604650",
-        "index": 2,
+        "index": 3,
         "transcript": "見慣れた町の景色が、少し変わっていました。",
         "translation": "看慣的城鎮景色有點改變了。",
         "proof": [
@@ -134339,7 +134339,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1456940",
-        "index": 2,
+        "index": 3,
         "transcript": "彼はポケットに手を突っ込んだ。",
         "translation": "他把手插進口袋裡。",
         "proof": [
@@ -134622,7 +134622,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1474200",
-        "index": 2,
+        "index": 3,
         "transcript": "赤ちゃんが床を這っています。",
         "translation": "寶寶正在地板上爬。",
         "proof": [
@@ -134682,7 +134682,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1289780",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は彼女を恨んでいる。",
         "translation": "他恨她。",
         "proof": [
@@ -135067,7 +135067,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1546070",
-        "index": 2,
+        "index": 3,
         "transcript": "霜はまだ溶け始めていない。",
         "translation": "霜還沒有開始溶化。",
         "proof": [
@@ -135265,7 +135265,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1603090",
-        "index": 2,
+        "index": 3,
         "transcript": "失礼に振舞ったりしないのが一番だと思う。",
         "translation": "我覺得最好不要不禮貌。",
         "proof": [
@@ -136241,7 +136241,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1011250",
-        "index": 2,
+        "index": 3,
         "transcript": "肩から小さなかばんをぶらさげています。",
         "translation": "我肩上掛著小包包。",
         "proof": [
@@ -136590,7 +136590,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1446180",
-        "index": 2,
+        "index": 3,
         "transcript": "寒くて凍えそうだ。",
         "translation": "我凍死了。",
         "proof": [
@@ -137047,7 +137047,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1599680",
-        "index": 2,
+        "index": 3,
         "transcript": "先輩のやり方に倣って、作業を進めました。",
         "translation": "我仿效前輩的做法推進工作。",
         "proof": [
@@ -138947,7 +138947,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1169320",
-        "index": 2,
+        "index": 3,
         "transcript": "強い風で、傘がひっくり返ってしまいました。",
         "translation": "強風吹翻了傘。",
         "proof": [
@@ -139185,7 +139185,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1006420",
-        "index": 2,
+        "index": 3,
         "transcript": "ちょっと椅子をずらしてくれない？",
         "translation": "你可以移一移那張椅子嗎？",
         "proof": [
@@ -140191,7 +140191,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1169140",
-        "index": 2,
+        "index": 3,
         "transcript": "今は引き返すには遅すぎる。",
         "translation": "現在往回走太晚了。",
         "proof": [
@@ -140246,7 +140246,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1554380",
-        "index": 2,
+        "index": 3,
         "transcript": "夕方、庭で涼みました。",
         "translation": "傍晚我在庭院納涼。",
         "proof": [
@@ -141029,7 +141029,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1606020",
-        "index": 2,
+        "index": 3,
         "transcript": "写真を見ると、昔の思い出が蘇りました。",
         "translation": "看到照片，以前的回憶又浮現了。",
         "proof": [
@@ -141845,7 +141845,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1567650",
-        "index": 2,
+        "index": 3,
         "transcript": "彼らは私をからかった。",
         "translation": "我被他們取笑了。",
         "proof": [
@@ -142145,7 +142145,7 @@
       {
         "sourceLevel": "n2",
         "wordId": "n2-jmdict-1603930",
-        "index": 2,
+        "index": 3,
         "transcript": "白い砂に黒い石が混じっています。",
         "translation": "白沙裡混著黑色石頭。",
         "proof": [
@@ -142821,7 +142821,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1410580",
-        "index": 2,
+        "index": 3,
         "transcript": "生徒だけでなく先生も休暇を待ち望んでいる。",
         "translation": "老師和學生一樣盼望假期。",
         "proof": [
@@ -143763,7 +143763,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1450440",
-        "index": 2,
+        "index": 3,
         "transcript": "何人も老いから逃れることはできない。",
         "translation": "沒有人能逃過衰老。",
         "proof": [
@@ -144365,7 +144365,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1259700",
-        "index": 2,
+        "index": 3,
         "transcript": "彼の態度を見習いなさい。",
         "translation": "你應該學習一下他的態度。",
         "proof": [
@@ -145001,7 +145001,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1562510",
-        "index": 2,
+        "index": 3,
         "transcript": "売上だけで、店の経費を賄っている。",
         "translation": "店裡的經費完全以營收支付。",
         "proof": [
@@ -145194,7 +145194,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1298740",
-        "index": 2,
+        "index": 3,
         "transcript": "状況を察しなさいよ。",
         "translation": "你要體察一下狀況呀。",
         "proof": [
@@ -145900,7 +145900,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1514360",
-        "index": 2,
+        "index": 3,
         "transcript": "あなたと共に人生を歩んでいきたい。",
         "translation": "我想和你共渡餘生。",
         "proof": [
@@ -146157,7 +146157,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1604670",
-        "index": 2,
+        "index": 3,
         "transcript": "こんな素晴らしい映画を見逃してはいけませんよ。",
         "translation": "你一定不要錯過這部精彩的電影。",
         "proof": [
@@ -146407,7 +146407,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1315730",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は親切なので、クラスのみんなにもてている。",
         "translation": "他因為親切，在班上很受歡迎。",
         "proof": [
@@ -146859,7 +146859,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1603910",
-        "index": 2,
+        "index": 3,
         "transcript": "健康が富に勝るということは言うまでもない。",
         "translation": "健康勝過財富，這件事誰都知道。",
         "proof": [
@@ -147583,7 +147583,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1478120",
-        "index": 2,
+        "index": 3,
         "transcript": "どうして試験で最初の問題を抜かしたの？",
         "translation": "為什麼漏了測驗的第一個問題呢?",
         "proof": [
@@ -148764,7 +148764,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1260440",
-        "index": 2,
+        "index": 3,
         "transcript": "難しい仕事だったが、最後までやりとおした。",
         "translation": "工作雖然困難，我仍堅持做到了最後。",
         "proof": [
@@ -149467,7 +149467,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1236100",
-        "index": 2,
+        "index": 3,
         "transcript": "学問は強いられるべきではない。学問は奨励されるべきだ。",
         "translation": "學習不該被強迫，而是該被鼓勵。",
         "proof": [
@@ -149834,7 +149834,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1593870",
-        "index": 2,
+        "index": 3,
         "transcript": "村の子供が攫われたという知らせが入った。",
         "translation": "傳來了村裡孩子被擄走的消息。",
         "proof": [
@@ -150476,7 +150476,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1329690",
-        "index": 2,
+        "index": 3,
         "transcript": "この窓口では、住所変更の申請を受け付けている。",
         "translation": "這個窗口受理變更地址的申請。",
         "proof": [
@@ -152075,7 +152075,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1350780",
-        "index": 2,
+        "index": 3,
         "transcript": "焦らなくてもいいですよ。",
         "translation": "你不用著急。",
         "proof": [
@@ -152862,7 +152862,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1266330",
-        "index": 2,
+        "index": 3,
         "transcript": "落とし物に気づき、前を歩く人を呼び止めた。",
         "translation": "發現有人掉東西後，我叫住了走在前面的人。",
         "proof": [
@@ -152940,7 +152940,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1011850",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は、仕事が多すぎるとぼやいていた。",
         "translation": "他抱怨工作太多了。",
         "proof": [
@@ -153101,7 +153101,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1360610",
-        "index": 2,
+        "index": 3,
         "transcript": "相手の話を最後まで聞くように心掛けている。",
         "translation": "我盡量留意，要把對方的話聽到最後。",
         "proof": [
@@ -155195,7 +155195,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1467130",
-        "index": 2,
+        "index": 3,
         "transcript": "準備の仕事を、経験のある友人に任した。",
         "translation": "我把準備工作交給了有經驗的朋友。",
         "proof": [
@@ -155789,7 +155789,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1567270",
-        "index": 2,
+        "index": 3,
         "transcript": "小さな誤解から、二人の関係がこじれた。",
         "translation": "小小誤會使兩人的關係惡化了。",
         "proof": [
@@ -155947,7 +155947,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1281480",
-        "index": 2,
+        "index": 3,
         "transcript": "その国は長い戦争によって荒らされていた。",
         "translation": "這個國家被長期的戰爭毀壞了。",
         "proof": [
@@ -156454,7 +156454,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1271480",
-        "index": 2,
+        "index": 3,
         "transcript": "そんな手で私の目をごまかそうとしても無駄だ。",
         "translation": "你想用那種手段蒙混我的眼睛，也是沒用的。",
         "proof": [
@@ -156919,7 +156919,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1399880",
-        "index": 2,
+        "index": 3,
         "transcript": "鍋の中を掻き回して、底が焦げないようにした。",
         "translation": "我攪拌鍋裡的東西，避免鍋底燒焦。",
         "proof": [
@@ -159092,7 +159092,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1421580",
-        "index": 2,
+        "index": 3,
         "transcript": "長く使ったロープが、少し弛んだ。",
         "translation": "用了很久的繩索變得有點鬆弛。",
         "proof": [
@@ -159261,7 +159261,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1533400",
-        "index": 2,
+        "index": 3,
         "transcript": "私の部屋は庭に面している。",
         "translation": "我的房間面向花園。",
         "proof": [
@@ -159475,7 +159475,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1330490",
-        "index": 2,
+        "index": 3,
         "transcript": "最後には全てがうまく収まるといいんだけど。",
         "translation": "我希望最後一切都好。",
         "proof": [
@@ -159555,7 +159555,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1352770",
-        "index": 2,
+        "index": 3,
         "transcript": "今年の売上は、去年を大きく上回った。",
         "translation": "今年的銷售額大幅超過了去年。",
         "proof": [
@@ -160582,7 +160582,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1309060",
-        "index": 2,
+        "index": 3,
         "transcript": "彼女は女優になることを志した。",
         "translation": "她立志成為一名演員。",
         "proof": [
@@ -160827,7 +160827,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1266570",
-        "index": 2,
+        "index": 3,
         "transcript": "彼の二番目の息子は結婚して身を固めた。",
         "translation": "他的第二個兒子結婚並定居下來了。",
         "proof": [
@@ -161418,7 +161418,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1588130",
-        "index": 2,
+        "index": 3,
         "transcript": "秘密というのは、時間がたつほど打ち明けづらくなる。",
         "translation": "所謂的秘密就是，時間過得越久，就越難開口。",
         "proof": [
@@ -162282,7 +162282,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1593430",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は研究室に籠もって、論文を書いていた。",
         "translation": "他閉居研究室撰寫論文。",
         "proof": [
@@ -162576,7 +162576,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1267870",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は自分の危険を顧みず、救助に向かった。",
         "translation": "他不顧自己的危險，前去救援。",
         "proof": [
@@ -163067,7 +163067,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1565710",
-        "index": 2,
+        "index": 3,
         "transcript": "小さな鳥が楽しげにさえずっている。",
         "translation": "小鳥歡快地歌唱。",
         "proof": [
@@ -164308,7 +164308,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1352050",
-        "index": 2,
+        "index": 3,
         "transcript": "お気に障ったのでしょうか。",
         "translation": "我讓你很難受麼？",
         "proof": [
@@ -164687,7 +164687,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1563570",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は失敗を思い出し、うつむいてしまった。",
         "translation": "他想起失敗，不由得低下了頭。",
         "proof": [
@@ -165689,7 +165689,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1498190",
-        "index": 2,
+        "index": 3,
         "transcript": "しばしば、彼女は自ら赴かねばならなかった。",
         "translation": "很多時候她要親自去。",
         "proof": [
@@ -167701,7 +167701,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1223140",
-        "index": 2,
+        "index": 3,
         "transcript": "感じたことを、日記に短く記した。",
         "translation": "我把感想簡短記在日記裡。",
         "proof": [
@@ -168140,7 +168140,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1609490",
-        "index": 2,
+        "index": 3,
         "transcript": "悪天候が彼の健康を害する。",
         "translation": "惡劣的天氣對他的健康帶來了影響。",
         "proof": [
@@ -169599,7 +169599,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1474390",
-        "index": 2,
+        "index": 3,
         "transcript": "壁からペンキが剥げ始めていた。",
         "translation": "油漆從牆上脫落。",
         "proof": [
@@ -169942,7 +169942,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1173420",
-        "index": 2,
+        "index": 3,
         "transcript": "両親は、小さな旅館を営んでいる。",
         "translation": "父母經營著一間小旅館。",
         "proof": [
@@ -170183,7 +170183,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1229310",
-        "index": 2,
+        "index": 3,
         "transcript": "朽ちない物は何もない。",
         "translation": "沒有什麼事物是不朽的。",
         "proof": [
@@ -173252,7 +173252,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1247500",
-        "index": 2,
+        "index": 3,
         "transcript": "群衆が現場に群がった。",
         "translation": "一群人聚集在現場。",
         "proof": [
@@ -173720,7 +173720,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1372890",
-        "index": 2,
+        "index": 3,
         "transcript": "この箱はかさばりすぎて運べない。",
         "translation": "這個箱子太占空間了，搬不動。",
         "proof": [
@@ -175162,7 +175162,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1561010",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は老けて見える。",
         "translation": "他看上去顯老。",
         "proof": [
@@ -176966,7 +176966,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1291140",
-        "index": 2,
+        "index": 3,
         "transcript": "橋に差し掛かったところで、雨が降り出した。",
         "translation": "走到橋邊時，開始下雨了。",
         "proof": [
@@ -177779,7 +177779,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1560240",
-        "index": 2,
+        "index": 3,
         "transcript": "老人をいたわりなさい。",
         "translation": "善待老人。",
         "proof": [
@@ -177921,7 +177921,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1372430",
-        "index": 2,
+        "index": 3,
         "transcript": "彼の記憶力は年のせいで衰えてきている。",
         "translation": "由於年齡的關係，他的記憶力衰退了。",
         "proof": [
@@ -178153,7 +178153,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1366330",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は感動して、声を震わせていた。",
         "translation": "他感動得聲音都顫抖了。",
         "proof": [
@@ -178561,7 +178561,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1196520",
-        "index": 2,
+        "index": 3,
         "transcript": "朝の霧で、遠くの山が霞んで見えた。",
         "translation": "因為晨霧，遠方的山看起來朦朧不清。",
         "proof": [
@@ -180466,7 +180466,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1260430",
-        "index": 2,
+        "index": 3,
         "transcript": "仲間と協力して、大きな計画をやりとげた。",
         "translation": "我們和同伴合作，完成了龐大的計畫。",
         "proof": [
@@ -181180,7 +181180,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1551210",
-        "index": 2,
+        "index": 3,
         "transcript": "我々がもう一度率いてやる必要があるのだよ。",
         "translation": "我們有必要再次領導大家。",
         "proof": [
@@ -181442,7 +181442,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1365070",
-        "index": 2,
+        "index": 3,
         "transcript": "彼は親しみやすい人だ。",
         "translation": "他是一個友善的人。",
         "proof": [
@@ -181592,7 +181592,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1373500",
-        "index": 2,
+        "index": 3,
         "transcript": "作業場に、新しい機械を据え付けた。",
         "translation": "我們在工作場所安裝了新機器。",
         "proof": [
@@ -181815,7 +181815,7 @@
       {
         "sourceLevel": "n1",
         "wordId": "n1-jmdict-1573120",
-        "index": 2,
+        "index": 3,
         "transcript": "君は、いつも私の服をけなすのだから。",
         "translation": "你總是挖苦我的著裝。",
         "proof": [

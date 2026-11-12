@@ -443,6 +443,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "うつして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "写さない",
+        "sentence": "友達の答えを写さないで、自分で考えてください。",
+        "translation": "不要抄朋友的答案，請自己思考。",
+        "surface": "写さない",
+        "reading": "うつさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "黒板の文をノートに写しました。",
@@ -473,6 +483,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "書從架上掉下來，發出了很大的聲音。",
         "surface": "落ちて",
         "reading": "おちて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "落ちない",
+        "sentence": "棚から物が落ちないように、奥に置きます。",
+        "translation": "為了不讓東西從架上掉下來，把它放在裡面。",
+        "surface": "落ちない",
+        "reading": "おちない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -507,6 +527,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おとして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "落とさない",
+        "sentence": "財布を落とさないように、かばんを閉めます。",
+        "translation": "為了不掉錢包，把包包關好。",
+        "surface": "落とさない",
+        "reading": "おとさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "道で財布を落としました。",
@@ -537,6 +567,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "老師，請您看這張照片，告訴我您的意見。",
         "surface": "ごらんになって",
         "reading": "ごらんになって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "ごらんにならない",
+        "sentence": "祖父は怖い映画はごらんにならない。",
+        "translation": "祖父不看恐怖電影。",
+        "surface": "ごらんにならない",
+        "reading": "ごらんにならない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -571,6 +611,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "さがって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "下がらない",
+        "sentence": "熱がなかなか下がらない。",
+        "translation": "一直退不了燒。",
+        "surface": "下がらない",
+        "reading": "さがらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "薬を飲んだら、熱が下がりました。",
@@ -601,6 +651,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我在人少的時段來店裡，可以慢慢看商品。",
         "surface": "空いて",
         "reading": "すいて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "空かない",
+        "sentence": "朝ご飯をたくさん食べたので、おなかが空かない。",
+        "translation": "早餐吃很多，所以肚子不餓。",
+        "surface": "空かない",
+        "reading": "すかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -635,6 +695,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たのしんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "楽しまない",
+        "sentence": "一人だけで楽しまないで、皆も誘ってください。",
+        "translation": "不要只有自己享受，也請邀大家。",
+        "surface": "楽しまない",
+        "reading": "たのしまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "家族と海での休みを楽しみました。",
@@ -667,6 +737,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "つけて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "漬けない",
+        "sentence": "野菜を長く水に漬けないほうがいい。",
+        "translation": "蔬菜最好不要長時間泡水。",
+        "surface": "漬けない",
+        "reading": "つけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないほうがいい」用來建議不要做某事。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "きゅうりを塩水に漬けます。",
@@ -697,6 +777,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "雨變大了，所以我停止散步回家。",
         "surface": "止めて",
         "reading": "やめて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "止めない",
+        "sentence": "難しくても、日本語の勉強は止めない。",
+        "translation": "即使困難，也不停止學日語。",
+        "surface": "止めない",
+        "reading": "やめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -1639,6 +1729,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "もうしあげて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "申し上げない",
+        "sentence": "確かでないことは申し上げないようにしております。",
+        "translation": "不確定的事，我盡量不向您報告。",
+        "surface": "申し上げない",
+        "reading": "もうしあげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "ご結婚のお祝いを申し上げます。",
@@ -1743,6 +1843,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "いただいて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "いただかない",
+        "sentence": "必要のない謝礼はいただかないことにしております。",
+        "translation": "我一向不收取不必要的謝禮。",
+        "surface": "いただかない",
+        "reading": "いただかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないことにする／している」表示決定不做，或一貫採取不做的方針。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "先生から本をいただきました。",
@@ -1773,6 +1883,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "老師遠道而來，學生們很高興。",
         "surface": "いらっしゃって",
         "reading": "いらっしゃって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "いらっしゃらない",
+        "sentence": "お客様は明日の式にはいらっしゃらないそうです。",
+        "translation": "聽說客人不出席明天的典禮。",
+        "surface": "いらっしゃらない",
+        "reading": "いらっしゃらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -1807,6 +1927,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "うかがって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "うかがわない",
+        "sentence": "お約束のない日に、突然うかがわないようにしています。",
+        "translation": "我盡量不在沒有約定的日子突然拜訪。",
+        "surface": "うかがわない",
+        "reading": "うかがわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "明日、先生のお宅にうかがいます。",
@@ -1837,6 +1967,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "店長說下個月要開店。",
         "surface": "おっしゃって",
         "reading": "おっしゃって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "おっしゃらない",
+        "sentence": "先生は、詳しい理由はおっしゃらない。",
+        "translation": "老師不說詳細的原因。",
+        "surface": "おっしゃらない",
+        "reading": "おっしゃらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -1871,6 +2011,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "折らない",
+        "sentence": "この写真は折らないでください。",
+        "translation": "請不要折這張照片。",
+        "surface": "折らない",
+        "reading": "おらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "紙を半分に折りました。",
@@ -1901,6 +2051,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我長期待在京都，對這個城市很熟悉。",
         "surface": "おって",
         "reading": "おって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "おらない",
+        "sentence": "担当者は今は店にはおらないので、後ほどお電話します。",
+        "translation": "負責人現在不在店裡，稍後會致電。",
+        "surface": "おらない",
+        "reading": "おらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。 「おらない」常見於關西或較硬的表達；正式應對通常說「おりません」。"
       },
       {
         "kind": "common",
@@ -1935,6 +2095,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "噛まない",
+        "sentence": "犬が人を噛まないように、ひもを付けます。",
+        "translation": "為了避免狗咬人而繫上繩子。",
+        "surface": "噛まない",
+        "reading": "かまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "食べ物はよく噛んで食べましょう。",
@@ -1965,6 +2135,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "請等剛刷過的牆壁乾了，再把桌子搬回去。",
         "surface": "乾いて",
         "reading": "かわいて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "乾かない",
+        "sentence": "雨が続いて、洗濯物が乾かない。",
+        "translation": "一直下雨，衣服乾不了。",
+        "surface": "乾かない",
+        "reading": "かわかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -1999,6 +2179,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "きまって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "決まらない",
+        "sentence": "名前が決まらないまま、子猫を迎えました。",
+        "translation": "還沒決定名字就把小貓接回家了。",
+        "surface": "決まらない",
+        "reading": "きまらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないまま」表示某個動作尚未完成，便維持該狀態或進行下一件事。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "旅行の日が決まりました。",
@@ -2029,6 +2219,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "老師告訴我路怎麼走，幫了我很大的忙。",
         "surface": "くださって",
         "reading": "くださって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "くださらない",
+        "sentence": "先生がお許しをくださらないので、まだ使えません。",
+        "translation": "老師尚未准許，所以還不能用。",
+        "surface": "くださらない",
+        "reading": "くださらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -2063,6 +2263,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "さげて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "下げない",
+        "sentence": "値段を下げないで、品質を上げる方針です。",
+        "translation": "方針是不降價，而是提升品質。",
+        "surface": "下げない",
+        "reading": "さげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "音楽の音を少し下げてください。",
@@ -2093,6 +2303,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我送給畢業的前輩一份大家寫的祝福，表達感謝。",
         "surface": "差し上げて",
         "reading": "さしあげて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "差し上げない",
+        "sentence": "お客様には、許可なく資料を差し上げない決まりです。",
+        "translation": "規定未經許可不提供資料給客人。",
+        "surface": "差し上げない",
+        "reading": "さしあげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -2127,6 +2347,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "とめて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "止めない",
+        "sentence": "入口に車を止めないでください。",
+        "translation": "請不要在入口停車。",
+        "surface": "止めない",
+        "reading": "とめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "駅の前に車を止めました。",
@@ -2157,6 +2387,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "冷氣修好了，房間終於涼快了。",
         "surface": "直って",
         "reading": "なおって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "直らない",
+        "sentence": "修理に出しても時計が直らない。",
+        "translation": "送修後，時鐘還是修不好。",
+        "surface": "直らない",
+        "reading": "なおらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -2191,6 +2431,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なさって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "なさらない",
+        "sentence": "先生は休日には仕事をなさらない。",
+        "translation": "老師假日不工作。",
+        "surface": "なさらない",
+        "reading": "なさらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "日曜日は何をなさいますか。",
@@ -2221,6 +2471,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我在京都轉搭另一班電車，前往一個小鎮。",
         "surface": "乗り換えて",
         "reading": "のりかえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "乗り換えない",
+        "sentence": "この電車なら、途中で乗り換えないで行けます。",
+        "translation": "搭這班電車就能不轉車直達。",
+        "surface": "乗り換えない",
+        "reading": "のりかえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -2255,6 +2515,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ふんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "踏まない",
+        "sentence": "床のコードを踏まないように、足元を見ます。",
+        "translation": "看好腳下，避免踩到地上的電線。",
+        "surface": "踏まない",
+        "reading": "ふまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "花を踏まないでください。",
@@ -2285,6 +2555,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "魚正在烤的時候，媽媽擺好了盤子。",
         "surface": "焼けて",
         "reading": "やけて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "焼けない",
+        "sentence": "パンの中がまだ焼けないので、少し待ちます。",
+        "translation": "麵包裡面還沒烤熟，再等一下。",
+        "surface": "焼けない",
+        "reading": "やけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -2319,6 +2599,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "やせて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "痩せない",
+        "sentence": "食事を減らしても、すぐには痩せない。",
+        "translation": "即使減少飲食，也不會立刻變瘦。",
+        "surface": "痩せない",
+        "reading": "やせない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "毎日運動して、少し痩せました。",
@@ -2349,6 +2639,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "鍋裡的水沸騰後，我放進了蔬菜。",
         "surface": "沸いて",
         "reading": "わいて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "沸かない",
+        "sentence": "火が弱くて、お湯が沸かない。",
+        "translation": "火太小，水煮不開。",
+        "surface": "沸かない",
+        "reading": "わかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -2455,6 +2755,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "いのって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "祈らない",
+        "sentence": "何もせず成功だけを祈らないで、練習しましょう。",
+        "translation": "不要什麼都不做只祈求成功，來練習吧。",
+        "surface": "祈らない",
+        "reading": "いのらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "家族の健康を祈っています。",
@@ -2485,6 +2795,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "因為大家一起努力，祭典非常成功。",
         "surface": "頑張って",
         "reading": "がんばって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "頑張らない",
+        "sentence": "体がつらいときは、頑張らないで休んでください。",
+        "translation": "身體不舒服時不要硬撐，請休息。",
+        "surface": "頑張らない",
+        "reading": "がんばらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -2519,6 +2839,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "すぎて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "過ぎない",
+        "sentence": "帰りが夜十時を過ぎないようにしてください。",
+        "translation": "請不要超過晚上十點才回來。",
+        "surface": "過ぎない",
+        "reading": "すぎない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "約束の時間を十分過ぎました。",
@@ -2549,6 +2879,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "狗漸漸胖了一點，我增加了散步時間。",
         "surface": "太って",
         "reading": "ふとって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "太らない",
+        "sentence": "太らないように、毎日少し歩きます。",
+        "translation": "為了避免變胖，每天走一點路。",
+        "surface": "太らない",
+        "reading": "ふとらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -2583,6 +2923,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "みつかって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "見つからない",
+        "sentence": "鍵がどこにも見つからない。",
+        "translation": "到處都找不到鑰匙。",
+        "surface": "見つからない",
+        "reading": "みつからない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "なくした鍵が、かばんの中で見つかりました。",
@@ -2615,6 +2965,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "むかって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "向かわない",
+        "sentence": "台風の日は海に向かわないでください。",
+        "translation": "颱風天請不要往海邊去。",
+        "surface": "向かわない",
+        "reading": "むかわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "今、駅に向かっています。",
@@ -2645,6 +3005,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "把失物送到派出所後，我回家去了。",
         "surface": "届けて",
         "reading": "とどけて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "届けない",
+        "sentence": "今日は雨なので、荷物は届けない予定です。",
+        "translation": "今天下雨，預計不送行李。",
+        "surface": "届けない",
+        "reading": "とどけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -8835,6 +9205,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "あって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "合わない",
+        "sentence": "この靴は足に合わない。",
+        "translation": "這雙鞋不合腳。",
+        "surface": "合わない",
+        "reading": "あわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "水がゴーグルの中に漏れ込んでいる。サイズが合っていないようだ。",
@@ -8909,6 +9289,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "あがって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "上がらない",
+        "sentence": "給料が上がらないので、生活が大変です。",
+        "translation": "薪水沒有增加，生活很辛苦。",
+        "surface": "上がらない",
+        "reading": "あがらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女は２階の自分の寝室に上がっていった。",
@@ -8981,6 +9371,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "窗邊的座位空著，請坐。",
         "surface": "空いて",
         "reading": "あいて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "空かない",
+        "sentence": "昼休みまで席が空かない。",
+        "translation": "到午休之前都沒有空位。",
+        "surface": "空かない",
+        "reading": "あかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -9058,6 +9458,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "あげて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "あげない",
+        "sentence": "子供にはまだお金をあげない。",
+        "translation": "還不給孩子錢。",
+        "surface": "あげない",
+        "reading": "あげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "大家さんは家賃をあげたいそうだ。",
@@ -9131,6 +9541,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "會議資料收齊後，大家一起確認了內容。",
         "surface": "集まって",
         "reading": "あつまって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "集まらない",
+        "sentence": "人が集まらないので、会は中止です。",
+        "translation": "因為人湊不齊，聚會取消了。",
+        "surface": "集まらない",
+        "reading": "あつまらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -9207,6 +9627,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "あつめて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "集めない",
+        "sentence": "個人の住所は集めないことにしました。",
+        "translation": "決定不蒐集個人地址。",
+        "surface": "集めない",
+        "reading": "あつめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないことにする／している」表示決定不做，或一貫採取不做的方針。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "先生は生徒たちを自分のまわりに集めた。",
@@ -9279,6 +9709,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我為打破窗戶向老師道歉，並和老師一起收拾。",
         "surface": "謝って",
         "reading": "あやまって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "謝らない",
+        "sentence": "理由も聞かずに謝らないほうがいい。",
+        "translation": "最好不要連原因都沒問就道歉。",
+        "surface": "謝らない",
+        "reading": "あやまらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないほうがいい」用來建議不要做某事。"
       },
       {
         "kind": "common",
@@ -9355,6 +9795,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "いきて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "生きない",
+        "sentence": "私は仕事のためだけには生きない。",
+        "translation": "我不只為工作而活。",
+        "surface": "生きない",
+        "reading": "いきない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私が今でも生きているのはあなたのおかげです。",
@@ -9427,6 +9877,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "不可以欺負小狗，請溫柔對待牠。",
         "surface": "いじめて",
         "reading": "いじめて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "いじめない",
+        "sentence": "新しく来た生徒をいじめないで、仲間に入れましょう。",
+        "translation": "別欺負新來的同學，邀他加入吧。",
+        "surface": "いじめない",
+        "reading": "いじめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -9503,6 +9963,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "いそいで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "急がない",
+        "sentence": "時間があるから、そんなに急がないで。",
+        "translation": "還有時間，不要那麼急。",
+        "surface": "急がない",
+        "reading": "いそがない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "急がないと終電に乗り遅れちゃうよ。",
@@ -9575,6 +10045,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "いたして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "致さない",
+        "sentence": "ご返事があるまでは、発送致さない予定です。",
+        "translation": "收到您的回覆之前，預計不寄出。",
+        "surface": "致さない",
+        "reading": "いたさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "申し訳ありませんが、すぐにお答え致しかねます。",
@@ -9643,6 +10123,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我在陽台種了番茄，每天早上澆水。",
         "surface": "植えて",
         "reading": "うえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "植えない",
+        "sentence": "日が当たらない場所には、花を植えない。",
+        "translation": "不在照不到陽光的地方種花。",
+        "surface": "植えない",
+        "reading": "うえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -9715,6 +10205,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "接受老師指導後，作文進步了很多。",
         "surface": "受けて",
         "reading": "うけて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "受けない",
+        "sentence": "今年はその試験を受けない。",
+        "translation": "今年不參加那項考試。",
+        "surface": "受けない",
+        "reading": "うけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -9791,6 +10291,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "うごいて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "動かない",
+        "sentence": "電池を替えても時計が動かない。",
+        "translation": "換了電池，時鐘還是不動。",
+        "surface": "動かない",
+        "reading": "うごかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "その馬は立ち止まって動こうとしなかった。",
@@ -9863,6 +10373,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "うって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "打たない",
+        "sentence": "夜中は太鼓を打たないでください。",
+        "translation": "半夜請不要打鼓。",
+        "surface": "打たない",
+        "reading": "うたない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "気晴らしと言えば碁を打つことぐらいだ。",
@@ -9931,6 +10451,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "教室搬到二樓後，可以從窗戶看見海了。",
         "surface": "移って",
         "reading": "うつって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "移らない",
+        "sentence": "風邪が家族に移らないように、マスクをします。",
+        "translation": "為了不把感冒傳給家人而戴口罩。",
+        "surface": "移らない",
+        "reading": "うつらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -10005,6 +10535,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "えらんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "選ばない",
+        "sentence": "値段だけで品物を選ばないほうがいい。",
+        "translation": "最好不要只看價格來挑東西。",
+        "surface": "選ばない",
+        "reading": "えらばない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないほうがいい」用來建議不要做某事。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "どれでも好きな本を選んでもいいよ。",
@@ -10076,6 +10616,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "老師也請來這裡，一起拍照好嗎？",
         "surface": "おいでになって",
         "reading": "おいでになって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "おいでにならない",
+        "sentence": "社長は今夜の会にはおいでにならない。",
+        "translation": "社長不出席今晚的聚會。",
+        "surface": "おいでにならない",
+        "reading": "おいでにならない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -10152,6 +10702,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おくって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "送らない",
+        "sentence": "住所が分かるまでは、プレゼントを送らない。",
+        "translation": "知道地址之前不寄禮物。",
+        "surface": "送らない",
+        "reading": "おくらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "この荷物を日本まで送りたいのですが。",
@@ -10225,6 +10785,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おくれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "遅れない",
+        "sentence": "電車に遅れないように、早く家を出ます。",
+        "translation": "為了不錯過電車而提早出門。",
+        "surface": "遅れない",
+        "reading": "おくれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女は列車に乗り遅れないように駅へ急いだ。",
@@ -10295,6 +10865,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "為了不吵醒孩子，我們小聲說話。",
         "surface": "起こして",
         "reading": "おこして"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "起こさない",
+        "sentence": "赤ちゃんを起こさないように、静かに歩きます。",
+        "translation": "為了不吵醒寶寶，安靜地走路。",
+        "surface": "起こさない",
+        "reading": "おこさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -10371,6 +10951,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おこなって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "行わない",
+        "sentence": "雨の日は運動会を行わない。",
+        "translation": "下雨天不舉辦運動會。",
+        "surface": "行わない",
+        "reading": "おこなわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "天気の予報は過去のデータに基づいて行われる。",
@@ -10443,6 +11033,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "朋友因為約定被忘記而生氣，但仍願意聽我說。",
         "surface": "怒って",
         "reading": "おこって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "怒らない",
+        "sentence": "失敗しても怒らないでください。",
+        "translation": "就算失敗也請不要生氣。",
+        "surface": "怒らない",
+        "reading": "おこらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -10519,6 +11119,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おどって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "踊らない",
+        "sentence": "私は人前では踊らない。",
+        "translation": "我不在人前跳舞。",
+        "surface": "踊らない",
+        "reading": "おどらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女は言った、もし私が赤いバラを贈れば、一緒に踊ってくれると。",
@@ -10591,6 +11201,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "祖父驚訝弟弟長高了，反覆看了好幾眼。",
         "surface": "驚いて",
         "reading": "おどろいて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "驚かない",
+        "sentence": "結果を聞いても驚かないでください。",
+        "translation": "就算聽到結果也請不要驚訝。",
+        "surface": "驚かない",
+        "reading": "おどろかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -10667,6 +11287,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おもいだして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "思い出さない",
+        "sentence": "嫌なことはなるべく思い出さない。",
+        "translation": "盡量不去回想不愉快的事。",
+        "surface": "思い出さない",
+        "reading": "おもいださない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "この公園に来ると子供のころを思い出します。",
@@ -10739,6 +11369,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "媽媽以為我在車站，打電話給我。",
         "surface": "思って",
         "reading": "おもって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "思わない",
+        "sentence": "彼が悪いとは思わない。",
+        "translation": "我不認為是他的錯。",
+        "surface": "思わない",
+        "reading": "おもわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -10815,6 +11455,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "おりて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "下りない",
+        "sentence": "足が痛いので、階段は下りない。",
+        "translation": "因為腳痛，所以不走樓梯下去。",
+        "surface": "下りない",
+        "reading": "おりない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "ケンが木から下りてきた。",
@@ -10887,6 +11537,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "傘骨折斷了，無法再擋雨。",
         "surface": "折れて",
         "reading": "おれて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "折れない",
+        "sentence": "この枝は太くて、簡単には折れない。",
+        "translation": "這根樹枝很粗，不會輕易折斷。",
+        "surface": "折れない",
+        "reading": "おれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -10964,6 +11624,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "変えない",
+        "sentence": "一度決めた予定は変えない。",
+        "translation": "一旦定下的行程就不改。",
+        "surface": "変えない",
+        "reading": "かえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私は仕事を変えると思います。",
@@ -11037,6 +11707,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我們用氣球裝飾會場，等候客人。",
         "surface": "飾って",
         "reading": "かざって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "飾らない",
+        "sentence": "狭い部屋には大きな人形を飾らない。",
+        "translation": "狹小的房間不擺大人偶。",
+        "surface": "飾らない",
+        "reading": "かざらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -11113,6 +11793,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かたづけて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "片付けない",
+        "sentence": "まだ使うので、道具を片付けないでください。",
+        "translation": "還要用，請不要收拾工具。",
+        "surface": "片付けない",
+        "reading": "かたづけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "あなたはシーツを片付けて。私はベッドを整えるから。",
@@ -11185,6 +11875,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "原本較弱的隊伍打敗強敵，會場沸騰了。",
         "surface": "勝って",
         "reading": "かって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "勝たない",
+        "sentence": "今日の試合に勝たないと、次には進めません。",
+        "translation": "今天的比賽不贏就不能晉級。",
+        "surface": "勝たない",
+        "reading": "かたない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないと」表示如果不做前項動作，就會有後項結果。"
       },
       {
         "kind": "common",
@@ -11261,6 +11961,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かまって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "かまわない",
+        "sentence": "私にはかまわないで、先に食べてください。",
+        "translation": "不用管我，請先吃。",
+        "surface": "かまわない",
+        "reading": "かまわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "あなたがここにいても私はかまいません。",
@@ -11333,6 +12043,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かよって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "通わない",
+        "sentence": "弟は今は塾に通わないことにしました。",
+        "translation": "弟弟決定現在先不上補習班。",
+        "surface": "通わない",
+        "reading": "かよわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないことにする／している」表示決定不做，或一貫採取不做的方針。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "一週間のうちで何日学校に通いますか。",
@@ -11403,6 +12123,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "號誌轉綠後，孩子們過了馬路。",
         "surface": "変わって",
         "reading": "かわって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "変わらない",
+        "sentence": "何度説明しても、彼の考えは変わらない。",
+        "translation": "不管解釋幾次，他的想法都不變。",
+        "surface": "変わらない",
+        "reading": "かわらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -11479,6 +12209,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "かんがえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "考えない",
+        "sentence": "寝る前は仕事のことを考えない。",
+        "translation": "睡前不想工作的事。",
+        "surface": "考えない",
+        "reading": "かんがえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "あのことはなるべく考えないようにしています。",
@@ -11551,6 +12291,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "廚房傳來媽媽的歌聲，我安心了。",
         "surface": "聞こえて",
         "reading": "きこえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "聞こえない",
+        "sentence": "後ろの席では声が聞こえない。",
+        "translation": "後面的座位聽不到聲音。",
+        "surface": "聞こえない",
+        "reading": "きこえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -11627,6 +12377,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "きめて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "決めない",
+        "sentence": "相談せずに一人で決めないでください。",
+        "translation": "請不要沒商量就獨自決定。",
+        "surface": "決めない",
+        "reading": "きめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "大学へ行くか就職するか、まだ決めていません。",
@@ -11699,6 +12459,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "比較去年和今年的照片後，我驚訝孩子長得這麼快。",
         "surface": "比べて",
         "reading": "くらべて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "比べない",
+        "sentence": "自分と他人をいつも比べないほうがいい。",
+        "translation": "最好不要總是拿自己跟別人比較。",
+        "surface": "比べない",
+        "reading": "くらべない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないほうがいい」用來建議不要做某事。"
       },
       {
         "kind": "common",
@@ -11775,6 +12545,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "くれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "くれない",
+        "sentence": "弟はお菓子を一つもくれない。",
+        "translation": "弟弟一個點心也不給我。",
+        "surface": "くれない",
+        "reading": "くれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼は私たちに机とベンチを二つ作ってくれた。",
@@ -11847,6 +12627,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "天黑後，海的顏色由藍轉黑。",
         "surface": "暮れて",
         "reading": "くれて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "暮れない",
+        "sentence": "夏は七時になっても日が暮れない。",
+        "translation": "夏天即使到了七點天也不黑。",
+        "surface": "暮れない",
+        "reading": "くれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -11924,6 +12714,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "こんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "込まない",
+        "sentence": "この道は朝でもあまり込まない。",
+        "translation": "這條路即使早上也不太擁擠。",
+        "surface": "込まない",
+        "reading": "こまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "東京では込んだ電車に慣れなければなりません。",
@@ -11997,6 +12797,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "こわして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "壊さない",
+        "sentence": "借りた物を壊さないように、大切に使います。",
+        "translation": "小心使用借來的東西，避免弄壞。",
+        "surface": "壊さない",
+        "reading": "こわさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "その事が彼のすべての夢を壊した。",
@@ -12067,6 +12877,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "冷氣壞了，昨晚一直睡不好。",
         "surface": "壊れて",
         "reading": "こわれて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "壊れない",
+        "sentence": "この時計は落としても壊れない。",
+        "translation": "這隻錶就算掉落也不會壞。",
+        "surface": "壊れない",
+        "reading": "こわれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -12143,6 +12963,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "さがして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "探さない",
+        "sentence": "今は仕事を探さないで、治療に専念します。",
+        "translation": "現在不找工作，專心治療。",
+        "surface": "探さない",
+        "reading": "さがさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "大声で泣きながら、女の子は母親を探していた。",
@@ -12215,6 +13045,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "さわいで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "騒がない",
+        "sentence": "病院では騒がないでください。",
+        "translation": "在醫院請不要喧鬧。",
+        "surface": "騒がない",
+        "reading": "さわがない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "そんなに騒がないで。",
@@ -12283,6 +13123,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我碰到熱鍋，不小心燙傷了手指。",
         "surface": "触って",
         "reading": "さわって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "触らない",
+        "sentence": "熱い鍋には触らないでください。",
+        "translation": "請不要碰熱鍋。",
+        "surface": "触らない",
+        "reading": "さわらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -12358,6 +13208,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "しかって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "叱らない",
+        "sentence": "事情を聞く前に子供を叱らないでください。",
+        "translation": "了解事情之前，請不要責罵孩子。",
+        "surface": "叱らない",
+        "reading": "しからない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "お母さんがあなたを叱る時に口答えをしてはいけません。",
@@ -12431,6 +13291,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "しらせて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "知らせない",
+        "sentence": "このことは母には知らせないでください。",
+        "translation": "這件事請不要告訴媽媽。",
+        "surface": "知らせない",
+        "reading": "しらせない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私達はその件について彼らに知らせるべきです。",
@@ -12502,6 +13372,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "查過電車時間後，我和朋友約了見面時間。",
         "surface": "調べて",
         "reading": "しらべて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "調べない",
+        "sentence": "答えをすぐに調べないで、まず考えます。",
+        "translation": "不立刻查答案，先思考。",
+        "surface": "調べない",
+        "reading": "しらべない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -12579,6 +13459,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "すすんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "進まない",
+        "sentence": "車が多くて、バスが進まない。",
+        "translation": "車很多，公車走不動。",
+        "surface": "進まない",
+        "reading": "すすまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "進むべきか退くべきか、はっきりとはわからなかった。",
@@ -12651,6 +13541,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "すてて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "捨てない",
+        "sentence": "この箱はまだ捨てないでください。",
+        "translation": "這個箱子請先不要丟。",
+        "surface": "捨てない",
+        "reading": "すてない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "料理のうまい人は前の日のスープを捨てない。",
@@ -12719,6 +13619,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我在濕樓梯上滑倒，弄傷了腳。",
         "surface": "滑って",
         "reading": "すべって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "滑らない",
+        "sentence": "滑らない靴で雪道を歩きます。",
+        "translation": "穿不易打滑的鞋走雪路。",
+        "surface": "滑らない",
+        "reading": "すべらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -12792,6 +13702,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "請付完款後再領取商品。",
         "surface": "済んで",
         "reading": "すんで"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "済まない",
+        "sentence": "謝るだけでは済まない問題です。",
+        "translation": "這不是光道歉就能解決的問題。",
+        "surface": "済まない",
+        "reading": "すまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -12870,6 +13790,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "そだてて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "育てない",
+        "sentence": "今年は畑でトマトを育てないことにしました。",
+        "translation": "決定今年不在田裡種番茄。",
+        "surface": "育てない",
+        "reading": "そだてない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないことにする／している」表示決定不做，或一貫採取不做的方針。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "子供を育てるには忍耐が必要です。",
@@ -12945,6 +13875,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たおれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "倒れない",
+        "sentence": "棚が倒れないように、壁に付けます。",
+        "translation": "為了不讓架子倒下，把它固定在牆上。",
+        "surface": "倒れない",
+        "reading": "たおれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "その馬は倒れたときに首を折ってしまった。",
@@ -13017,6 +13957,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "足さない",
+        "sentence": "味が濃いので、しょうゆは足さない。",
+        "translation": "味道很重，所以不再加醬油。",
+        "surface": "足さない",
+        "reading": "たさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "誰でも２足す２イコール４であることを知っている。",
@@ -13087,6 +14037,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "向祖母請教以前的生活後，我在學校做了報告。",
         "surface": "尋ねて",
         "reading": "たずねて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "尋ねない",
+        "sentence": "初対面では年齢を尋ねないようにしています。",
+        "translation": "初次見面時我盡量不問年齡。",
+        "surface": "尋ねない",
+        "reading": "たずねない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -13163,6 +14123,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たずねて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "訪ねない",
+        "sentence": "連絡せずに友人の家を訪ねない。",
+        "translation": "不在沒聯絡的情況下拜訪朋友家。",
+        "surface": "訪ねない",
+        "reading": "たずねない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "初めて君を訪ねたとき、道に迷いました。",
@@ -13217,6 +14187,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たてて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "建てない",
+        "sentence": "この土地には高い建物を建てないでください。",
+        "translation": "請不要在這塊土地蓋高樓。",
+        "surface": "建てない",
+        "reading": "たてない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "surface": "建てた",
@@ -13269,6 +14249,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我把腳踏車立靠在牆邊，鎖上了鎖。",
         "surface": "立てて",
         "reading": "たてて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "立てない",
+        "sentence": "夜は大きな音を立てないでください。",
+        "translation": "晚上請不要製造很大的聲音。",
+        "surface": "立てない",
+        "reading": "たてない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -13343,6 +14333,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "たりて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "足りない",
+        "sentence": "千円では足りないので、もう少し持って行きます。",
+        "translation": "一千日圓不夠，所以再多帶一些。",
+        "surface": "足りない",
+        "reading": "たりない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "君が失敗したのは努力が足りなかったからだ。",
@@ -13413,6 +14413,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我抓住逃到店外的鳥，把牠放回籠裡。",
         "surface": "捕まえて",
         "reading": "つかまえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "捕まえない",
+        "sentence": "公園の虫を捕まえないでください。",
+        "translation": "請不要捕捉公園的昆蟲。",
+        "surface": "捕まえない",
+        "reading": "つかまえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -13488,6 +14498,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ついて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "点かない",
+        "sentence": "スイッチを押しても電気が点かない。",
+        "translation": "按了開關，燈還是不亮。",
+        "surface": "点かない",
+        "reading": "つかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "カーテンに火が点いた。",
@@ -13557,6 +14577,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "向朋友表達感謝後，我前往機場。",
         "surface": "伝えて",
         "reading": "つたえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "伝えない",
+        "sentence": "うわさは人に伝えないようにしています。",
+        "translation": "我盡量不把傳聞告訴別人。",
+        "surface": "伝えない",
+        "reading": "つたえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -13631,6 +14661,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "つづいて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "続かない",
+        "sentence": "雨は明日まで続かないそうです。",
+        "translation": "聽說雨不會持續到明天。",
+        "surface": "続かない",
+        "reading": "つづかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼のスピーチは３時間続きました。",
@@ -13703,6 +14743,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "つつんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "包まない",
+        "sentence": "家で食べるので、紙には包まないでください。",
+        "translation": "因為在家吃，請不用紙包。",
+        "surface": "包まない",
+        "reading": "つつまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "別々に包んでください。",
@@ -13771,6 +14821,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "爸爸在河裡釣了魚，成了晚餐的菜。",
         "surface": "釣って",
         "reading": "つって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "釣らない",
+        "sentence": "この川では魚を釣らないでください。",
+        "translation": "請不要在這條河釣魚。",
+        "surface": "釣らない",
+        "reading": "つらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -13843,6 +14903,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "弟弟帶著狗去了附近的公園。",
         "surface": "連れて",
         "reading": "つれて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "連れない",
+        "sentence": "仕事の集まりには子供を連れないで参加します。",
+        "translation": "參加工作聚會時不帶孩子同行。",
+        "surface": "連れない",
+        "reading": "つれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -13919,6 +14989,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "てつだって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "手伝わない",
+        "sentence": "弟が自分でやりたいので、今日は手伝わない。",
+        "translation": "弟弟想自己做，所以今天不幫忙。",
+        "surface": "手伝わない",
+        "reading": "てつだわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "お手伝いくださってどうもありがとう。",
@@ -13993,6 +15073,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "とおって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "通らない",
+        "sentence": "工事中の道は通らないでください。",
+        "translation": "請不要走施工中的道路。",
+        "surface": "通らない",
+        "reading": "とおらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女は新竹の大学に通っていて、毎日竹科を通って授業に行かなければならない。",
@@ -14065,6 +15155,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "とまって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "泊まらない",
+        "sentence": "今夜はホテルに泊まらないで、友達の家に行きます。",
+        "translation": "今晚不住旅館，去朋友家。",
+        "surface": "泊まらない",
+        "reading": "とまらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "わたしはシェラトンホテルに泊まっています。",
@@ -14133,6 +15233,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "換掉髒床單後，我做好了迎接客人的準備。",
         "surface": "取り替えて",
         "reading": "とりかえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "取り替えない",
+        "sentence": "電池はまだ取り替えないでください。",
+        "translation": "請先不要更換電池。",
+        "surface": "取り替えない",
+        "reading": "とりかえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -14207,6 +15317,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なおして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "直さない",
+        "sentence": "間違いを直さないまま出してしまいました。",
+        "translation": "沒改錯誤就交出去了。",
+        "surface": "直さない",
+        "reading": "なおさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないまま」表示某個動作尚未完成，便維持該狀態或進行下一件事。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "いったん悪い癖がつくと、容易に直すことは出来ない。",
@@ -14279,6 +15399,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なおって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "治らない",
+        "sentence": "薬を飲んでも風邪が治らない。",
+        "translation": "吃了藥，感冒還是沒好。",
+        "surface": "治らない",
+        "reading": "なおらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "多くの人が鍼治療によって病気が治ると信じている。",
@@ -14349,6 +15479,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "站務人員上前關心因迷路而哭泣的孩子。",
         "surface": "泣いて",
         "reading": "ないて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "泣かない",
+        "sentence": "泣かないで、何があったか話してください。",
+        "translation": "別哭，請告訴我發生了什麼事。",
+        "surface": "泣かない",
+        "reading": "なかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -14426,6 +15566,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なくなって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "無くならない",
+        "sentence": "水が無くならないように、少しずつ飲みます。",
+        "translation": "為了避免水喝光，一點一點喝。",
+        "surface": "無くならない",
+        "reading": "なくならない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "家の中でコートが無くなるはずはない。",
@@ -14501,6 +15651,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なくなって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "亡くならない",
+        "sentence": "祖母が亡くならないでほしいと、毎日祈っています。",
+        "translation": "每天祈禱，希望祖母不要過世。",
+        "surface": "亡くならない",
+        "reading": "なくならない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでほしい」表示希望某個動作或情況不要發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "その火山は突然噴火し、多くの人が亡くなった。",
@@ -14571,6 +15731,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "把紙飛機扔得很遠，孩子們高興極了。",
         "surface": "投げて",
         "reading": "なげて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "投げない",
+        "sentence": "窓に向かってボールを投げないでください。",
+        "translation": "請不要朝窗戶丟球。",
+        "surface": "投げない",
+        "reading": "なげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -14644,6 +15814,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "下課鐘響了，學生們站了起來。",
         "surface": "鳴って",
         "reading": "なって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "鳴らない",
+        "sentence": "目覚まし時計が鳴らないので、寝坊しました。",
+        "translation": "鬧鐘沒有響，所以睡過頭了。",
+        "surface": "鳴らない",
+        "reading": "ならない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -14721,6 +15901,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "なれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "慣れない",
+        "sentence": "新しい靴に足がまだ慣れない。",
+        "translation": "腳還沒適應新鞋。",
+        "surface": "慣れない",
+        "reading": "なれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私の弟はすぐに東京の独り暮らしに慣れた。",
@@ -14793,6 +15983,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "小鳥逃出了籠子，全家一起尋找。",
         "surface": "逃げて",
         "reading": "にげて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "逃げない",
+        "sentence": "怖くても、その場から逃げないでください。",
+        "translation": "就算害怕也請不要逃離現場。",
+        "surface": "逃げない",
+        "reading": "にげない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -14869,6 +16069,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "にて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "似ない",
+        "sentence": "兄弟でも、性格は似ないことがあります。",
+        "translation": "即使是兄弟，個性也有不相似的情況。",
+        "surface": "似ない",
+        "reading": "にない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "アラビア語はね、ヘブライ語に似てるんだ。",
@@ -14941,6 +16151,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ぬすんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "盗まない",
+        "sentence": "人の作品から文章を盗まないでください。",
+        "translation": "請不要從別人的作品剽竊文字。",
+        "surface": "盗まない",
+        "reading": "ぬすまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "盗まれたお金のことが頭から離れない。",
@@ -15009,6 +16229,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "在麵包上塗好奶油後，我稍微烤了一下。",
         "surface": "塗って",
         "reading": "ぬって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "塗らない",
+        "sentence": "傷のある所には薬を塗らないでください。",
+        "translation": "請不要在有傷口的地方塗藥。",
+        "surface": "塗らない",
+        "reading": "ぬらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -15081,6 +16311,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "鞋子在海邊弄濕了，我赤腳走了一會兒。",
         "surface": "濡れて",
         "reading": "ぬれて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "濡れない",
+        "sentence": "濡れないように、書類を袋に入れます。",
+        "translation": "為了避免弄濕，把文件放進袋子。",
+        "surface": "濡れない",
+        "reading": "ぬれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -15157,6 +16397,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ねむって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "眠らない",
+        "sentence": "夜勤があるので、今夜は眠らないで働きます。",
+        "translation": "因為要上夜班，今晚不睡覺而工作。",
+        "surface": "眠らない",
+        "reading": "ねむらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "ペルシャ猫がテーブルの下で眠っていた。",
@@ -15231,6 +16481,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "のこって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "残らない",
+        "sentence": "皿に料理が残らないように、少しずつ出します。",
+        "translation": "為了不剩菜，少量分次上菜。",
+        "surface": "残らない",
+        "reading": "のこらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "アルプスの景観は私の印象に残った。",
@@ -15303,6 +16563,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "請兩個人一起搬這個箱子，一個人搬太重了。",
         "surface": "運んで",
         "reading": "はこんで"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "運ばない",
+        "sentence": "重い家具は一人で運ばないでください。",
+        "translation": "重家具請不要獨自搬運。",
+        "surface": "運ばない",
+        "reading": "はこばない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -15380,6 +16650,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "はじめて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "始めない",
+        "sentence": "合図があるまで、作業を始めないでください。",
+        "translation": "有信號之前，請不要開始作業。",
+        "surface": "始めない",
+        "reading": "はじめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女は夕食後すぐ宿題を始めた。",
@@ -15455,6 +16735,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "はらって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "払わない",
+        "sentence": "料金を払わないと、中に入れません。",
+        "translation": "不付費就不能進去。",
+        "surface": "払わない",
+        "reading": "はらわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないと」表示如果不做前項動作，就會有後項結果。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "各会員は、月に１万円払わなければならない。",
@@ -15527,6 +16817,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ひえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "冷えない",
+        "sentence": "足が冷えないように、厚い靴下を履きます。",
+        "translation": "為了避免腳冷，穿厚襪子。",
+        "surface": "冷えない",
+        "reading": "ひえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "飲み物は、冷えて美味そうだった。",
@@ -15597,6 +16897,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "水面映著晨光閃耀，非常美麗。",
         "surface": "光って",
         "reading": "ひかって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "光らない",
+        "sentence": "電池が切れると、このライトは光らない。",
+        "translation": "電池用完，這盞燈就不會亮。",
+        "surface": "光らない",
+        "reading": "ひからない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -15674,6 +16984,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ひっこして"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "引っ越さない",
+        "sentence": "来年もこの町からは引っ越さない。",
+        "translation": "明年也不搬離這個鎮。",
+        "surface": "引っ越さない",
+        "reading": "ひっこさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "来月には引っ越す予定です。",
@@ -15749,6 +17069,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ひらいて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "開かない",
+        "sentence": "許可が出るまでは、その店を開かない予定です。",
+        "translation": "取得許可前不打算開那家店。",
+        "surface": "開かない",
+        "reading": "ひらかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "こころを開いて。",
@@ -15819,6 +17149,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我撿到掉在路上的錢包，送到了派出所。",
         "surface": "拾って",
         "reading": "ひろって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "拾わない",
+        "sentence": "道に落ちている物を勝手に拾わないでください。",
+        "translation": "請不要隨便撿路上的東西。",
+        "surface": "拾わない",
+        "reading": "ひろわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -15893,6 +17233,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ふえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "増えない",
+        "sentence": "安くしても、お客さんが増えない。",
+        "translation": "即使降價，客人也沒增加。",
+        "surface": "増えない",
+        "reading": "ふえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "車が増えてくると、大気汚染もひどくなる。",
@@ -15965,6 +17315,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ほめて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "褒めない",
+        "sentence": "結果だけを見て子供を褒めないでください。",
+        "translation": "請不要只看結果就稱讚孩子。",
+        "surface": "褒めない",
+        "reading": "ほめない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "その道の人に褒められるのは嬉しい。",
@@ -16033,6 +17393,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我上個月來過這裡，參觀了城鎮的情況。",
         "surface": "参って",
         "reading": "まいって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "参らない",
+        "sentence": "明日は私が参らない代わりに、同僚が伺います。",
+        "translation": "明天我不前往，由同事代為拜訪。",
+        "surface": "参らない",
+        "reading": "まいらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -16106,6 +17476,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "就算比賽輸了，我仍會為下一場繼續練習。",
         "surface": "負けて",
         "reading": "まけて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "負けない",
+        "sentence": "寒さに負けないように、温かい物を食べます。",
+        "translation": "吃熱食，不向寒冷低頭。",
+        "surface": "負けない",
+        "reading": "まけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
       },
       {
         "kind": "common",
@@ -16183,6 +17563,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "まちがえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "間違えない",
+        "sentence": "日にちを間違えないように、手帳に書きます。",
+        "translation": "為了避免弄錯日期，把它記在手帳裡。",
+        "surface": "間違えない",
+        "reading": "まちがえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "ごめん間違えた。",
@@ -16258,6 +17648,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "まにあって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "間に合わない",
+        "sentence": "今からでは最終電車に間に合わない。",
+        "translation": "現在才出發就趕不上末班電車。",
+        "surface": "間に合わない",
+        "reading": "まにあわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "あいにく私は彼の演説に間に合わなかった。",
@@ -16331,6 +17731,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "まわって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "回らない",
+        "sentence": "鍵を入れても、固くて回らない。",
+        "translation": "插進鑰匙了，卻卡得轉不動。",
+        "surface": "回らない",
+        "reading": "まわらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "1日や2日で東京を見て回るなんて出来ない。",
@@ -16401,6 +17811,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "遠方漸漸看見船，孩子們揮起手來。",
         "surface": "見えて",
         "reading": "みえて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "見えない",
+        "sentence": "霧が深くて、向こうの山が見えない。",
+        "translation": "霧很濃，看不到對面的山。",
+        "surface": "見えない",
+        "reading": "みえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -16477,6 +17897,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "みつけて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "見つけない",
+        "sentence": "弟が隠れ場所を見つけないように、静かに待ちました。",
+        "translation": "為了不讓弟弟發現藏身處，靜靜地等著。",
+        "surface": "見つけない",
+        "reading": "みつけない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私たちは川で死んだ魚を何匹か見つけました。",
@@ -16551,6 +17981,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "むかえて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "迎えない",
+        "sentence": "準備せずにお客様を迎えないようにしています。",
+        "translation": "我盡量不在毫無準備的情況下迎接客人。",
+        "surface": "迎えない",
+        "reading": "むかえない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "2時半に正門の前に迎えに来てください。",
@@ -16623,6 +18063,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "めしあがって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "召し上がらない",
+        "sentence": "お客様は生の魚を召し上がらない。",
+        "translation": "客人不吃生魚。",
+        "surface": "召し上がらない",
+        "reading": "めしあがらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "もっとポテトチップスをご自由に召し上がれ。",
@@ -16691,6 +18141,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "說了失禮的話，非常抱歉。",
         "surface": "申して",
         "reading": "もうして"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "申さない",
+        "sentence": "この件について、私は何も申さないつもりです。",
+        "translation": "關於這件事，我打算什麼也不說。",
+        "surface": "申さない",
+        "reading": "もうさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないつもり」表示自己打算不做某事。"
       },
       {
         "kind": "common",
@@ -16763,6 +18223,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "もどって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "戻らない",
+        "sentence": "停電のあと、電気がなかなか戻らない。",
+        "translation": "停電後一直沒有恢復供電。",
+        "surface": "戻らない",
+        "reading": "もどらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "君が戻る前に私はここを出てしまっているだろう。",
@@ -16833,6 +18303,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "別人告訴我怎麼走後，我順利到了車站。",
         "surface": "もらって",
         "reading": "もらって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "もらわない",
+        "sentence": "知らない人からは物をもらわない。",
+        "translation": "不收陌生人的東西。",
+        "surface": "もらわない",
+        "reading": "もらわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -16908,6 +18388,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "やいて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "焼かない",
+        "sentence": "今日は魚を焼かないで、煮ます。",
+        "translation": "今天不烤魚，改用煮的。",
+        "surface": "焼かない",
+        "reading": "やかない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "パンを焼くためのオーブンはキッチンにある。",
@@ -16961,6 +18451,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "やくにたって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "役に立たない",
+        "sentence": "壊れた道具では役に立たない。",
+        "translation": "壞掉的工具派不上用場。",
+        "surface": "役に立たない",
+        "reading": "やくにたたない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "surface": "役に立つ",
@@ -17011,6 +18511,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "風停後，船駛出了港口。",
         "surface": "止んで",
         "reading": "やんで"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "止まない",
+        "sentence": "雨が止まないので、もう少し待ちます。",
+        "translation": "雨沒停，再等一下。",
+        "surface": "止まない",
+        "reading": "やまない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",
@@ -17085,6 +18595,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "ゆれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "揺れない",
+        "sentence": "この机は押しても揺れない。",
+        "translation": "這張桌子推了也不晃。",
+        "surface": "揺れない",
+        "reading": "ゆれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私たちは地面が揺れているのを感じた。",
@@ -17157,6 +18677,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "よごれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "汚れない",
+        "sentence": "汚れないように、白い布をかけます。",
+        "translation": "為了避免弄髒，蓋上白布。",
+        "surface": "汚れない",
+        "reading": "よごれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ないように」表示為了避免某種情況而採取行動。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "きれいな皿を持って来て汚れたのをさげてください。",
@@ -17225,6 +18755,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "我順道去祖母家，把做好的點心交給她。",
         "surface": "寄って",
         "reading": "よって"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "寄らない",
+        "sentence": "今日は店には寄らないで、まっすぐ帰ります。",
+        "translation": "今天不順道去店裡，直接回家。",
+        "surface": "寄らない",
+        "reading": "よらない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないで」表示沒有做前項動作，就進行後項動作；也可用於口語請求。"
       },
       {
         "kind": "common",
@@ -17299,6 +18839,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "よろこんで"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "喜ばない",
+        "sentence": "高い物をあげても、子供が喜ばないこともあります。",
+        "translation": "即使送昂貴的東西，孩子也有不高興的時候。",
+        "surface": "喜ばない",
+        "reading": "よろこばない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "息子が無事帰宅したとき、彼女はたいへん喜んだ。",
@@ -17370,6 +18920,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "洗澡水已經燒好了，請先去洗。",
         "surface": "沸かして",
         "reading": "わかして"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "沸かさない",
+        "sentence": "今はお湯を沸かさないでください。",
+        "translation": "現在請不要燒熱水。",
+        "surface": "沸かさない",
+        "reading": "わかさない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
       },
       {
         "kind": "common",
@@ -17446,6 +19006,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "わかれて"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "別れない",
+        "sentence": "けんかをしても、二人は別れないと言っています。",
+        "translation": "兩人說即使吵架也不分手。",
+        "surface": "別れない",
+        "reading": "わかれない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "彼女はボーイフレンドと別れるつもりだ。",
@@ -17519,6 +19089,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "reading": "わらって"
       },
       {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "笑わない",
+        "sentence": "人の失敗を笑わないでください。",
+        "translation": "請不要嘲笑別人的失敗。",
+        "surface": "笑わない",
+        "reading": "わらわない",
+        "note": "五段動詞將字尾變為ア段後加「ない」；「う」變「わない」。「〜ないでください」是請求對方不要做某事的說法。"
+      },
+      {
         "kind": "common",
         "label": "常用用法",
         "sentence": "私は私のジョークを聞いて笑う時の彼女が好きだ。",
@@ -17588,6 +19168,16 @@ window.JP_VOCABULARY_EXAMPLES.n4 = {
         "translation": "冰裂開了，掉進水裡。",
         "surface": "割れて",
         "reading": "われて"
+      },
+      {
+        "kind": "negative",
+        "label": "否定形（ない）",
+        "form": "割れない",
+        "sentence": "このガラスは熱い湯を注いでも割れない。",
+        "translation": "這種玻璃即使倒進熱水也不會裂。",
+        "surface": "割れない",
+        "reading": "われない",
+        "note": "一段動詞去掉「る」後加「ない」。「〜ない」是普通體的非過去否定，可表示不做、沒有某種狀態或未來不發生。"
       },
       {
         "kind": "common",

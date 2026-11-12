@@ -1,10 +1,11 @@
 """Freeze vocabulary-checked listening candidates. JLPT levels follow the project's pinned word lists.
 Review helper: PYTHONPATH=<fugashi/unidic_lite> python scripts/review/grade-listening.py
 """
-import json,pathlib,re,unicodedata,hashlib,random,subprocess
+import json,pathlib,re,unicodedata,hashlib,random,subprocess,sys
 from fugashi import Tagger
 import unidic_lite
 root=pathlib.Path(__file__).resolve().parents[2]
+previous=json.loads((root/'data/listening/approved-sentences.json').read_text(encoding='utf8')) if '--preserve-selection' in sys.argv else None
 snapshot="""
 const fs=require('fs'),vm=require('vm'),c={window:{JP_VOCABULARY:{}}};
 for(const l of ['n5','n4','n3','n2','n1'])for(const suffix of ['data','examples'])vm.runInNewContext(fs.readFileSync('public/assets/data/'+l+'-'+suffix+'.js','utf8'),c);
@@ -61,6 +62,21 @@ for level in levels:
   assert check('主権を守ります。')[1], 'N1 vocabulary leaked into lower level'
  assert check('qxzvを見ます。')[1], 'Unknown vocabulary must be rejected'
  accepted=[];seen=set();rejected=0
+ # Revalidate the pinned transcripts and remap their indexes when card variants
+ # are inserted. Never silently replace the learner's existing question bank.
+ if previous:
+  for old in previous['levels'][level]:
+   b=d['JP_VOCABULARY_EXAMPLES'][old['sourceLevel']][old['wordId']]
+   es=b.get('variants',[b]+b.get('usageExamples',[]))
+   matches=[(ix,e) for ix,e in enumerate(es) if e['sentence']==old['transcript'] and e['translation']==old['translation']]
+   assert len(matches)==1,(level,old['transcript'],'pinned example changed')
+   ix,e=matches[0];proof,unknown=check(e['sentence'])
+   assert not unknown,(level,e['sentence'],unknown)
+   accepted.append({**old,'index':ix,'proof':proof})
+  assert len(accepted)==500
+  result['levels'][level]=accepted
+  print(level,len(accepted),'pinned sentences revalidated and indexes remapped')
+  continue
  # Prefer this level's examples; only backfill N4 with checked lower-level sentences.
  for src in [level]+list(reversed(levels[:levels.index(level)])):
   ws=[w for rows in d['JP_VOCABULARY'][src].values() for w in rows]

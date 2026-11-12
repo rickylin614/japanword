@@ -11,7 +11,7 @@ description: 維護 japanword 日語學習網站的教材、詞彙、例句、�
 
 - UI、收藏與分頁：`public/assets/js/learning.js`、`shared-shell.js` 與 `public/assets/css/`。
 - 詞彙：`data/vocabulary/sources/`，尤其 `nX-overrides.json`、`nX-zh.json`、audit 與字典證據。原始分級和字典詞義是兩個來源；保留固定版本與 ID。
-- 例句：`data/vocabulary/examples/`。先改原稿再建置；動詞要原型、て形、常用用法，中文應符合各自的時態與語意。名詞＋する不因翻譯而額外製造動詞詞條。
+- 例句：`data/vocabulary/examples/`。先改原稿再建置；動詞要原型、て形、否定形（ない）、常用用法（依此順序），中文應符合各自的時態與語意。名詞＋する不因翻譯而額外製造動詞詞條。
 - 文法：`data/grammar/nX.txt`；保留既有題目 ID、用法單元關聯與每級 500 題格式。
 - 語音：`scripts/audio/` 與 `data/speech/`。引擎與大型暫存放專案外，發布音檔在 `public/audio/`；相づち有獨立聲調與雙聲線流程。
 

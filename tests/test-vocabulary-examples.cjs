@@ -11,6 +11,9 @@ const context = {window:{JP_VOCABULARY:{}}};
 for(const level of ['n5','n4','n3','n2','n1']) for(const file of [level+'-data.js',level+'-examples.js',level+'-example-audio.js']) vm.runInNewContext(fs.readFileSync(resolveFile(file),'utf8'),context);
 const levels = ['n5','n4','n3','n2','n1'];
 const audit=JSON.parse(fs.readFileSync(resolveFile('vocabulary-examples/audit.json'),'utf8'));
+const negativeReview=JSON.parse(fs.readFileSync(path.join(root,'data/vocabulary/examples/negative-review.json'),'utf8'));
+assert.equal(negativeReview.total,1336);
+for(const [file,digest] of Object.entries(negativeReview.sources))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,file),'utf8').replace(/\r\n/g,'\n')).digest('hex'),digest,'Negative review is stale: '+file);
 for(const [file,expected] of Object.entries(audit.files)){
   const actual=crypto.createHash('sha256').update(fs.readFileSync(resolveFile(file),'utf8').replace(/\r\n/g,'\n')).digest('hex');
   assert.equal(actual,expected.sha256LF,'Audit snapshot is stale: '+file);
@@ -36,15 +39,20 @@ for(const level of levels){
       assert.ok(e.source.originalTranslation);
     }
     if(word.category==='verbs'){
-      assert.deepEqual(Array.from(e.variants,v=>v.kind),['dictionary','te','common'],word.id);
-      assert.equal(new Set(e.variants.map(v=>v.sentence)).size,3,word.id);
+      assert.deepEqual(Array.from(e.variants,v=>v.kind),['dictionary','te','negative','common'],word.id);
+      assert.equal(new Set(e.variants.map(v=>v.sentence)).size,4,word.id);
       for(const v of e.variants){assert.ok(v.sentence.includes(v.surface),word.id);assert.match(v.translation,/[\u3400-\u9fff]/u);}
-      const [dictionary,te,common]=e.variants;
+      const [dictionary,te,negative,common]=e.variants;
       const prefix=v=>v.sentence.slice(0,v.sentence.indexOf(v.surface));
       assert.notEqual(prefix(dictionary),prefix(te),word.id+' repeats the dictionary context in te form');
+      assert.match(negative.form,/ない$/u,word.id);
+      assert.match(negative.reading,/^[ぁ-ゖー]*ない$/u,word.id);
+      assert.ok(negative.note?.length>=20,word.id+' negative explanation');
+      assert.notEqual(negative.sentence,dictionary.sentence,word.id);
+      assert.notEqual(negative.sentence,te.sentence,word.id);
       assert.match(e.variants[1].form,/[てで]$/u,word.id);
       assert.match(e.variants[1].reading,/^[ぁ-ゖー]+[てで]$/u,word.id);
-      assert.equal(e.variants[2].sentence,e.sentence);
+      assert.equal(e.variants[3].sentence,e.sentence);
     }else {
       assert.equal(e.variants,undefined,word.id);
       const source=guideSources[level][word.id];
@@ -55,7 +63,7 @@ for(const level of levels){
     }
   }
   assert.equal(audit.levels[level].verbEntries,context.window.JP_VOCABULARY[level].verbs.length);
-  assert.equal(audit.levels[level].verbExamples,context.window.JP_VOCABULARY[level].verbs.length*3);
+  assert.equal(audit.levels[level].verbExamples,context.window.JP_VOCABULARY[level].verbs.length*4);
   execFileSync(process.execPath,[resolveFile('build-vocabulary-examples.cjs'),level,'--check'],{stdio:'inherit'});
 }
 const banks = context.window.JP_VOCABULARY.n5;
@@ -174,8 +182,18 @@ assert.match(variants('n3','抱く','いだく')[0].sentence,/親しみ/);
 assert.match(variants('n3','抱く','だく')[0].sentence,/泣いている子/);
 assert.equal(variants('n1','給う')[1].form,'給うて');
 assert.equal(variants('n1','給う')[1].reading,'たもうて');
+// Freeze the re-reviewed semantic distinctions, separately from form validation.
+assert.match(variants('n2','積む')[2].sentence,/荷物を積まない/);
+assert.doesNotMatch(variants('n2','積む')[2].sentence,/雪/);
+assert.match(variants('n1','叶う')[2].sentence,/叶わない夢も/);
+assert.match(variants('n1','結び付く')[2].translation,/即使努力，也有/);
+assert.doesNotMatch(variants('n1','結び付く')[2].sentence,/必ず/);
+assert.match(variants('n3','優れる')[2].note,/体調が優れない/);
+assert.match(variants('n3','次ぐ')[2].note,/名詞.*つぎがない/);
+assert.match(variants('n1','恐れ入る')[2].note,/道謝/);
 assert.match(variants('n3','得る','うる')[0].sentence,/起こり得る/);
 assert.match(variants('n3','得る','うる')[0].note,/可能/);
+for(const [l,w,reading,form] of [['n5','在る',null,'ない'],['n5','居る',null,'いない'],['n5','要る',null,'いらない'],['n5','来る',null,'来ない'],['n5','する',null,'しない'],['n3','愛する',null,'愛さない'],['n3','得る','うる','得ない'],['n2','属する',null,'属さない'],['n2','しめる',null,'しめらない'],['n2','応ずる',null,'応じない'],['n1','湿気る',null,'湿気ない'],['n1','来る','きたる','来たらない']])assert.equal(variants(l,w,reading)[2].form,form,w+' negative regression');
 console.log('N1–N5: all 7904 entries covered; readings, selected senses, attribution and reproducible builds passed.');
 if(!process.env.PLAYWRIGHT_PATH){console.log('Set PLAYWRIGHT_PATH for browser checks.');process.exit(0);}
 const {chromium}=require(process.env.PLAYWRIGHT_PATH);
@@ -266,6 +284,6 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
     assert.equal(await page.locator('.favorite').getAttribute('data-favorite'),'n2-jmdict-2518850');
     assert.match(await page.locator('.word-example').first().textContent(),/品切れ/);
     assert.deepEqual(errors,[]);
-    console.log('Browser checks passed: all 7904 cards, 1336 verbs x 3 variants; collapsed by default, expand/collapse, each variant speech, credits, search, favorites, themes, 4 widths and combined adjective pages.');
+    console.log('Browser checks passed: all 7904 cards, 1336 verbs x 4 variants; collapsed by default, expand/collapse, each variant speech, credits, search, favorites, themes, 4 widths and combined adjective pages.');
   }finally{await browser?.close();await new Promise(r=>server.close(r));}
 })().catch(e=>{console.error(e);process.exitCode=1;});

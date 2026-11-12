@@ -61,7 +61,7 @@ HTML 先載入 `public/assets/data/`，再載入 `public/assets/js/learning.js`�
 | 詞形、中文釋義、義項 | `data/vocabulary/sources/nX-overrides.json`、`nX-zh.json` | `build-verified.cjs nX --publish` |
 | 基本例句 | `data/vocabulary/examples/nX.txt` 或 `nX-corpus.json` | `build-vocabulary-examples.cjs nX` |
 | 名詞解釋／非動詞用法案例 | `data/vocabulary/guides/nX.json` | `build-vocabulary-examples.cjs nX` 合併 `build-word-guides.cjs` |
-| 動詞原型／て形 | `data/vocabulary/examples/verbs-nX.json` | 上述例句建置會呼叫 `build-verb-examples.cjs` |
+| 動詞原型／て形／否定形 | `data/vocabulary/examples/verbs-nX.json` | 上述例句建置會呼叫 `build-verb-examples.cjs` |
 | 聽力測驗與分級 | `data/listening/`、`scripts/review/grade-listening.py` | `build-listening.cjs`；見 `docs/LISTENING.md` |
 | 文法與解說 | `data/grammar/nX.txt` | `npm run build:grammar` |
 | 聲線、語速、發音輸入 | `scripts/audio/vocabulary-speech-plan.cjs` 等 | 重建計畫、合成、映射與紀錄 |
@@ -85,7 +85,7 @@ node scripts/build/build-verified.cjs n1 --publish
 
 原創例句每行：`詞條@讀音=句中詞形|日文|繁中`。多個詞條可以逗號共用一句；`=句中詞形` 僅在使用變形、異寫或複合詞時需要；可寫 `=句中詞形~句中讀音` 明列補送假名等特殊讀音。第四欄可填語氣／場合提醒。相同漢字有不同讀音時，務必提供讀音。原稿以穩定詞條 ID 對應到生成檔。
 
-動詞情境以 `verbs-nX.json` 保存，穩定詞條 ID 下的 `dictionary` 與 `te` 各自包含完整 `sentence`、`translation`、`surface`、`reading`；可加 `note`。可選 `common` 以原創句覆寫常用用法；未覆寫時保留原有 `nX.txt`／Tatoeba 選集及署名。三句須分別設計主語、受詞、情境與句型，不能共用前文只改活用。`build-verb-examples.cjs` 檢查覆蓋率、活用與讀音；`scripts/review/verb-contexts.py` 用 Fugashi 輔助列出詞形與情境相似候選，不代表語意或翻譯自動認證。`来たる`、`給う` 等詞保留用法提示。
+動詞情境以 `verbs-nX.json` 保存，穩定詞條 ID 下的 `dictionary`、`te`、`negative` 各自包含完整 `sentence`、`translation`、`surface`、`reading`；可加 `note`。可選 `common` 以原創句覆寫常用用法；未覆寫時保留原有 `nX.txt`／Tatoeba 選集及署名。四句須分別設計主語、受詞、情境與句型，不能共用前文只改活用。`build-verb-examples.cjs` 檢查覆蓋率、活用與讀音；`scripts/review/verb-contexts.py` 用 Fugashi 輔助列出詞形與情境相似候選，不代表語意或翻譯自動認證。`来たる`、`給う` 等詞保留用法提示。`negative` 必須有ない形的 `surface`、假名 `reading`、完整日中例句與 `note`（活用及接續說明）。顯示及播放次序固定為原型、て形、否定形（ない）、常用用法；共四種，收藏頁使用相同模板。詳細新增紀錄見 [否定形例句](VERB-NEGATIVE-REVIEW.md)。
 
 文法每個區塊：第一行是 `標題::答案::錯項1/錯項2/錯項3::接續::中文說明`，下一行以 `|` 分隔十個含 `【　】` 的題幹。可加第六個欄位作為完整的顯示句型；用在答案只是句型的一部分時。每級 500 題；N1 有 50 單元，N2 有 50 單元，N3～N5 保留舊題及其 ID。
 

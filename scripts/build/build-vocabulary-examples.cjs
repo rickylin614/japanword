@@ -58,7 +58,7 @@ for(const word of banks.verbs){
   const common={kind:'common',label:'常用用法',...examples[word.id]};
   examples[word.id].variants=[...examplesFor(word),common];
   for(const item of examples[word.id].variants)sentences.add(item.sentence);
-  if(new Set(examples[word.id].variants.map(item=>item.sentence)).size!==3)errors.push('Repeated verb variant sentence: '+word.id);
+  if(new Set(examples[word.id].variants.map(item=>item.sentence)).size!==4)errors.push('Repeated verb variant sentence: '+word.id);
 }
 require('./build-word-guides.cjs').applyWordGuides(level,words,examples);
 for(const e of Object.values(examples))for(const usage of e.usageExamples||[])sentences.add(usage.sentence);

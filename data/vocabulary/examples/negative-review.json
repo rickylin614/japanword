@@ -1,0 +1,1421 @@
+{
+  "date": "2026-11-12",
+  "scope": "N5–N1 verb negative (nai) examples; project editorial review and automated validation, not native-speaker certification or a listening review of every recording.",
+  "counts": {
+    "n5": 109,
+    "n4": 159,
+    "n3": 374,
+    "n2": 292,
+    "n1": 402
+  },
+  "total": 1336,
+  "order": [
+    "dictionary",
+    "te",
+    "negative",
+    "common"
+  ],
+  "sources": {
+    "data/vocabulary/examples/verbs-n5.json": "105b6b16cfcfb4db1863a8616dd69fd3d6bbd37b4b59b699591aed5fa57b9236",
+    "data/vocabulary/examples/verbs-n4.json": "ebf2c97b167248699c1f58233272848480b6167109ae2283c798399433b29b40",
+    "data/vocabulary/examples/verbs-n3.json": "8b814e0f6bc274a0d84c200538b5f3aba637fced5810e708f96de66dfa1704a3",
+    "data/vocabulary/examples/verbs-n2.json": "f76e69da8ec31c767e7df1c384ec0bb9cbfd8a446e80fd83d592e2b3732aa7d8",
+    "data/vocabulary/examples/verbs-n1.json": "e3e52b9c5cb2c02a1d5956a46ed224e024f22eb55bcbe84a4cf62e4d4e8cf876"
+  },
+  "readingReview": {
+    "analyzer": "Fugashi 1.5.2 / UniDic-lite 1.0.8",
+    "allVariantCandidates": 100,
+    "negativeCandidates": [
+      {
+        "level": "n5",
+        "id": "n5-jmdict-1586270",
+        "word": "開く",
+        "kind": "negative",
+        "surface": "開かない",
+        "expected": "あかない",
+        "actual": "ヒラカナイ",
+        "aligned": true,
+        "sentence": "朝早く行っても、図書館はまだ開かない。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1586265",
+        "word": "空く",
+        "kind": "negative",
+        "surface": "空かない",
+        "expected": "すかない",
+        "actual": "アカナイ",
+        "aligned": true,
+        "sentence": "朝ご飯をたくさん食べたので、おなかが空かない。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1310680",
+        "word": "止める",
+        "kind": "negative",
+        "surface": "止めない",
+        "expected": "やめない",
+        "actual": "トメナイ",
+        "aligned": true,
+        "sentence": "難しくても、日本語の勉強は止めない。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1221740",
+        "word": "気に入る",
+        "kind": "negative",
+        "surface": "気に入らない",
+        "expected": "きにいらない",
+        "actual": "キニハイラナイ",
+        "aligned": true,
+        "sentence": "気に入らない服を無理に着る必要はありません。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-2844997",
+        "word": "抱く",
+        "kind": "negative",
+        "surface": "抱かない",
+        "expected": "だかない",
+        "actual": "イダカナイ",
+        "aligned": true,
+        "sentence": "寝ている赤ちゃんを今は抱かないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1316400",
+        "word": "次ぐ",
+        "kind": "negative",
+        "surface": "次がない",
+        "expected": "つがない",
+        "actual": "ツギガナイ",
+        "aligned": true,
+        "sentence": "「次ぐ」の否定形は「次がない」で、「次が無い」とは読み方が違います。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-2145240",
+        "word": "注ぐ",
+        "kind": "negative",
+        "surface": "注がない",
+        "expected": "つがない",
+        "actual": "ソソガナイ",
+        "aligned": true,
+        "sentence": "お酒はもう注がないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1385340",
+        "word": "接ぐ",
+        "kind": "negative",
+        "surface": "接がない",
+        "expected": "つがない",
+        "actual": "ハガナイ",
+        "aligned": true,
+        "sentence": "この木は枝を接がないで、種から育てます。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1595080",
+        "word": "退く",
+        "kind": "negative",
+        "surface": "退かない",
+        "expected": "どかない",
+        "actual": "シリゾカナイ",
+        "aligned": true,
+        "sentence": "猫が入口から退かないので、通れません。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1408815",
+        "word": "打つ",
+        "kind": "negative",
+        "surface": "打たない",
+        "expected": "ぶたない",
+        "actual": "ウタナイ",
+        "aligned": true,
+        "sentence": "子供を打たないで、言葉で教えてください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1578070",
+        "word": "脅かす",
+        "kind": "negative",
+        "surface": "脅かさない",
+        "expected": "おどかさない",
+        "actual": "オビヤカサナイ",
+        "aligned": true,
+        "sentence": "動物を脅かさないように、静かに近付きます。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1298910",
+        "word": "擦る",
+        "kind": "negative",
+        "surface": "擦らない",
+        "expected": "こすらない",
+        "actual": "スラナイ",
+        "aligned": true,
+        "sentence": "汚れた画面を乾いた布で擦らないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1593330",
+        "word": "言付ける",
+        "kind": "negative",
+        "surface": "言付けない",
+        "expected": "ことづけない",
+        "actual": "イイツケナイ",
+        "aligned": true,
+        "sentence": "伝言を人に言付けないで、自分で連絡します。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-2827352",
+        "word": "堪える",
+        "kind": "negative",
+        "surface": "堪えない",
+        "expected": "こらえない",
+        "actual": "タエナイ",
+        "aligned": true,
+        "sentence": "痛みを堪えないで、すぐに知らせてください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1316400",
+        "word": "次ぐ",
+        "kind": "negative",
+        "surface": "次がない",
+        "expected": "つがない",
+        "actual": "ツギガナイ",
+        "aligned": true,
+        "sentence": "「次ぐ」の否定形は「次がない」で、「次が無い」とは読み方が違います。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-2850084",
+        "word": "退ける",
+        "kind": "negative",
+        "surface": "退けない",
+        "expected": "どけない",
+        "actual": "シリゾケナイ",
+        "aligned": true,
+        "sentence": "その箱はまだ退けないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1310620",
+        "word": "留まる",
+        "kind": "negative",
+        "surface": "留まらない",
+        "expected": "とまらない",
+        "actual": "トドマラナイ",
+        "aligned": true,
+        "sentence": "鳥が窓辺に留まらないように、網を張りました。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1611090",
+        "word": "捩る",
+        "kind": "negative",
+        "surface": "捩らない",
+        "expected": "ねじらない",
+        "actual": "モジラナイ",
+        "aligned": true,
+        "sentence": "コードを無理に捩らないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1198900",
+        "word": "解く",
+        "kind": "negative",
+        "surface": "解かない",
+        "expected": "ほどかない",
+        "actual": "トカナイ",
+        "aligned": true,
+        "sentence": "結び目をまだ解かないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1565610",
+        "word": "嘲笑う",
+        "kind": "negative",
+        "surface": "嘲笑わない",
+        "expected": "あざわらわない",
+        "actual": "アザケワラワナイ",
+        "aligned": true,
+        "sentence": "人の夢を嘲笑わないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1156450",
+        "word": "意気込む",
+        "kind": "negative",
+        "surface": "意気込まない",
+        "expected": "いきごまない",
+        "actual": "イキコマナイ",
+        "aligned": true,
+        "sentence": "最初から意気込まないで、自然体で参加します。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1524490",
+        "word": "埋める",
+        "kind": "negative",
+        "surface": "埋めない",
+        "expected": "うずめない",
+        "actual": "ウメナイ",
+        "aligned": true,
+        "sentence": "顔を枕に埋めないで、こちらを見てください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1636530",
+        "word": "擦る",
+        "kind": "negative",
+        "surface": "擦らない",
+        "expected": "かすらない",
+        "actual": "スラナイ",
+        "aligned": true,
+        "sentence": "車体が壁を擦らないように、間隔を取ります。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1320420",
+        "word": "湿気る",
+        "kind": "negative",
+        "surface": "湿気ない",
+        "expected": "しけない",
+        "actual": "シッケナイ",
+        "aligned": true,
+        "sentence": "海辺でも火薬が湿気ないように、密封して運びます。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1421580",
+        "word": "弛む",
+        "kind": "negative",
+        "surface": "弛まない",
+        "expected": "たるまない",
+        "actual": "タユマナイ",
+        "aligned": true,
+        "sentence": "気持ちが弛まないように、毎朝目標を確認します。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1456895",
+        "word": "突く",
+        "kind": "negative",
+        "surface": "突かない",
+        "expected": "つつかない",
+        "actual": "ツカナイ",
+        "aligned": true,
+        "sentence": "食べ物を指で突かないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1598820",
+        "word": "止める",
+        "kind": "negative",
+        "surface": "止めない",
+        "expected": "とどめない",
+        "actual": "トメナイ",
+        "aligned": true,
+        "sentence": "彼をこの地位に止めないで、新しい役を任せます。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1419360",
+        "word": "弾く",
+        "kind": "negative",
+        "surface": "弾かない",
+        "expected": "はじかない",
+        "actual": "ヒカナイ",
+        "aligned": true,
+        "sentence": "指でコインを弾かないで、そっと置いてください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-2829135",
+        "word": "叩く",
+        "kind": "negative",
+        "surface": "叩かない",
+        "expected": "はたかない",
+        "actual": "タタカナイ",
+        "aligned": true,
+        "sentence": "ほこりが舞うので、室内ではコートを叩かないでください。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-2846709",
+        "word": "歪む",
+        "kind": "negative",
+        "surface": "歪まない",
+        "expected": "ひずまない",
+        "actual": "ユガマナイ",
+        "aligned": true,
+        "sentence": "荷重をかけても、この枠は歪まない。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1198920",
+        "word": "解ける",
+        "kind": "negative",
+        "surface": "解けない",
+        "expected": "ほどけない",
+        "actual": "トケナイ",
+        "aligned": true,
+        "sentence": "靴ひもが解けないように、結び直します。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1583260",
+        "word": "避ける",
+        "kind": "negative",
+        "surface": "避けない",
+        "expected": "よけない",
+        "actual": "サケナイ",
+        "aligned": true,
+        "sentence": "人ごみでは、相手を避けないとぶつかってしまいます。",
+        "decision": "Retain pinned lexical reading; explicit kana is carried into synthesis. UniDic selected another reading or variant of the spelling."
+      }
+    ]
+  },
+  "overlapReview": [
+    {
+      "level": "n3",
+      "id": "n3-jmdict-1333400",
+      "word": "蹴る",
+      "pair": [
+        2,
+        3
+      ],
+      "ratio": 0.632,
+      "nouns": [
+        [
+          "壁"
+        ],
+        [
+          "ボール"
+        ]
+      ],
+      "sentences": [
+        "壁を蹴らないでください。",
+        "ボールを強く蹴ってください。"
+      ],
+      "decision": "Retain: the nouns, object or situation differ; the shared polite request is a grammatical construction."
+    },
+    {
+      "level": "n2",
+      "id": "n2-jmdict-1440980",
+      "word": "転がす",
+      "pair": [
+        2,
+        3
+      ],
+      "ratio": 0.593,
+      "nouns": [
+        [
+          "下",
+          "坂",
+          "石"
+        ],
+        [
+          "ボール",
+          "方",
+          "私"
+        ]
+      ],
+      "sentences": [
+        "重い石を坂の下へ転がさないでください。",
+        "ボールを私の方へ転がしてください。"
+      ],
+      "decision": "Retain: the nouns, object or situation differ; the shared polite request is a grammatical construction."
+    },
+    {
+      "level": "n2",
+      "id": "n2-jmdict-1242520",
+      "word": "近付ける",
+      "pair": [
+        2,
+        3
+      ],
+      "ratio": 0.571,
+      "nouns": [
+        [
+          "時計",
+          "磁石"
+        ],
+        [
+          "手",
+          "火"
+        ]
+      ],
+      "sentences": [
+        "磁石を時計に近付けないでください。",
+        "火に手を近付けないでください。"
+      ],
+      "decision": "Retain: the nouns, object or situation differ; the shared polite request is a grammatical construction."
+    },
+    {
+      "level": "n1",
+      "id": "n1-jmdict-1186710",
+      "word": "化ける",
+      "pair": [
+        0,
+        3
+      ],
+      "ratio": 0.609,
+      "nouns": [
+        [
+          "俳優",
+          "老人",
+          "舞台"
+        ],
+        [
+          "人間",
+          "昔話",
+          "狐"
+        ]
+      ],
+      "sentences": [
+        "舞台では、俳優が老人に化ける。",
+        "昔話では、狐が人間に化けた。"
+      ],
+      "decision": "Retain existing stage actor/old man versus folk-tale fox/human contexts."
+    }
+  ],
+  "listening": "All 2500 existing sentence questions revalidated against cumulative lexical grading and reindexed by the unchanged Japanese/Chinese transcript pair.",
+  "editorialRecheck": {
+    "date": "2026-11-12",
+    "reviewed": 1336,
+    "changedSentenceOrTranslation": 61,
+    "byLevel": {
+      "n5": 2,
+      "n4": 7,
+      "n3": 16,
+      "n2": 17,
+      "n1": 19
+    },
+    "notesUpdated": 640,
+    "method": "Read every new Japanese/Traditional Chinese negative example pair against the lexical meaning, case particle, transitivity, tense, scope and pragmatic register; recheck construction notes. Not native-speaker certification.",
+    "references": [
+      {
+        "url": "https://www.kanjipedia.jp/kotoba/0006893400",
+        "purpose": "優れる: non-comparative negative for health/condition"
+      },
+      {
+        "url": "https://kotobank.jp/word/次ぐ-571297",
+        "purpose": "次ぐ: continuation/rank senses; distinguish noun 次 from verb 次ぐ"
+      },
+      {
+        "url": "https://kotobank.jp/word/恐れ入る-452750",
+        "purpose": "恐れ入る: appreciation/apology/admirative senses and formulaic register"
+      }
+    ],
+    "corrections": [
+      {
+        "level": "n5",
+        "id": "n5-jmdict-1429700",
+        "word": "飛ぶ",
+        "reading": "とばない",
+        "before": {
+          "sentence": "この鳥は羽が小さくて飛ばない。",
+          "translation": "這種鳥翅膀很小，不飛翔。"
+        },
+        "after": {
+          "sentence": "ペンギンは空を飛ばない。",
+          "translation": "企鵝不在天空飛翔。"
+        }
+      },
+      {
+        "level": "n5",
+        "id": "n5-jmdict-1310620",
+        "word": "止まる",
+        "reading": "とまらない",
+        "before": {
+          "sentence": "ボールが坂の下まで止まらない。",
+          "translation": "球一直到坡底都沒停下。"
+        },
+        "after": {
+          "sentence": "ボールは坂の下まで止まらない。",
+          "translation": "球到坡底之前都不會停下。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1378520",
+        "word": "生きる",
+        "reading": "いきない",
+        "before": {
+          "sentence": "水のない所では、魚は生きない。",
+          "translation": "在沒有水的地方魚無法生存。"
+        },
+        "after": {
+          "sentence": "私は仕事のためだけには生きない。",
+          "translation": "我不只為工作而活。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1587290",
+        "word": "いただく",
+        "reading": "いただかない",
+        "before": {
+          "sentence": "まだお返事をいただかないうちは、日程を決められません。",
+          "translation": "還沒收到您的回覆之前，無法決定日期。"
+        },
+        "after": {
+          "sentence": "必要のない謝礼はいただかないことにしております。",
+          "translation": "我一向不收取不必要的謝禮。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1305700",
+        "word": "うかがう",
+        "reading": "うかがわない",
+        "before": {
+          "sentence": "事前にお約束しないまま、突然うかがわないようにしています。",
+          "translation": "我盡量不在未事先約定的情況下突然拜訪。"
+        },
+        "after": {
+          "sentence": "お約束のない日に、突然うかがわないようにしています。",
+          "translation": "我盡量不在沒有約定的日子突然拜訪。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1184170",
+        "word": "下げる",
+        "reading": "さげない",
+        "before": {
+          "sentence": "荷物を下げないで、そのまま持っていてください。",
+          "translation": "不要放下行李，請就這樣拿著。"
+        },
+        "after": {
+          "sentence": "値段を下げないで、品質を上げる方針です。",
+          "translation": "方針是不降價，而是提升品質。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1195970",
+        "word": "過ぎる",
+        "reading": "すぎない",
+        "before": {
+          "sentence": "夜十時を過ぎないように、帰ってきてください。",
+          "translation": "請在晚上十點之前回來。"
+        },
+        "after": {
+          "sentence": "帰りが夜十時を過ぎないようにしてください。",
+          "translation": "請不要超過晚上十點才回來。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1160570",
+        "word": "育てる",
+        "reading": "そだてない",
+        "before": {
+          "sentence": "無理に同じ方法で全員を育てないことが大切です。",
+          "translation": "不要勉強用同一種方法培育所有人很重要。"
+        },
+        "after": {
+          "sentence": "今年は畑でトマトを育てないことにしました。",
+          "translation": "決定今年不在田裡種番茄。"
+        }
+      },
+      {
+        "level": "n4",
+        "id": "n4-jmdict-1529390",
+        "word": "眠る",
+        "reading": "ねむらない",
+        "before": {
+          "sentence": "試験が心配で、今夜は眠らないつもりです。",
+          "translation": "因為擔心考試，今晚打算不睡覺。"
+        },
+        "after": {
+          "sentence": "夜勤があるので、今夜は眠らないで働きます。",
+          "translation": "因為要上夜班，今晚不睡覺而工作。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1150450",
+        "word": "愛する",
+        "reading": "あいさない",
+        "before": {
+          "sentence": "自分を愛さない人の評価だけで、価値は決まりません。",
+          "translation": "人的價值不由不愛自己的人來評定。"
+        },
+        "after": {
+          "sentence": "自分を愛さない人の評価だけで、価値は決まりません。",
+          "translation": "人的價值，並不只由那些不愛自己的人來評定。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1586440",
+        "word": "暖める",
+        "reading": "あたためない",
+        "before": {
+          "sentence": "この容器は電子レンジで暖めないでください。",
+          "translation": "請不要用微波爐加熱這個容器。"
+        },
+        "after": {
+          "sentence": "留守中は部屋を暖めないで、暖房を切っておきます。",
+          "translation": "外出時不替房間供暖，會把暖氣關掉。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1153480",
+        "word": "宛てる",
+        "reading": "あてない",
+        "before": {
+          "sentence": "会社ではなく個人に宛てないと、届きません。",
+          "translation": "不寫給個人而寫給公司，信就送不到。"
+        },
+        "after": {
+          "sentence": "部署全体に知らせたいので、個人には宛てないでください。",
+          "translation": "因為要通知整個部門，請不要寄給個人。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1588840",
+        "word": "覆う",
+        "reading": "おおわない",
+        "before": {
+          "sentence": "光を完全には覆わない薄い布を選びます。",
+          "translation": "選擇不完全遮光的薄布。"
+        },
+        "after": {
+          "sentence": "壁画を覆わない位置に、棚を置きます。",
+          "translation": "把架子放在不遮住壁畫的位置。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1316830",
+        "word": "治める",
+        "reading": "おさめない",
+        "before": {
+          "sentence": "武力だけでは国を治めないという信念を持っています。",
+          "translation": "抱持不用武力單獨治理國家的信念。"
+        },
+        "after": {
+          "sentence": "武力だけでは国を治めないという信念を持っています。",
+          "translation": "抱持不僅靠武力治理國家的信念。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1589580",
+        "word": "下す",
+        "reading": "おろさない",
+        "before": {
+          "sentence": "踏み台を使わないで高い棚から箱を下ろさないでください。",
+          "translation": "請不要沒用踏台就從高架取下箱子。"
+        },
+        "after": {
+          "sentence": "作業員の合図があるまで、クレーンの荷物を下ろさないでください。",
+          "translation": "作業員示意之前，請不要放下起重機上的貨物。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1224020",
+        "word": "輝く",
+        "reading": "かがやかない",
+        "before": {
+          "sentence": "磨かない銀の指輪は、いつまでも輝かない。",
+          "translation": "不打磨的銀戒不會一直閃亮。"
+        },
+        "after": {
+          "sentence": "照明が暗いと、展示された宝石は美しく輝かない。",
+          "translation": "燈光昏暗時，展示的寶石就不會閃耀美麗的光芒。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1229060",
+        "word": "救う",
+        "reading": "すくわない",
+        "before": {
+          "sentence": "助けを求める人を救わないでいい、とは思いません。",
+          "translation": "我不認為可以不救助求援的人。"
+        },
+        "after": {
+          "sentence": "主人公が仲間を救わない結末に、読者は驚きました。",
+          "translation": "讀者對主角沒有拯救夥伴的結局感到驚訝。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1539080",
+        "word": "優れる",
+        "reading": "すぐれない",
+        "before": {
+          "sentence": "値段が高いからといって、品質が優れない場合もあります。",
+          "translation": "即使價格高，品質也可能不優異。"
+        },
+        "after": {
+          "sentence": "体調が優れないので、今日は早めに帰ります。",
+          "translation": "身體不太舒服，今天會提早回家。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1610160",
+        "word": "対する",
+        "reading": "たいしない",
+        "before": {
+          "sentence": "相手を敵とみなして対しないことが大切です。",
+          "translation": "不要把對方當成敵人來面對很重要。"
+        },
+        "after": {
+          "sentence": "批判に感情的に対しないことが大切です。",
+          "translation": "面對批評時，不以情緒回應很重要。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1283240",
+        "word": "高める",
+        "reading": "たかめない",
+        "before": {
+          "sentence": "価格を上げるだけでは、満足度を高めないという結果でした。",
+          "translation": "結果顯示光提高價格並不會提升滿意度。"
+        },
+        "after": {
+          "sentence": "社員の意欲を高めない制度には、改善が必要です。",
+          "translation": "無法提升員工意願的制度需要改善。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1205780",
+        "word": "確かめる",
+        "reading": "たしかめない",
+        "before": {
+          "sentence": "事実を確かめないで、うわさを広めないでください。",
+          "translation": "請不要未查證就散播傳聞。"
+        },
+        "after": {
+          "sentence": "事実を確かめないまま、情報を広めてはいけません。",
+          "translation": "不可以未查證事實就散播資訊。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1344410",
+        "word": "助ける",
+        "reading": "たすけない",
+        "before": {
+          "sentence": "何もかも親が助けないで、本人に任せます。",
+          "translation": "父母不事事幫忙，而是交給本人做。"
+        },
+        "after": {
+          "sentence": "宿題では親が助けないで、子供自身に考えさせます。",
+          "translation": "寫作業時家長不幫忙，讓孩子自己思考。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1316400",
+        "word": "次ぐ",
+        "reading": "つがない",
+        "before": {
+          "sentence": "「首位に次がない」より、「二位ではない」と言うほうが自然です。",
+          "translation": "比起說「不緊隨第一名」，說「不是第二名」較自然。"
+        },
+        "after": {
+          "sentence": "「次ぐ」の否定形は「次がない」で、「次が無い」とは読み方が違います。",
+          "translation": "「次ぐ」的否定形是「次がない（つがない）」，與「沒有下一個（つぎがない）」讀法不同。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1598530",
+        "word": "出会う",
+        "reading": "であわない",
+        "before": {
+          "sentence": "この仕事をしていなければ、彼には出会わないでしょう。",
+          "translation": "若沒從事這份工作，大概不會遇見他。"
+        },
+        "after": {
+          "sentence": "この集まりに参加しなければ、新しい仲間には出会わないでしょう。",
+          "translation": "如果不參加這場聚會，大概就不會遇見新的夥伴。"
+        }
+      },
+      {
+        "level": "n3",
+        "id": "n3-jmdict-1340820",
+        "word": "述べる",
+        "reading": "のべない",
+        "before": {
+          "sentence": "確認できないことは意見として述べないでください。",
+          "translation": "請不要把無法確認的事當意見陳述。"
+        },
+        "after": {
+          "sentence": "確認できないことを、事実として述べないでください。",
+          "translation": "請不要把無法確認的事當作事實陳述。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1515580",
+        "word": "呆れる",
+        "reading": "あきれない",
+        "before": {
+          "sentence": "何度同じ話を聞いても、彼は呆れない。",
+          "translation": "即使重複聽同樣的話，他也不厭煩。"
+        },
+        "after": {
+          "sentence": "彼は、友人が何度失敗しても呆れない。",
+          "translation": "朋友無論失敗幾次，他都不會感到傻眼。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1586430",
+        "word": "温まる",
+        "reading": "あたたまらない",
+        "before": {
+          "sentence": "お湯を入れても、体がなかなか温まらない。",
+          "translation": "即使泡了熱水，身體也不容易暖起來。"
+        },
+        "after": {
+          "sentence": "お風呂に入っても、体がなかなか温まらない。",
+          "translation": "即使泡了澡，身體也不容易暖起來。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1448930",
+        "word": "当てはまる",
+        "reading": "あてはまらない",
+        "before": {
+          "sentence": "年齢だけでは分類に当てはまらない人もいます。",
+          "translation": "也有些人不能光按年齡歸入分類。"
+        },
+        "after": {
+          "sentence": "この条件に当てはまらない人は、別の窓口で相談してください。",
+          "translation": "不符合這項條件的人，請到別的窗口諮詢。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1472230",
+        "word": "拝む",
+        "reading": "おがまない",
+        "before": {
+          "sentence": "この家では毎朝仏壇を拝まない。",
+          "translation": "這個家庭並非每天早上拜佛壇。"
+        },
+        "after": {
+          "sentence": "祖父は仏壇を拝まない日は、どこか落ち着かないそうです。",
+          "translation": "聽說祖父若有一天沒拜佛壇，就總覺得不踏實。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1514460",
+        "word": "補う",
+        "reading": "おぎなわない",
+        "before": {
+          "sentence": "不足分を借金だけで補わない方針です。",
+          "translation": "方針是不僅靠借款補足缺額。"
+        },
+        "after": {
+          "sentence": "不足分は借金で補わない方針です。",
+          "translation": "方針是不以借款補足缺額。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1283240",
+        "word": "高める",
+        "reading": "たかめない",
+        "before": {
+          "sentence": "無理に音量を高めないでください。",
+          "translation": "請不要勉強提高音量。"
+        },
+        "after": {
+          "sentence": "社員の負担を増やしてまで、効率を高めない方針です。",
+          "translation": "方針是不以增加員工負擔為代價來提升效率。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1596860",
+        "word": "蓄える",
+        "reading": "たくわえない",
+        "before": {
+          "sentence": "備えを何も蓄えないのは不安です。",
+          "translation": "完全沒有累積儲備令人不安。"
+        },
+        "after": {
+          "sentence": "何も蓄えないままでは、災害時に困ります。",
+          "translation": "若完全沒有儲備，遇到災害時會有困難。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1404750",
+        "word": "足る",
+        "reading": "たらない",
+        "before": {
+          "sentence": "この結果だけでは、安心するに足らない。",
+          "translation": "光憑這個結果還不足以放心。"
+        },
+        "after": {
+          "sentence": "取るに足らないうわさに振り回されないでください。",
+          "translation": "請不要被微不足道的傳聞牽著走。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1381210",
+        "word": "誓う",
+        "reading": "ちかわない",
+        "before": {
+          "sentence": "確かめる前に成功を誓わないでください。",
+          "translation": "請不要還沒確認就保證成功。"
+        },
+        "after": {
+          "sentence": "軽い気持ちで永遠の愛を誓わないでください。",
+          "translation": "請不要抱著輕率的心情發誓永遠相愛。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1316400",
+        "word": "次ぐ",
+        "reading": "つがない",
+        "before": {
+          "sentence": "「首位に次がない」より、「二位ではない」と言うほうが自然です。",
+          "translation": "比起說「不緊隨第一名」，說「不是第二名」較自然。"
+        },
+        "after": {
+          "sentence": "「次ぐ」の否定形は「次がない」で、「次が無い」とは読み方が違います。",
+          "translation": "「次ぐ」的否定形是「次がない（つがない）」，與「沒有下一個（つぎがない）」讀法不同。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1382970",
+        "word": "積む",
+        "reading": "つまない",
+        "before": {
+          "sentence": "屋根には雪を積まないようにしてください。",
+          "translation": "請避免讓屋頂積雪。"
+        },
+        "after": {
+          "sentence": "通路をふさぐほど荷物を積まないでください。",
+          "translation": "請不要把貨物堆到堵塞通道。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1546090",
+        "word": "溶け込む",
+        "reading": "とけこまない",
+        "before": {
+          "sentence": "初めての集まりで溶け込まない人を責めないでください。",
+          "translation": "請不要責怪初次聚會時不融入的人。"
+        },
+        "after": {
+          "sentence": "この色は背景に溶け込まないので、看板に向いています。",
+          "translation": "這個顏色不會融入背景，所以適合用在招牌。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-2861111",
+        "word": "為す",
+        "reading": "なさない",
+        "before": {
+          "sentence": "努力を何も為さないまま、結果だけを望んでいました。",
+          "translation": "完全不付出努力，卻只期望結果。"
+        },
+        "after": {
+          "sentence": "責任を負うだけで何も為さないのでは、改善しません。",
+          "translation": "若只是承擔責任卻什麼都不做，情況不會改善。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1259990",
+        "word": "見舞う",
+        "reading": "みまわない",
+        "before": {
+          "sentence": "感染を防ぐため、今は病室に友人を見舞わない方針です。",
+          "translation": "為避免感染，目前不進病房探望朋友。"
+        },
+        "after": {
+          "sentence": "病院の面会規則に従い、今週は友人を見舞わないことにしました。",
+          "translation": "遵守醫院探視規定，決定這週不去探望朋友。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1534500",
+        "word": "儲ける",
+        "reading": "もうけない",
+        "before": {
+          "sentence": "短期的な利益だけを儲けないで、長く続く店にしたい。",
+          "translation": "不只賺短期利益，想做能長久經營的店。"
+        },
+        "after": {
+          "sentence": "客をだまして金を儲けないのが、父の信念です。",
+          "translation": "父親的信念是不靠欺騙顧客賺錢。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1502490",
+        "word": "物語る",
+        "reading": "ものがたらない",
+        "before": {
+          "sentence": "数字だけでは、失敗の理由を物語らない。",
+          "translation": "光憑數字並不能說明失敗原因。"
+        },
+        "after": {
+          "sentence": "彼の表情は、成功への喜びを少しも物語らない。",
+          "translation": "他的表情絲毫沒有顯露出成功的喜悅。"
+        }
+      },
+      {
+        "level": "n2",
+        "id": "n2-jmdict-1218760",
+        "word": "慶ぶ",
+        "reading": "よろこばない",
+        "before": {
+          "sentence": "他人の失敗を慶ばないでください。",
+          "translation": "請不要為他人的失敗感到高興。"
+        },
+        "after": {
+          "sentence": "家族が昇進を慶ばないので、彼は寂しそうでした。",
+          "translation": "家人沒有為他的升遷感到高興，他看起來很失落。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-2007210",
+        "word": "ありふれる",
+        "reading": "ありふれない",
+        "before": {
+          "sentence": "どこにでもありふれない題材を探しています。",
+          "translation": "正在尋找並非處處常見的題材。"
+        },
+        "after": {
+          "sentence": "ありふれない題材を見つけるために、地方の資料館を巡ります。",
+          "translation": "為了尋找不落俗套的題材，走訪各地資料館。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1357260",
+        "word": "植わる",
+        "reading": "うわらない",
+        "before": {
+          "sentence": "この庭には大きな木が植わらないように、植栽を管理します。",
+          "translation": "管理植栽，避免這個庭院種有大樹。"
+        },
+        "after": {
+          "sentence": "土が浅すぎて、苗がしっかり植わらない。",
+          "translation": "土層太淺，幼苗種不牢。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1236680",
+        "word": "恐れ入る",
+        "reading": "おそれいらない",
+        "before": {
+          "sentence": "この見事な技には、恐れ入らないではいられません。",
+          "translation": "面對這麼精湛的技術，不能不佩服。"
+        },
+        "after": {
+          "sentence": "「恐れ入らない」は否定形ですが、お礼には普通「恐れ入ります」を使います。",
+          "translation": "「恐れ入らない」是否定形，但道謝時通常用「恐れ入ります」。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1208870",
+        "word": "叶う",
+        "reading": "かなわない",
+        "before": {
+          "sentence": "努力しても、すべての夢が叶わないことはあります。",
+          "translation": "即使努力，也可能並非所有夢想都能實現。"
+        },
+        "after": {
+          "sentence": "どれほど努力しても、叶わない夢もあります。",
+          "translation": "不管多努力，也有無法實現的夢想。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1208880",
+        "word": "叶える",
+        "reading": "かなえない",
+        "before": {
+          "sentence": "子供の願いを何でも叶えないことも必要です。",
+          "translation": "有時也需要不滿足孩子的每個願望。"
+        },
+        "after": {
+          "sentence": "子供の願いでも、無理なものは叶えないことにしています。",
+          "translation": "即使是孩子的願望，對不合理的要求也一向不予滿足。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1279700",
+        "word": "構える",
+        "reading": "かまえない",
+        "before": {
+          "sentence": "最初から身構えるように構えないで、気軽に来てください。",
+          "translation": "不用一開始就擺出戒備姿態，輕鬆來吧。"
+        },
+        "after": {
+          "sentence": "堅苦しく構えないで、気軽に話してください。",
+          "translation": "請不要擺出拘謹的姿態，輕鬆說話。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1288790",
+        "word": "込める",
+        "reading": "こめない",
+        "before": {
+          "sentence": "封筒に現金を込めないで、指定口座へ送金します。",
+          "translation": "不把現金放進信封，匯到指定帳戶。"
+        },
+        "after": {
+          "sentence": "冗談には悪意を込めないようにしています。",
+          "translation": "我盡量不在玩笑裡帶入惡意。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1226200",
+        "word": "掬う",
+        "reading": "すくわない",
+        "before": {
+          "sentence": "熱い油を素手で掬わないでください。",
+          "translation": "請不要徒手掬熱油。"
+        },
+        "after": {
+          "sentence": "水槽の魚を手で掬わないでください。",
+          "translation": "請不要用手撈起魚缸裡的魚。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1570770",
+        "word": "聳える",
+        "reading": "そびえない",
+        "before": {
+          "sentence": "空を遮る高層ビルが聳えない町に住みたい。",
+          "translation": "想住在沒有遮天高樓聳立的城鎮。"
+        },
+        "after": {
+          "sentence": "この町に新しい高層ビルが聳えないよう、建物の高さを制限しています。",
+          "translation": "限制建築高度，避免讓這個鎮出現新的高樓聳立。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1211310",
+        "word": "耐える",
+        "reading": "たえない",
+        "before": {
+          "sentence": "我慢だけで耐えないで、助けを求めてください。",
+          "translation": "不要只靠忍耐硬撐，請尋求幫助。"
+        },
+        "after": {
+          "sentence": "痛みに一人で耐えないで、看護師を呼んでください。",
+          "translation": "不要獨自忍受疼痛，請叫護理師。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1416420",
+        "word": "脱する",
+        "reading": "だっしない",
+        "before": {
+          "sentence": "この対策だけでは危機を脱しないという見方もあります。",
+          "translation": "也有看法認為光靠這項措施無法脫離危機。"
+        },
+        "after": {
+          "sentence": "この物語の主人公は、最後まで貧困を脱しない。",
+          "translation": "這個故事的主角直到最後都沒有脫離貧困。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1531790",
+        "word": "名付ける",
+        "reading": "なづけない",
+        "before": {
+          "sentence": "まだ見ていない動物に名前を名付けないで、会ってから決めます。",
+          "translation": "不替還沒見過的動物命名，見到後再決定。"
+        },
+        "after": {
+          "sentence": "赤ちゃんを、生まれる前から「太郎」とは名付けないことにしました。",
+          "translation": "決定不在寶寶出生前就把他命名為「太郎」。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-2829135",
+        "word": "叩く",
+        "reading": "はたかない",
+        "before": {
+          "sentence": "ほこりを人の方へ叩かないでください。",
+          "translation": "請不要朝人的方向拍打灰塵。"
+        },
+        "after": {
+          "sentence": "ほこりが舞うので、室内ではコートを叩かないでください。",
+          "translation": "因為會揚塵，請不要在室內拍打大衣。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1192850",
+        "word": "果たす",
+        "reading": "はたさない",
+        "before": {
+          "sentence": "義務を果たさない人には、注意が必要です。",
+          "translation": "對不履行義務的人需要提醒。"
+        },
+        "after": {
+          "sentence": "義務を果たさない人には、改善を求めます。",
+          "translation": "對不履行義務的人，會要求其改善。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1603910",
+        "word": "勝る",
+        "reading": "まさらない",
+        "before": {
+          "sentence": "値段は高いですが、性能では他社に勝らない。",
+          "translation": "雖然價格高，性能卻不勝過其他公司。"
+        },
+        "after": {
+          "sentence": "この製品は値段こそ高いものの、性能では他社製品に勝らない。",
+          "translation": "這款產品雖然價格高，性能卻不勝過其他公司的產品。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1254640",
+        "word": "結び付く",
+        "reading": "むすびつかない",
+        "before": {
+          "sentence": "努力が必ず成果に結び付かない場合もあります。",
+          "translation": "也有努力未必帶來成果的情況。"
+        },
+        "after": {
+          "sentence": "努力しても、成果に結び付かない場合があります。",
+          "translation": "即使努力，也有無法帶來成果的情況。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1250480",
+        "word": "恵む",
+        "reading": "めぐまない",
+        "before": {
+          "sentence": "同情だけで金を恵まない主義です。",
+          "translation": "原則是不只憑同情就施捨金錢。"
+        },
+        "after": {
+          "sentence": "同情だけで金を恵まない主義です。",
+          "translation": "原則是不單憑同情就施捨金錢。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1535350",
+        "word": "目覚める",
+        "reading": "めざめない",
+        "before": {
+          "sentence": "大きな音でも赤ちゃんが目覚めない。",
+          "translation": "即使聲音很大，寶寶也沒醒。"
+        },
+        "after": {
+          "sentence": "大きな音がしても、赤ちゃんは目覚めない。",
+          "translation": "即使有很大的聲響，寶寶也不會醒來。"
+        }
+      },
+      {
+        "level": "n1",
+        "id": "n1-jmdict-1583260",
+        "word": "避ける",
+        "reading": "よけない",
+        "before": {
+          "sentence": "急に車を避けないで、まず止まってください。",
+          "translation": "請不要突然閃車，先停下來。"
+        },
+        "after": {
+          "sentence": "人ごみでは、相手を避けないとぶつかってしまいます。",
+          "translation": "在人群中，若不閃開對方就會撞上。"
+        }
+      }
+    ],
+    "validation": {
+      "dataSuite": "node scripts/run-tests.cjs data: passed",
+      "browserSuite": "node scripts/run-tests.cjs browser: passed",
+      "vocabularyCards": 7904,
+      "verbExampleSlots": 5344,
+      "exampleGrammarMp3Decoded": 15641,
+      "pages": 36,
+      "viewportWidths": [
+        360,
+        390,
+        768,
+        1440
+      ],
+      "listeningQuestions": 5000,
+      "pinnedSentenceQuestionsUnchanged": 2500,
+      "favorites": "navigation, level/POS filters, pagination, migration, cross-tab sync, recording routes: passed"
+    }
+  }
+}

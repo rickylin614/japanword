@@ -21,6 +21,12 @@ for(const l of levels){
  for(const [id,clip] of Object.entries(plan.grammarQuestions[l]))assert.equal(c.window.JP_GRAMMAR_ANSWER_AUDIO[l][id],url(clip));
 }
 const inputs=plan.clips.map(c=>c.input);
+const negativeRefs=plan.clips.flatMap(c=>c.refs.filter(r=>r.wordId&&r.index===2).map(r=>({clip:c,ref:r})));
+assert.equal(negativeRefs.length,1336,'Every verb has a negative recording');
+for(const {clip,ref} of negativeRefs){
+ assert.match(ref.pronunciation,/ない$/u,ref.wordId);
+ assert.ok(clip.input.replace(/[ァ-ヶ]/gu,c=>String.fromCharCode(c.charCodeAt(0)-96)).includes(ref.pronunciation),ref.wordId+' explicit negative pronunciation must reach synthesis');
+}
 assert.ok(inputs.includes('日曜日にうちにきませんか？'),'来ません pronunciation');
 assert.ok(inputs.includes('子供たちは宇宙への興味をいだいて、図書館で星の本を探しています。'),'抱く=いだく');
 assert.ok(inputs.includes('少女は子猫をだいて、獣医の所へ走っていきました。'),'抱く=だく');

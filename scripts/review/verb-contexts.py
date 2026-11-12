@@ -3,6 +3,7 @@ Requires fugashi and unidic_lite. Reports are candidates for human/AI review,
 not automatic evidence that Japanese or translations are correct.
 """
 import json, pathlib, re, subprocess, unicodedata
+from itertools import combinations
 from difflib import SequenceMatcher
 from fugashi import Tagger
 import unidic_lite
@@ -35,12 +36,13 @@ for w in rows:
         actual=''.join(t.feature.kana or t.surface for t in tokens)
         if e.get('reading') and (not aligned or norm(e['reading'])!=norm(actual)):
             readings.append(dict(level=w['level'],id=w['id'],word=w['word'],kind=e['kind'],surface=surface,expected=e['reading'],actual=actual,aligned=aligned,sentence=s))
-    for i,j in [(0,1),(0,2),(1,2)]:
+    for i,j in combinations(range(len(examples)),2):
         ratio=SequenceMatcher(None,contexts[i],contexts[j]).ratio()
         a,b=nouns(contexts[i]),nouns(contexts[j]);union=a|b;similar=len(a&b)/len(union) if union else 0
         if ratio>.57 or (similar>=.65 and a and b):
             flags.append(dict(level=w['level'],id=w['id'],word=w['word'],pair=[i,j],ratio=round(ratio,3),nouns=[sorted(a),sorted(b)],sentences=[examples[i]['sentence'],examples[j]['sentence']]))
     details.append(dict(id=w['id'],level=w['level'],word=w['word'],nouns=[sorted(nouns(c)) for c in contexts]))
-report=dict(checkedVerbs=len(rows),checkedExamples=len(rows)*3,overlapCandidates=flags,readingCandidates=readings,contexts=details)
+count=sum(len(w['examples']) for w in rows)
+report=dict(checkedVerbs=len(rows),checkedExamples=count,overlapCandidates=flags,readingCandidates=readings,contexts=details)
 (out/'context-review.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
-print(json.dumps(dict(verbs=len(rows),examples=len(rows)*3,overlapCandidates=len(flags),readingCandidates=len(readings)),ensure_ascii=False))
+print(json.dumps(dict(verbs=len(rows),examples=count,overlapCandidates=len(flags),readingCandidates=len(readings)),ensure_ascii=False))

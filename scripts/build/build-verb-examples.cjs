@@ -17,17 +17,19 @@ for (const level of levels) {
     const row = source[word.id];
     const type = word.posCodes.find(p=>p.startsWith('v')&&!['vi','vt'].includes(p));
     const lemma = spelling[word.word+'@'+word.reading+'#'+word.jmdictId]||spelling[word.word+'@'+word.reading]||spelling[word.word]||word.word;
-    const expected = {dictionary:[lemma,word.reading],te:[forms(lemma,type)[1],forms(word.reading,type)[1].replace(/[ァ-ヶ]/gu,c=>String.fromCharCode(c.charCodeAt(0)-96))]};
-    for (const kind of ['dictionary','te',...(row.common?['common']:[])]) {
+    const kana=s=>s.replace(/[ァ-ヶ]/gu,c=>String.fromCharCode(c.charCodeAt(0)-96));
+    const expected = {dictionary:[lemma,word.reading],te:[forms(lemma,type)[1],kana(forms(word.reading,type)[1])],negative:[forms(lemma,type)[2],kana(forms(word.reading,type)[2])]};
+    for (const kind of ['dictionary','te','negative',...(row.common?['common']:[])]) {
       const e = row[kind];
       assert.ok(e?.surface&&e.sentence?.includes(e.surface)&&e.translation&&e.reading,word.id+' incomplete '+kind);
       assert.match(e.sentence,/[。？！][」』]?$/u,word.id);
       assert.match(e.translation,/[\u3400-\u9fff]/u,word.id);
       assert.ok(!/[<>|\n\t{}]/u.test(e.sentence+e.translation),word.id+' source artifacts');
       if (expected[kind]) {
-        assert.equal(e.surface,expected[kind][0],word.id+' '+kind+' conjugation');
+        assert.ok((kind==='negative'?expected[kind]:[expected[kind][0]]).includes(e.surface),word.id+' '+kind+' conjugation');
         assert.equal(e.reading,expected[kind][1],word.id+' '+kind+' reading');
       }
+      if(kind==='negative')assert.ok(e.note?.length>=20,word.id+' missing negative usage explanation');
     }
     // Prevent the old shared-prefix dictionary/te template from returning.
     assert.notEqual(row.dictionary.sentence.split(row.dictionary.surface)[0],row.te.sentence.split(row.te.surface)[0],word.id+' shared sentence frame');
@@ -41,7 +43,7 @@ function contextFor(word) {
 }
 function examplesFor(word) {
   const row=contextFor(word);
-  return [['dictionary','原型'],['te','て形']].map(([kind,label])=>({kind,label,form:row[kind].surface,...row[kind]}));
+  return [['dictionary','原型'],['te','て形'],['negative','否定形（ない）']].map(([kind,label])=>({kind,label,form:row[kind].surface,...row[kind]}));
 }
 function commonFor(word) {const e=contextFor(word).common;return e?{...e}:undefined;}
 module.exports={examplesFor,commonFor};
