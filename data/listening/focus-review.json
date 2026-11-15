@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-14",
+  "format": "whole-sentence audio with contextual keyword cloze",
+  "questions": 5000,
+  "standaloneWordQuestions": 0,
+  "levels": {
+    "n5": {
+      "questions": 1000,
+      "words": 0,
+      "sentenceFocus": 1000,
+      "distinctSentences": 568,
+      "distinctTargets": 311,
+      "candidates": 1016,
+      "sha256": "6f55f2c961abedb4c729329cec8ee3b4cbc9faf280fbbedf9d0d1be7044cf82c"
+    },
+    "n4": {
+      "questions": 1000,
+      "words": 0,
+      "sentenceFocus": 1000,
+      "distinctSentences": 1000,
+      "distinctTargets": 422,
+      "candidates": 2138,
+      "sha256": "fa636c54d2c2072235b53bc068b96797812cda15adcbead1a60e8ada8d77296c"
+    },
+    "n3": {
+      "questions": 1000,
+      "words": 0,
+      "sentenceFocus": 1000,
+      "distinctSentences": 1000,
+      "distinctTargets": 692,
+      "candidates": 3398,
+      "sha256": "1a672e171fc4fe612191b76aee920778069b3cf30c4ddeca06ab303b18524eca"
+    },
+    "n2": {
+      "questions": 1000,
+      "words": 0,
+      "sentenceFocus": 1000,
+      "distinctSentences": 1000,
+      "distinctTargets": 818,
+      "candidates": 3208,
+      "sha256": "2798a6ce7568f35bc47b8732cb1ae93739be26cd8242d2a63b10c8ff06c49909"
+    },
+    "n1": {
+      "questions": 1000,
+      "words": 0,
+      "sentenceFocus": 1000,
+      "distinctSentences": 1000,
+      "distinctTargets": 870,
+      "candidates": 4528,
+      "sha256": "5d522e0ed20650f1183127a043d3108a59c3a79198e92376fc779f9957f536ee"
+    }
+  },
+  "referencedSentenceRecordings": 4139,
+  "checks": {
+    "dataRegression": "node scripts/run-tests.cjs data: passed",
+    "listeningBrowser": "node tests/test-listening.cjs with PLAYWRIGHT_PATH: passed",
+    "wordLevel": "Every content token, target and all three distractors checked against cumulative project vocabulary.",
+    "audio": "Every referenced recording decoded in Chrome.",
+    "interaction": "Before/after reveal, corrected cloze, four option explanations, wrong/correct, results, resume, filters, retired-bank version, broken storage and four widths passed."
+  },
+  "sampling": {
+    "method": "Inspect contextual masks and readings across all five levels. Not external native-speaker certification, waveform similarity analysis or an assertion that every distractor is a minimal pair.",
+    "examples": [
+      {
+        "id": "n5-listen-focus-0f3410ccdbcd8feb7581",
+        "level": "n5",
+        "transcript": "次の駅で電車を降ります。",
+        "context": "我在下一站下【　】。",
+        "target": "電車",
+        "answer": "電車",
+        "options": [
+          {
+            "text": "電話",
+            "word": "電話",
+            "reading": "でんわ"
+          },
+          {
+            "text": "電車",
+            "word": "電車",
+            "reading": "でんしゃ"
+          },
+          {
+            "text": "電燈",
+            "word": "電気",
+            "reading": "でんき"
+          },
+          {
+            "text": "自行車",
+            "word": "自転車",
+            "reading": "じてんしゃ"
+          }
+        ],
+        "decision": "Keep: the masked Chinese fragment maps to the spoken target; choices contrast the target reading using in-grade vocabulary."
+      },
+      {
+        "id": "n4-listen-focus-9d69ed18c9be7148b02b",
+        "level": "n4",
+        "transcript": "新しい店の名前は、明日の会議で決まる。",
+        "context": "新店的名字會在明天的【　】上決定。",
+        "target": "会議",
+        "answer": "會議",
+        "options": [
+          {
+            "text": "會話",
+            "word": "会話",
+            "reading": "かいわ"
+          },
+          {
+            "text": "會議",
+            "word": "会議",
+            "reading": "かいぎ"
+          },
+          {
+            "text": "公司",
+            "word": "会社",
+            "reading": "かいしゃ"
+          },
+          {
+            "text": "樓層",
+            "word": "階",
+            "reading": "かい"
+          }
+        ],
+        "decision": "Keep: the masked Chinese fragment maps to the spoken target; choices contrast the target reading using in-grade vocabulary."
+      },
+      {
+        "id": "n3-listen-focus-1e493032dddfb49d51b3",
+        "level": "n3",
+        "transcript": "結果は、まあ満足できるものでした。",
+        "context": "【　】還算令人滿意。",
+        "target": "結果",
+        "answer": "結果",
+        "options": [
+          {
+            "text": "結果",
+            "word": "結果",
+            "reading": "けっか"
+          },
+          {
+            "text": "缺陷",
+            "word": "欠陥",
+            "reading": "けっかん"
+          },
+          {
+            "text": "國家",
+            "word": "国家",
+            "reading": "こっか"
+          },
+          {
+            "text": "作家",
+            "word": "作家",
+            "reading": "さっか"
+          }
+        ],
+        "decision": "Keep: the masked Chinese fragment maps to the spoken target; choices contrast the target reading using in-grade vocabulary."
+      },
+      {
+        "id": "n2-listen-focus-9c2145a845e11b6bda48",
+        "level": "n2",
+        "transcript": "計算に送料をふくめる。",
+        "context": "計算時納入【　】。",
+        "target": "送料",
+        "answer": "運費",
+        "options": [
+          {
+            "text": "重量",
+            "word": "重量",
+            "reading": "じゅうりょう"
+          },
+          {
+            "text": "運費",
+            "word": "送料",
+            "reading": "そうりょう"
+          },
+          {
+            "text": "測量",
+            "word": "測量",
+            "reading": "そくりょう"
+          },
+          {
+            "text": "結束",
+            "word": "終了",
+            "reading": "しゅうりょう"
+          }
+        ],
+        "decision": "Keep: the masked Chinese fragment maps to the spoken target; choices contrast the target reading using in-grade vocabulary."
+      },
+      {
+        "id": "n1-listen-focus-b6522bc5809166c1b1b7",
+        "level": "n1",
+        "transcript": "海外進出に向けて、営業部門の増強を図った。",
+        "context": "為了進軍海外，我們加強了業務【　】。",
+        "target": "部門",
+        "answer": "部門",
+        "options": [
+          {
+            "text": "疑問",
+            "word": "疑問",
+            "reading": "ぎもん"
+          },
+          {
+            "text": "部門",
+            "word": "部門",
+            "reading": "ぶもん"
+          },
+          {
+            "text": "部分",
+            "word": "部分",
+            "reading": "ぶぶん"
+          },
+          {
+            "text": "零件",
+            "word": "部品",
+            "reading": "ぶひん"
+          }
+        ],
+        "decision": "Keep: the masked Chinese fragment maps to the spoken target; choices contrast the target reading using in-grade vocabulary."
+      }
+    ]
+  }
+}

@@ -5,6 +5,7 @@ import json,pathlib,re,unicodedata,hashlib,random,subprocess,sys
 from fugashi import Tagger
 import unidic_lite
 root=pathlib.Path(__file__).resolve().parents[2]
+all_candidates='--legacy-selection' not in sys.argv
 previous=json.loads((root/'data/listening/approved-sentences.json').read_text(encoding='utf8')) if '--preserve-selection' in sys.argv else None
 snapshot="""
 const fs=require('fs'),vm=require('vm'),c={window:{JP_VOCABULARY:{}}};
@@ -19,6 +20,7 @@ def norm(s):
  return ''.join(chr(ord(c)-96) if 'ァ'<=c<='ヶ' else c for c in s)
 def digest(p):return hashlib.sha256(p.read_text(encoding='utf8').replace('\r\n','\n').encode()).hexdigest()
 allowed={};forms={};result={'schemaVersion':1,'policy':'Cumulative pinned project vocabulary: N5 only; N4 includes N5; through N1. Particles, auxiliaries, punctuation and numeric literals are grammatical primitives. Unmatched lexical tokens are rejected.','analyzer':'Fugashi 1.5.2 / UniDic-lite 1.0.8','sourceHashes':{},'levels':{}}
+result['sourceHashes']['scripts/review/grade-listening.py']=digest(pathlib.Path(__file__))
 for level in levels:
  words=[w for rows in d['JP_VOCABULARY'][level].values() for w in rows]
  for w in words:
@@ -73,12 +75,15 @@ for level in levels:
    ix,e=matches[0];proof,unknown=check(e['sentence'])
    assert not unknown,(level,e['sentence'],unknown)
    accepted.append({**old,'index':ix,'proof':proof})
-  assert len(accepted)==500
+  assert len(accepted)==len(previous['levels'][level])
   result['levels'][level]=accepted
   print(level,len(accepted),'pinned sentences revalidated and indexes remapped')
   continue
  # Prefer this level's examples; only backfill N4 with checked lower-level sentences.
- for src in [level]+list(reversed(levels[:levels.index(level)])):
+ # A page's label is not a sentence's lexical grade. For N5, also inspect
+ # other pages, while the same strict N5-only vocabulary gate still applies.
+ sources=([level]+[x for x in levels if x!=level] if level=='n5' else [level]+(['n5'] if level=='n4' else [])) if all_candidates else [level]+list(reversed(levels[:levels.index(level)]))
+ for src in sources:
   ws=[w for rows in d['JP_VOCABULARY'][src].values() for w in rows]
   pool=[]
   for w in ws:
@@ -90,9 +95,9 @@ for level in levels:
     if unknown:rejected+=1;continue
     pool.append({'sourceLevel':src,'wordId':w['id'],'index':ix,'transcript':s,'translation':e['translation'],'proof':proof})
   random.Random(20261109+levels.index(level)).shuffle(pool)
-  accepted.extend(pool[:500-len(accepted)])
-  if len(accepted)>=500:break
- assert len(accepted)==500,(level,len(accepted))
+  accepted.extend(pool if all_candidates else pool[:500-len(accepted)])
+  if not all_candidates and len(accepted)>=500:break
+ assert len(accepted)>0 if all_candidates else len(accepted)==500,(level,len(accepted))
  result['levels'][level]=accepted
  print(level, len(accepted),'approved sentences;',rejected,'rejected while selecting')
 (root/'data/listening/approved-sentences.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
