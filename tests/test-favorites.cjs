@@ -34,8 +34,37 @@ const {chromium}=require(process.env.PLAYWRIGHT_PATH);
   const played=await page.evaluate(()=>{window.played=[];window.spoken=[];const buttons=[...document.querySelectorAll('#favorites-list [data-speak],#favorites-list [data-example-speak]')];const expected=buttons.map(b=>{const id=b.dataset.speak||b.dataset.exampleSpeak,l=id.split('-')[0];return b.dataset.speak?(JP_WORD_AUDIO.levels[l][id]||JP_WORD_AUDIO.retired[id]):JP_EXAMPLE_AUDIO[l][id][Number(b.dataset.exampleIndex)];});buttons.forEach(b=>b.click());return{actual:window.played,expected,spoken:window.spoken};});assert.deepEqual(played.actual,played.expected);assert.deepEqual(played.spoken,[]);assert.equal(played.actual.length,26);
   for(const width of [360,390,768,1440]){await page.setViewportSize({width,height:900});assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,`overflow ${width}`);assert.equal(await page.locator('.favorite-filter-row').count(),2);const rects=await page.locator('.favorite-filter-row').evaluateAll(rs=>rs.map(r=>({y:r.getBoundingClientRect().y,height:r.getBoundingClientRect().height})));assert.ok(rects[1].y>=rects[0].y+rects[0].height);assert.equal(await page.locator('.nav-links > a[href="favorites.html"]').isVisible(),true);const bar=await page.locator('#favorites-pagination').boundingBox();assert.ok(Math.abs(bar.y+bar.height-900)<2);}
   await page.locator('.word-examples').evaluateAll(ds=>ds.forEach(d=>d.open=false));await page.setViewportSize({width:390,height:844});await page.evaluate(()=>window.scrollTo(0,0));await page.screenshot({path:path.join(require('node:os').tmpdir(),'japanword-favorites-mobile.png')});await page.setViewportSize({width:1440,height:1000});await page.evaluate(()=>window.scrollTo(0,0));await page.screenshot({path:path.join(require('node:os').tmpdir(),'japanword-favorites-desktop.png')});
+  const transfer=require('../public/assets/js/favorites-transfer.js');
+  const msgpack=require('../public/assets/js/vendor/msgpack.min.js');
+  await saved(seed);
+  await page.click('[data-favorite-level="n5"]');
+  const downloadPromise=page.waitForEvent('download');await page.click('#favorites-export');const download=await downloadPromise;
+  assert.match(download.suggestedFilename(),/^japanword-favorites-\d{4}-\d\d-\d\dT.*Z\.msgpack$/);
+  const backup=msgpack.decode(fs.readFileSync(await download.path()));
+  assert.deepEqual([...backup.favorites].sort(),[...seed].sort(),'Export must include every level despite filter');
+  assert.ok(Math.abs(Date.now()-Date.parse(backup.exportedAt))<60000);
+  const device=await browser.newContext();const devicePage=await device.newPage();await devicePage.goto(base+'favorites.html');
+  await devicePage.locator('#favorites-import-file').setInputFiles({name:download.suggestedFilename(),mimeType:'application/msgpack',buffer:fs.readFileSync(await download.path())});
+  await devicePage.waitForFunction(()=>document.querySelector('#favorites-transfer-status').textContent.includes('匯入完成'));
+  assert.deepEqual((await devicePage.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')).favorites)).sort(),[...seed].sort(),'Transfer to a separate device/browser profile');
+  await device.close();
+  await saved([seed[0]]);
+  async function importBytes(bytes){await page.locator('#favorites-import-file').setInputFiles({name:'backup.msgpack',mimeType:'application/msgpack',buffer:Buffer.from(bytes)});await page.waitForFunction(()=>!document.querySelector('#favorites-import').disabled);}
+  const incoming=transfer.encode([seed[1],seed[2],seed[1],oldId,retired.id,'unknown-word']);
+  await importBytes(incoming);
+  let imported=await page.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')));
+  const expected=[...new Set([seed[0],seed[1],seed[2],newId,retired.id])];
+  assert.deepEqual([...imported.favorites].sort(),[...expected].sort());assert.equal(imported.answers.sentinel.correct,true);assert.equal(imported.sessions.sentinel.keep,true);
+  assert.match(await page.locator('#favorites-transfer-status').textContent(),/略過 1 筆/);
+  await importBytes(incoming);assert.match(await page.locator('#favorites-transfer-status').textContent(),/新增 0 筆/);
+  await importBytes(transfer.encode([]));assert.deepEqual((await page.evaluate(()=>JSON.parse(localStorage.getItem('jp-learning-v1')).favorites)).sort(),[...expected].sort());
+  const before=await page.evaluate(()=>localStorage.getItem('jp-learning-v1'));
+  for(const bytes of [Buffer.from('not msgpack'),Buffer.alloc(transfer.MAX_BYTES+1)]){await importBytes(bytes);assert.equal(await page.evaluate(()=>localStorage.getItem('jp-learning-v1')),before);}
+  await page.evaluate(()=>{Storage.prototype.setItem=function(){throw new DOMException('quota','QuotaExceededError');};});
+  await importBytes(transfer.encode([seed[10]]));assert.match(await page.locator('#favorites-transfer-status').textContent(),/匯入未完成/);assert.equal(await page.evaluate(()=>localStorage.getItem('jp-learning-v1')),before);
+  await page.reload();assert.equal(await page.locator('.word-card').count(),expected.length);
   await page.click('#theme');assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
   for(const file of ['aizuchi.html','gitaigo.html','grammar.html','grammar-overview.html','n5.html','50.html','sources.html']){await page.goto(base+file);assert.equal(await page.locator('.nav-links > a[href="favorites.html"]').count(),1,file);}
-  assert.deepEqual(errors,[]);console.log('PASS: standalone navigation, all level/POS filter intersections, 50/51 boundaries, page clamping, removals, cross-tab sync, migration, word/example recordings, two filter rows and 4 widths.');
+  assert.deepEqual(errors,[]);console.log('PASS: favorites filters/pagination/audio, cross-tab sync, 4 widths, MessagePack download and cross-device import, OR merge, progress retention, migration, repeated/empty/corrupt/oversized imports and storage failure.');
  }finally{await browser?.close();await new Promise(r=>server.close(r));}
 })().catch(e=>{console.error(e);process.exitCode=1;});

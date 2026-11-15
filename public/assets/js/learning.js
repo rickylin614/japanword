@@ -139,6 +139,46 @@
     let selectedLevel='all',selectedCategory='all',pageIndex=0;
     const pageSize=50;
     $('main').innerHTML=`<p class="eyebrow">YOUR SAVED VOCABULARY</p><h1>已收藏單字</h1><p class="subtitle">集中查看 N5～N1 的收藏，依等級與詞性篩選。收藏與各詞彙頁同步，每頁顯示 50 詞。</p><section class="panel favorite-filters" aria-label="收藏篩選"><div class="favorite-filter-row" role="group" aria-label="等級篩選"><span class="favorite-filter-label">等級</span><div class="favorite-filter-options">${['all',...levels].map(l=>`<button type="button" data-favorite-level="${l}" aria-pressed="${l==='all'}">${l==='all'?'全部':l.toUpperCase()}</button>`).join('')}</div></div><div class="favorite-filter-row" role="group" aria-label="詞性篩選"><span class="favorite-filter-label">詞性</span><div class="favorite-filter-options">${['all',...categories].map(c=>`<button type="button" data-favorite-category="${c}" aria-pressed="${c==='all'}">${c==='all'?'全部':labels[c]}</button>`).join('')}</div></div></section><p id="favorites-count" role="status" tabindex="-1"></p><div id="favorites-list" class="word-grid"></div><nav id="favorites-pagination" class="actions frozen-pagination" aria-label="收藏清單分頁"></nav>`;
+    document.querySelector('.favorite-filters').insertAdjacentHTML('beforebegin', `<section class="panel favorite-backup" aria-labelledby="favorites-backup-title"><h2 id="favorites-backup-title">收藏備份</h2><p>匯出全部等級的收藏，檔名與內容皆含 UTC 時間。可將檔案傳到其他裝置後匯入。</p><p class="muted">匯入只會合併新增，不會取消既有收藏，也不會變更練習紀錄。</p><div class="actions"><button type="button" id="favorites-export">匯出收藏</button><button type="button" id="favorites-import">匯入收藏</button><input type="file" id="favorites-import-file" accept=".msgpack,.mpk,application/msgpack,application/x-msgpack" hidden></div><p id="favorites-transfer-status" role="status" aria-live="polite"></p></section>`);
+    const transfer=window.JP_FAVORITES_TRANSFER;
+    const transferStatus=$('favorites-transfer-status');
+    function latestSavedState() {
+      const raw=localStorage.getItem('jp-learning-v1');
+      if (!raw) return state;
+      const saved=JSON.parse(raw);
+      if (!saved || !Array.isArray(saved.favorites) || saved.favorites.some(id=>typeof id!=='string') || !saved.answers || !saved.sessions) throw new Error('現有收藏紀錄無法讀取，請先重新整理頁面。');
+      return saved;
+    }
+    $('favorites-export').onclick=()=>{
+      try {
+        let latest=state;
+        try { latest=latestSavedState(); } catch { /* In-memory favorites can still be rescued if browser storage is unavailable. */ }
+        const ids=[...new Set([...latest.favorites,...state.favorites].map(id=>migration[id]||id))];
+        const now=new Date(), bytes=transfer.encode(ids,now);
+        const url=URL.createObjectURL(new Blob([bytes],{type:'application/msgpack'}));
+        const link=document.createElement('a');link.href=url;link.download=transfer.filename(now);document.body.append(link);link.click();link.remove();
+        setTimeout(()=>URL.revokeObjectURL(url),30000);
+        transferStatus.textContent=`已匯出 ${ids.length} 筆收藏 · ${now.toLocaleString('zh-TW')}（本機時間）`;
+      } catch { transferStatus.textContent='匯出失敗，請重新整理後再試。'; }
+    };
+    $('favorites-import').onclick=()=>$('favorites-import-file').click();
+    $('favorites-import-file').onchange=async event=>{
+      const file=event.target.files[0];if(!file)return;
+      $('favorites-import').disabled=true;
+      try {
+        if(file.size>transfer.MAX_BYTES)throw new Error('請選擇小於或等於 2 MB 的收藏備份。');
+        const backup=transfer.decode(new Uint8Array(await file.arrayBuffer()));
+        // Read again after file I/O to preserve changes made by another tab while importing.
+        const latest=latestSavedState();
+        const merged=transfer.merge([...latest.favorites,...state.favorites],backup.favorites,new Set(byId.keys()),migration);
+        const next={...latest,favorites:merged.favorites};
+        try { localStorage.setItem('jp-learning-v1',JSON.stringify(next)); }
+        catch { throw new Error('瀏覽器無法儲存收藏，匯入未完成；請確認儲存空間與瀏覽器設定。'); }
+        state=next;persistent=true;draw();
+        transferStatus.textContent=`匯入完成：新增 ${merged.added} 筆收藏${merged.skipped?`，略過 ${merged.skipped} 筆無法辨識的單字`:''}，既有收藏已保留。備份時間：${new Date(backup.exportedAt).toLocaleString('zh-TW')}（本機時間）。`;
+      } catch(error) { transferStatus.textContent=error.message||'匯入失敗，既有收藏未變更。'; }
+      finally { event.target.value='';$('favorites-import').disabled=false; }
+    };
     function draw() {
       const saved=new Set(state.favorites);
       const all=entries.filter(e=>saved.has(e.word.id));

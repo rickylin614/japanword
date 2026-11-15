@@ -50,6 +50,8 @@ HTML 先載入 `public/assets/data/`，再載入 `public/assets/js/learning.js`�
 
 瀏覽器收藏、答案及未完成練習保存在 localStorage `jp-learning-v1`。N3／N4／N5 舊動詞測驗由 `quiz.js` 讀取 `assets/data/legacy/`；不要把它與新版詞彙測驗的資料格式混用。
 
+收藏頁提供離線 MessagePack 備份；`public/assets/js/favorites-transfer.js` 定義 v1 格式 `{format:"japanword-favorites",version:1,exportedAt:ISO_UTC,favorites:[穩定詞條ID]}`。匯出所有等級、檔名含 UTC 時間，匯入以集合聯集（OR）合併，保留現有收藏、答案與回合；相容舊 ID，忽略未知 ID 並回報數量。只接受至多 2 MiB／50,000 筆的有效備份，儲存成功後才更新畫面。MessagePack 使用本機固定版本 `assets/js/vendor/`（含授權），只在收藏頁載入；不需要帳號或雲端服務。備份不包含音檔、教材或練習紀錄。
+
 ## 從哪裡修改
 
 | 任務 | 優先修改 | 建置入口／結果 |

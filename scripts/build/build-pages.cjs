@@ -7,6 +7,10 @@ function page(file, title, data) {
 <html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="N1、N2、N3、N4、N5 日語詞彙與文法練習，附繁體中文解析與錯題複習。"><title>${title}｜日語練習室</title><link rel="stylesheet" href="learning.css"><script defer src="grammar-data.js"></script><script defer src="vocabulary-data.js"></script><script defer src="n1-data.js"></script><script defer src="n2-data.js"></script><script defer src="n3-data.js"></script><script defer src="n4-data.js"></script><script defer src="n5-data.js"></script><script defer src="learning.js"></script></head><body ${data}><main><h1>${title}</h1><p>載入練習內容中…</p><noscript>請啟用 JavaScript 使用互動練習。</noscript></main></body></html>\n`);
   const vocabularyLevel = data.includes('data-page="vocabulary"') && data.match(/data-level="(n[12345])"/)?.[1];
   const favoritePage=data.includes('data-page="favorites"');
+  if (favoritePage) {
+    const target=resolveFile(file);
+    fs.writeFileSync(target,fs.readFileSync(target,'utf8').replace('<script defer src="learning.js">','<script defer src="assets/js/vendor/msgpack.min.js"></script><script defer src="assets/js/favorites-transfer.js"></script><script defer src="learning.js">'));
+  }
   const examplesFiles=(favoritePage?['n5','n4','n3','n2','n1']:vocabularyLevel?[vocabularyLevel]:[]).map(l=>l+'-examples.js').filter(file=>fs.existsSync(resolveFile(file)));
   if (examplesFiles.length) {
     const target = resolveFile( file);
