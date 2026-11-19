@@ -124,8 +124,71 @@
   }
   function wordCardMarkup(word, metadata) {
     const wordLevel=metadata?.level||word.sourceLevel?.toLowerCase()||level;
-    const tag=metadata?`${wordLevel.toUpperCase()} · ${word.pos}${metadata.retired?' · 舊版收藏':''}`:word.pos;
+    const tag=metadata?`${wordLevel.toUpperCase()} · ${metadata.showCategory?labels[metadata.category]:word.pos}${metadata.retired?' · 舊版收藏':''}`:word.pos;
     return `<article class="word-card" data-word-id="${esc(word.id)}"><span class="tag">${esc(tag)}</span><h2 lang="ja">${esc(word.word)}</h2><p class="muted" lang="ja">${esc(word.reading)}</p><p>${esc(word.meaning)}</p><div class="word-actions"><button class="favorite" data-favorite="${esc(word.id)}" aria-pressed="${state.favorites.includes(word.id)}">${state.favorites.includes(word.id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${esc(word.word)}</span></button><button data-speak="${esc(word.id)}" aria-label="朗讀 ${esc(word.word)}">朗讀</button></div>${metadata?.retired?'':exampleMarkup(word,wordLevel)}</article>`;
+  }
+  function vocabularySearch() {
+    const levels=['n5','n4','n3','n2','n1'];
+    const categories=['nouns','verbs','i_adjectives','na_adjectives','others'];
+    const normalize=text=>normalizeReading(String(text||'')).toLowerCase();
+    const entries=levels.flatMap(l=>categories.flatMap(c=>(window.JP_VOCABULARY[l]?.[c]||[]).map(word=>{
+      const fields=[word.word,word.reading,word.meaning,word.pos,labels[c],l,...(word.aliases||[]).flatMap(a=>[a.word,a.reading])].map(normalize);
+      return {word,level:l,category:c,showCategory:true,fields,text:fields.join(' ')};
+    })));
+    const byId=new Map(entries.map(entry=>[entry.word.id,entry]));
+    let pageIndex=0;
+    const pageSize=50;
+    $('main').innerHTML=`<p class="eyebrow">VOCABULARY SEARCH / N5 – N1</p><h1>全詞彙搜尋</h1><p class="subtitle">一次搜尋所有等級的日文、假名、中文釋義與異寫。卡片標示等級與詞性，可直接收藏、朗讀及展開例句。</p><form id="global-search-form" class="toolbar global-search-form" role="search"><label class="grow" for="global-search">搜尋關鍵字<input id="global-search" type="search" maxlength="200" placeholder="例如：食べる、たべる、吃" autocomplete="off" enterkeyhint="search" aria-describedby="global-search-help"></label><button type="submit" class="primary">搜尋</button></form><p id="global-search-help" class="muted">支援平假名／片假名及全形／半形；多個關鍵字以空白分隔，結果須同時符合。</p><p id="global-search-count" role="status" tabindex="-1"></p><div id="global-search-list" class="word-grid"></div><nav id="global-search-pagination" class="actions frozen-pagination" aria-label="搜尋結果分頁" hidden></nav>`;
+    const input=$('global-search');
+    input.value=(new URL(location.href).searchParams.get('q')||'').slice(0,200);
+    function draw() {
+      const query=normalize(input.value),terms=query.split(/\s+/).filter(Boolean);
+      const score=entry=>entry.fields.some(field=>field===query)?0:entry.fields.some(field=>field.startsWith(query))?1:2;
+      const found=terms.length?entries.filter(entry=>terms.every(term=>entry.text.includes(term))).sort((a,b)=>score(a)-score(b)):[];
+      const pages=Math.max(1,Math.ceil(found.length/pageSize));pageIndex=Math.min(pageIndex,pages-1);
+      $('global-search-count').textContent=terms.length?`找到 ${found.length} 筆詞彙 · 第 ${pageIndex+1} / ${pages} 頁`:`可搜尋 ${entries.length} 筆詞彙 · 請輸入關鍵字`;
+      $('global-search-list').innerHTML=found.length?found.slice(pageIndex*pageSize,(pageIndex+1)*pageSize).map(entry=>wordCardMarkup(entry.word,entry)).join(''):`<p class="empty">${terms.length?'沒有符合的詞彙，請換個關鍵字試試。':'輸入日文、假名或中文，開始搜尋全部等級的詞彙。'}</p>`;
+      $('global-search-pagination').hidden=!found.length;
+      $('global-search-pagination').innerHTML=`<button id="global-search-prev" ${pageIndex===0?'disabled':''}>上一頁</button><span role="status" aria-label="目前頁碼">${pageIndex+1} / ${pages}</span><button id="global-search-next" ${pageIndex+1>=pages?'disabled':''}>下一頁</button>${pageJumpButtons}`;
+      for(const [id,step] of [['global-search-prev',-1],['global-search-next',1]])$(id).onclick=()=>{pageIndex+=step;draw();$('global-search-count').scrollIntoView({block:'start'});$(id).focus();};
+    }
+    function search() {
+      pageIndex=0;
+      const url=new URL(location.href);
+      if(input.value.trim())url.searchParams.set('q',input.value.trim());else url.searchParams.delete('q');
+      history.replaceState(null,'',url);
+      draw();
+    }
+    input.oninput=search;
+    $('global-search-form').onsubmit=event=>{event.preventDefault();search();};
+    $('global-search-list').onclick=event=>{
+      const button=event.target.closest('button');if(!button)return;
+      const entry=byId.get(button.dataset.favorite||button.dataset.speak||button.dataset.exampleSpeak);if(!entry)return;
+      if(button.dataset.favorite){
+        const id=entry.word.id;
+        state.favorites=state.favorites.includes(id)?state.favorites.filter(saved=>saved!==id):[...state.favorites,id];save();
+        button.setAttribute('aria-pressed',String(state.favorites.includes(id)));
+        button.innerHTML=`${state.favorites.includes(id)?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${esc(entry.word.word)}</span>`;
+      } else if(button.dataset.speak)speakWord(entry.word);
+      else if(button.dataset.exampleSpeak){
+        const index=Number(button.dataset.exampleIndex),example=readingExamples(window.JP_VOCABULARY_EXAMPLES?.[entry.level]?.[entry.word.id])[index],recording=window.JP_EXAMPLE_AUDIO?.[entry.level]?.[entry.word.id]?.[index];
+        if(recording)playRecording(recording);else if(example)speak(example.sentence);
+      }
+    };
+    window.addEventListener('storage',event=>{
+      if(event.key!==null&&event.key!=='jp-learning-v1')return;
+      try {
+        const saved=JSON.parse(localStorage.getItem('jp-learning-v1')||'null');
+        if(!saved)state={favorites:[],answers:{},sessions:{}};
+        else if(Array.isArray(saved.favorites)&&saved.answers&&saved.sessions)state={...saved,favorites:[...new Set(saved.favorites.map(id=>migration[id]||id))]};
+        else return;
+        document.querySelectorAll('#global-search-list [data-favorite]').forEach(button=>{
+          const word=byId.get(button.dataset.favorite).word,selected=state.favorites.includes(word.id);
+          button.setAttribute('aria-pressed',String(selected));button.innerHTML=`${selected?'★ 已收藏':'☆ 收藏'}<span class="sr-label" hidden>${esc(word.word)}</span>`;
+        });
+      } catch {}
+    });
+    draw();
   }
   function favorites() {
     const levels=['n5','n4','n3','n2','n1'];
@@ -384,7 +447,7 @@
     $('guide-level').onchange=e=>{selected=e.target.value;currentPage=1;try{history.replaceState(null,'',selected==='all'?'grammar-overview.html':'?level='+selected);}catch{}draw();};
     draw();
   }
-  if(page==='favorites') favorites(); else if(page==='conversation') conversation(); else if(page==='grammar-overview') grammarOverview(); else if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
+  if(page==='search') vocabularySearch(); else if(page==='favorites') favorites(); else if(page==='conversation') conversation(); else if(page==='grammar-overview') grammarOverview(); else if(page==='vocabulary') vocabulary(); else if(page==='grammar') grammar(); else home();
   if(page==='home') {
     const section = document.createElement('section');
     section.className = 'conversation-home';

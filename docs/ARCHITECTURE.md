@@ -54,6 +54,8 @@ HTML 先載入 `public/assets/data/`，再載入 `public/assets/js/learning.js`�
 
 ## 從哪裡修改
 
+`search.html` 為全詞彙搜尋入口，由 `build-pages.cjs` 產生並載入五級詞彙、例句與錄音映射；`shared-shell.js` 在全站頂部加入「搜尋」連結。`learning.js` 的 `vocabularySearch()` 搜尋 N5～N1 現行全部詞性，支援日文、讀音、繁中釋義及異寫，正規化全半形與平片假名，多關鍵字採 AND；完整符合、前綴符合優先，每頁 50 筆，沿用共用卡片及凍結分頁。URL `?q=` 保留搜尋文字；卡片顯示等級、詞性，收藏與既有頁面、備份共用 `jp-learning-v1`。停用詞條只保留於舊收藏，不混入現行搜尋。
+
 | 任務 | 優先修改 | 建置入口／結果 |
 |---|---|---|
 | 卡片、收藏、測驗行為 | `public/assets/js/learning.js` | 直接作為網站 JS |
