@@ -1,6 +1,8 @@
 .frozen-header{position:sticky;top:0;z-index:100;background:var(--panel,#fff);box-shadow:0 2px 12px #0001}
 html{scroll-padding-top:calc(var(--sticky-header-height,100px) + 16px)}
-.frozen-header .header-inner{padding-top:10px;padding-bottom:10px}
+.frozen-header .header-inner{padding-top:10px;padding-bottom:10px;display:grid;grid-template-columns:minmax(0,1fr) auto auto}
+.vocabulary-search-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border:1px solid var(--line);border-radius:10px;color:var(--ink);background:var(--panel);text-decoration:none}.vocabulary-search-link:hover,.vocabulary-search-link[aria-current=page]{background:var(--soft)}.vocabulary-search-link svg{flex:none}
+@media(max-width:760px){.frozen-header .header-inner{grid-template-columns:minmax(0,1fr) 44px}.frozen-header .brand{grid-column:1;grid-row:1}.frozen-header .vocabulary-search-link{grid-column:2;grid-row:1}.frozen-header .nav-links{grid-column:1/-1;grid-row:2;width:100%}}
 .study-menu{position:relative}
 .study-menu summary{cursor:pointer;min-height:44px;padding:9px 14px;border-radius:9px;font-weight:650}
 .study-menu summary:hover,.study-menu[open]>summary{background:var(--soft,#e9f2e9)}
